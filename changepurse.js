@@ -62,7 +62,6 @@ function DisplayBalances(balances){
         const market_price = parseFloat(ticker.price_usd, 10);
         const current = balance.holding * market_price;
         return Object.assign(currency, {
-          ...currency,
           name: ticker.name,
           market: market_price,
           current: current,
