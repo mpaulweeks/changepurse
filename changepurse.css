@@ -1,0 +1,19 @@
+
+table {
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+}
+td {
+  text-align: right;
+  width: 100px;
+}
+td:first-child,
+td:nth-child(2) {
+  text-align: center;
+}
+td:empty {
+  visibility: hidden;
+  border: none;
+}
