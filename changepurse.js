@@ -73,7 +73,7 @@ function DisplayBalances(balances){
       }
     });
     const totalGambled = currencies.reduce((sum, c) => sum + c.gambled, 0);
-    const totalCurrent = loading ? null : (currencies.reduce((sum, c) => sum + c.current, 0), 2);
+    const totalCurrent = loading ? null : currencies.reduce((sum, c) => sum + c.current, 0);
     const totalGain = loading ? null : ((100 * totalCurrent / totalGambled) - 100);
     elmTable.innerHTML = `
       <table>
