@@ -19,6 +19,9 @@ td:empty {
   background-repeat: no-repeat;
   background-position: center;
 }
+tr.total td {
+  background-color: lightgrey;
+}
 .hide {
   visibility: hidden;
   border: none;

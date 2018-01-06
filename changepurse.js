@@ -4,8 +4,6 @@ function DisplayBalances(balances){
 
   const elmTable = document.createElement('table');
   document.body.appendChild(elmTable);
-  const elmData = document.createElement('pre');
-  document.body.appendChild(elmData);
 
   const market = {};
 
@@ -14,7 +12,7 @@ function DisplayBalances(balances){
       return '';
     }
     const rgb = gain > 0 ? '144, 238, 144' : '250, 128, 114';
-    const relativeGain = Math.abs(gain * 2 / 100);
+    const relativeGain = Math.abs(gain * 4 / 100);
     const rgba = `rgba(${rgb}, ${relativeGain})`;
     return `style="background-color: ${rgba};"`;
   }
@@ -87,7 +85,7 @@ function DisplayBalances(balances){
           <th>Market Price</th>
         </tr>
         ${currencies.map(rowHTML).join('')}
-        <tr>
+        <tr class="total">
           <td class="hide"></td>
           <td>~ TOTAL ~</td>
           <td>${FixDec(totalGambled, 2)}</td>
@@ -109,7 +107,6 @@ function DisplayBalances(balances){
 
   // run
 
-  elmData.innerHTML = JSON.stringify(balances, null, 2);
   displayBalances();
 
   const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
