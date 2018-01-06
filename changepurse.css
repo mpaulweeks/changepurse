@@ -19,7 +19,7 @@ td:empty {
   background-repeat: no-repeat;
   background-position: center;
 }
-.empty {
+.hide {
   visibility: hidden;
   border: none;
 }

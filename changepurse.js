@@ -61,13 +61,13 @@ function DisplayBalances(balances){
       if (ticker){
         const market_price = parseFloat(ticker.price_usd, 10);
         const current = balance.holding * market_price;
-        return {
+        return Object.assign(currency, {
           ...currency,
           name: ticker.name,
           market: market_price,
           current: current,
           gain: (100 * current / balance.gambled) - 100,
-        };
+        });
       } else {
         loading = true;
         return currency;
@@ -89,13 +89,13 @@ function DisplayBalances(balances){
         </tr>
         ${currencies.map(rowHTML).join('')}
         <tr>
-          <td class="empty"></td>
+          <td class="hide"></td>
           <td>~ TOTAL ~</td>
           <td>${FixDec(totalGambled, 2)}</td>
           <td>${FixDec(totalCurrent, 2)}</td>
           <td ${gainStyle(totalGain)}>${FixDec(totalGain, 0)}</td>
-          <td class="empty"></td>
-          <td class="empty"></td>
+          <td class="hide"></td>
+          <td class="hide"></td>
         </tr>
       </table>
     `;
