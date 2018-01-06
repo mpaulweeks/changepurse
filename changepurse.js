@@ -27,6 +27,10 @@ function DisplayBalances(balances){
     }
   }
 
+  function getTimestamp(){
+    return Math.floor((new Date()).getTime() / (60 * 1000));
+  }
+
   function rowHTML(c){
     if (c.holding === 0){
       return '';
@@ -114,7 +118,8 @@ function DisplayBalances(balances){
     Object.keys(balances).forEach(bkey => {
       const tickerName = lookup[bkey];
       if (tickerName){
-        const url = `https://api.coinmarketcap.com/v1/ticker/${tickerName}/?v=${(new Date()).toISOString()}`;
+        const safeTickerName = tickerName.replace(' ', '-');
+        const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
         fetch(url).then(r => r.json()).then(processTicker);
       }
     })
