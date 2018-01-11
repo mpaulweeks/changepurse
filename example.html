@@ -9,20 +9,28 @@
 </head>
 <body>
   <script type="text/javascript">
-    const balances = {
-      "BTC": {
+    const balances = [
+      {
+        "symbol": "BTC",
         "holding": 1,
         "gambled": 19000
       },
-      "ETH": {
-        "holding": 50,
-        "gambled": 25000
+      {
+        "symbol": "ETH",
+        "holding": 40,
+        "gambled": 20000
       },
-      "ENJ": {
+      {
+        "symbol": "LTC",
+        "holding": 0,
+        "gambled": 10000
+      },
+      {
+        "symbol": "ENJ",
         "holding": 23456.78901,
         "gambled": 10000
       },
-    }
+    ]
     DisplayBalances(balances);
   </script>
 </body>
