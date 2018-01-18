@@ -5,6 +5,12 @@ function DisplayBalances(balances){
   const elmTable = document.createElement('table');
   document.body.appendChild(elmTable);
 
+  const holdings = balances.reduce((a, cv) => {
+    if (cv.holding !== 0){
+      return a.concat(cv);
+    }
+    return a;
+  }, []);
   const market = {};
 
   function gainStyle(gain){
@@ -30,9 +36,6 @@ function DisplayBalances(balances){
   }
 
   function rowHTML(c){
-    if (c.holding === 0){
-      return '';
-    }
     return `
       <tr>
         <td>${c.symbol || ''}</td>
@@ -48,22 +51,16 @@ function DisplayBalances(balances){
 
   function displayBalances(){
     let loading = false;
-    const currencies = Object.keys(balances).map(bkey => {
-      const balance = balances[bkey];
-      const ticker = market[bkey];
-      const currency = {
-        symbol: bkey,
-        gambled: balance.gambled,
-        holding: balance.holding,
-      };
+    const currencies = holdings.map(currency => {
+      const ticker = market[currency.symbol];
       if (ticker){
         const market_price = parseFloat(ticker.price_usd, 10);
-        const current = balance.holding * market_price;
+        const current = currency.holding * market_price;
         return Object.assign(currency, {
           name: ticker.name,
           market: market_price,
           current: current,
-          gain: (100 * current / balance.gambled) - 100,
+          gain: (100 * current / currency.gambled) - 100,
         });
       } else {
         loading = true;
@@ -111,8 +108,8 @@ function DisplayBalances(balances){
 
   const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
   fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-    Object.keys(balances).forEach(bkey => {
-      const tickerName = lookup[bkey];
+    holdings.forEach(currency => {
+      const tickerName = lookup[currency.symbol];
       if (tickerName){
         const safeTickerName = tickerName.replace(' ', '-');
         const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
