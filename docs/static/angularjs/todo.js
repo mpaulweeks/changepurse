@@ -1,5 +1,6 @@
+
 angular.module('todoApp', [])
-  .controller('TodoListController', function() {
+  .controller('TodoListController', function($scope) {
     var todoList = this;
     todoList.todos = [
       {text:'learn AngularJS', done:true},
@@ -25,4 +26,13 @@ angular.module('todoApp', [])
         if (!todo.done) todoList.todos.push(todo);
       });
     };
+
+    const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/static/ticker_names.json';
+    fetch(NAMES_URL).then(r => r.json()).then(lookup => {
+      todoList.todos.push({
+        text: lookup['ETH'],
+        done: false,
+      });
+      $scope.$apply();
+    });
   });
