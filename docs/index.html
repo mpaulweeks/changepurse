@@ -19,7 +19,7 @@
           <div class="col">Investment</div>
           <div class="col">Current Value</div>
         </div>
-        <div class="row-elm remove">Remove</div>
+        <div class="small-col">Remove</div>
       </div>
       <div class="row" ng-repeat="currency in Controller.holdings">
         <div class="currency">
@@ -32,7 +32,7 @@
           <div class="col">${{Controller.forceDec(currency.priceSum, 0)}}</div>
           <div class="col">${{Controller.forceDec(currency.marketSum, 0)}}</div>
         </div>
-        <div class="row-elm remove" ng-click="currency.remove()">X</div>
+        <div class="small-col remove" ng-click="currency.remove()">X</div>
       </div>
       <div class="row footer" ng-repeat="total in Controller.total">
         <div class="currency">

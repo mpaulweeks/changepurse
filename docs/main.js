@@ -1,7 +1,6 @@
 
 // ?BTC=2|900&ETH=5|200
 
-let SCOPE = null;
 let NAME_LOOKUP = null;
 let CURRENCY_PROMISE = {};
 let idCounter = 0;
@@ -39,8 +38,9 @@ function atleastDec(num, minPlaces) {
 function newHolding(controller, symbol, quantity, pricePer){
   quantity = parseFloat(quantity, 10);
   pricePer = parseFloat(pricePer, 10);
+  const id = idCounter++;
   let self = {
-    id: idCounter++,
+    id: id,
     symbol: symbol,
     name: NAME_LOOKUP[symbol] || symbol,
     quantity: quantity,
@@ -49,9 +49,7 @@ function newHolding(controller, symbol, quantity, pricePer){
     serialize: () => {
       return symbol + '=' + [quantity, pricePer].join('|');
     },
-    remove: () => {
-      // todo
-    },
+    remove: () => controller.removeHolding(id),
   };
   const promise = getCurrency(symbol).then(ticker => {
     const data = ticker[0];
@@ -65,7 +63,6 @@ function newHolding(controller, symbol, quantity, pricePer){
       gainStyle: gainStyle(gainPercent),
     });
     controller.calcTotal();
-    SCOPE.$apply();
   });
   return self;
 }
@@ -86,8 +83,6 @@ function getCurrency(symbol){
 
 angular.module('changePurseApp', [])
   .controller('ChangePurseController', function($scope) {
-    SCOPE = $scope;
-
     const self = this;
     self.holdings = [];
     self.total = [{}];
@@ -135,8 +130,24 @@ angular.module('changePurseApp', [])
         };
         self.total = [newTotal];
       }
+      self.refresh();
     }
 
+    self.refresh = function(){
+      $scope.$apply();
+    }
+
+    self.removeHolding = function(id){
+      const newHoldings = [];
+      self.holdings.forEach(curr => {
+        if (curr.id !== id){
+          newHoldings.push(curr);
+        }
+      });
+      self.holdings = newHoldings;
+      self.setQueryParams();
+      // self.refresh() implicit
+    }
     self.addCurrency = function() {
       self.holdings.push(newHolding(
         self,
@@ -167,6 +178,6 @@ angular.module('changePurseApp', [])
         const pricePer = values[1];
         self.holdings.push(newHolding(self, symbol, quantity, pricePer));
       });
-      SCOPE.$apply();
+      self.refresh();
     });
   });

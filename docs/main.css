@@ -22,7 +22,7 @@ body, div {
   border: none;
 }
 .footer {
-  margin-top: 10px;
+  margin-top: 5px;
   justify-content: flex-end;
 }
 .footer .currency {
@@ -30,7 +30,7 @@ body, div {
   margin-right: 50px;
 }
 
-.row-elm,
+.small-col,
 .col {
   display: inline;
   padding-top: 10px;
@@ -45,8 +45,12 @@ body, div {
   background-repeat: no-repeat;
   background-position: center;
 }
-.remove {
+.small-col {
   width: 50px;
+}
+.remove {
+  color: red;
+  cursor: pointer;
 }
 
 .add {
