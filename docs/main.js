@@ -1,10 +1,6 @@
 
 // ?BTC=2|900&ETH=5|200
 
-let NAME_LOOKUP = null;
-let CURRENCY_PROMISE = {};
-let idCounter = 0;
-
 function calcGainPercent(priceSum, marketSum){
   return (100 * marketSum / priceSum) - 100;
 }
@@ -35,50 +31,8 @@ function atleastDec(num, minPlaces) {
   }
 };
 
-function newHolding(controller, symbol, quantity, pricePer){
-  quantity = parseFloat(quantity, 10);
-  pricePer = parseFloat(pricePer, 10);
-  const id = idCounter++;
-  let self = {
-    id: id,
-    symbol: symbol,
-    name: NAME_LOOKUP[symbol] || symbol,
-    quantity: quantity,
-    pricePer: pricePer,
-    priceSum: pricePer * quantity,
-    serialize: () => {
-      return symbol + '=' + [quantity, pricePer].join('|');
-    },
-    remove: () => controller.removeHolding(id),
-  };
-  const promise = getCurrency(symbol).then(ticker => {
-    const data = ticker[0];
-    const marketPer = parseFloat(data.price_usd, 10);
-    const marketSum = self.quantity * marketPer;
-    const gainPercent = calcGainPercent(self.priceSum, marketSum);
-    Object.assign(self, {
-      marketPer: marketPer,
-      marketSum: marketSum,
-      gainPercent: gainPercent,
-      gainStyle: gainStyle(gainPercent),
-    });
-    controller.calcTotal();
-  });
-  return self;
-}
-
 function getTimestamp(){
   return Math.floor((new Date()).getTime() / (60 * 1000));
-}
-function fetchCurrency(symbol){
-  const tickerName = NAME_LOOKUP[symbol];
-  const safeTickerName = tickerName.replace(' ', '-');
-  const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
-  return fetch(url).then(r => r.json());
-}
-function getCurrency(symbol){
-  CURRENCY_PROMISE[symbol] = CURRENCY_PROMISE[symbol] || fetchCurrency(symbol);
-  return CURRENCY_PROMISE[symbol];
 }
 
 angular.module('changePurseApp', [])
@@ -88,6 +42,52 @@ angular.module('changePurseApp', [])
     self.total = [{}];
     self.forceDec = forceDec;
     self.atleastDec = atleastDec;
+    self.lookup = null;
+    self.promises = {};
+    let idCounter = 0;
+
+    function fetchCurrency(symbol){
+      const tickerName = self.lookup[symbol];
+      const safeTickerName = tickerName.replace(' ', '-');
+      const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
+      return fetch(url).then(r => r.json());
+    }
+    function getCurrency(symbol){
+      self.promises[symbol] = self.promises[symbol] || fetchCurrency(symbol);
+      return self.promises[symbol];
+    }
+
+    self.newHolding = function(symbol, quantity, pricePer){
+      quantity = parseFloat(quantity, 10);
+      pricePer = parseFloat(pricePer, 10);
+      const id = idCounter++;
+      const hold = {
+        id: id,
+        symbol: symbol,
+        name: self.lookup[symbol] || symbol,
+        quantity: quantity,
+        pricePer: pricePer,
+        priceSum: pricePer * quantity,
+        serialize: () => {
+          return symbol + '=' + [quantity, pricePer].join('|');
+        },
+        remove: () => self.removeHolding(id),
+      };
+      const promise = getCurrency(symbol).then(ticker => {
+        const data = ticker[0];
+        const marketPer = parseFloat(data.price_usd, 10);
+        const marketSum = hold.quantity * marketPer;
+        const gainPercent = calcGainPercent(hold.priceSum, marketSum);
+        Object.assign(hold, {
+          marketPer: marketPer,
+          marketSum: marketSum,
+          gainPercent: gainPercent,
+          gainStyle: gainStyle(gainPercent),
+        });
+        self.calcTotal();
+      });
+      self.holdings.push(hold);
+    }
 
     self.calcPriceSum = function() {
       const quantity = parseFloat(self.newQuantity, 10);
@@ -149,12 +149,11 @@ angular.module('changePurseApp', [])
       // self.refresh() implicit
     }
     self.addCurrency = function() {
-      self.holdings.push(newHolding(
-        self,
+      self.newHolding(
         self.newSymbol,
         self.newQuantity,
         self.newPricePer
-      ));
+      );
       self.newSymbol = '';
       self.newQuantity = '';
       self.newPricePer = '';
@@ -169,14 +168,14 @@ angular.module('changePurseApp', [])
 
     const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-      NAME_LOOKUP = lookup;
+      self.lookup = lookup;
       window.location.search.split('?')[1].split('&').forEach(seg => {
         const parts = seg.split('=');
         const values = parts[1].split('|');
         const symbol = parts[0];
         const quantity = values[0];
         const pricePer = values[1];
-        self.holdings.push(newHolding(self, symbol, quantity, pricePer));
+        self.newHolding(symbol, quantity, pricePer);
       });
       self.refresh();
     });
