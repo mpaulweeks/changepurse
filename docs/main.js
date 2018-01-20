@@ -157,7 +157,7 @@ angular.module('changePurseApp', [])
       window.history.replaceState({}, "", "?" + params.join('&'));
     }
 
-    const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/ticker_names.json';
+    const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
       NAME_LOOKUP = lookup;
       window.location.search.split('?')[1].split('&').forEach(seg => {
