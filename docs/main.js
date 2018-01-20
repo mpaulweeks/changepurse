@@ -123,13 +123,13 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
     }
 
     function removeHolding(id){
-      newHoldings = [];
+      const newHoldings = [];
       self.holdings.forEach(curr => {
         if (curr.id !== id){
-          push(curr);
+          newHoldings.push(curr);
         }
       });
-      holdings = newHoldings;
+      self.holdings = newHoldings;
       setQueryParams();
       // refresh() implicit
     }
