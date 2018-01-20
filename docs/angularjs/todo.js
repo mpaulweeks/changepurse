@@ -2,9 +2,7 @@
 angular.module('changePurseApp', [])
   .controller('ChangePurseController', function($scope) {
     const self = this;
-    self.todos = [
-      {text:'learn AngularJS', done:true},
-      {text:'build an AngularJS app', done:false}];
+    self.holdings = [];
 
     self.calcPriceSum = function() {
       const quantity = parseFloat(self.newQuantity, 10);
@@ -30,20 +28,23 @@ angular.module('changePurseApp', [])
       self.todoText = '';
     };
 
-    self.remaining = function() {
-      let count = 0;
-      angular.forEach(self.todos, function(todo) {
-        count += todo.done ? 0 : 1;
-      });
-      return count;
-    };
-
     const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-      self.todos.push({
-        text: lookup['ETH'],
-        done: false,
-      });
+      let idCounter = 0;
+      function newHolding(symbol, quantity, pricePer){
+        return {
+          id: idCounter++,
+          symbol: symbol,
+          name: lookup[symbol] || symbol,
+          quantity: quantity,
+          pricePer: pricePer,
+          priceSum: pricePer * quantity,
+          serialize: () => {
+            return symbol + '=' + [quantity, pricePer].join('|');
+          },
+        };
+      }
+      self.holdings.push(newHolding('BTC', 2.1, 15000));
       $scope.$apply();
     });
   });

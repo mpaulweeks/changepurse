@@ -6,19 +6,26 @@
     <link rel="stylesheet" href="todo.css">
   </head>
   <body>
-    <h2>Todo</h2>
+    <h1>Change Purse</h1>
     <div ng-controller="ChangePurseController as Controller">
-      <span>
-        {{Controller.remaining()}} of {{Controller.todos.length}} remaining
-      </span>
-      <ul>
-        <li ng-repeat="todo in Controller.todos">
-          <label>
-            <input type="checkbox" ng-model="todo.done">
-            <span class="done-{{todo.done}}">{{todo.text}}</span>
-          </label>
-        </li>
-      </ul>
+      <div class="currency header">
+        <div class="col">Name</div>
+        <div class="col">Symbol</div>
+        <div class="col">Bought At</div>
+        <div class="col">Market Value</div>
+        <div class="col">Quantity</div>
+        <div class="col">Total Investment</div>
+        <div class="col">Current Value</div>
+      </div>
+      <div class="currency" ng-repeat="currency in Controller.holdings">
+        <div class="col">{{currency.name}}</div>
+        <div class="col">{{currency.symbol}}</div>
+        <div class="col money">{{currency.pricePer}}</div>
+        <div class="col money">{{currency.marketPer}}</div>
+        <div class="col">{{currency.quantity}}</div>
+        <div class="col money">{{currency.priceSum}}</div>
+        <div class="col money">{{currency.marketSum}}</div>
+      </div>
       <form ng-submit="Controller.addTodo()">
         <input ng-model="Controller.newSymbol"
               type="text"

@@ -1,4 +1,23 @@
-.done-true {
-  text-decoration: line-through;
-  color: grey;
+body, div {
+  margin: 0px auto;
+  text-align: center;
+}
+.currency {
+  width: 600px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+  display: flex;
+}
+.header {
+  border: none
+}
+.currency .col {
+  display: inline;
+  width: 120px;
+  padding: 10px;
+}
+.col.money {
+  background-color: lightgreen;
 }
