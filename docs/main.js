@@ -35,13 +35,16 @@ function getTimestamp(){
   return Math.floor((new Date()).getTime() / (60 * 1000));
 }
 
-angular.module('changePurseApp', [])
+angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
   .controller('ChangePurseController', function($scope) {
     const self = this;
     self.holdings = [];
     self.total = [{}];
     self.forceDec = forceDec;
     self.atleastDec = atleastDec;
+
+    self.currencies = [];
+    self.newSelected = {};
 
     const promises = {};
     let marketplace = null;
@@ -157,11 +160,11 @@ angular.module('changePurseApp', [])
 
     self.addCurrency = function() {
       newHolding(
-        self.newSymbol,
+        self.newSelected.symbol,
         self.newQuantity,
         self.newPricePer
       );
-      self.newSymbol = '';
+      self.newSelected = {};
       self.newQuantity = '';
       self.newPricePer = '';
       self.newPriceSum = '';
@@ -171,6 +174,18 @@ angular.module('changePurseApp', [])
     const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
       marketplace = lookup;
+      self.currencies = [];
+      for (symbol in lookup){
+        self.currencies.push({
+          label: `${lookup[symbol]} (${symbol})`,
+          symbol: symbol,
+        });
+      }
+      self.currencies.sort((a, b) => {
+        if(a.label < b.label) return -1;
+        if(a.label > b.label) return 1;
+        return 0;
+      });
       window.location.search.split('?')[1].split('&').forEach(seg => {
         const parts = seg.split('=');
         const values = parts[1].split('|');

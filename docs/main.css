@@ -3,10 +3,10 @@ body, div {
   text-align: center;
 }
 
-.row {
+.tablerow {
   width: 854px;
 }
-.row,
+.tablerow,
 .currency {
   display: flex;
   flex-direction: row;

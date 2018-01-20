@@ -2,13 +2,20 @@
 <html ng-app="changePurseApp">
   <head>
     <script src="angular.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.7/angular-sanitize.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-select/0.19.8/select.js"></script>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/3.4.5/select2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-select/0.19.8/select.css">
+
     <script src="main.js"></script>
     <link rel="stylesheet" href="main.css">
   </head>
   <body>
-    <h1>Change Purse</h1>
     <div ng-controller="ChangePurseController as Controller">
-      <div class="row header">
+      <h1>Change Purse</h1>
+      <div class="tablerow header">
         <div class="header currency">
           <div class="col">Symbol</div>
           <div class="col">Name</div>
@@ -21,7 +28,7 @@
         </div>
         <div class="small-col">Remove</div>
       </div>
-      <div class="row" ng-repeat="currency in Controller.holdings">
+      <div class="tablerow" ng-repeat="currency in Controller.holdings">
         <div class="currency">
           <div class="col">{{currency.symbol}}</div>
           <div class="col">{{currency.name}}</div>
@@ -34,7 +41,7 @@
         </div>
         <div class="small-col remove" ng-click="currency.remove()">X</div>
       </div>
-      <div class="row footer" ng-repeat="total in Controller.total">
+      <div class="tablerow footer" ng-repeat="total in Controller.total">
         <div class="currency">
           <div class="col">TOTAL</div>
           <div class="col" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}%</div>
@@ -43,12 +50,14 @@
         </div>
       </div>
       <h2>Add Crypto Currency</h2>
-      <div class="row currency add">
+      <div class="tablerow add">
         <form ng-submit="Controller.addCurrency()">
-          <input ng-model="Controller.newSymbol"
-                type="text"
-                size="30"
-                placeholder="add new currency here">
+          <ui-select ng-model="Controller.newSelected" theme="select2" style="width: 200px;">
+            <ui-select-match placeholder="Type a currency name">{{$select.selected.label}}</ui-select-match>
+            <ui-select-choices repeat="curr in Controller.currencies | filter: $select.search | limitTo:20">
+              <div ng-bind-html="curr.label | highlight: $select.search"></div>
+            </ui-select-choices>
+          </ui-select>
           <input ng-model="Controller.newQuantity"
                 type="text"
                 size="10"
