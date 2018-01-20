@@ -42,36 +42,41 @@ angular.module('changePurseApp', [])
     self.total = [{}];
     self.forceDec = forceDec;
     self.atleastDec = atleastDec;
-    self.lookup = null;
-    self.promises = {};
+
+    const promises = {};
+    let marketplace = null;
     let idCounter = 0;
 
+    function refresh(){
+      $scope.$apply();
+    }
+
     function fetchCurrency(symbol){
-      const tickerName = self.lookup[symbol];
+      const tickerName = marketplace[symbol];
       const safeTickerName = tickerName.replace(' ', '-');
       const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
       return fetch(url).then(r => r.json());
     }
     function getCurrency(symbol){
-      self.promises[symbol] = self.promises[symbol] || fetchCurrency(symbol);
-      return self.promises[symbol];
+      promises[symbol] = promises[symbol] || fetchCurrency(symbol);
+      return promises[symbol];
     }
 
-    self.newHolding = function(symbol, quantity, pricePer){
+    function newHolding(symbol, quantity, pricePer){
       quantity = parseFloat(quantity, 10);
       pricePer = parseFloat(pricePer, 10);
       const id = idCounter++;
       const hold = {
         id: id,
         symbol: symbol,
-        name: self.lookup[symbol] || symbol,
+        name: marketplace[symbol] || symbol,
         quantity: quantity,
         pricePer: pricePer,
         priceSum: pricePer * quantity,
         serialize: () => {
           return symbol + '=' + [quantity, pricePer].join('|');
         },
-        remove: () => self.removeHolding(id),
+        remove: () => removeHolding(id),
       };
       const promise = getCurrency(symbol).then(ticker => {
         const data = ticker[0];
@@ -84,31 +89,12 @@ angular.module('changePurseApp', [])
           gainPercent: gainPercent,
           gainStyle: gainStyle(gainPercent),
         });
-        self.calcTotal();
+        calcTotal();
       });
       self.holdings.push(hold);
     }
 
-    self.calcPriceSum = function() {
-      const quantity = parseFloat(self.newQuantity, 10);
-      const pricePer = parseFloat(self.newPricePer, 10);
-      if (!isNaN(quantity) && !isNaN(pricePer)){
-        self.newPriceSum = pricePer * quantity;
-      }
-    };
-    self.calcPricePer = function() {
-      const quantity = parseFloat(self.newQuantity, 10);
-      const priceSum = parseFloat(self.newPriceSum, 10);
-      if (!isNaN(quantity) && !isNaN(priceSum)){
-        self.newPricePer = priceSum / quantity;
-      }
-    };
-    self.calcPrice = function(){
-      self.calcPricePer();
-      self.calcPriceSum();
-    }
-
-    self.calcTotal = function(){
+    function calcTotal(){
       let pending = false;
       let priceSum = 0;
       let marketSum = 0;
@@ -130,26 +116,47 @@ angular.module('changePurseApp', [])
         };
         self.total = [newTotal];
       }
-      self.refresh();
+      refresh();
     }
 
-    self.refresh = function(){
-      $scope.$apply();
-    }
-
-    self.removeHolding = function(id){
-      const newHoldings = [];
+    function removeHolding(id){
+      newHoldings = [];
       self.holdings.forEach(curr => {
         if (curr.id !== id){
-          newHoldings.push(curr);
+          push(curr);
         }
       });
-      self.holdings = newHoldings;
-      self.setQueryParams();
-      // self.refresh() implicit
+      holdings = newHoldings;
+      setQueryParams();
+      // refresh() implicit
     }
+
+    function setQueryParams(){
+      const params = self.holdings.map(curr => curr.serialize());
+      window.history.replaceState({}, "", "?" + params.join('&'));
+    }
+
+    self.calcPriceSum = function() {
+      const quantity = parseFloat(self.newQuantity, 10);
+      const pricePer = parseFloat(self.newPricePer, 10);
+      if (!isNaN(quantity) && !isNaN(pricePer)){
+        self.newPriceSum = pricePer * quantity;
+      }
+    };
+    self.calcPricePer = function() {
+      const quantity = parseFloat(self.newQuantity, 10);
+      const priceSum = parseFloat(self.newPriceSum, 10);
+      if (!isNaN(quantity) && !isNaN(priceSum)){
+        self.newPricePer = priceSum / quantity;
+      }
+    };
+    self.calcPrice = function(){
+      self.calcPricePer();
+      self.calcPriceSum();
+    }
+
     self.addCurrency = function() {
-      self.newHolding(
+      newHolding(
         self.newSymbol,
         self.newQuantity,
         self.newPricePer
@@ -158,25 +165,20 @@ angular.module('changePurseApp', [])
       self.newQuantity = '';
       self.newPricePer = '';
       self.newPriceSum = '';
-      self.setQueryParams();
+      setQueryParams();
     };
-
-    self.setQueryParams = function(){
-      const params = self.holdings.map(curr => curr.serialize());
-      window.history.replaceState({}, "", "?" + params.join('&'));
-    }
 
     const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-      self.lookup = lookup;
+      marketplace = lookup;
       window.location.search.split('?')[1].split('&').forEach(seg => {
         const parts = seg.split('=');
         const values = parts[1].split('|');
         const symbol = parts[0];
         const quantity = values[0];
         const pricePer = values[1];
-        self.newHolding(symbol, quantity, pricePer);
+        newHolding(symbol, quantity, pricePer);
       });
-      self.refresh();
+      refresh();
     });
   });
