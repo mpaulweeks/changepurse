@@ -49,6 +49,9 @@ function newHolding(controller, symbol, quantity, pricePer){
     serialize: () => {
       return symbol + '=' + [quantity, pricePer].join('|');
     },
+    remove: () => {
+      // todo
+    },
   };
   const promise = getCurrency(symbol).then(ticker => {
     const data = ticker[0];
@@ -149,9 +152,7 @@ angular.module('changePurseApp', [])
     };
 
     self.setQueryParams = function(){
-      const params = self.holdings.map(curr => {
-        return `${curr.symbol}=${curr.quantity}|${curr.pricePer}`;
-      });
+      const params = self.holdings.map(curr => curr.serialize());
       window.history.replaceState({}, "", "?" + params.join('&'));
     }
 

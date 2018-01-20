@@ -2,29 +2,15 @@ body, div {
   margin: 0px auto;
   text-align: center;
 }
+
 .row {
-  width: 800px;
+  width: 854px;
 }
-.row .col {
-  display: inline;
-  width: 100px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-.row .col:empty {
-  background-image: url(loading.gif);
-  background-size: auto 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.header,
-.currency,
-.footer {
+.row,
+.currency {
   display: flex;
   flex-direction: row;
-}
-.header {
-  border: none
+  justify-content: center;
 }
 .currency {
   border-width: 2px;
@@ -32,13 +18,35 @@ body, div {
   border-color: black;
   border-radius: 5px;
 }
+.header .currency {
+  border: none;
+}
 .footer {
-  width: 804px;
   margin-top: 10px;
   justify-content: flex-end;
 }
 .footer .currency {
   margin: 0px 0px;
+  margin-right: 50px;
+}
+
+.row-elm,
+.col {
+  display: inline;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.col {
+  width: 100px;
+}
+.col:empty {
+  background-image: url(loading.gif);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.remove {
+  width: 50px;
 }
 
 .add {
