@@ -21,7 +21,7 @@
       <div class="currency row" ng-repeat="currency in Controller.holdings">
         <div class="col">{{currency.symbol}}</div>
         <div class="col">{{currency.name}}</div>
-        <div class="col">{{currency.quantity}}</div>
+        <div class="col">{{Controller.atleastDec(currency.quantity, 0)}}</div>
         <div class="col money">${{Controller.atleastDec(currency.pricePer, 2)}}</div>
         <div class="col money">${{Controller.atleastDec(currency.marketPer, 2)}}</div>
         <div class="col percent" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}%</div>

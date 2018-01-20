@@ -32,7 +32,7 @@ function atleastDec(num, minPlaces) {
   if (forced.length > numStr.length){
     return forced;
   } else {
-    return numStr;
+    return numStr.substring(0, 8);
   }
 };
 
@@ -51,7 +51,6 @@ function newHolding(controller, symbol, quantity, pricePer){
     },
   };
   const promise = getCurrency(symbol).then(ticker => {
-    console.log('resolving promise for', symbol);
     const data = ticker[0];
     const marketPer = parseFloat(data.price_usd, 10);
     const marketSum = self.quantity * marketPer;
@@ -112,7 +111,6 @@ angular.module('changePurseApp', [])
     }
 
     self.calcTotal = function(){
-      console.log('calcing total');
       let pending = false;
       let priceSum = 0;
       let marketSum = 0;
@@ -125,7 +123,6 @@ angular.module('changePurseApp', [])
         }
       });
       if (!pending){
-        console.log('pushing total');
         const gainPercent = calcGainPercent(priceSum, marketSum);
         const newTotal = {
           priceSum: priceSum,
@@ -139,6 +136,7 @@ angular.module('changePurseApp', [])
 
     self.addTodo = function() {
       self.holdings.push(newHolding(
+        self,
         self.newSymbol,
         self.newQuantity,
         self.newPricePer
