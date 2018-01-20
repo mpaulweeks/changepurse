@@ -21,12 +21,12 @@
       <div class="currency row" ng-repeat="currency in Controller.holdings">
         <div class="col">{{currency.symbol}}</div>
         <div class="col">{{currency.name}}</div>
-        <div class="col">{{currency.view(currency.quantity, 2)}}</div>
-        <div class="col money">${{currency.pricePer}}</div>
-        <div class="col money">${{currency.marketPer}}</div>
-        <div class="col percent" style="{{currency.gainStyle}}">{{currency.view(currency.gainPercent, 0)}}%</div>
-        <div class="col money">${{currency.view(currency.priceSum, 0)}}</div>
-        <div class="col money">${{currency.view(currency.marketSum, 0)}}</div>
+        <div class="col">{{currency.quantity}}</div>
+        <div class="col money">${{Controller.atleastDec(currency.pricePer, 2)}}</div>
+        <div class="col money">${{Controller.atleastDec(currency.marketPer, 2)}}</div>
+        <div class="col percent" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}%</div>
+        <div class="col money">${{Controller.forceDec(currency.priceSum, 0)}}</div>
+        <div class="col money">${{Controller.forceDec(currency.marketSum, 0)}}</div>
       </div>
       <div class="currency footer" ng-repeat="total in Controller.total">
         <div class="col"></div>
@@ -34,9 +34,9 @@
         <div class="col"></div>
         <div class="col"></div>
         <div class="col">Total</div>
-        <div class="col" style="{{total.gainStyle}}">{{total.view(total.gainPercent, 0)}}%</div>
-        <div class="col">${{total.view(total.priceSum, 0)}}</div>
-        <div class="col">${{total.view(total.marketSum, 0)}}</div>
+        <div class="col" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}%</div>
+        <div class="col">${{Controller.forceDec(total.priceSum, 0)}}</div>
+        <div class="col">${{Controller.forceDec(total.marketSum, 0)}}</div>
       </div>
       <form ng-submit="Controller.addTodo()">
         <input ng-model="Controller.newSymbol"

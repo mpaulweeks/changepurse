@@ -19,11 +19,20 @@ function gainStyle(gain){
   return `background-color: ${rgba};`;
 }
 
-function viewNumber(num, places) {
+function forceDec(num, maxPlaces) {
   if (num === null || num === undefined){
     return '';
   } else {
-    return num.toFixed(places);
+    return num.toFixed(maxPlaces);
+  }
+};
+function atleastDec(num, minPlaces) {
+  const forced = forceDec(num, minPlaces);
+  const numStr = '' + num;
+  if (forced.length > numStr.length){
+    return forced;
+  } else {
+    return numStr;
   }
 };
 
@@ -40,7 +49,6 @@ function newHolding(controller, symbol, quantity, pricePer){
     serialize: () => {
       return symbol + '=' + [quantity, pricePer].join('|');
     },
-    view: viewNumber,
   };
   const promise = getCurrency(symbol).then(ticker => {
     console.log('resolving promise for', symbol);
@@ -81,6 +89,8 @@ angular.module('changePurseApp', [])
     const self = this;
     self.holdings = [];
     self.total = [{}];
+    self.forceDec = forceDec;
+    self.atleastDec = atleastDec;
 
     self.calcPriceSum = function() {
       const quantity = parseFloat(self.newQuantity, 10);
@@ -122,7 +132,6 @@ angular.module('changePurseApp', [])
           marketSum: marketSum,
           gainPercent: gainPercent,
           gainStyle: gainStyle(gainPercent),
-          view: viewNumber,
         };
         self.total = [newTotal];
       }
