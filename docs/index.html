@@ -8,7 +8,7 @@
   <body>
     <h1>Change Purse</h1>
     <div ng-controller="ChangePurseController as Controller">
-      <div class="currency header">
+      <div class="row header">
         <div class="col">Symbol</div>
         <div class="col">Name</div>
         <div class="col">Quantity</div>
@@ -18,48 +18,49 @@
         <div class="col">Investment</div>
         <div class="col">Current Value</div>
       </div>
-      <div class="currency row" ng-repeat="currency in Controller.holdings">
+      <div class="row currency" ng-repeat="currency in Controller.holdings">
         <div class="col">{{currency.symbol}}</div>
         <div class="col">{{currency.name}}</div>
         <div class="col">{{Controller.atleastDec(currency.quantity, 0)}}</div>
-        <div class="col money">${{Controller.atleastDec(currency.pricePer, 2)}}</div>
-        <div class="col money">${{Controller.atleastDec(currency.marketPer, 2)}}</div>
-        <div class="col percent" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}%</div>
-        <div class="col money">${{Controller.forceDec(currency.priceSum, 0)}}</div>
-        <div class="col money">${{Controller.forceDec(currency.marketSum, 0)}}</div>
+        <div class="col">${{Controller.atleastDec(currency.pricePer, 2)}}</div>
+        <div class="col">${{Controller.atleastDec(currency.marketPer, 2)}}</div>
+        <div class="col" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}%</div>
+        <div class="col">${{Controller.forceDec(currency.priceSum, 0)}}</div>
+        <div class="col">${{Controller.forceDec(currency.marketSum, 0)}}</div>
       </div>
-      <div class="currency footer" ng-repeat="total in Controller.total">
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col">Total</div>
-        <div class="col" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}%</div>
-        <div class="col">${{Controller.forceDec(total.priceSum, 0)}}</div>
-        <div class="col">${{Controller.forceDec(total.marketSum, 0)}}</div>
+      <div class="row footer">
+        <div class="currency" ng-repeat="total in Controller.total">
+          <div class="col">TOTAL</div>
+          <div class="col" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}%</div>
+          <div class="col">${{Controller.forceDec(total.priceSum, 0)}}</div>
+          <div class="col">${{Controller.forceDec(total.marketSum, 0)}}</div>
+        </div>
       </div>
-      <form ng-submit="Controller.addTodo()">
-        <input ng-model="Controller.newSymbol"
-              type="text"
-              size="30"
-              placeholder="add new currency here">
-        <input ng-model="Controller.newQuantity"
-              type="text"
-              size="10"
-              ng-change="Controller.calcPrice()"
-              placeholder="0">
-        <input ng-model="Controller.newPricePer"
-              type="text"
-              size="10"
-              ng-change="Controller.calcPriceSum()"
-              placeholder="1.00">
-        <input ng-model="Controller.newPriceSum"
-              type="text"
-              size="10"
-              ng-change="Controller.calcPricePer()"
-              placeholder="1.00">
-        <input type="submit" value="add">
-      </form>
+      <h2>Add Crypto Currency</h2>
+      <div class="row add">
+        <form ng-submit="Controller.addCurrency()">
+          <input ng-model="Controller.newSymbol"
+                type="text"
+                size="30"
+                placeholder="add new currency here">
+          <input ng-model="Controller.newQuantity"
+                type="text"
+                size="10"
+                ng-change="Controller.calcPrice()"
+                placeholder="0">
+          <input ng-model="Controller.newPricePer"
+                type="text"
+                size="10"
+                ng-change="Controller.calcPriceSum()"
+                placeholder="1.00">
+          <input ng-model="Controller.newPriceSum"
+                type="text"
+                size="10"
+                ng-change="Controller.calcPricePer()"
+                placeholder="1.00">
+          <input type="submit" value="add">
+        </form>
+      </div>
     </div>
   </body>
 </html>

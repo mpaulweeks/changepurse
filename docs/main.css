@@ -2,30 +2,45 @@ body, div {
   margin: 0px auto;
   text-align: center;
 }
-.currency {
+.row {
   width: 800px;
-  border-width: 2px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 5px;
-  display: flex;
 }
-.header,
-.footer {
-  border: none
-}
-.currency .col {
+.row .col {
   display: inline;
-  width: 120px;
+  width: 100px;
   padding-top: 10px;
   padding-bottom: 10px;
-}
-.col.money {
-
 }
 .row .col:empty {
   background-image: url(loading.gif);
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-position: center;
+}
+.header,
+.currency,
+.footer {
+  display: flex;
+  flex-direction: row;
+}
+.header {
+  border: none
+}
+.currency {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}
+.footer {
+  width: 804px;
+  margin-top: 10px;
+  justify-content: flex-end;
+}
+.footer .currency {
+  margin: 0px 0px;
+}
+
+.add {
+  padding: 10px;
 }

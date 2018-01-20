@@ -134,7 +134,7 @@ angular.module('changePurseApp', [])
       }
     }
 
-    self.addTodo = function() {
+    self.addCurrency = function() {
       self.holdings.push(newHolding(
         self,
         self.newSymbol,
