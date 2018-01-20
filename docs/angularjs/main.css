@@ -3,21 +3,29 @@ body, div {
   text-align: center;
 }
 .currency {
-  width: 600px;
+  width: 800px;
   border-width: 2px;
   border-style: solid;
   border-color: black;
   border-radius: 5px;
   display: flex;
 }
-.header {
+.header,
+.footer {
   border: none
 }
 .currency .col {
   display: inline;
   width: 120px;
-  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .col.money {
-  background-color: lightgreen;
+
+}
+.row .col:empty {
+  background-image: url(../loading.gif);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }

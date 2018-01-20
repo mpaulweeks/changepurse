@@ -1,8 +1,86 @@
 
+// ?BTC=2|900&ETH=5|200
+
+let SCOPE = null;
+let NAME_LOOKUP = null;
+let CURRENCY_PROMISE = {};
+let idCounter = 0;
+
+function calcGainPercent(priceSum, marketSum){
+  return (100 * marketSum / priceSum) - 100;
+}
+function gainStyle(gain){
+  if (gain === null){
+    return '';
+  }
+  const rgb = gain > 0 ? '144, 238, 144' : '250, 128, 114';
+  const relativeGain = Math.abs(gain * 4 / 100);
+  const rgba = `rgba(${rgb}, ${relativeGain})`;
+  return `background-color: ${rgba};`;
+}
+
+function viewNumber(num, places) {
+  if (num === null || num === undefined){
+    return '';
+  } else {
+    return num.toFixed(places);
+  }
+};
+
+function newHolding(controller, symbol, quantity, pricePer){
+  quantity = parseFloat(quantity, 10);
+  pricePer = parseFloat(pricePer, 10);
+  let self = {
+    id: idCounter++,
+    symbol: symbol,
+    name: NAME_LOOKUP[symbol] || symbol,
+    quantity: quantity,
+    pricePer: pricePer,
+    priceSum: pricePer * quantity,
+    serialize: () => {
+      return symbol + '=' + [quantity, pricePer].join('|');
+    },
+    view: viewNumber,
+  };
+  const promise = getCurrency(symbol).then(ticker => {
+    console.log('resolving promise for', symbol);
+    const data = ticker[0];
+    const marketPer = parseFloat(data.price_usd, 10);
+    const marketSum = self.quantity * marketPer;
+    const gainPercent = calcGainPercent(self.priceSum, marketSum);
+    Object.assign(self, {
+      marketPer: marketPer,
+      marketSum: marketSum,
+      gainPercent: gainPercent,
+      gainStyle: gainStyle(gainPercent),
+    });
+    controller.calcTotal();
+    SCOPE.$apply();
+  });
+  return self;
+}
+
+function getTimestamp(){
+  return Math.floor((new Date()).getTime() / (60 * 1000));
+}
+function fetchCurrency(symbol){
+  const tickerName = NAME_LOOKUP[symbol];
+  const safeTickerName = tickerName.replace(' ', '-');
+  const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
+  return fetch(url).then(r => r.json());
+}
+function getCurrency(symbol){
+  CURRENCY_PROMISE[symbol] = CURRENCY_PROMISE[symbol] || fetchCurrency(symbol);
+  return CURRENCY_PROMISE[symbol];
+}
+
 angular.module('changePurseApp', [])
   .controller('ChangePurseController', function($scope) {
+    SCOPE = $scope;
+
     const self = this;
     self.holdings = [];
+    self.total = [{}];
 
     self.calcPriceSum = function() {
       const quantity = parseFloat(self.newQuantity, 10);
@@ -23,28 +101,64 @@ angular.module('changePurseApp', [])
       self.calcPriceSum();
     }
 
+    self.calcTotal = function(){
+      console.log('calcing total');
+      let pending = false;
+      let priceSum = 0;
+      let marketSum = 0;
+      self.holdings.forEach(curr => {
+        if (curr.gainPercent === undefined){
+          pending = true;
+        } else {
+          priceSum += curr.priceSum;
+          marketSum += curr.marketSum;
+        }
+      });
+      if (!pending){
+        console.log('pushing total');
+        const gainPercent = calcGainPercent(priceSum, marketSum);
+        const newTotal = {
+          priceSum: priceSum,
+          marketSum: marketSum,
+          gainPercent: gainPercent,
+          gainStyle: gainStyle(gainPercent),
+          view: viewNumber,
+        };
+        self.total = [newTotal];
+      }
+    }
+
     self.addTodo = function() {
-      self.todos.push({text:self.todoText, done:false});
-      self.todoText = '';
+      self.holdings.push(newHolding(
+        self.newSymbol,
+        self.newQuantity,
+        self.newPricePer
+      ));
+      self.newSymbol = '';
+      self.newQuantity = '';
+      self.newPricePer = '';
+      self.newPriceSum = '';
+      self.setQueryParams();
     };
+
+    self.setQueryParams = function(){
+      const params = self.holdings.map(curr => {
+        return `${curr.symbol}=${curr.quantity}|${curr.pricePer}`;
+      });
+      window.history.replaceState({}, "", "?" + params.join('&'));
+    }
 
     const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-      let idCounter = 0;
-      function newHolding(symbol, quantity, pricePer){
-        return {
-          id: idCounter++,
-          symbol: symbol,
-          name: lookup[symbol] || symbol,
-          quantity: quantity,
-          pricePer: pricePer,
-          priceSum: pricePer * quantity,
-          serialize: () => {
-            return symbol + '=' + [quantity, pricePer].join('|');
-          },
-        };
-      }
-      self.holdings.push(newHolding('BTC', 2.1, 15000));
-      $scope.$apply();
+      NAME_LOOKUP = lookup;
+      window.location.search.split('?')[1].split('&').forEach(seg => {
+        const parts = seg.split('=');
+        const values = parts[1].split('|');
+        const symbol = parts[0];
+        const quantity = values[0];
+        const pricePer = values[1];
+        self.holdings.push(newHolding(self, symbol, quantity, pricePer));
+      });
+      SCOPE.$apply();
     });
   });

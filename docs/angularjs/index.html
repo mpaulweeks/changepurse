@@ -9,22 +9,34 @@
     <h1>Change Purse</h1>
     <div ng-controller="ChangePurseController as Controller">
       <div class="currency header">
-        <div class="col">Name</div>
         <div class="col">Symbol</div>
+        <div class="col">Name</div>
+        <div class="col">Quantity</div>
         <div class="col">Bought At</div>
         <div class="col">Market Value</div>
-        <div class="col">Quantity</div>
-        <div class="col">Total Investment</div>
+        <div class="col">Gain</div>
+        <div class="col">Investment</div>
         <div class="col">Current Value</div>
       </div>
-      <div class="currency" ng-repeat="currency in Controller.holdings">
-        <div class="col">{{currency.name}}</div>
+      <div class="currency row" ng-repeat="currency in Controller.holdings">
         <div class="col">{{currency.symbol}}</div>
-        <div class="col money">{{currency.pricePer}}</div>
-        <div class="col money">{{currency.marketPer}}</div>
-        <div class="col">{{currency.quantity}}</div>
-        <div class="col money">{{currency.priceSum}}</div>
-        <div class="col money">{{currency.marketSum}}</div>
+        <div class="col">{{currency.name}}</div>
+        <div class="col">{{currency.view(currency.quantity, 2)}}</div>
+        <div class="col money">${{currency.pricePer}}</div>
+        <div class="col money">${{currency.marketPer}}</div>
+        <div class="col percent" style="{{currency.gainStyle}}">{{currency.view(currency.gainPercent, 0)}}%</div>
+        <div class="col money">${{currency.view(currency.priceSum, 0)}}</div>
+        <div class="col money">${{currency.view(currency.marketSum, 0)}}</div>
+      </div>
+      <div class="currency footer" ng-repeat="total in Controller.total">
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col"></div>
+        <div class="col">Total</div>
+        <div class="col" style="{{total.gainStyle}}">{{total.view(total.gainPercent, 0)}}%</div>
+        <div class="col">${{total.view(total.priceSum, 0)}}</div>
+        <div class="col">${{total.view(total.marketSum, 0)}}</div>
       </div>
       <form ng-submit="Controller.addTodo()">
         <input ng-model="Controller.newSymbol"
