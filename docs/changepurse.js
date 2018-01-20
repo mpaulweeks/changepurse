@@ -106,7 +106,7 @@ function DisplayBalances(balances){
 
   displayBalances();
 
-  const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/static/ticker_names.json';
+  const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/docs/ticker_names.json';
   fetch(NAMES_URL).then(r => r.json()).then(lookup => {
     holdings.forEach(currency => {
       const tickerName = lookup[currency.symbol];
