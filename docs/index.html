@@ -30,50 +30,55 @@
       <p>
         As you add your holdings, the URL updates.
         Bookmark the page to "remember" your changes.
-      <hr/>
+      </p>
 
+      <hr/>
       <!-- add -->
 
-      <div class="tablerow header">
-        <div class="header currency">
-          <div class="col-new-name">Currency Name (Symbol)</div>
-          <div class="col-new-quantity">Quantity</div>
-          <div class="col-new-price">Price / Coin</div>
-          <div class="col-new-price">Total Spent</div>
-          <div class="small-col"></div>
+      <form ng-submit="Controller.addCurrency()">
+        <div class="tablerow add">
+          <div class="col-new-name">
+            <div class="input-label">Currency Name (Symbol)</div>
+            <ui-select ng-model="Controller.newSelected" theme="select2" style="width: 200px;">
+              <ui-select-match placeholder="Type a currency name">{{$select.selected.label}}</ui-select-match>
+              <ui-select-choices repeat="curr in Controller.currencies | filter: $select.search | limitTo:20">
+                <div ng-bind-html="curr.label | highlight: $select.search"></div>
+              </ui-select-choices>
+            </ui-select>
+          </div>
+          <div class="col-new-quantity">
+            <div class="input-label">Quantity</div>
+            <input ng-model="Controller.newQuantity"
+                  type="text"
+                  size="10"
+                  ng-change="Controller.calcPrice()"
+                  placeholder="0">
+          </div>
+          <div class="col-new-price">
+            <div class="input-label">Price / Coin</div>
+            <input ng-model="Controller.newPricePer"
+                  type="text"
+                  size="10"
+                  ng-change="Controller.calcPriceSum()"
+                  placeholder="1.00">
+          </div>
+          <div class="col-new-price">
+            <div class="input-label">Total Spent</div>
+            <input ng-model="Controller.newPriceSum"
+                  type="text"
+                  size="10"
+                  ng-change="Controller.calcPricePer()"
+                  placeholder="1.00">
+          </div>
+          <div class="col-new-add">
+            <div class="input-label">&nbsp;</div>
+            <input type="submit"
+                  value="Add">
+          </div>
         </div>
-      </div>
-      <div class="tablerow add">
-        <form ng-submit="Controller.addCurrency()">
-          <ui-select ng-model="Controller.newSelected" theme="select2" style="width: 200px;">
-            <ui-select-match placeholder="Type a currency name">{{$select.selected.label}}</ui-select-match>
-            <ui-select-choices repeat="curr in Controller.currencies | filter: $select.search | limitTo:20">
-              <div ng-bind-html="curr.label | highlight: $select.search"></div>
-            </ui-select-choices>
-          </ui-select>
-          <input ng-model="Controller.newQuantity"
-                type="text"
-                class="col-new-quantity"
-                size="10"
-                ng-change="Controller.calcPrice()"
-                placeholder="0">
-          <input ng-model="Controller.newPricePer"
-                type="text"
-                class="col-new-quantity"
-                size="10"
-                ng-change="Controller.calcPriceSum()"
-                placeholder="1.00">
-          <input ng-model="Controller.newPriceSum"
-                type="text"
-                class="col-new-quantity"
-                size="10"
-                ng-change="Controller.calcPricePer()"
-                placeholder="1.00">
-          <input type="submit"
-                value="Add">
-        </form>
-      </div>
+      </form>
 
+      <hr/>
       <!-- view -->
 
       <div class="tablerow header">
