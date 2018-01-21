@@ -68,6 +68,15 @@ hr {
   color: red;
   cursor: pointer;
 }
+.col-new-name {
+  width: 200px;
+}
+.col-new-quantity {
+  width: 100px;
+}
+.col-new-price {
+  width: 100px;
+}
 
 .add {
   padding: 10px;

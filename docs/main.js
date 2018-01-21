@@ -44,7 +44,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
     self.atleastDec = atleastDec;
 
     self.currencies = [];
-    self.newSelected = {};
+    self.newSelected = null;
 
     const promises = {};
     let marketplace = null;
@@ -159,12 +159,15 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
     }
 
     self.addCurrency = function() {
+      if (!(self.newSelected && self.newQuantity && self.newPricePer)){
+        return;
+      }
       newHolding(
         self.newSelected.symbol,
         self.newQuantity,
         self.newPricePer
       );
-      self.newSelected = {};
+      self.newSelected = null;
       self.newQuantity = '';
       self.newPricePer = '';
       self.newPriceSum = '';
