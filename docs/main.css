@@ -42,6 +42,7 @@ hr {
 .col-new-quantity input,
 .col-new-price input {
   text-align: right;
+  width: inherit;
 }
 
 .tablerow,
