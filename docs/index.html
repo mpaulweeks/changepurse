@@ -1,6 +1,9 @@
 <!doctype html>
 <html ng-app="changePurseApp">
   <head>
+    <title>Change Purse</title>
+    <link rel="shortcut icon" href="favicon.png">
+
     <script src="lib/angular.min.js"></script>
     <script src="lib/angular-sanitize.js"></script>
     <script src="lib/select.js"></script>
@@ -14,7 +17,20 @@
   <body>
     <a href="https://github.com/mpaulweeks/changepurse" class="github"></a>
     <div ng-controller="ChangePurseController as Controller">
-      <h1>Change Purse</h1>
+      <h1>
+        <img width=50 src="favicon.png" />
+        <br/>
+        Change Purse
+      </h1>
+      <p>
+        A website to quickly check your crypto balances.
+        Nothing is recorded outside of your browser,
+        source code available on <a href="https://github.com/mpaulweeks/changepurse">GitHub</a>.
+      </p>
+      <p>
+        As you add your holdings, the URL updates.
+        Bookmark the page to "remember" your changes.
+      <hr/>
       <div class="tablerow header">
         <div class="header currency">
           <div class="col">Symbol</div>

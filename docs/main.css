@@ -15,6 +15,10 @@ body, div {
   height: 200px;
 }
 
+hr {
+  width: 800px;
+}
+
 .tablerow {
   width: 854px;
 }
