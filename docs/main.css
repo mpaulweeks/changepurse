@@ -2,11 +2,26 @@ body, div {
   margin: 0px auto;
   text-align: center;
 }
+html {
+  height: 100%;
+}
 body {
-  margin-bottom: 20px;
+  position: relative;
+  min-height: 100%;
 }
 #controller {
   overflow-x: hidden;
+  padding-bottom: 60px;
+}
+#footer {
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  border-top: 1px solid #b0b0b0;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 #filler {
   height: 300px;
@@ -24,6 +39,7 @@ hr {
   width: 864px;
 }
 .add {
+  border-top: 1px solid #b0b0b0;
   width: 550px;
   padding: 10px;
 }

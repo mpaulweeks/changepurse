@@ -1,5 +1,5 @@
 
-// ?BTC=2|900&ETH=5|200
+// ?BTC=2|900&ETH=5|200&XRP=1000|2
 
 function calcGainPercent(priceSum, marketSum){
   return (100 * marketSum / priceSum) - 100;
