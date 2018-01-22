@@ -35,7 +35,7 @@ function getTimestamp(){
   return Math.floor((new Date()).getTime() / (60 * 1000));
 }
 
-angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
+angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
   .controller('ChangePurseController', function($scope) {
     const self = this;
     self.holdings = [];
@@ -43,16 +43,25 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
     self.forceDec = forceDec;
     self.atleastDec = atleastDec;
 
+    // ui.select
     self.currencies = [];
     self.newSelected = null;
+
+    // chart.js
+    self.charts = {
+      labels: [],
+      invest: [],
+      market: [],
+      options: {},
+    };
 
     const promises = {};
     let marketplace = null;
     let idCounter = 0;
 
     function refresh(){
+      updateCharts();
       $scope.$apply();
-      drawCharts();
     }
 
     function fetchCurrency(symbol){
@@ -132,7 +141,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
       });
       self.holdings = newHoldings;
       setQueryParams();
-      // refresh() implicit
+      refresh();
     }
 
     function setQueryParams(){
@@ -140,40 +149,18 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
       window.history.replaceState({}, "", "?" + params.join('&'));
     }
 
-    function createChart(id, items){
-      const ctx = document.getElementById(id).getContext('2d');
-      const labels = items.map(i => i.label);
-      const values = items.map(i => i.value);
-      return new Chart(ctx, {
-        type: 'pie',
-        data: {
-          datasets: [{
-            data: values,
-            backgroundColor: ['#3366CC','#DC3912','#FF9900','#109618','#990099','#3B3EAC','#0099C6','#DD4477','#66AA00','#B82E2E','#316395','#994499','#22AA99','#AAAA11','#6633CC','#E67300','#8B0707','#329262','#5574A6','#3B3EAC'],
-          }],
-          labels: labels,
-        },
-        options: {
-          responsive: false
-        },
+    function updateCharts(){
+      const newCharts = {
+        labels: [],
+        invest: [],
+        market: [],
+      };
+      self.holdings.forEach(curr => {
+        newCharts.labels.push(curr.symbol);
+        newCharts.invest.push(curr.priceSum);
+        newCharts.market.push(curr.marketSum);
       });
-    }
-
-    function drawCharts(){
-      const investValues = self.holdings.map(curr => {
-        return {
-          label: curr.symbol,
-          value: curr.priceSum,
-        };
-      });
-      createChart("chart-invest", investValues);
-      const marketValues = self.holdings.map(curr => {
-        return {
-          label: curr.symbol,
-          value: curr.marketSum,
-        };
-      });
-      createChart("chart-market", marketValues);
+      Object.assign(self.charts, newCharts);
     }
 
     self.calcPriceSum = function() {

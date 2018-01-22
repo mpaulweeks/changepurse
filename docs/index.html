@@ -4,15 +4,21 @@
     <title>Change Purse</title>
     <link rel="shortcut icon" href="favicon.png">
 
+    <!-- angular -->
     <script src="lib/angular.min.js"></script>
+
+    <!-- searchable select -->
     <script src="lib/angular-sanitize.js"></script>
     <script src="lib/select.js"></script>
     <link rel="stylesheet" href="lib/bootstrap.css">
     <link rel="stylesheet" href="lib/select2.css">
     <link rel="stylesheet" href="lib/select.css">
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+    <!-- charts -->
+    <script src="lib/chart.min.js"></script>
+    <script src="lib/angular-chart.min.js"></script>
 
+    <!-- this site -->
     <script src="main.js?v=2018-01-21"></script>
     <link rel="stylesheet" href="main.css?v=2018-01-21">
   </head>
@@ -83,15 +89,21 @@
         <div class="tablerow">
           <div>
             <h3> Invested </h3>
-            <canvas id="chart-invest"></canvas>
+            <canvas class="chart chart-pie"
+              chart-data="Controller.charts.invest"
+              chart-labels="Controller.charts.labels"
+              chart-options="Controller.charts.options">
+            </canvas>
           </div>
           <div>
             <h3> Market Value </h3>
-            <canvas id="chart-market"></canvas>
+            <canvas class="chart chart-pie"
+              chart-data="Controller.charts.market"
+              chart-labels="Controller.charts.labels"
+              chart-options="Controller.charts.options">
+            </canvas>
           </div>
         </div>
-
-        <!-- view -->
 
         <div class="tablerow header">
           <div class="header currency">
