@@ -202,7 +202,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       setQueryParams();
     };
 
-    const NAMES_URL = 'https://raw.githubusercontent.com/mpaulweeks/changepurse/master/ticker_names.json';
+    const NAMES_URL = 'ticker_names.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
       marketplace = lookup;
       self.currencies = [];
