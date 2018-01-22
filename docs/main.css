@@ -89,7 +89,7 @@ hr {
   width: 100px;
 }
 .col:empty {
-  background-image: url(loading.gif);
+  background-image: url(img/loading.gif);
   background-size: auto 100%;
   background-repeat: no-repeat;
   background-position: center;
