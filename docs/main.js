@@ -23,6 +23,9 @@ function forceDec(num, maxPlaces) {
 };
 function atleastDec(num, minPlaces) {
   const forced = forceDec(num, minPlaces);
+  if (forced === ''){
+    return forced;
+  }
   const numStr = '' + num;
   if (forced.length > numStr.length){
     return forced;

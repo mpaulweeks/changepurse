@@ -121,8 +121,8 @@
             <div class="col name">Name</div>
             <div class="col quantity">Quantity</div>
             <div class="col pricePer">Bought At</div>
-            <div class="col marketPer">Market Value</div>
-            <div class="col gain">Gain</div>
+            <div class="col">Market Value</div>
+            <div class="col">Gain</div>
             <div class="col priceSum">Investment</div>
             <div class="col marketSum">Current Value</div>
           </div>
@@ -133,19 +133,19 @@
             <div class="col">{{currency.symbol}}</div>
             <div class="col name">{{currency.name}}</div>
             <div class="col quantity">{{Controller.atleastDec(currency.quantity, 0)}}</div>
-            <div class="col pricePer">${{Controller.atleastDec(currency.pricePer, 2)}}</div>
-            <div class="col marketPer">${{Controller.atleastDec(currency.marketPer, 2)}}</div>
-            <div class="col gain" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}%</div>
-            <div class="col priceSum">${{Controller.forceDec(currency.priceSum, 0)}}</div>
-            <div class="col marketSum">${{Controller.forceDec(currency.marketSum, 0)}}</div>
+            <div class="col usd pricePer">{{Controller.atleastDec(currency.pricePer, 2)}}</div>
+            <div class="col usd">{{Controller.atleastDec(currency.marketPer, 2)}}</div>
+            <div class="col percent" style="{{currency.gainStyle}}">{{Controller.forceDec(currency.gainPercent, 0)}}</div>
+            <div class="col usd priceSum">{{Controller.forceDec(currency.priceSum, 0)}}</div>
+            <div class="col usd marketSum">{{Controller.forceDec(currency.marketSum, 0)}}</div>
           </div>
           <div class="small-col remove" ng-click="currency.remove()">X</div>
         </div>
         <div class="tablerow footer" ng-repeat="total in Controller.total">
           <div class="currency">
             <div class="col">TOTAL</div>
-            <div class="col totalMarketSum">${{Controller.forceDec(total.marketSum, 0)}}</div>
-            <div class="col" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}%</div>
+            <div class="col usd totalMarketSum">{{Controller.forceDec(total.marketSum, 0)}}</div>
+            <div class="col percent" style="{{total.gainStyle}}">{{Controller.forceDec(total.gainPercent, 0)}}</div>
           </div>
         </div>
       </div>

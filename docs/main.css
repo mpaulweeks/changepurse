@@ -48,6 +48,12 @@ hr {
   text-align: right;
   width: 90%;
 }
+.col.usd:before {
+  content: "$";
+}
+.col.percent:after {
+  content: "%";
+}
 
 .tablerow,
 .currency {
