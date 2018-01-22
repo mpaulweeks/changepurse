@@ -18,7 +18,7 @@ hr {
 }
 
 .tablerow {
-  width: 854px;
+  width: 864px;
 }
 .add {
   width: 550px;
@@ -38,12 +38,12 @@ hr {
   width: 90px;
 }
 .col-new-add {
-  width: 50px;
+  width: 60px;
 }
 .col-new-quantity input,
 .col-new-price input {
   text-align: right;
-  width: inherit;
+  width: 90%;
 }
 
 .tablerow,
@@ -67,7 +67,7 @@ hr {
 }
 .footer .currency {
   margin: 0px 0px;
-  margin-right: 250px;
+  margin-right: 260px;
 }
 
 .small-col,
@@ -86,7 +86,7 @@ hr {
   background-position: center;
 }
 .small-col {
-  width: 50px;
+  width: 60px;
 }
 .remove {
   color: red;
@@ -94,7 +94,7 @@ hr {
 }
 
 /* fixing row widths */
-@media (max-width: 854px){
+@media (max-width: 864px){
   .tablerow {
     width: auto;
   }
@@ -133,7 +133,7 @@ hr {
 }
 
 /* fixing grid */
-@media (max-width: 854px){
+@media (max-width: 864px){
   .col.priceSum {
     display: none;
   }
@@ -142,22 +142,22 @@ hr {
     margin-right: auto;
   }
 }
-@media (max-width: 754px){
+@media (max-width: 764px){
   .col.marketSum {
     display: none;
   }
 }
-@media (max-width: 654px){
+@media (max-width: 664px){
   .col.name {
     display: none;
   }
 }
-@media (max-width: 554px){
+@media (max-width: 564px){
   .col.pricePer {
     display: none;
   }
 }
-@media (max-width: 454px){
+@media (max-width: 464px){
   .col.quantity {
     display: none;
   }
