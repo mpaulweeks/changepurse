@@ -1,26 +1,33 @@
 <!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <html ng-app="changePurseApp">
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <title>Change Purse</title>
     <link rel="shortcut icon" href="favicon.png">
 
     <!-- angular -->
     <script src="lib/angular.min.js"></script>
-
     <!-- searchable select -->
     <script src="lib/angular-sanitize.js"></script>
     <script src="lib/select.js"></script>
     <link rel="stylesheet" href="lib/bootstrap.css">
     <link rel="stylesheet" href="lib/select2.css">
     <link rel="stylesheet" href="lib/select.css">
-
     <!-- charts -->
     <script src="lib/chart.min.js"></script>
     <script src="lib/angular-chart.min.js"></script>
-
     <!-- this site -->
     <script src="main.js?v=2018-01-21"></script>
     <link rel="stylesheet" href="main.css?v=2018-01-21">
+
+    <!-- meta -->
+    <meta property="og:url"                content="https://mpaulweeks.github.io/changepurse" />
+    <meta property="og:type"               content="website" />
+    <meta property="og:title"              content="Change Purse" />
+    <meta property="og:description"        content="A website to quickly check your crypto balances. Nothing is recorded outside of your browser." />
+    <meta property="og:image"              content="https://mpaulweeks.github.io/changepurse/favicon.png" />
   </head>
   <body>
     <div ng-controller="ChangePurseController as Controller">
