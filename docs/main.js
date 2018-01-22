@@ -52,7 +52,11 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       labels: [],
       invest: [],
       market: [],
-      options: {},
+      options: {
+        legend: {
+          display: true,
+        },
+      },
     };
 
     const promises = {};
