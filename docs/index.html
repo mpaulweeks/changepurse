@@ -89,7 +89,10 @@
         </div>
       </form>
 
-      <div ng-if="Controller.holdings.length">
+      <div ng-if="Controller.holdings.length === 0" id="filler">
+        <!-- fixes overflow issue on select above -->
+      </div>
+      <div ng-if="Controller.holdings.length > 0">
 
         <!-- chart -->
 

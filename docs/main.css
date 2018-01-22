@@ -8,6 +8,9 @@ body {
 #controller {
   overflow-x: hidden;
 }
+#filler {
+  height: 300px;
+}
 hr {
   width: 800px;
 }
@@ -103,7 +106,13 @@ hr {
     width: 550px;
   }
 }
+
+/* fixing input row */
 @media (max-width: 550px){
+  #filler {
+    /* not necessary when snapped to column */
+    display: none;
+  }
   .tablerow.add {
     width: auto;
     flex-wrap: wrap;
