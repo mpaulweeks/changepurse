@@ -5,11 +5,14 @@ body, div {
 body {
   margin-bottom: 20px;
 }
+body div {
+  overflow-x: hidden;
+}
 hr {
   width: 800px;
 }
 
-canvas {
+.chart {
   width: 400px;
   height: auto;
 }
@@ -20,6 +23,9 @@ canvas {
 .add {
   width: 550px;
   padding: 10px;
+}
+.col-add {
+  padding-bottom: 15px;
 }
 .input-label {
   padding-bottom: 5px;
@@ -61,7 +67,7 @@ canvas {
 }
 .footer .currency {
   margin: 0px 0px;
-  margin-right: 50px;
+  margin-right: 250px;
 }
 
 .small-col,
@@ -85,4 +91,79 @@ canvas {
 .remove {
   color: red;
   cursor: pointer;
+}
+
+/* fixing row widths */
+@media (max-width: 854px){
+  .tablerow {
+    width: auto;
+  }
+  .tablerow.add {
+    /* maintain it being different */
+    width: 550px;
+  }
+}
+@media (max-width: 550px){
+  .tablerow.add {
+    flex-wrap: wrap;
+  }
+  .tablerow.add div {
+    flex: 1;
+    flex-basis: 100%;
+  }
+}
+
+/* fixing chart size/layout */
+@media (max-width: 800px){
+  .chart {
+    width: 50%;
+  }
+}
+@media (max-width: 600px){
+  .chart {
+    width: 100%;
+  }
+  .tablerow.charts {
+    flex-wrap: wrap;
+  }
+  .tablerow.charts div {
+    flex: 1;
+    flex-basis: 100%;
+  }
+}
+
+/* fixing grid */
+@media (max-width: 854px){
+  .col.priceSum {
+    display: none;
+  }
+  .footer .currency {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width: 754px){
+  .col.marketSum {
+    display: none;
+  }
+}
+@media (max-width: 654px){
+  .col.name {
+    display: none;
+  }
+}
+@media (max-width: 554px){
+  .col.pricePer {
+    display: none;
+  }
+}
+@media (max-width: 454px){
+  .col.quantity {
+    display: none;
+  }
+}
+@media (max-width: 404px){
+  .small-col {
+    display: none;
+  }
 }
