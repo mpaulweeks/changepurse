@@ -105,6 +105,7 @@ hr {
 }
 @media (max-width: 550px){
   .tablerow.add {
+    width: auto;
     flex-wrap: wrap;
   }
   .tablerow.add div {
