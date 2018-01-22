@@ -2,21 +2,16 @@ body, div {
   margin: 0px auto;
   text-align: center;
 }
-
-.github {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  background-image: url(corner.png);
-  background-size: auto 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 200px;
-  height: 200px;
+body {
+  margin-bottom: 20px;
 }
-
 hr {
   width: 800px;
+}
+
+canvas {
+  width: 400px;
+  height: auto;
 }
 
 .tablerow {

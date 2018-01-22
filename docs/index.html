@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="lib/select2.css">
     <link rel="stylesheet" href="lib/select.css">
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+
     <script src="main.js?v=2018-01-21"></script>
     <link rel="stylesheet" href="main.css?v=2018-01-21">
   </head>
@@ -74,7 +76,19 @@
         </div>
       </form>
 
-      <hr/>
+      <!-- chart -->
+
+      <div class="tablerow">
+        <div>
+          <h3> Invested </h3>
+          <canvas id="chart-invest"></canvas>
+        </div>
+        <div>
+          <h3> Market Value </h3>
+          <canvas id="chart-market"></canvas>
+        </div>
+      </div>
+
       <!-- view -->
 
       <div class="tablerow header">
@@ -112,5 +126,6 @@
         </div>
       </div>
     </div>
+
   </body>
 </html>

@@ -52,6 +52,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
 
     function refresh(){
       $scope.$apply();
+      drawCharts();
     }
 
     function fetchCurrency(symbol){
@@ -137,6 +138,42 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select'])
     function setQueryParams(){
       const params = self.holdings.map(curr => curr.serialize());
       window.history.replaceState({}, "", "?" + params.join('&'));
+    }
+
+    function createChart(id, items){
+      const ctx = document.getElementById(id).getContext('2d');
+      const labels = items.map(i => i.label);
+      const values = items.map(i => i.value);
+      return new Chart(ctx, {
+        type: 'pie',
+        data: {
+          datasets: [{
+            data: values,
+            backgroundColor: ['#3366CC','#DC3912','#FF9900','#109618','#990099','#3B3EAC','#0099C6','#DD4477','#66AA00','#B82E2E','#316395','#994499','#22AA99','#AAAA11','#6633CC','#E67300','#8B0707','#329262','#5574A6','#3B3EAC'],
+          }],
+          labels: labels,
+        },
+        options: {
+          responsive: false
+        },
+      });
+    }
+
+    function drawCharts(){
+      const investValues = self.holdings.map(curr => {
+        return {
+          label: curr.symbol,
+          value: curr.priceSum,
+        };
+      });
+      createChart("chart-invest", investValues);
+      const marketValues = self.holdings.map(curr => {
+        return {
+          label: curr.symbol,
+          value: curr.marketSum,
+        };
+      });
+      createChart("chart-market", marketValues);
     }
 
     self.calcPriceSum = function() {
