@@ -1,15 +1,19 @@
 import json
 
+import requests
+
 """
-expects raw.json file with contents from
-https://api.coinmarketcap.com/v1/ticker/?limit=0
+python -m py.parse_names
 """
 
-with open('raw.json') as f:
-    market = json.load(f)
-    ticker_names = {
-        t['symbol']: t['name']
-        for t in market
-    }
-with open('ticker_names.json', 'wb') as f:
+
+URL = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
+
+resp = requests.get(URL)
+market = resp.json()
+ticker_names = {
+    t['symbol']: t['name']
+    for t in market
+}
+with open('docs/ticker_names.json', 'wb') as f:
     json.dump(ticker_names, f, separators=(',', ':'))
