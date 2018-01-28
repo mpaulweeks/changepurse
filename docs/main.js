@@ -205,7 +205,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       setQueryParams();
     };
 
-    const NAMES_URL = 'ticker_names.json';
+    const NAMES_URL = 'coinmarketcap.json';
     fetch(NAMES_URL).then(r => r.json()).then(lookup => {
       marketplace = lookup;
       self.currencies = [];

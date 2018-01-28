@@ -3,6 +3,7 @@ import json
 import requests
 
 """
+source venv/bin/activate
 python -m py.parse_names
 """
 
@@ -15,5 +16,11 @@ ticker_names = {
     t['symbol']: t['name']
     for t in market
 }
-with open('docs/ticker_names.json', 'wb') as f:
-    json.dump(ticker_names, f, separators=(',', ':'))
+with open('docs/coinmarketcap.json', 'wb') as f:
+    json.dump(
+        ticker_names,
+        f,
+        indent=0,
+        sort_keys=True,
+        separators=(',', ':')
+    )
