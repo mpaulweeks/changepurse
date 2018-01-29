@@ -4,20 +4,21 @@ https://mpaulweeks.github.io/changepurse
 
 [MIT License](LICENSE)
 
-static site to view market price of your crypto coins
+## about
 
-## updating listed coins
+This site is made up of static files, hosted by GitHub, that fetch market info from CoinMarketCap.com
 
-this site caches the coin names to avoid having to fetch all coins from CoinMarketCap, which is 1.3MB as of January 24, 2018
+However, to use the CoinMarketCap API efficiently, and perform direct GET requests, we need to their internal ids for all possible currencies.
 
-it caches the lookup as a 24KB file named `ticker_names.json`. to update it, perform the following:
+Looking this up is slow and returns a payload of 1.3MB (as of January 2018), so instead we cache a lookup of Symbol -> CoinMarketCap's ID in the space of ~30KB.
+
+This cached lookup `coinmarketcap.json` is updated daily via cronjob. To run said cronjob:
 
 ```
-# to get python setup
+# install dependencies
 virtualenv venv
 source venv/bin/activate
 pip install -r py/requirements.txt
 
-# to run the script
-python -m py.parse_names
+# see crontab.sh for more info
 ```
