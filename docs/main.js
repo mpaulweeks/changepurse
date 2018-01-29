@@ -206,12 +206,12 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
     };
 
     const NAMES_URL = 'coinmarketcap.json';
-    fetch(NAMES_URL).then(r => r.json()).then(lookup => {
-      marketplace = lookup;
+    fetch(NAMES_URL).then(r => r.json()).then(data => {
+      marketplace = data.coins;
       self.currencies = [];
-      for (symbol in lookup){
+      for (symbol in marketplace){
         self.currencies.push({
-          label: `${lookup[symbol]} (${symbol})`,
+          label: `${marketplace[symbol]} (${symbol})`,
           symbol: symbol,
         });
       }

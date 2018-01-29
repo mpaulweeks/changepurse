@@ -5,7 +5,7 @@ git checkout master
 git pull
 
 source venv/bin/activate
-python -m py.parse_names
+python -m py.fetch_coinmarketcap
 
 git add .
 git commit -m 'update coinmarketcap.json'
