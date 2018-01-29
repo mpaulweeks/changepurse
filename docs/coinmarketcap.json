@@ -1,4 +1,5 @@
 {
+"coins":{
 "$$$":"Money",
 "10MT":"10M Token",
 "1337":"1337",
@@ -1462,4 +1463,6 @@
 "ZUR":"Zurcoin",
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
+},
+"updated":"2018-01-29T09:41:56.109416"
 }

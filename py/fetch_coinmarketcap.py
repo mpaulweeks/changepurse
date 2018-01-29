@@ -23,7 +23,7 @@ data = {
 }
 with open('docs/coinmarketcap.json', 'wb') as f:
     json.dump(
-        ticker_names,
+        data,
         f,
         indent=0,
         sort_keys=True,
