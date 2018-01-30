@@ -288,6 +288,7 @@
 "CNX":"Cryptonex",
 "COAL":"BitCoal",
 "COB":"Cobinhood",
+"COFI":"CoinFi",
 "COLX":"ColossusCoinXT",
 "CON":"PayCon",
 "CONX":"Concoin",
@@ -458,6 +459,7 @@
 "EOS":"EOS",
 "EOT":"EOT Token",
 "EPY":"Emphy",
+"EQL":"Equal",
 "EQT":"EquiTrader",
 "ERC":"EuropeCoin",
 "ERC20":"ERC20",
@@ -517,6 +519,7 @@
 "FOR":"FORCE",
 "FOTA":"Fortuna",
 "FRC":"Freicoin",
+"FRCT":"Farstcoin",
 "FRD":"Farad",
 "FRGC":"Fargocoin",
 "FRK":"Franko",
@@ -612,6 +615,7 @@
 "HGT":"HelloGold",
 "HIGH":"High Gain",
 "HKN":"Hacken",
+"HLC":"HalalChain",
 "HMC":"HarmonyCoin",
 "HMP":"HempCoin",
 "HMQ":"Humaniq",
@@ -712,7 +716,6 @@
 "KIN":"Kin",
 "KLC":"KiloCoin",
 "KLN":"Kolion",
-"KMC":"KemCredit",
 "KMD":"Komodo",
 "KNC":"KingN Coin",
 "KOBO":"Kobocoin",
@@ -863,6 +866,7 @@
 "NIMFA":"Nimfamoney",
 "NIO":"Autonio",
 "NKA":"IncaKoin",
+"NKC":"Nework",
 "NLC2":"NoLimitCoin",
 "NLG":"Gulden",
 "NMC":"Namecoin",
@@ -1071,6 +1075,7 @@
 "RPX":"Red Pulse",
 "RSGP":"RSGPcoin",
 "RUBIT":"RubleBit",
+"RUFF":"Ruff",
 "RUNNERS":"Runners",
 "RUP":"Rupee",
 "RUPX":"Rupaya [OLD]",
@@ -1464,5 +1469,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-01-29T09:46:48.621906"
+"updated":"2018-01-30T09:00:02.294496"
 }
