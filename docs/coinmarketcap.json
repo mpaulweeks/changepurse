@@ -332,6 +332,7 @@
 "CVC":"Civic",
 "CVCOIN":"CVCoin",
 "CWXT":"CryptoWorldX Token",
+"CXO":"CargoX",
 "CXT":"Coinonat",
 "CYC":"Cycling Coin",
 "CYDER":"Cyder",
@@ -587,7 +588,6 @@
 "GRLC":"Garlicoin",
 "GRN":"Granite",
 "GRS":"Groestlcoin",
-"GRT":"Grantcoin",
 "GRWI":"Growers International",
 "GRX":"GOLD Reward Token",
 "GSR":"GeyserCoin",
@@ -1103,6 +1103,7 @@
 "SDP":"SydPak",
 "SDRN":"Senderon",
 "SEND":"Social Send",
+"SENSE":"Sense",
 "SEQ":"Sequence",
 "SEXC":"ShareX",
 "SFC":"Solarflarecoin",
@@ -1254,6 +1255,7 @@
 "TRC":"Terracoin",
 "TRCT":"Tracto",
 "TRDT":"Trident Group",
+"TRF":"Travelflex",
 "TRI":"Triangles",
 "TRIA":"Triaconta",
 "TRICK":"TrickyCoin",
@@ -1419,7 +1421,7 @@
 "XPY":"PayCoin",
 "XQN":"Quotient",
 "XRA":"Ratecoin",
-"XRB":"RaiBlocks",
+"XRB":"Nano",
 "XRC":"Rawcoin",
 "XRE":"RevolverCoin",
 "XRL":"Rialto",
@@ -1473,5 +1475,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-01-31T09:00:02.386258"
+"updated":"2018-02-01T09:00:02.217135"
 }
