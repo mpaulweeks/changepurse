@@ -25,6 +25,7 @@
 "ACP":"AnarchistsPrime",
 "ACT":"Achain",
 "ADA":"Cardano",
+"ADB":"adbank",
 "ADC":"AudioCoin",
 "ADCN":"Asiadigicoin",
 "ADK":"Aidos Kuneen",
@@ -269,6 +270,7 @@
 "CHEAP":"Cheapcoin",
 "CHESS":"ChessCoin",
 "CHIPS":"CHIPS",
+"CHSB":"SwissBorg",
 "CJ":"Cryptojacks",
 "CL":"Coinlancer",
 "CLAM":"Clams",
@@ -380,6 +382,7 @@
 "DMB":"Digital Money Bits",
 "DMC":"DynamicCoin",
 "DMD":"Diamond",
+"DMT":"DMarket",
 "DNA":"EncrypGen",
 "DNR":"Denarius",
 "DNT":"district0x",
@@ -628,6 +631,7 @@
 "HPY":"Hyper Pay",
 "HSR":"Hshare",
 "HST":"Decision Token",
+"HT":"Huobi Token",
 "HTC":"HitCoin",
 "HTML":"HTMLCOIN",
 "HTML5":"HTML5COIN",
@@ -1157,7 +1161,7 @@
 "SPANK":"SpankChain",
 "SPC":"SpaceChain",
 "SPEX":"SproutsExtreme",
-"SPF":"SportyFi",
+"SPF":"SportyCo",
 "SPHR":"Sphere",
 "SPHTX":"SophiaTX",
 "SPK":"Sparks",
@@ -1461,6 +1465,7 @@
 "ZER":"Zero",
 "ZET":"Zetacoin",
 "ZIL":"Zilliqa",
+"ZLA":"Zilla",
 "ZMC":"ZetaMicron",
 "ZNE":"Zonecoin",
 "ZNY":"Bitzeny",
@@ -1474,5 +1479,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-03T09:00:02.158652"
+"updated":"2018-02-04T09:00:03.015248"
 }
