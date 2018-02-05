@@ -671,6 +671,7 @@
 "INDIA":"India Coin",
 "INF":"InfChain",
 "INFX":"Influxcoin",
+"ING":"Iungo",
 "INK":"Ink",
 "INN":"Innova",
 "INPAY":"InPay",
@@ -1008,7 +1009,7 @@
 "PULSE":"Pulse",
 "PURA":"Pura",
 "PURE":"Pure",
-"PUT":"Profile Utility Token",
+"PUT":"PutinCoin",
 "PX":"PX",
 "PXC":"Phoenixcoin",
 "PXI":"Prime-XI",
@@ -1479,5 +1480,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-04T09:00:03.015248"
+"updated":"2018-02-05T09:00:02.420719"
 }
