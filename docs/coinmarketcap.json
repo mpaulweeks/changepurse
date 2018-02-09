@@ -17,7 +17,7 @@
 "ABN":"Abncoin",
 "ABY":"ArtByte",
 "AC":"AsiaCoin",
-"ACC":"AdCoin",
+"ACC":"Accelerator Network",
 "ACE":"Ace",
 "ACES":"Aces",
 "ACN":"Avoncoin",
@@ -397,6 +397,7 @@
 "DRGN":"Dragonchain",
 "DRM":"Dreamcoin",
 "DRP":"DCORP",
+"DRPU":"DRP Utility",
 "DRS":"Digital Rupees",
 "DRT":"DomRaider",
 "DRXNE":"DROXNE",
@@ -409,6 +410,7 @@
 "DUBI":"Decentralized Universal Basic Income",
 "DUO":"ParallelCoin",
 "DUTCH":"Dutch Coin",
+"DXT":"Datawallet",
 "DYN":"Dynamic",
 "EAC":"EarthCoin",
 "EAG":"EA Coin",
@@ -471,6 +473,7 @@
 "ERY":"Eryllium",
 "ESC":"Escroco",
 "ESP":"Espers",
+"ESZ":"EtherSportz",
 "ETBS":"Ethbits",
 "ETC":"Ethereum Classic",
 "ETG":"Ethereum Gold",
@@ -1369,6 +1372,7 @@
 "WOMEN":"WomenCoin",
 "WORM":"HealthyWormCoin",
 "WOW":"Wowcoin",
+"WPR":"WePower",
 "WRC":"Worldcore",
 "WSX":"WeAreSatoshi",
 "WTC":"Walton",
@@ -1476,5 +1480,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-08T09:00:02.203288"
+"updated":"2018-02-09T09:00:02.649032"
 }
