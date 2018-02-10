@@ -818,6 +818,7 @@
 "MND":"MindCoin",
 "MNE":"Minereum",
 "MNM":"Mineum",
+"MNTP":"GoldMint",
 "MNX":"MinexCoin",
 "MOAC":"MOAC",
 "MOBI":"Mobius",
@@ -1282,6 +1283,7 @@
 "UAHPAY":"UAHPay",
 "UBQ":"Ubiq",
 "UBTC":"United Bitcoin",
+"UCASH":"U.CASH",
 "UET":"Useless Ethereum Token",
 "UFO":"UFO Coin",
 "UFR":"Upfiring",
@@ -1480,5 +1482,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-09T09:00:02.649032"
+"updated":"2018-02-10T09:00:03.077005"
 }
