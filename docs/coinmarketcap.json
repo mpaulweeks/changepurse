@@ -17,7 +17,7 @@
 "ABN":"Abncoin",
 "ABY":"ArtByte",
 "AC":"AsiaCoin",
-"ACC":"Accelerator Network",
+"ACC":"ACChain",
 "ACE":"Ace",
 "ACES":"Aces",
 "ACN":"Avoncoin",
@@ -100,6 +100,7 @@
 "AUR":"Auroracoin",
 "AURA":"Aurora DAO",
 "AV":"AvatarCoin",
+"AVH":"Animation Vision Cash",
 "AVT":"Aventus",
 "AWR":"AWARE",
 "AXIOM":"Axiom",
@@ -179,6 +180,7 @@
 "BOLI":"Bolivarcoin",
 "BON":"Bonpay",
 "BOS":"BOScoin",
+"BOST":"BoostCoin",
 "BOT":"Bodhi",
 "BPC":"Bitpark Coin",
 "BPL":"Blockpool",
@@ -667,6 +669,7 @@
 "IMX":"Impact",
 "INCNT":"Incent",
 "IND":"Indorse Token",
+"INDI":"Indicoin",
 "INDIA":"India Coin",
 "INF":"InfChain",
 "INFX":"Influxcoin",
@@ -697,6 +700,7 @@
 "IXT":"iXledger",
 "J":"Joincoin",
 "JET":"Jetcoin",
+"JEW":"Shekel",
 "JIN":"Jin Coin",
 "JINN":"Jinn",
 "JIYO":"Jiyo",
@@ -758,6 +762,7 @@
 "LMC":"LoMoCoin",
 "LNK":"Link Platform",
 "LOC":"LockChain",
+"LOCI":"LOCIcoin",
 "LOG":"Woodcoin",
 "LRC":"Loopring",
 "LSK":"Lisk",
@@ -812,6 +817,7 @@
 "MINT":"Mintcoin",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MLM":"MktCoin",
 "MLN":"Melon",
 "MMXVI":"MMXVI",
 "MNC":"Mincoin",
@@ -1482,5 +1488,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-10T09:00:03.077005"
+"updated":"2018-02-11T09:00:02.945548"
 }
