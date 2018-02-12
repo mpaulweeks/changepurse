@@ -744,6 +744,7 @@
 "LDCN":"LandCoin",
 "LDOGE":"LiteDoge",
 "LEA":"LeaCoin",
+"LEAF":"LeafCoin",
 "LEND":"ETHLend",
 "LEO":"LEOcoin",
 "LEPEN":"LePen",
@@ -784,6 +785,7 @@
 "MAID":"MaidSafeCoin",
 "MAN":"Matrix AI Network",
 "MANA":"Decentraland",
+"MANNA":"Manna",
 "MAO":"Mao Zedong",
 "MAR":"Marijuanacoin",
 "MARS":"Marscoin",
@@ -984,7 +986,7 @@
 "POKE":"PokeCoin",
 "POLIS":"Polis",
 "POLL":"ClearPoll",
-"POLY":"Polymath Network",
+"POLY":"Polymath",
 "PONZI":"PonziCoin",
 "POP":"PopularCoin",
 "POS":"PoSToken",
@@ -1258,6 +1260,7 @@
 "TODAY":"TodayCoin",
 "TOK":"Tokugawa",
 "TOKC":"TOKYO",
+"TOKEN":"SwapToken",
 "TOP":"TopCoin",
 "TOPAZ":"Topaz Coin",
 "TOPC":"TopChain",
@@ -1488,5 +1491,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-11T09:00:02.945548"
+"updated":"2018-02-12T09:00:02.360949"
 }
