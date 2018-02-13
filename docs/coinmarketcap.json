@@ -105,7 +105,7 @@
 "AWR":"AWARE",
 "AXIOM":"Axiom",
 "AXP":"aXpire",
-"B2B":"B2B",
+"B2B":"B2BX",
 "B2X":"SegWit2x",
 "B@":"Bankcoin",
 "BAC":"BitAlphaCoin",
@@ -1144,6 +1144,7 @@
 "SLEVIN":"Slevin",
 "SLFI":"Selfiecoin",
 "SLG":"Sterlingcoin",
+"SLOTH":"Slothcoin",
 "SLR":"SolarCoin",
 "SLS":"SaluS",
 "SLT":"Smartlands",
@@ -1491,5 +1492,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-12T09:00:02.360949"
+"updated":"2018-02-13T09:00:02.224631"
 }
