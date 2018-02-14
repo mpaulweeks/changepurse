@@ -699,6 +699,7 @@
 "IXC":"Ixcoin",
 "IXT":"iXledger",
 "J":"Joincoin",
+"JC":"Jesus Coin",
 "JET":"Jetcoin",
 "JEW":"Shekel",
 "JIN":"Jin Coin",
@@ -1136,6 +1137,7 @@
 "SIGT":"Signatum",
 "SISA":"SISA",
 "SJCX":"Storjcoin X",
+"SJW":"SJWCoin",
 "SKC":"Skeincoin",
 "SKIN":"SkinCoin",
 "SKR":"Sakuracoin",
@@ -1207,6 +1209,7 @@
 "SUPER":"SuperCoin",
 "SUR":"Suretly",
 "SWFTC":"SwftCoin",
+"SWIFT":"Bitswift",
 "SWING":"Swing",
 "SWM":"Swarm",
 "SWP":"Swapcoin",
@@ -1492,5 +1495,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-13T09:00:02.224631"
+"updated":"2018-02-14T09:00:02.692379"
 }
