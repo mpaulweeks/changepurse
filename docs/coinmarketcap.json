@@ -618,7 +618,7 @@
 "HIGH":"High Gain",
 "HKN":"Hacken",
 "HLC":"HalalChain",
-"HMC":"Health Mutual Society",
+"HMC":"Hi Mutual Society",
 "HMP":"HempCoin",
 "HMQ":"Humaniq",
 "HNC":"Huncoin",
@@ -735,7 +735,7 @@
 "KURT":"Kurrent",
 "KUSH":"KushCoin",
 "KZC":"Kzcash",
-"LA":"LAToken",
+"LA":"LATOKEN",
 "LANA":"LanaCoin",
 "LAZ":"Lazaruscoin",
 "LBC":"LBRY Credits",
@@ -1390,7 +1390,7 @@
 "WPR":"WePower",
 "WRC":"Worldcore",
 "WSX":"WeAreSatoshi",
-"WTC":"Walton",
+"WTC":"Waltonchain",
 "WTT":"Giga Watt Token",
 "X2":"X2",
 "XAS":"Asch",
@@ -1434,7 +1434,7 @@
 "XOC":"Xonecoin",
 "XOT":"Internet of Things",
 "XP":"Experience Points",
-"XPA":"XPlay",
+"XPA":"XPA",
 "XPD":"PetroDollar",
 "XPM":"Primecoin",
 "XPTX":"PlatinumBAR",
@@ -1495,5 +1495,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-14T09:00:02.692379"
+"updated":"2018-02-15T09:00:03.099099"
 }
