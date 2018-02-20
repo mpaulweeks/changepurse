@@ -338,6 +338,7 @@
 "CYC":"Cycling Coin",
 "CYDER":"Cyder",
 "CYP":"Cypher",
+"DADI":"DADI",
 "DAI":"Dai",
 "DALC":"Dalecoin",
 "DAR":"Darcrus",
@@ -902,6 +903,7 @@
 "NRO":"Neuro",
 "NSR":"NuShares",
 "NTC":"Natcoin",
+"NTK":"Neurotoken",
 "NTO":"Fujinto",
 "NTRN":"Neutron",
 "NTWK":"Network Token",
@@ -1433,7 +1435,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Mixin",
+"XIN":"Infinity Economics",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1509,5 +1511,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-19T09:00:03.601336"
+"updated":"2018-02-20T09:00:02.695682"
 }
