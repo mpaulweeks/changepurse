@@ -632,7 +632,7 @@
 "HUC":"HunterCoin",
 "HUSH":"Hush",
 "HVCO":"High Voltage",
-"HVN":"Hive",
+"HVN":"Hive Project",
 "HWC":"HollyWoodCoin",
 "HXX":"Hexx",
 "HYP":"HyperStake",
@@ -728,6 +728,7 @@
 "LAZ":"Lazaruscoin",
 "LBC":"LBRY Credits",
 "LBTC":"Lightning Bitcoin [Futures]",
+"LCC":"Litecoin Cash",
 "LCP":"Litecoin Plus",
 "LCT":"LendConnect",
 "LDCN":"LandCoin",
@@ -1055,6 +1056,7 @@
 "REE":"ReeCoin",
 "REF":"RefToken",
 "REGA":"Regacoin",
+"REN":"Republic Protocol",
 "REP":"Augur",
 "REQ":"Request Network",
 "REX":"REX",
@@ -1482,5 +1484,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-21T09:00:02.294995"
+"updated":"2018-02-22T09:00:02.682279"
 }
