@@ -965,7 +965,7 @@
 "PLACO":"PlayerCoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
-"PLC":"PlusCoin",
+"PLC":"Polcoin",
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
@@ -1222,6 +1222,7 @@
 "TCOIN":"T-coin",
 "TCR":"TheCreed",
 "TCT":"TokenClub",
+"TDX":"Tidex Token",
 "TEAM":"TeamUp",
 "TEK":"TEKcoin",
 "TEL":"Telcoin",
@@ -1408,7 +1409,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Infinity Economics",
+"XIN":"Mixin",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1484,5 +1485,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-22T09:00:02.682279"
+"updated":"2018-02-23T09:00:02.529554"
 }
