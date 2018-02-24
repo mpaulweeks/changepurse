@@ -162,7 +162,7 @@
 "BLOCK":"Blocknet",
 "BLOCKPAY":"BlockPay",
 "BLRY":"BillaryCoin",
-"BLT":"Bitcoin Lightning",
+"BLT":"Bloom",
 "BLU":"BlueCoin",
 "BLUE":"BLUE",
 "BLZ":"BlazeCoin",
@@ -298,6 +298,7 @@
 "CPAY":"Cryptopay",
 "CPC":"CPChain",
 "CPN":"CompuCoin",
+"CPY":"Copytrack",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
 "CRC":"CrowdCoin",
@@ -1409,7 +1410,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Mixin",
+"XIN":"Infinity Economics",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1485,5 +1486,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-23T09:00:02.529554"
+"updated":"2018-02-24T09:00:02.490651"
 }
