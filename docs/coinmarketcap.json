@@ -14,6 +14,7 @@
 "ABC":"Alphabit",
 "ABJ":"Abjcoin",
 "ABN":"Abncoin",
+"ABT":"Arcblock",
 "ABY":"ArtByte",
 "AC":"AsiaCoin",
 "ACAT":"Alphacat",
@@ -490,6 +491,7 @@
 "EXN":"ExchangeN",
 "EXP":"Expanse",
 "EXRN":"EXRNchain",
+"EXY":"Experty",
 "FAIR":"FairGame",
 "FAP":"FAPcoin",
 "FAZZ":"Fazzcoin",
@@ -567,6 +569,7 @@
 "GLS":"GlassCoin",
 "GLT":"GlobalToken",
 "GML":"GameLeagueCoin",
+"GMT":"Mercury Protocol",
 "GMX":"GoldMaxCoin",
 "GNO":"Gnosis",
 "GNT":"Golem",
@@ -858,6 +861,7 @@
 "NAS":"Nebulas",
 "NAV":"NAV Coin",
 "NBIT":"netBit",
+"NCASH":"Nucleus Vision",
 "NDC":"NEVERDIE",
 "NEBL":"Neblio",
 "NEO":"NEO",
@@ -1057,6 +1061,7 @@
 "REE":"ReeCoin",
 "REF":"RefToken",
 "REGA":"Regacoin",
+"REM":"Remme",
 "REN":"Republic Protocol",
 "REP":"Augur",
 "REQ":"Request Network",
@@ -1401,7 +1406,6 @@
 "XCRE":"Creatio",
 "XCT":"C-Bit",
 "XCXT":"CoinonatX",
-"XDE2":"XDE II",
 "XDN":"DigitalNote",
 "XEL":"Elastic",
 "XEM":"NEM",
@@ -1486,5 +1490,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-26T09:00:02.717697"
+"updated":"2018-02-27T09:00:03.137730"
 }
