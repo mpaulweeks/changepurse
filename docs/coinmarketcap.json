@@ -297,7 +297,7 @@
 "COVAL":"Circuits of Value",
 "COXST":"CoExistCoin",
 "CPAY":"Cryptopay",
-"CPC":"CPChain",
+"CPC":"Capricoin",
 "CPN":"CompuCoin",
 "CPY":"Copytrack",
 "CRAVE":"Crave",
@@ -850,7 +850,7 @@
 "MUSE":"MUSE",
 "MUSIC":"Musicoin",
 "MVC":"Maverick Chain",
-"MWAT":"RED MWAT",
+"MWAT":"Restart Energy MWAT",
 "MXT":"MarteXcoin",
 "MYB":"MyBit Token",
 "MYST":"Mysterium",
@@ -1104,7 +1104,7 @@
 "SBD":"Steem Dollars",
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
-"SCL":"Social",
+"SCL":"Sociall",
 "SCORE":"Scorecoin",
 "SCRT":"SecretCoin",
 "SCS":"Speedcash",
@@ -1242,7 +1242,7 @@
 "THC":"HempCoin",
 "THETA":"Theta Token",
 "THS":"TechShares",
-"TIE":"TIES Network",
+"TIE":"Ties.DB",
 "TIG":"Tigereum",
 "TIME":"Chronobank",
 "TIO":"Trade Token",
@@ -1414,7 +1414,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Infinity Economics",
+"XIN":"Mixin",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1490,5 +1490,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-27T09:00:03.137730"
+"updated":"2018-02-28T09:00:02.633579"
 }
