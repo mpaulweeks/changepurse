@@ -133,6 +133,7 @@
 "BERN":"BERNcash",
 "BEST":"BestChain",
 "BET":"BetaCoin",
+"BEZ":"Bezop",
 "BIG":"BigONE Token",
 "BIGUP":"BigUp",
 "BIO":"BioCoin",
@@ -977,6 +978,7 @@
 "PLX":"PlexCoin",
 "PND":"Pandacoin",
 "PNX":"Phantomx",
+"POA":"POA Network",
 "POE":"Po.et",
 "POKE":"PokeCoin",
 "POLIS":"Polis",
@@ -1074,6 +1076,7 @@
 "RISE":"Rise",
 "RIYA":"Etheriya",
 "RKC":"Royal Kingdom Coin",
+"RKT":"Rock",
 "RLC":"iExec RLC",
 "RLT":"RouletteToken",
 "RMC":"Remicoin",
@@ -1426,6 +1429,7 @@
 "XMRG":"Monero Gold",
 "XMY":"Myriad",
 "XNG":"Enigma",
+"XNK":"Ink Protocol",
 "XNN":"Xenon",
 "XOC":"Xonecoin",
 "XOT":"Internet of Things",
@@ -1490,5 +1494,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-02-28T09:00:02.633579"
+"updated":"2018-03-01T09:00:02.586503"
 }
