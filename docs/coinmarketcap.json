@@ -660,6 +660,7 @@
 "IFLT":"InflationCoin",
 "IFT":"InvestFeed",
 "IGNIS":"Ignis",
+"IHT":"IHT Real Estate Protocol",
 "IMPS":"ImpulseCoin",
 "IMS":"Independent Money System",
 "IMX":"Impact",
@@ -772,6 +773,7 @@
 "LUNA":"Luna Coin",
 "LUX":"LUXCoin",
 "LVPS":"LevoPlus",
+"LYM":"Lympo",
 "MAC":"Machinecoin",
 "MAD":"SatoshiMadness",
 "MAG":"Maggie",
@@ -1068,6 +1070,7 @@
 "REP":"Augur",
 "REQ":"Request Network",
 "REX":"REX",
+"RFR":"Refereum",
 "RHFC":"RHFCoin",
 "RHOC":"RChain",
 "RIC":"Riecoin",
@@ -1118,6 +1121,7 @@
 "SEND":"Social Send",
 "SENSE":"Sense",
 "SEQ":"Sequence",
+"SETH":"Sether",
 "SEXC":"ShareX",
 "SFC":"Solarflarecoin",
 "SFE":"SafeCoin",
@@ -1494,5 +1498,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-01T09:00:02.586503"
+"updated":"2018-03-02T09:00:02.812135"
 }
