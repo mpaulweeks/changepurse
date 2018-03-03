@@ -128,6 +128,7 @@
 "BCY":"Bitcrystals",
 "BDG":"BitDegree",
 "BDL":"Bitdeal",
+"BEE":"Bee Token",
 "BELA":"Bela",
 "BENJI":"BenjiRolls",
 "BERN":"BERNcash",
@@ -314,6 +315,7 @@
 "CRT":"CRTCoin",
 "CRW":"Crown",
 "CRX":"Chronos",
+"CS":"Credits",
 "CSC":"CasinoCoin",
 "CSNO":"BitDice",
 "CTIC2":"Coimatic 2.0",
@@ -676,6 +678,7 @@
 "INPAY":"InPay",
 "INS":"INS Ecosystem",
 "INSN":"InsaneCoin",
+"INSTAR":"Insights Network",
 "INT":"Internet Node Token",
 "INXT":"Internxt",
 "IOC":"I/O Coin",
@@ -1421,7 +1424,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Mixin",
+"XIN":"Infinity Economics",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1498,5 +1501,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-02T09:00:02.812135"
+"updated":"2018-03-03T09:00:02.545208"
 }
