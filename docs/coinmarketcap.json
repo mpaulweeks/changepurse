@@ -97,6 +97,7 @@
 "AU":"AurumCoin",
 "AUR":"Auroracoin",
 "AURA":"Aurora DAO",
+"AUTO":"Cube",
 "AV":"AvatarCoin",
 "AVH":"Animation Vision Cash",
 "AVT":"Aventus",
@@ -897,6 +898,7 @@
 "NTK":"Neurotoken",
 "NTO":"Fujinto",
 "NTRN":"Neutron",
+"NTWK":"Network Token",
 "NUKO":"Nekonium",
 "NULS":"Nuls",
 "NUMUS":"NumusCash",
@@ -1501,5 +1503,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-03T09:00:02.545208"
+"updated":"2018-03-04T09:00:02.800881"
 }
