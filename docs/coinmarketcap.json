@@ -85,6 +85,7 @@
 "ASAFE2":"AllSafe",
 "ASN":"Aseancoin",
 "AST":"AirSwap",
+"ASTRO":"Astro",
 "ATB":"ATBCoin",
 "ATL":"ATLANT",
 "ATM":"ATMChain",
@@ -219,7 +220,7 @@
 "BTPL":"Bitcoin Planet",
 "BTQ":"BitQuark",
 "BTS":"BitShares",
-"BTW":"Bitcoin White",
+"BTW":"BitWhite",
 "BTWTY":"Bit20",
 "BTX":"Bitcore",
 "BUB":"Bubble",
@@ -883,7 +884,6 @@
 "NEVA":"NevaCoin",
 "NEWB":"Newbium",
 "NGC":"NAGA",
-"NIMFA":"Nimfamoney",
 "NIO":"Autonio",
 "NKA":"IncaKoin",
 "NKC":"Nework",
@@ -1431,7 +1431,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Infinity Economics",
+"XIN":"Mixin",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1508,5 +1508,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-06T09:00:02.587756"
+"updated":"2018-03-07T09:00:02.629444"
 }
