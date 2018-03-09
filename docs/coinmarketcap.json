@@ -271,6 +271,7 @@
 "CHEAP":"Cheapcoin",
 "CHESS":"ChessCoin",
 "CHIPS":"CHIPS",
+"CHP":"CoinPoker",
 "CHSB":"SwissBorg",
 "CJ":"Cryptojacks",
 "CL":"Coinlancer",
@@ -704,6 +705,7 @@
 "IXC":"Ixcoin",
 "IXT":"iXledger",
 "J":"Joincoin",
+"J8T":"JET8",
 "JC":"Jesus Coin",
 "JET":"Jetcoin",
 "JEW":"Shekel",
@@ -1283,6 +1285,7 @@
 "TOK":"Tokugawa",
 "TOKC":"TOKYO",
 "TOKEN":"SwapToken",
+"TOMO":"TomoChain",
 "TOP":"TopCoin",
 "TOPAZ":"Topaz Coin",
 "TOPC":"TopChain",
@@ -1435,7 +1438,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Infinity Economics",
+"XIN":"Mixin",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1512,5 +1515,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-08T09:00:02.613441"
+"updated":"2018-03-09T09:00:03.294548"
 }
