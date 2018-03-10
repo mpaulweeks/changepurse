@@ -1,6 +1,7 @@
 {
 "coins":{
 "$$$":"Money",
+"$PAC":"PACcoin",
 "1337":"Elite",
 "1ST":"FirstBlood",
 "2GIVE":"2GIVE",
@@ -113,6 +114,7 @@
 "BAS":"BitAsean",
 "BASH":"LuckChain",
 "BAT":"BatCoin",
+"BAX":"BABB",
 "BAY":"BitBay",
 "BBP":"BiblePay",
 "BBR":"Boolberry",
@@ -282,7 +284,7 @@
 "CME":"Cashme",
 "CMP":"Compcoin",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNNC":"Cannation",
@@ -449,6 +451,7 @@
 "ELA":"Elastos",
 "ELC":"Elacoin",
 "ELE":"Elementrem",
+"ELEC":"Electrify.Asia",
 "ELF":"aelf",
 "ELITE":"Ethereum Lite",
 "ELIX":"Elixir",
@@ -591,6 +594,7 @@
 "GPU":"GPU Coin",
 "GRC":"GridCoin",
 "GRE":"Greencoin",
+"GRFT":"Graft",
 "GRID":"Grid+",
 "GRIM":"Grimcoin",
 "GRLC":"Garlicoin",
@@ -951,7 +955,6 @@
 "OX":"OX Fina",
 "OXY":"Oxycoin",
 "P7C":"P7Coin",
-"PAC":"PACcoin",
 "PAK":"Pakcoin",
 "PARETO":"Pareto Network",
 "PART":"Particl",
@@ -1109,7 +1112,7 @@
 "RUFF":"Ruff",
 "RUNNERS":"Runners",
 "RUP":"Rupee",
-"RUPX":"Rupaya [OLD]",
+"RUPX":"Rupaya",
 "RUSTBITS":"Rustbits",
 "RVT":"Rivetz",
 "RYZ":"ANRYZE",
@@ -1120,6 +1123,7 @@
 "SALT":"SALT",
 "SAN":"Santiment Network Token",
 "SANDG":"Save and Gain",
+"SAY":"SpherePay",
 "SBC":"StrikeBitClub",
 "SBD":"Steem Dollars",
 "SBTC":"Super Bitcoin",
@@ -1515,5 +1519,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-09T09:00:03.294548"
+"updated":"2018-03-10T09:00:02.628901"
 }
