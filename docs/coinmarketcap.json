@@ -210,6 +210,7 @@
 "BTCA":"Bitair",
 "BTCD":"BitcoinDark",
 "BTCM":"BTCMoon",
+"BTCP":"Bitcoin Private",
 "BTCR":"Bitcurrency",
 "BTCRED":"Bitcoin Red",
 "BTCS":"Bitcoin Scrypt",
@@ -284,7 +285,7 @@
 "CME":"Cashme",
 "CMP":"Compcoin",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNNC":"Cannation",
@@ -1114,6 +1115,7 @@
 "RUP":"Rupee",
 "RUPX":"Rupaya",
 "RUSTBITS":"Rustbits",
+"RVN":"Ravencoin",
 "RVT":"Rivetz",
 "RYZ":"ANRYZE",
 "SAC":"SACoin",
@@ -1149,6 +1151,7 @@
 "SHDW":"Shadow Token",
 "SHELL":"ShellCoin",
 "SHIFT":"Shift",
+"SHIP":"ShipChain",
 "SHND":"StrongHands",
 "SHORTY":"Shorty",
 "SHOW":"Show",
@@ -1259,9 +1262,11 @@
 "TEK":"TEKcoin",
 "TEL":"Telcoin",
 "TELL":"Tellurion",
+"TEN":"Tokenomy",
 "TER":"TerraNova",
 "TES":"TeslaCoin",
 "TESLA":"TeslaCoilCoin",
+"TFD":"TE-FOOD",
 "TFL":"TrueFlip",
 "TGC":"Tigercoin",
 "TGT":"Target Coin",
@@ -1519,5 +1524,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-10T09:00:02.628901"
+"updated":"2018-03-11T09:00:02.678280"
 }
