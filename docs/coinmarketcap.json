@@ -285,7 +285,7 @@
 "CME":"Cashme",
 "CMP":"Compcoin",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNNC":"Cannation",
@@ -511,7 +511,6 @@
 "FCN":"Fantomcoin",
 "FCT":"Factom",
 "FDX":"FidentiaX",
-"FFC":"FireFlyCoin",
 "FID":"BITFID",
 "FIL":"Filecoin [Futures]",
 "FIMK":"FIMKrypto",
@@ -746,6 +745,7 @@
 "KUSH":"KushCoin",
 "KZC":"Kzcash",
 "LA":"LATOKEN",
+"LALA":"LALA World",
 "LANA":"LanaCoin",
 "LAZ":"Lazaruscoin",
 "LBC":"LBRY Credits",
@@ -753,6 +753,7 @@
 "LCC":"Litecoin Cash",
 "LCP":"Litecoin Plus",
 "LCT":"LendConnect",
+"LDC":"Leadcoin",
 "LDCN":"LandCoin",
 "LDOGE":"LiteDoge",
 "LEA":"LeaCoin",
@@ -849,7 +850,6 @@
 "MOJO":"MojoCoin",
 "MONA":"MonaCoin",
 "MONETA":"Moneta",
-"MONEY":"MoneyCoin",
 "MONK":"Monkey Project",
 "MOON":"Mooncoin",
 "MOT":"Olympus Labs",
@@ -925,6 +925,7 @@
 "OAX":"OAX",
 "OBITS":"OBITS",
 "OC":"OceanChain",
+"OCC":"Octoin Coin",
 "OCL":"Oceanlab",
 "OCN":"Odyssey",
 "OCOW":"OCOW",
@@ -1155,6 +1156,7 @@
 "SHND":"StrongHands",
 "SHORTY":"Shorty",
 "SHOW":"Show",
+"SHP":"Sharpe Capital",
 "SIB":"SIBCoin",
 "SIC":"Swisscoin",
 "SIGMA":"SIGMAcoin",
@@ -1524,5 +1526,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-12T09:00:02.649701"
+"updated":"2018-03-13T09:00:02.998503"
 }
