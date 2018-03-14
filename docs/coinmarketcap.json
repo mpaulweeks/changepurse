@@ -250,7 +250,7 @@
 "CAS":"Cashaa",
 "CASH":"Cashcoin",
 "CAT":"Catcoin",
-"CBX":"Crypto Bullion",
+"CBX":"Bullion",
 "CC":"CyberCoin",
 "CCM100":"CCMiner",
 "CCN":"CannaCoin",
@@ -261,6 +261,7 @@
 "CDT":"Blox",
 "CDX":"Commodity Ad Network",
 "CEFS":"CryptopiaFeeShares",
+"CENNZ":"Centrality",
 "CESC":"CryptoEscudo",
 "CF":"Californium",
 "CFC":"CoffeeCoin",
@@ -365,6 +366,7 @@
 "DCY":"Dinastycoin",
 "DDD":"Scry.info",
 "DDF":"DigitalDevelopersFund",
+"DEB":"Debitum Network",
 "DEM":"Deutsche eMark",
 "DENT":"Dent",
 "DES":"Destiny",
@@ -1156,7 +1158,7 @@
 "SHND":"StrongHands",
 "SHORTY":"Shorty",
 "SHOW":"Show",
-"SHP":"Sharpe Capital",
+"SHP":"Sharpe Platform Token",
 "SIB":"SIBCoin",
 "SIC":"Swisscoin",
 "SIGMA":"SIGMAcoin",
@@ -1526,5 +1528,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-13T09:00:02.998503"
+"updated":"2018-03-14T09:00:03.042377"
 }
