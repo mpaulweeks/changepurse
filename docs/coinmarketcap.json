@@ -575,6 +575,7 @@
 "GEM":"Gems ",
 "GEO":"GeoCoin",
 "GET":"GET Protocol",
+"GETX":"Guaranteed Ethurance Token Extra",
 "GJC":"Global Jobcoin",
 "GLA":"Gladius Token",
 "GLC":"GlobalCoin",
@@ -616,6 +617,7 @@
 "HAL":"Halcyon",
 "HALLO":"Halloween Coin",
 "HAT":"Hawala.Today",
+"HAV":"Havven",
 "HBC":"HomeBlockCoin",
 "HBN":"HoboNickels",
 "HBT":"Hubii Network",
@@ -782,6 +784,7 @@
 "LOC":"LockChain",
 "LOCI":"LOCIcoin",
 "LOG":"Woodcoin",
+"LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
 "LTB":"LiteBar",
@@ -1040,7 +1043,7 @@
 "PULSE":"Pulse",
 "PURA":"Pura",
 "PURE":"Pure",
-"PUT":"PutinCoin",
+"PUT":"Profile Utility Token",
 "PX":"PX",
 "PXC":"Phoenixcoin",
 "PXI":"Prime-XI",
@@ -1229,6 +1232,7 @@
 "STN":"Steneum Coin",
 "STORJ":"Storj",
 "STORM":"Storm",
+"STQ":"Storiqa",
 "STRAT":"Stratis",
 "STRC":"StarCredits",
 "STU":"bitJob",
@@ -1528,5 +1532,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-14T09:00:03.042377"
+"updated":"2018-03-15T09:00:02.958584"
 }
