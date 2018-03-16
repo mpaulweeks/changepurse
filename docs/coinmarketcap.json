@@ -323,7 +323,6 @@
 "CRW":"Crown",
 "CRX":"Chronos",
 "CS":"Credits",
-"CSC":"CasinoCoin",
 "CSNO":"BitDice",
 "CTIC2":"Coimatic 2.0",
 "CTIC3":"Coimatic 3.0",
@@ -526,6 +525,7 @@
 "FLIXX":"Flixxo",
 "FLO":"FlorinCoin",
 "FLT":"FlutterCoin",
+"FLUZ":"Fluz Fluz",
 "FLY":"Flycoin",
 "FNC":"FinCoin",
 "FONZ":"Fonziecoin",
@@ -1043,7 +1043,7 @@
 "PULSE":"Pulse",
 "PURA":"Pura",
 "PURE":"Pure",
-"PUT":"Profile Utility Token",
+"PUT":"PutinCoin",
 "PX":"PX",
 "PXC":"Phoenixcoin",
 "PXI":"Prime-XI",
@@ -1500,7 +1500,7 @@
 "XZC":"ZCoin",
 "YAC":"Yacoin",
 "YASH":"YashCoin",
-"YEE":"Yee",
+"YEE":"YEE",
 "YES":"Yescoin",
 "YOC":"Yocoin",
 "YOYOW":"YOYOW",
@@ -1532,5 +1532,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-15T09:00:02.958584"
+"updated":"2018-03-16T09:00:02.704746"
 }
