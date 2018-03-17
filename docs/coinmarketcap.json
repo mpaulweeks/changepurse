@@ -1122,6 +1122,7 @@
 "RUPX":"Rupaya",
 "RUSTBITS":"Rustbits",
 "RVN":"Ravencoin",
+"RVR":"RevolutionVR",
 "RVT":"Rivetz",
 "RYZ":"ANRYZE",
 "SAC":"SACoin",
@@ -1388,7 +1389,6 @@
 "VOISE":"Voise",
 "VOLT":"Bitvolt",
 "VOT":"VoteCoin",
-"VOX":"Voxels",
 "VOYA":"Voyacoin",
 "VPRC":"VapersCoin",
 "VRC":"VeriCoin",
@@ -1532,5 +1532,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-16T09:00:02.704746"
+"updated":"2018-03-17T09:00:03.124110"
 }
