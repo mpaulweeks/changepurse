@@ -997,7 +997,7 @@
 "PLACO":"PlayerCoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
-"PLC":"Polcoin",
+"PLC":"PlusCoin",
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
@@ -1532,5 +1532,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-17T09:00:03.124110"
+"updated":"2018-03-18T09:00:03.079049"
 }
