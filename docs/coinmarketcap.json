@@ -405,6 +405,7 @@
 "DPY":"Delphy",
 "DRGN":"Dragonchain",
 "DRM":"Dreamcoin",
+"DROP":"Dropil",
 "DRP":"DCORP",
 "DRPU":"DRP Utility",
 "DRS":"Digital Rupees",
@@ -629,6 +630,7 @@
 "HERO":"Sovereign Hero",
 "HGT":"HelloGold",
 "HIGH":"High Gain",
+"HIRE":"HireMatch",
 "HKN":"Hacken",
 "HLC":"HalalChain",
 "HMC":"HarmonyCoin",
@@ -649,7 +651,6 @@
 "HT":"Huobi Token",
 "HTC":"HitCoin",
 "HTML":"HTMLCOIN",
-"HTML5":"HTML5COIN",
 "HUC":"HunterCoin",
 "HUSH":"Hush",
 "HVCO":"High Voltage",
@@ -997,7 +998,7 @@
 "PLACO":"PlayerCoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
-"PLC":"PlusCoin",
+"PLC":"Polcoin",
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
@@ -1532,5 +1533,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-18T09:00:03.079049"
+"updated":"2018-03-19T09:00:02.434476"
 }
