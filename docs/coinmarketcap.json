@@ -40,7 +40,6 @@
 "AERM":"Aerium",
 "AGI":"SingularityNET",
 "AGLC":"AgrolifeCoin",
-"AGRS":"Agoras Tokens",
 "AHT":"Bowhead",
 "AI":"POLY AI",
 "AIB":"Advanced Internet Blocks",
@@ -110,6 +109,7 @@
 "B2X":"SegWit2x",
 "B@":"Bankcoin",
 "BAC":"BitAlphaCoin",
+"BANCA":"Banca",
 "BAR":"Titanium Blockchain",
 "BAS":"BitAsean",
 "BASH":"LuckChain",
@@ -322,7 +322,9 @@
 "CRT":"CRTCoin",
 "CRW":"Crown",
 "CRX":"Chronos",
+"CRYPT":"CryptCoin",
 "CS":"Credits",
+"CSC":"CasinoCoin",
 "CSNO":"BitDice",
 "CTIC2":"Coimatic 2.0",
 "CTIC3":"Coimatic 3.0",
@@ -957,7 +959,7 @@
 "ORLY":"Orlycoin",
 "ORME":"Ormeus Coin",
 "OS76":"OsmiumCoin",
-"OST":"Simple Token",
+"OST":"OST",
 "OTN":"Open Trading Network",
 "OTX":"Octanox",
 "OX":"OX Fina",
@@ -1533,5 +1535,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-19T09:00:02.434476"
+"updated":"2018-03-20T09:00:02.917025"
 }
