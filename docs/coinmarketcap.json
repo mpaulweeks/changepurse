@@ -39,7 +39,6 @@
 "AEON":"Aeon",
 "AERM":"Aerium",
 "AGI":"SingularityNET",
-"AGLC":"AgrolifeCoin",
 "AHT":"Bowhead",
 "AI":"POLY AI",
 "AIB":"Advanced Internet Blocks",
@@ -405,6 +404,7 @@
 "DOVU":"Dovu",
 "DP":"DigitalPrice",
 "DPY":"Delphy",
+"DRG":"Dragon Coins",
 "DRGN":"Dragonchain",
 "DRM":"Dreamcoin",
 "DROP":"Dropil",
@@ -884,6 +884,7 @@
 "MYST":"Mysterium",
 "MZC":"MAZA",
 "NAMO":"NamoCoin",
+"NANJ":"NANJCOIN",
 "NANO":"Nano",
 "NANOX":"Project-X",
 "NAS":"Nebulas",
@@ -1359,6 +1360,7 @@
 "UNO":"Unobtanium",
 "UNRC":"UniversalRoyalCoin",
 "UNY":"Unity Ingot",
+"UP":"UpToken",
 "UQC":"Uquid Coin",
 "UR":"UR",
 "URC":"Unrealcoin",
@@ -1535,5 +1537,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-20T09:00:02.917025"
+"updated":"2018-03-21T09:00:02.863990"
 }
