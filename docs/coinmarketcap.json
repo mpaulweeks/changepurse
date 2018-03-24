@@ -58,6 +58,7 @@
 "ALTCOM":"SONO",
 "AMB":"Ambrosus",
 "AMBER":"AmberCoin",
+"AMLT":"AMLT Token",
 "AMM":"MicroMoney",
 "AMMO":"Ammo Reloaded",
 "AMP":"Synereo",
@@ -939,6 +940,7 @@
 "NXC":"Nexium",
 "NXS":"Nexus",
 "NXT":"Nxt",
+"NXX":"Nexxus",
 "NYAN":"Nyancoin",
 "NYC":"NewYorkCoin",
 "OAX":"OAX",
@@ -1011,7 +1013,7 @@
 "PLACO":"PlayerCoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
-"PLC":"Polcoin",
+"PLC":"PlusCoin",
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
@@ -1192,6 +1194,7 @@
 "SLEVIN":"Slevin",
 "SLFI":"Selfiecoin",
 "SLG":"Sterlingcoin",
+"SLM":"Slimcoin",
 "SLOTH":"Slothcoin",
 "SLR":"SolarCoin",
 "SLS":"SaluS",
@@ -1420,6 +1423,7 @@
 "W3C":"W3Coin",
 "WA":"WA Space",
 "WABI":"WaBi",
+"WAN":"Wanchain",
 "WAND":"WandX",
 "WARP":"WARP",
 "WAVES":"Waves",
@@ -1546,5 +1550,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-23T09:00:03.419693"
+"updated":"2018-03-24T09:00:03.149597"
 }
