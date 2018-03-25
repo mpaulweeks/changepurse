@@ -848,6 +848,7 @@
 "MINEX":"Minex",
 "MINT":"Mintcoin",
 "MIOTA":"IOTA",
+"MITH":"Mithril",
 "MKR":"Maker",
 "MLM":"MktCoin",
 "MLN":"Melon",
@@ -1013,7 +1014,7 @@
 "PLACO":"PlayerCoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
-"PLC":"PlusCoin",
+"PLC":"Polcoin",
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
@@ -1099,7 +1100,7 @@
 "RDN":"Raiden Network Token",
 "READ":"Read",
 "REAL":"REAL",
-"REBL":"Rebellious",
+"REBL":"REBL",
 "REC":"Regalcoin",
 "RED":"RedCoin",
 "REE":"ReeCoin",
@@ -1550,5 +1551,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-24T09:00:03.149597"
+"updated":"2018-03-25T09:00:03.241208"
 }
