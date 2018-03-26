@@ -797,6 +797,7 @@
 "LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
+"LST":"Lendroid Support Token",
 "LTB":"LiteBar",
 "LTC":"Litecoin",
 "LTCR":"Litecred",
@@ -988,6 +989,7 @@
 "PAYP":"PayPeer",
 "PBL":"Publica",
 "PBT":"Primalbase Token",
+"PCL":"Peculium",
 "PCN":"PeepCoin",
 "PCOIN":"Pioneer Coin",
 "PCS":"Pabyosi Coin (Special)",
@@ -1127,6 +1129,7 @@
 "RMT":"SureRemit",
 "RNS":"Renos",
 "RNT":"OneRoot Network",
+"RNTB":"BitRent",
 "ROOFS":"Roofs",
 "ROYAL":"RoyalCoin",
 "RPC":"RonPaulCoin",
@@ -1182,6 +1185,7 @@
 "SHP":"Sharpe Platform Token",
 "SIB":"SIBCoin",
 "SIC":"Swisscoin",
+"SIG":"Signal Token",
 "SIGMA":"SIGMAcoin",
 "SIGT":"Signatum",
 "SISA":"SISA",
@@ -1551,5 +1555,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-25T09:00:03.241208"
+"updated":"2018-03-26T09:00:03.087941"
 }
