@@ -300,7 +300,7 @@
 "COAL":"BitCoal",
 "COB":"Cobinhood",
 "COFI":"CoinFi",
-"COLX":"ColossusCoinXT",
+"COLX":"ColossusXT",
 "CON":"PayCon",
 "CONX":"Concoin",
 "COR":"CORION",
@@ -987,6 +987,7 @@
 "PASL":"Pascal Lite",
 "PAY":"TenX",
 "PAYP":"PayPeer",
+"PAYX":"Paypex",
 "PBL":"Publica",
 "PBT":"Primalbase Token",
 "PCL":"Peculium",
@@ -1283,6 +1284,7 @@
 "TAJ":"TajCoin",
 "TALK":"BTCtalkcoin",
 "TAU":"Lamden",
+"TBAR":"Titanium BAR",
 "TBX":"Tokenbox",
 "TCC":"The ChampCoin",
 "TCOIN":"T-coin",
@@ -1555,5 +1557,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-26T09:00:03.087941"
+"updated":"2018-03-27T09:00:02.388695"
 }
