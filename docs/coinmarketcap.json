@@ -338,7 +338,6 @@
 "CUBE":"DigiCube",
 "CURE":"Curecoin",
 "CV":"carVertical",
-"CV2":"Colossuscoin V2",
 "CVC":"Civic",
 "CVCOIN":"CVCoin",
 "CWXT":"CryptoWorldX Token",
@@ -710,6 +709,7 @@
 "IPBC":"Interplanetary Broadcast Coin",
 "IPC":"IPChain",
 "IPL":"InsurePal",
+"IPSX":"IP Exchange",
 "IQT":"iQuant",
 "IRL":"IrishCoin",
 "ISL":"IslaCoin",
@@ -734,7 +734,6 @@
 "KARMA":"Karmacoin",
 "KASHH":"KashhCoin",
 "KAYI":"Kayicoin",
-"KB3":"B3Coin",
 "KBR":"Kubera Coin",
 "KCASH":"Kcash",
 "KCS":"KuCoin Shares",
@@ -790,6 +789,7 @@
 "LKK":"Lykke",
 "LLT":"LLToken",
 "LMC":"LoMoCoin",
+"LNC":"Blocklancer",
 "LNK":"Link Platform",
 "LOC":"LockChain",
 "LOCI":"LOCIcoin",
@@ -1229,6 +1229,7 @@
 "SPACE":"SpaceCoin",
 "SPANK":"SpankChain",
 "SPC":"SpaceChain",
+"SPD":"Stipend",
 "SPEX":"SproutsExtreme",
 "SPF":"SportyCo",
 "SPHR":"Sphere",
@@ -1463,6 +1464,7 @@
 "XAUR":"Xaurum",
 "XBC":"Bitcoin Plus",
 "XBL":"Billionaire Token",
+"XBP":"BlitzPredict",
 "XBTC21":"Bitcoin 21",
 "XBTS":"Beatcoin",
 "XBY":"XTRABYTES",
@@ -1557,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-27T09:00:02.388695"
+"updated":"2018-03-28T09:00:03.054334"
 }
