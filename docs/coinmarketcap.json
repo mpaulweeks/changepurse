@@ -205,6 +205,7 @@
 "BSN":"Bastonet",
 "BSR":"BitSoar",
 "BSTAR":"Blackstar",
+"BSTN":"BitStation",
 "BSTY":"GlobalBoost-Y",
 "BT2":"BT2 [CST]",
 "BTA":"Bata",
@@ -448,6 +449,7 @@
 "EDO":"Eidoo",
 "EDR":"E-Dinar Coin",
 "EDRC":"EDRCoin",
+"EDT":"EtherDelta Token",
 "EFL":"e-Gulden",
 "EFYT":"Ergo",
 "EGC":"EverGreenCoin",
@@ -553,6 +555,7 @@
 "FUEL":"Etherparty",
 "FUN":"FunFair",
 "FUNC":"FUNCoin",
+"FUNK":"The Cypherfunks",
 "FUTC":"FutCoin",
 "FUZZ":"FuzzBalls",
 "FXE":"FuturXe",
@@ -926,7 +929,7 @@
 "NOTE":"DNotes",
 "NOX":"Nitro",
 "NPX":"NaPoleonX",
-"NPXS":"Pundi X [NEW]",
+"NPXS":"Pundi X",
 "NRO":"Neuro",
 "NSR":"NuShares",
 "NTC":"Natcoin",
@@ -1067,7 +1070,6 @@
 "PX":"PX",
 "PXC":"Phoenixcoin",
 "PXI":"Prime-XI",
-"PXS":"Pundi X [OLD]",
 "PYLNT":"Pylon Network",
 "PZM":"PRIZM",
 "Q2C":"QubitCoin",
@@ -1158,6 +1160,7 @@
 "SBD":"Steem Dollars",
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
+"SCC":"StockChain",
 "SCL":"Sociall",
 "SCORE":"Scorecoin",
 "SCRT":"SecretCoin",
@@ -1559,5 +1562,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-28T09:00:03.054334"
+"updated":"2018-03-29T09:00:02.813785"
 }
