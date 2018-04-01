@@ -721,6 +721,7 @@
 "ITI":"iTicoin",
 "ITNS":"IntenseCoin",
 "ITT":"Intelligent Trading Tech",
+"ITZ":"Interzone",
 "IVZ":"InvisibleCoin",
 "IXC":"Ixcoin",
 "IXT":"iXledger",
@@ -1487,7 +1488,7 @@
 "XGR":"GoldReserve",
 "XHI":"HiCoin",
 "XID":"International Diamond",
-"XIN":"Mixin",
+"XIN":"Infinity Economics",
 "XIOS":"Xios",
 "XJO":"Joulecoin",
 "XLC":"LeviarCoin",
@@ -1563,5 +1564,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-03-31T09:00:03.215596"
+"updated":"2018-04-01T09:00:03.301554"
 }
