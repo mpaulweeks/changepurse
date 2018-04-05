@@ -15,7 +15,6 @@
 "AAC":"Acute Angle Cloud",
 "ABC":"Alphabit",
 "ABJ":"Abjcoin",
-"ABN":"Abncoin",
 "ABT":"Arcblock",
 "ABY":"ArtByte",
 "AC":"AsiaCoin",
@@ -385,7 +384,6 @@
 "DGCS":"Digital Credits",
 "DGD":"DigixDAO",
 "DGPT":"DigiPulse",
-"DIBC":"DIBCOIN",
 "DICE":"Etheroll",
 "DIM":"DIMCOIN",
 "DIME":"Dimecoin",
@@ -518,10 +516,10 @@
 "FAIR":"FairGame",
 "FAP":"FAPcoin",
 "FAZZ":"Fazzcoin",
-"FC2":"FuelCoin",
 "FCN":"Fantomcoin",
 "FCT":"Factom",
 "FDX":"FidentiaX",
+"FDZ":"Friendz",
 "FID":"BITFID",
 "FIL":"Filecoin [Futures]",
 "FIMK":"FIMKrypto",
@@ -1335,7 +1333,6 @@
 "TODAY":"TodayCoin",
 "TOK":"Tokugawa",
 "TOKC":"TOKYO",
-"TOKEN":"SwapToken",
 "TOMO":"TomoChain",
 "TOP":"TopCoin",
 "TOPAZ":"Topaz Coin",
@@ -1568,5 +1565,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-04T09:00:02.876654"
+"updated":"2018-04-05T09:00:03.017003"
 }
