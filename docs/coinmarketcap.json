@@ -39,6 +39,7 @@
 "AEON":"Aeon",
 "AERM":"Aerium",
 "AGI":"SingularityNET",
+"AGLC":"AgrolifeCoin",
 "AHT":"Bowhead",
 "AI":"POLY AI",
 "AIB":"Advanced Internet Blocks",
@@ -716,6 +717,7 @@
 "JC":"Jesus Coin",
 "JET":"Jetcoin",
 "JEW":"Shekel",
+"JIN":"Jin Coin",
 "JIYO":"Jiyo",
 "JNT":"Jibrel Network",
 "JOBS":"JobsCoin",
@@ -1487,6 +1489,7 @@
 "XST":"Stealthcoin",
 "XSTC":"Safe Trade Coin",
 "XTD":"XTD Coin",
+"XTL":"Stellite",
 "XTO":"Tao",
 "XTZ":"Tezos (Pre-Launch)",
 "XUC":"Exchange Union",
@@ -1528,5 +1531,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-09T09:00:02.834620"
+"updated":"2018-04-10T09:00:02.523128"
 }
