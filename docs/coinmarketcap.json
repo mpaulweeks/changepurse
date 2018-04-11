@@ -27,7 +27,6 @@
 "ACP":"AnarchistsPrime",
 "ACT":"Achain",
 "ADA":"Cardano",
-"ADB":"adbank",
 "ADC":"AudioCoin",
 "ADCN":"Asiadigicoin",
 "ADK":"Aidos Kuneen",
@@ -279,6 +278,7 @@
 "CHP":"CoinPoker",
 "CHSB":"SwissBorg",
 "CJ":"Cryptojacks",
+"CKUSD":"CK USD",
 "CL":"Coinlancer",
 "CLAM":"Clams",
 "CLD":"Cloud",
@@ -890,6 +890,7 @@
 "NAV":"NavCoin",
 "NBIT":"netBit",
 "NCASH":"Nucleus Vision",
+"NCT":"PolySwarm",
 "NDC":"NEVERDIE",
 "NEBL":"Neblio",
 "NEO":"NEO",
@@ -940,6 +941,7 @@
 "OCL":"Oceanlab",
 "OCN":"Odyssey",
 "OCT":"OracleChain",
+"ODE":"ODEM",
 "ODN":"Obsidian",
 "OF":"OFCOIN",
 "OFF":"Cthulhu Offerings",
@@ -1531,5 +1533,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-10T09:00:02.523128"
+"updated":"2018-04-11T09:00:03.153280"
 }
