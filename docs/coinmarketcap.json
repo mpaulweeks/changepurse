@@ -27,6 +27,7 @@
 "ACP":"AnarchistsPrime",
 "ACT":"Achain",
 "ADA":"Cardano",
+"ADB":"adbank",
 "ADC":"AudioCoin",
 "ADCN":"Asiadigicoin",
 "ADK":"Aidos Kuneen",
@@ -253,7 +254,6 @@
 "CAT":"Catcoin",
 "CBX":"Bullion",
 "CC":"CyberCoin",
-"CCM100":"CCMiner",
 "CCN":"CannaCoin",
 "CCO":"Ccore",
 "CCRB":"CryptoCarbon",
@@ -726,6 +726,7 @@
 "KARMA":"Karmacoin",
 "KASHH":"KashhCoin",
 "KAYI":"Kayicoin",
+"KB3":"B3Coin",
 "KBR":"Kubera Coin",
 "KCASH":"Kcash",
 "KCS":"KuCoin Shares",
@@ -1194,7 +1195,6 @@
 "SMOKE":"Smoke",
 "SMS":"Speed Mining Service",
 "SMT":"SmartMesh",
-"SNAKE":"SnakeEyes",
 "SNC":"SunContract",
 "SND":"Sand Coin",
 "SNGLS":"SingularDTV",
@@ -1435,7 +1435,6 @@
 "WRC":"Worldcore",
 "WSX":"WeAreSatoshi",
 "WTC":"Waltonchain",
-"WTT":"Giga Watt Token",
 "X2":"X2",
 "XAS":"Asch",
 "XAUR":"Xaurum",
@@ -1533,5 +1532,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-11T09:00:03.153280"
+"updated":"2018-04-12T09:00:02.728573"
 }
