@@ -708,7 +708,7 @@
 "ITC":"IoT Chain",
 "ITI":"iTicoin",
 "ITNS":"IntenseCoin",
-"ITT":"Intelligent Trading Tech",
+"ITT":"Intelligent Trading Foundation",
 "ITZ":"Interzone",
 "IXC":"Ixcoin",
 "IXT":"iXledger",
@@ -1452,6 +1452,7 @@
 "XCRE":"Creatio",
 "XCT":"C-Bit",
 "XCXT":"CoinonatX",
+"XDCE":"XinFin Network",
 "XDN":"DigitalNote",
 "XEL":"Elastic",
 "XEM":"NEM",
@@ -1487,6 +1488,7 @@
 "XRP":"Ripple",
 "XRY":"Royalties",
 "XSH":"SHIELD",
+"XSN":"StakeNet",
 "XSPEC":"Spectrecoin",
 "XST":"Stealthcoin",
 "XSTC":"Safe Trade Coin",
@@ -1533,5 +1535,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-13T09:00:02.588313"
+"updated":"2018-04-14T09:00:03.127544"
 }
