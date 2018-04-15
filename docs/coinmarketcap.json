@@ -479,6 +479,7 @@
 "ERA":"ERA",
 "ERC":"EuropeCoin",
 "ERC20":"ERC20",
+"EREAL":"eREAL",
 "ERO":"Eroscoin",
 "ERY":"Eryllium",
 "ESC":"Escroco",
@@ -1426,6 +1427,7 @@
 "WGR":"Wagerr",
 "WHL":"WhaleCoin",
 "WIC":"Wi Coin",
+"WICC":"WaykiChain",
 "WILD":"Wild Crypto",
 "WINGS":"Wings",
 "WINK":"Wink",
@@ -1535,5 +1537,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-14T09:00:03.127544"
+"updated":"2018-04-15T09:00:03.384000"
 }
