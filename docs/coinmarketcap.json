@@ -1043,7 +1043,7 @@
 "PRIX":"Privatix",
 "PRL":"Oyster",
 "PRM":"PrismChain",
-"PRN":"IronCoin",
+"PRN":"Protean",
 "PRO":"Propy",
 "PROC":"ProCurrency",
 "PRS":"PressOne",
@@ -1104,7 +1104,7 @@
 "REN":"Republic Protocol",
 "REP":"Augur",
 "REQ":"Request Network",
-"REX":"REX",
+"REX":"Imbrex",
 "RFR":"Refereum",
 "RHFC":"RHFCoin",
 "RHOC":"RChain",
@@ -1228,7 +1228,6 @@
 "SPORT":"SportsCoin",
 "SPR":"SpreadCoin",
 "SPRTS":"Sprouts",
-"SPT":"Spots",
 "SRC":"SecureCoin",
 "SRN":"SIRIN LABS Token",
 "SSC":"SelfSell",
@@ -1344,7 +1343,6 @@
 "TSL":"Energo",
 "TSTR":"Tristar Coin",
 "TTC":"TittieCoin",
-"TTY":"Trinity",
 "TURBO":"TurboCoin",
 "TUSD":"True USD",
 "TX":"TransferCoin",
@@ -1546,5 +1544,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-18T09:00:03.333157"
+"updated":"2018-04-19T09:00:02.977096"
 }
