@@ -324,7 +324,6 @@
 "CREVA":"CrevaCoin",
 "CRM":"Cream",
 "CRPT":"Crypterium",
-"CRT":"CRTCoin",
 "CRW":"Crown",
 "CRX":"Chronos",
 "CRYPT":"CryptCoin",
@@ -624,7 +623,7 @@
 "HAC":"Hackspace Capital",
 "HAL":"Halcyon",
 "HALLO":"Halloween Coin",
-"HAT":"Hawala.Today",
+"HAT":"Hat.Exchange",
 "HAV":"Havven",
 "HBC":"HomeBlockCoin",
 "HBN":"HoboNickels",
@@ -835,7 +834,7 @@
 "MEC":"Megacoin",
 "MED":"MediBloc",
 "MEDIC":"MedicCoin",
-"MEE":"CoinMeet",
+"MEET":"CoinMeet",
 "MEME":"Memetic / PepeCoin",
 "MER":"Mercury",
 "METAL":"MetalCoin",
@@ -1104,7 +1103,7 @@
 "REN":"Republic Protocol",
 "REP":"Augur",
 "REQ":"Request Network",
-"REX":"Imbrex",
+"REX":"imbrex",
 "RFR":"Refereum",
 "RHFC":"RHFCoin",
 "RHOC":"RChain",
@@ -1544,5 +1543,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-19T09:00:02.977096"
+"updated":"2018-04-20T09:00:03.356261"
 }
