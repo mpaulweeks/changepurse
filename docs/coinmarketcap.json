@@ -319,7 +319,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CREA":"Creativecoin",
 "CRED":"Verify",
@@ -799,7 +799,7 @@
 "LKK":"Lykke",
 "LMC":"LoMoCoin",
 "LNC":"Blocklancer",
-"LOC":"LockChain",
+"LOC":"LockTrip",
 "LOCI":"LOCIcoin",
 "LOG":"Woodcoin",
 "LOOM":"Loom Network",
@@ -1176,7 +1176,6 @@
 "SETH":"Sether",
 "SEXC":"ShareX",
 "SFC":"Solarflarecoin",
-"SFE":"SafeCoin",
 "SGR":"Sugar Exchange",
 "SH":"Shilling",
 "SHA":"SHACoin",
@@ -1190,7 +1189,7 @@
 "SHP":"Sharpe Platform Token",
 "SIB":"SIBCoin",
 "SIC":"Swisscoin",
-"SIG":"Signal Token",
+"SIG":"Spectiv",
 "SIGMA":"SIGMAcoin",
 "SIGT":"Signatum",
 "SISA":"SISA",
@@ -1560,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-24T09:00:03.240485"
+"updated":"2018-04-25T09:00:03.398769"
 }
