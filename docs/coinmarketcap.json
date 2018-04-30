@@ -640,6 +640,7 @@
 "HBC":"HomeBlockCoin",
 "HBN":"HoboNickels",
 "HBT":"Hubii Network",
+"HBZ":"Helbiz",
 "HC":"Harvest Masternode Coin",
 "HCC":"Happy Creator Coin",
 "HDG":"Hedge",
@@ -978,6 +979,7 @@
 "OPT":"Opus",
 "ORB":"Orbitcoin",
 "ORE":"Galactrum",
+"ORI":"Origami",
 "ORME":"Ormeus Coin",
 "OS76":"OsmiumCoin",
 "OST":"OST",
@@ -1554,5 +1556,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-04-29T09:00:03.380771"
+"updated":"2018-04-30T09:00:02.950206"
 }
