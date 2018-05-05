@@ -298,9 +298,10 @@
 "CLOAK":"CloakCoin",
 "CLR":"ClearCoin",
 "CLUB":"ClubCoin",
+"CMCT":"Crowd Machine",
 "CME":"Cashme",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNNC":"Cannation",
@@ -621,7 +622,6 @@
 "GOOD":"Goodomy",
 "GP":"GoldPieces",
 "GPL":"Gold Pressed Latinum",
-"GPU":"GPU Coin",
 "GRC":"GridCoin",
 "GRFT":"Graft",
 "GRID":"Grid+",
@@ -870,6 +870,7 @@
 "MINT":"Mintcoin",
 "MIOTA":"IOTA",
 "MITH":"Mithril",
+"MITX":"Morpheus Labs",
 "MKR":"Maker",
 "MLM":"MktCoin",
 "MLN":"Melon",
@@ -941,6 +942,7 @@
 "NKC":"Nework",
 "NLC2":"NoLimitCoin",
 "NLG":"Gulden",
+"NLX":"Nullex",
 "NMC":"Namecoin",
 "NMR":"Numeraire",
 "NMS":"Numus",
@@ -1035,6 +1037,7 @@
 "PKB":"ParkByte",
 "PKT":"Playkey",
 "PLACO":"PlayerCoin",
+"PLAN":"Plancoin",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
 "PLC":"Polcoin",
@@ -1341,6 +1344,7 @@
 "TLE":"Tattoocoin (Limited Edition)",
 "TNB":"Time New Bank",
 "TNC":"Trinity Network Credit",
+"TNS":"Transcodium",
 "TNT":"Tierion",
 "TOA":"ToaCoin",
 "TODAY":"TodayCoin",
@@ -1577,5 +1581,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-04T09:00:02.987979"
+"updated":"2018-05-05T09:00:03.409391"
 }
