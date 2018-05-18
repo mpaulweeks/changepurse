@@ -1215,6 +1215,7 @@
 "SLT":"Smartlands",
 "SMART":"SmartCash",
 "SMC":"SmartCoin",
+"SMLY":"SmileyCoin",
 "SMOKE":"Smoke",
 "SMS":"Speed Mining Service",
 "SMT":"SmartMesh",
@@ -1558,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-17T09:00:03.363840"
+"updated":"2018-05-18T09:00:02.956955"
 }
