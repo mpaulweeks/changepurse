@@ -721,7 +721,6 @@
 "ION":"ION",
 "IOP":"Internet of People",
 "IOST":"IOStoken",
-"IPBC":"Interplanetary Broadcast Coin",
 "IPC":"IPChain",
 "IPL":"InsurePal",
 "IPSX":"IP Exchange",
@@ -1361,6 +1360,7 @@
 "TSTR":"Tristar Coin",
 "TTC":"TittieCoin",
 "TTT":"TrustNote",
+"TUBE":"BitTube",
 "TURBO":"TurboCoin",
 "TUSD":"TrueUSD",
 "TX":"TransferCoin",
@@ -1559,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-18T09:00:02.956955"
+"updated":"2018-05-19T09:00:03.276080"
 }
