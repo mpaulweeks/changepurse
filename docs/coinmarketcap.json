@@ -304,7 +304,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNN":"Content Neutrality Network",
@@ -735,6 +735,7 @@
 "ION":"ION",
 "IOP":"Internet of People",
 "IOST":"IOStoken",
+"IOTX":"IoTeX",
 "IPC":"IPChain",
 "IPL":"InsurePal",
 "IPSX":"IP Exchange",
@@ -1587,5 +1588,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-25T09:00:02.730799"
+"updated":"2018-05-26T09:00:03.230548"
 }
