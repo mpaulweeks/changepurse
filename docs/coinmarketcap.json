@@ -305,7 +305,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNN":"Content Neutrality Network",
@@ -940,6 +940,7 @@
 "NCT":"PolySwarm",
 "NDC":"NEVERDIE",
 "NEBL":"Neblio",
+"NEC":"Nectar",
 "NEO":"NEO",
 "NEOG":"NEO GOLD",
 "NEOS":"NeosCoin",
@@ -1101,6 +1102,7 @@
 "PURA":"Pura",
 "PURE":"Pure",
 "PUT":"PutinCoin",
+"PWR":"Powercoin",
 "PX":"PX",
 "PXC":"Pixie Coin",
 "PXI":"Prime-XI",
@@ -1596,5 +1598,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-30T09:00:03.675374"
+"updated":"2018-05-31T09:00:02.923627"
 }
