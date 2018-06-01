@@ -305,9 +305,10 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
+"CNET":"ContractNet",
 "CNN":"Content Neutrality Network",
 "CNNC":"Cannation",
 "CNO":"Coin(O)",
@@ -471,7 +472,7 @@
 "ECOB":"Ecobit",
 "EDG":"Edgeless",
 "EDO":"Eidoo",
-"EDR":"E-Dinar Coin",
+"EDR":"Endor Protocol",
 "EDRC":"EDRCoin",
 "EDT":"EtherDelta Token",
 "EDU":"EduCoin",
@@ -480,6 +481,7 @@
 "EFYT":"Ergo",
 "EGC":"EverGreenCoin",
 "EGG":"EggCoin",
+"EJOY":"EJOY",
 "EKO":"EchoLink",
 "EKT":"EDUCare",
 "EL":"Elcoin",
@@ -750,6 +752,7 @@
 "ITNS":"IntenseCoin",
 "ITT":"Intelligent Trading Foundation",
 "ITZ":"Interzone",
+"IVY":"Ivy",
 "IXC":"Ixcoin",
 "IXT":"iXledger",
 "J":"Joincoin",
@@ -1199,6 +1202,7 @@
 "SCT":"Soma",
 "SDC":"ShadowCash",
 "SDRN":"Senderon",
+"SEELE":"Seele",
 "SEN":"Consensus",
 "SENC":"Sentinel Chain",
 "SEND":"Social Send",
@@ -1598,5 +1602,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-05-31T09:00:02.923627"
+"updated":"2018-06-01T09:00:02.573850"
 }
