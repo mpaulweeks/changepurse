@@ -190,6 +190,7 @@
 "BMC":"Blackmoon",
 "BMH":"BlockMesh",
 "BNB":"Binance Coin",
+"BNK":"Bankera",
 "BNT":"Bancor",
 "BNTY":"Bounty0x",
 "BNX":"BnrtxCoin",
@@ -328,6 +329,7 @@
 "CPAY":"Cryptopay",
 "CPC":"Capricoin",
 "CPN":"CompuCoin",
+"CPT":"Cryptaur",
 "CPX":"Apex",
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
@@ -526,6 +528,7 @@
 "ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "ETT":"EncryptoTel [ETH]",
+"ETZ":"Ether Zero",
 "EUC":"Eurocoin",
 "EVC":"EventChain",
 "EVE":"Devery",
@@ -842,6 +845,7 @@
 "LUX":"LUXCoin",
 "LVPS":"LevoPlus",
 "LWF":"Local World Forwarders",
+"LYL":"LoyalCoin",
 "LYM":"Lympo",
 "MAC":"Machinecoin",
 "MAD":"SatoshiMadness",
@@ -1602,5 +1606,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-05T09:00:02.939529"
+"updated":"2018-06-06T09:00:03.030399"
 }
