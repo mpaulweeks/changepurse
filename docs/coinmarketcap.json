@@ -876,6 +876,7 @@
 "MEC":"Megacoin",
 "MED":"MediBloc",
 "MEDIC":"MedicCoin",
+"MEDX":"MEDX",
 "MEET":"CoinMeet",
 "MEME":"Memetic / PepeCoin",
 "MER":"Mercury",
@@ -1606,5 +1607,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-06T09:00:03.030399"
+"updated":"2018-06-07T09:00:03.376322"
 }
