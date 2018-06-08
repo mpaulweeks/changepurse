@@ -18,6 +18,7 @@
 "ABJ":"Abjcoin",
 "ABT":"Arcblock",
 "ABY":"ArtByte",
+"ABYSS":"The Abyss",
 "AC":"AsiaCoin",
 "AC3":"AC3",
 "ACAT":"Alphacat",
@@ -581,6 +582,7 @@
 "FST":"Fastcoin",
 "FT":"Fabric Token",
 "FTC":"Feathercoin",
+"FTO":"FuturoCoin",
 "FTX":"FintruX Network",
 "FUEL":"Etherparty",
 "FUN":"FunFair",
@@ -691,6 +693,7 @@
 "HT":"Huobi Token",
 "HTML":"HTMLCOIN",
 "HUC":"HunterCoin",
+"HUR":"Hurify",
 "HUSH":"Hush",
 "HVCO":"High Voltage",
 "HVN":"Hive Project",
@@ -1006,6 +1009,7 @@
 "OMC":"Omicron",
 "OMG":"OmiseGO",
 "OMNI":"Omni",
+"OMX":"Shivom",
 "ONG":"onG.social",
 "ONION":"DeepOnion",
 "ONT":"Ontology",
@@ -1068,6 +1072,7 @@
 "PLR":"Pillar",
 "PLU":"Pluton",
 "PLX":"PlexCoin",
+"PMNT":"Paymon",
 "PND":"Pandacoin",
 "PNT":"Penta",
 "PNX":"Phantomx",
@@ -1372,6 +1377,7 @@
 "TKS":"Tokes",
 "TKY":"THEKEY",
 "TLE":"Tattoocoin (Limited Edition)",
+"TMT":"TRAXIA",
 "TNB":"Time New Bank",
 "TNC":"Trinity Network Credit",
 "TNS":"Transcodium",
@@ -1607,5 +1613,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-07T09:00:03.376322"
+"updated":"2018-06-08T09:00:03.020980"
 }
