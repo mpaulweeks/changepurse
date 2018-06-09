@@ -285,6 +285,7 @@
 "CFC":"CoffeeCoin",
 "CFI":"Cofound.it",
 "CFUN":"CFun",
+"CGC":"CGC Token",
 "CHAN":"ChanCoin",
 "CHAT":"ChatCoin",
 "CHC":"ChainCoin",
@@ -482,6 +483,7 @@
 "EFX":"Effect.AI",
 "EFYT":"Ergo",
 "EGC":"EverGreenCoin",
+"EGCC":"Engine",
 "EGG":"EggCoin",
 "EJOY":"EJOY",
 "EKO":"EchoLink",
@@ -915,6 +917,7 @@
 "MOT":"Olympus Labs",
 "MOTO":"Motocoin",
 "MRK":"MARK.SPACE",
+"MRQ":"MIRQ",
 "MRT":"Miners' Reward Token",
 "MSCN":"Master Swiscoin",
 "MSD":"MSD",
@@ -1613,5 +1616,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-08T09:00:03.020980"
+"updated":"2018-06-09T09:00:02.794788"
 }
