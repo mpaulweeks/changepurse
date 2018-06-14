@@ -301,7 +301,6 @@
 "CLN":"Colu Local Network",
 "CLO":"Callisto Network",
 "CLOAK":"CloakCoin",
-"CLR":"ClearCoin",
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
@@ -622,6 +621,7 @@
 "GNO":"Gnosis",
 "GNT":"Golem",
 "GNX":"Genaro Network",
+"GO":"GoChain",
 "GOD":"Bitcoin God",
 "GOLF":"Golfcoin",
 "GOLOS":"Golos",
@@ -1590,5 +1590,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-13T09:00:02.627105"
+"updated":"2018-06-14T09:00:03.261178"
 }
