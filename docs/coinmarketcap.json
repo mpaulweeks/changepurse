@@ -109,7 +109,6 @@
 "AVA":"Travala",
 "AVH":"Animation Vision Cash",
 "AVT":"Aventus",
-"AWR":"AWARE",
 "AXIOM":"Axiom",
 "AXP":"aXpire",
 "B2B":"B2BX",
@@ -333,7 +332,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1282,6 +1281,7 @@
 "SRN":"SIRIN LABS Token",
 "SS":"Sharder",
 "SSC":"SelfSell",
+"SSP":"Smartshare",
 "SSS":"Sharechain",
 "STA":"Starta",
 "STAC":"StarterCoin",
@@ -1525,6 +1525,7 @@
 "XMG":"Magi",
 "XMO":"Monero Original",
 "XMR":"Monero",
+"XMX":"XMax",
 "XMY":"Myriad",
 "XNK":"Ink Protocol",
 "XNN":"Xenon",
@@ -1590,5 +1591,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-14T09:00:03.261178"
+"updated":"2018-06-15T09:00:03.393312"
 }
