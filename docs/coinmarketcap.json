@@ -303,7 +303,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -332,7 +332,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1591,5 +1591,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-17T09:00:04.104123"
+"updated":"2018-06-18T09:00:02.630816"
 }
