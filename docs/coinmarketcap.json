@@ -244,6 +244,7 @@
 "BURST":"Burst",
 "BUZZ":"BuzzCoin",
 "BWK":"Bulwark",
+"BWT":"Bittwatt",
 "BYC":"Bytecent",
 "BZNT":"Bezant",
 "C2":"Coin2.1",
@@ -328,7 +329,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -361,6 +362,7 @@
 "CYC":"Cycling Coin",
 "CYDER":"Cyder",
 "DADI":"DADI",
+"DAG":"Constellation",
 "DAI":"Dai",
 "DALC":"Dalecoin",
 "DAN":"Daneel",
@@ -537,6 +539,7 @@
 "FCT":"Factom",
 "FDX":"FidentiaX",
 "FDZ":"Friendz",
+"FGC":"FantasyGold",
 "FID":"Fidelium",
 "FIL":"Filecoin [Futures]",
 "FIRE":"Firecoin",
@@ -905,6 +908,7 @@
 "MUSE":"MUSE",
 "MUSIC":"Musicoin",
 "MVC":"Maverick Chain",
+"MVP":"Merculet",
 "MWAT":"Restart Energy MWAT",
 "MXT":"MarteXcoin",
 "MYB":"MyBit Token",
@@ -1564,5 +1568,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-20T09:00:02.681416"
+"updated":"2018-06-21T09:00:03.043949"
 }
