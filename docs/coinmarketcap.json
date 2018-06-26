@@ -15,7 +15,7 @@
 "8BIT":"8Bit",
 "AAC":"Acute Angle Cloud",
 "ABC":"Alphabit",
-"ABJ":"Abjcoin",
+"ABJC":"Abjcoin Commerce",
 "ABT":"Arcblock",
 "ABY":"ArtByte",
 "ABYSS":"The Abyss",
@@ -298,7 +298,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -1549,5 +1549,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-25T09:00:03.800127"
+"updated":"2018-06-26T09:00:02.822310"
 }
