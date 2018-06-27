@@ -58,6 +58,7 @@
 "ALL":"Allion",
 "ALQO":"ALQO",
 "ALT":"Altcoin",
+"ALX":"ALAX",
 "AMB":"Ambrosus",
 "AMLT":"AMLT",
 "AMM":"MicroMoney",
@@ -69,6 +70,7 @@
 "ANI":"Animecoin",
 "ANT":"Aragon",
 "ANTX":"Antimatter",
+"AOA":"Aurora",
 "APH":"Aphelion",
 "APIS":"APIS",
 "APPC":"AppCoins",
@@ -298,7 +300,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -508,6 +510,7 @@
 "ETH":"Ethereum",
 "ETHD":"Ethereum Dark",
 "ETHOS":"Ethos",
+"ETK":"EnergiToken",
 "ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "ETT":"EncryptoTel [ETH]",
@@ -848,6 +851,7 @@
 "MEET":"CoinMeet",
 "MEME":"Memetic / PepeCoin",
 "MER":"Mercury",
+"MET":"Metronome",
 "METAL":"MetalCoin",
 "MFG":"SyncFab",
 "MGM":"Magnum",
@@ -1549,5 +1553,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-26T09:00:02.822310"
+"updated":"2018-06-27T09:00:03.736177"
 }
