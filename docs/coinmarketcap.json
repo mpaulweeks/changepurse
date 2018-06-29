@@ -378,6 +378,7 @@
 "DBET":"DecentBet",
 "DBIX":"DubaiCoin",
 "DBTC":"Debitcoin",
+"DCC":"Distributed Credit Chain",
 "DCN":"Dentacoin",
 "DCR":"Decred",
 "DCT":"DECENT",
@@ -1509,7 +1510,7 @@
 "XRE":"RevolverCoin",
 "XRH":"Rhenium",
 "XRL":"Rialto",
-"XRP":"Ripple",
+"XRP":"XRP",
 "XRY":"Royalties",
 "XSH":"SHIELD",
 "XSN":"Stakenet",
@@ -1558,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-28T09:00:03.049546"
+"updated":"2018-06-29T09:00:03.251671"
 }
