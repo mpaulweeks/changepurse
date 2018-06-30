@@ -101,7 +101,7 @@
 "ATN":"ATN",
 "ATOM":"Atomic Coin",
 "ATS":"Authorship",
-"ATX":"Aston",
+"ATX":"Artex Coin",
 "AU":"AurumCoin",
 "AUC":"Auctus",
 "AUR":"Auroracoin",
@@ -261,7 +261,7 @@
 "CARBON":"Carboncoin",
 "CAS":"Cashaa",
 "CASH":"Cashcoin",
-"CAT":"Catcoin",
+"CAT":"BlockCAT",
 "CAZ":"Cazcoin",
 "CBC":"CashBet Coin",
 "CBT":"CommerceBlock",
@@ -330,7 +330,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1559,5 +1559,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-06-29T09:00:03.251671"
+"updated":"2018-06-30T09:00:03.243894"
 }
