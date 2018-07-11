@@ -170,6 +170,7 @@
 "BITSILVER":"bitSilver",
 "BITUSD":"bitUSD",
 "BIX":"Bibox Token",
+"BKBT":"BeeKan",
 "BKX":"Bankex",
 "BLAZR":"BlazerCoin",
 "BLC":"Blakecoin",
@@ -248,6 +249,7 @@
 "BWK":"Bulwark",
 "BWT":"Bittwatt",
 "BYC":"Bytecent",
+"BZ":"Bit-Z Token",
 "BZNT":"Bezant",
 "C2":"Coin2.1",
 "C20":"CRYPTO20",
@@ -304,7 +306,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -445,6 +447,7 @@
 "DTH":"Dether",
 "DTR":"Dynamic Trading Rights",
 "DTRC":"Datarius Credit",
+"DTX":"DaTa eXchange",
 "DUO":"ParallelCoin",
 "DUTCH":"Dutch Coin",
 "DXT":"Datawallet",
@@ -889,6 +892,7 @@
 "MNX":"MinexCoin",
 "MOAC":"MOAC",
 "MOBI":"Mobius",
+"MOC":"Mossland",
 "MOD":"Modum",
 "MOF":"Molecular Future",
 "MOIN":"Moin",
@@ -1200,6 +1204,7 @@
 "SETH":"Sether",
 "SEXC":"ShareX",
 "SFC":"Solarflarecoin",
+"SFU":"Saifu",
 "SGCC":"Super Game Chain",
 "SGN":"Signals Network",
 "SGR":"Sugar Exchange",
@@ -1582,5 +1587,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-10T09:00:03.968840"
+"updated":"2018-07-11T09:00:03.154298"
 }
