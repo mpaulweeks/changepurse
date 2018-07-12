@@ -450,6 +450,7 @@
 "DTX":"DaTa eXchange",
 "DUO":"ParallelCoin",
 "DUTCH":"Dutch Coin",
+"DWS":"DWS",
 "DXT":"Datawallet",
 "DYN":"Dynamic",
 "EAG":"EA Coin",
@@ -858,7 +859,7 @@
 "MBRS":"Embers",
 "MCAP":"MCAP",
 "MCI":"Musiconomi",
-"MCO":"Monaco",
+"MCO":"MCO",
 "MCRN":"MACRON",
 "MDA":"Moeda Loyalty Points",
 "MDS":"MediShares",
@@ -1584,8 +1585,9 @@
 "ZSC":"Zeusshield",
 "ZSE":"ZSEcoin",
 "ZUR":"Zurcoin",
+"ZXC":"0xcert",
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-11T09:00:03.154298"
+"updated":"2018-07-12T09:00:02.749496"
 }
