@@ -96,6 +96,7 @@
 "ATL":"ATLANT",
 "ATM":"ATMChain",
 "ATMC":"ATMCoin",
+"ATMI":"Atonomi",
 "ATMOS":"Atmos",
 "ATN":"ATN",
 "ATOM":"Atomic Coin",
@@ -336,7 +337,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -995,6 +996,7 @@
 "ODN":"Obsidian",
 "OF":"OFCOIN",
 "OK":"OKCash",
+"OLT":"OneLedger",
 "OMC":"Omicron",
 "OMG":"OmiseGO",
 "OMNI":"Omni",
@@ -1589,5 +1591,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-12T09:00:02.749496"
+"updated":"2018-07-13T09:00:02.794778"
 }
