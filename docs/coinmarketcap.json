@@ -338,7 +338,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -966,6 +966,7 @@
 "NMS":"Numus",
 "NOAH":"Noah Coin",
 "NOBL":"NobleCoin",
+"NOBS":"No BS Crypto",
 "NOTE":"DNotes",
 "NOX":"Nitro",
 "NPER":"NPER",
@@ -1068,6 +1069,7 @@
 "PLR":"Pillar",
 "PLU":"Pluton",
 "PLX":"PlexCoin",
+"PLY":"PlayCoin",
 "PMNT":"Paymon",
 "PND":"Pandacoin",
 "PNT":"Penta",
@@ -1139,6 +1141,7 @@
 "RBT":"Rimbit",
 "RBY":"Rubycoin",
 "RC":"RussiaCoin",
+"RCD":"Record",
 "RCN":"Rcoin",
 "RCT":"RealChain",
 "RDD":"ReddCoin",
@@ -1521,6 +1524,7 @@
 "XLR":"Solaris",
 "XMC":"Monero Classic",
 "XMCC":"Monoeci",
+"XMCT":"XMCT",
 "XMG":"Magi",
 "XMO":"Monero Original",
 "XMR":"Monero",
@@ -1595,5 +1599,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-15T09:00:03.289641"
+"updated":"2018-07-16T09:00:03.414478"
 }
