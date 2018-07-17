@@ -308,7 +308,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -338,7 +338,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1141,7 +1141,7 @@
 "RBT":"Rimbit",
 "RBY":"Rubycoin",
 "RC":"RussiaCoin",
-"RCD":"Record",
+"RCD":"RECORD",
 "RCN":"Rcoin",
 "RCT":"RealChain",
 "RDD":"ReddCoin",
@@ -1599,5 +1599,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-16T09:00:03.414478"
+"updated":"2018-07-17T09:00:02.524326"
 }
