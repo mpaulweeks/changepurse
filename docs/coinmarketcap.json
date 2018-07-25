@@ -1482,7 +1482,6 @@
 "VSX":"Vsync",
 "VTA":"Virtacoin",
 "VTC":"Vertcoin",
-"VTR":"vTorrent",
 "VUC":"Virta Unique Coin",
 "VULC":"Vulcano",
 "VZT":"Vezt",
@@ -1606,7 +1605,7 @@
 "ZET":"Zetacoin",
 "ZIL":"Zilliqa",
 "ZINC":"ZINC",
-"ZIP":"ZIP",
+"ZIP":"Zipper",
 "ZIPT":"Zippie",
 "ZLA":"Zilla",
 "ZMC":"ZetaMicron",
@@ -1622,5 +1621,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-24T09:00:03.379103"
+"updated":"2018-07-25T09:00:03.008574"
 }
