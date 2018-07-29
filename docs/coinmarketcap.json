@@ -72,6 +72,7 @@
 "AOA":"Aurora",
 "APH":"Aphelion",
 "APIS":"APIS",
+"APL":"Apollo Currency",
 "APPC":"AppCoins",
 "APR":"APR Coin",
 "APX":"APX",
@@ -152,6 +153,7 @@
 "BETR":"BetterBetting",
 "BEZ":"Bezop",
 "BFT":"BnkToTheFuture",
+"BIFI":"Bitcoin File",
 "BIG":"BigONE Token",
 "BIGUP":"BigUp",
 "BIO":"BioCoin",
@@ -343,7 +345,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -840,7 +842,7 @@
 "LIVE":"Live Stars",
 "LKK":"Lykke",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOC":"LockTrip",
 "LOCI":"LOCIcoin",
@@ -979,6 +981,7 @@
 "NGC":"NAGA",
 "NIM":"Nimiq",
 "NIO":"Autonio",
+"NIX":"NIX",
 "NKA":"IncaKoin",
 "NKC":"Nework",
 "NKN":"NKN",
@@ -1138,6 +1141,7 @@
 "PURE":"Pure",
 "PUT":"PutinCoin",
 "PWR":"Powercoin",
+"PWV":"Wavebase",
 "PXC":"Pixie Coin",
 "PXI":"Prime-XI",
 "PYLNT":"Pylon Network",
@@ -1646,5 +1650,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-07-28T09:00:02.877401"
+"updated":"2018-07-29T09:00:03.208189"
 }
