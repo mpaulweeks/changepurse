@@ -131,7 +131,7 @@
 "BAY":"BitBay",
 "BBC":"TraDove B2BCoin",
 "BBI":"BelugaPay",
-"BBK":"Brickblock",
+"BBK":"Bitblocks",
 "BBN":"Banyan Network",
 "BBO":"Bigbom",
 "BBP":"BiblePay",
@@ -329,7 +329,7 @@
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -600,7 +600,6 @@
 "FLP":"FLIP",
 "FLT":"FlutterCoin",
 "FLUZ":"Fluz Fluz",
-"FMF":"Formosa",
 "FND":"FundRequest",
 "FNKOS":"FNKOS",
 "FOR":"FORCE",
@@ -978,7 +977,7 @@
 "MTNC":"Masternodecoin",
 "MTX":"Matryx",
 "MUE":"MonetaryUnit",
-"MUSE":"MUSE",
+"MUSE":"SounDAC",
 "MUSIC":"Musicoin",
 "MVC":"Maverick Chain",
 "MVL":"Mass Vehicle Ledger",
@@ -1692,5 +1691,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-05T09:00:03.318511"
+"updated":"2018-08-06T09:00:02.597649"
 }
