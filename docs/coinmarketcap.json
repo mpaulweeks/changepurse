@@ -183,7 +183,7 @@
 "BITG":"Bitcoin Green",
 "BITGOLD":"bitGold",
 "BITOK":"Bitok",
-"BITS":"Bitswift",
+"BITS":"Bitstar",
 "BITSILVER":"bitSilver",
 "BITUSD":"bitUSD",
 "BITX":"BitScreener Token",
@@ -372,7 +372,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -907,7 +907,7 @@
 "LIVE":"Live Stars",
 "LKK":"Lykke",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOC":"LockTrip",
 "LOCI":"LOCIcoin",
@@ -1768,5 +1768,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-11T09:00:02.770214"
+"updated":"2018-08-12T09:00:03.291971"
 }
