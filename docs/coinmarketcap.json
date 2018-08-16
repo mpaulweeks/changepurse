@@ -918,7 +918,7 @@
 "LIVE":"Live Stars",
 "LKK":"Lykke",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOC":"LockTrip",
 "LOCI":"LOCIcoin",
@@ -1299,7 +1299,6 @@
 "RFR":"Refereum",
 "RGS":"RusGas",
 "RHOC":"RChain",
-"RIC":"Riecoin",
 "RICHX":"RichCoin",
 "RISE":"Rise",
 "RIYA":"Etheriya",
@@ -1553,7 +1552,6 @@
 "TRX":"TRON",
 "TSE":"Tattoocoin (Standard Edition)",
 "TSL":"Energo",
-"TSTR":"Tristar Coin",
 "TTC":"TTC Protocol",
 "TTT":"TrustNote",
 "TTU":"TaTaTu",
@@ -1745,7 +1743,6 @@
 "XTZ":"Tezos",
 "XUC":"Exchange Union",
 "XUN":"UltraNote Coin",
-"XVC":"Vcash",
 "XVG":"Verge",
 "XWC":"WhiteCoin",
 "XXX":"AdultChain",
@@ -1793,5 +1790,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-15T09:00:03.124295"
+"updated":"2018-08-16T09:00:02.812590"
 }
