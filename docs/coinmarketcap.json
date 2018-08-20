@@ -62,7 +62,6 @@
 "AKY":"Akuya Coin",
 "ALIS":"ALIS",
 "ALL":"Allion",
-"ALQO":"ALQO",
 "ALT":"Altcoin",
 "ALTX":"Alttex",
 "ALX":"ALAX",
@@ -378,7 +377,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1715,6 +1714,7 @@
 "XJO":"Joulecoin",
 "XLC":"Leviar",
 "XLM":"Stellar",
+"XLQ":"ALQO",
 "XLR":"Solaris",
 "XMC":"Monero Classic",
 "XMCC":"Monoeci",
@@ -1803,5 +1803,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-19T09:00:02.834138"
+"updated":"2018-08-20T09:00:02.599630"
 }
