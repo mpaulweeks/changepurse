@@ -332,7 +332,7 @@
 "CHIPS":"CHIPS",
 "CHP":"CoinPoker",
 "CHSB":"SwissBorg",
-"CHX":"Chainium",
+"CHX":"Own",
 "CJ":"Cryptojacks",
 "CJT":"ConnectJob",
 "CKUSD":"CK USD",
@@ -404,7 +404,7 @@
 "CURE":"Curecoin",
 "CV":"carVertical",
 "CVC":"Civic",
-"CVCOIN":"CVCoin",
+"CVN":"CVCoin",
 "CVT":"CyberVein",
 "CXO":"CargoX",
 "CXT":"Coinonat",
@@ -1584,7 +1584,7 @@
 "UBQ":"Ubiq",
 "UBT":"Unibright",
 "UBTC":"United Bitcoin",
-"UCASH":"U.CASH",
+"UCASH":"UNIVERSAL CASH",
 "UCOM":"United Crypto Community",
 "UCT":"Ubique Chain Of Things",
 "UET":"Useless Ethereum Token",
@@ -1813,5 +1813,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-21T09:00:02.868740"
+"updated":"2018-08-22T09:00:02.771456"
 }
