@@ -348,7 +348,7 @@
 "CMCT":"Crowd Machine",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -853,7 +853,6 @@
 "IRL":"IrishCoin",
 "ITC":"IoT Chain",
 "ITI":"iTicoin",
-"ITNS":"IntenseCoin",
 "ITT":"Intelligent Trading Foundation",
 "ITZ":"Interzone",
 "IVY":"Ivy",
@@ -957,6 +956,7 @@
 "LTC":"Litecoin",
 "LTCR":"Litecred",
 "LTCU":"LiteCoin Ultra",
+"LTHN":"Lethean",
 "LUC":"Level Up Coin",
 "LUN":"Lunyr",
 "LUNA":"Luna Coin",
@@ -1518,6 +1518,7 @@
 "TAU":"Lamden",
 "TBX":"Tokenbox",
 "TCC":"The ChampCoin",
+"TCH":"Thore Cash",
 "TCOIN":"T-coin",
 "TCT":"TokenClub",
 "TDC":"Trendercoin",
@@ -1834,5 +1835,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-24T09:00:03.267265"
+"updated":"2018-08-25T09:00:02.946282"
 }
