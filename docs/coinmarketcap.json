@@ -304,7 +304,7 @@
 "CARD":"Cardstack",
 "CAS":"Cashaa",
 "CASH":"Cashcoin",
-"CAT":"Catcoin",
+"CAT":"BlockCAT",
 "CATO":"CatoCoin",
 "CAZ":"Cazcoin",
 "CBC":"Cashbery Coin",
@@ -661,7 +661,6 @@
 "FRN":"Francs",
 "FRRN":"Ferron",
 "FRST":"FirstCoin",
-"FRV":"Fitrova",
 "FSBT":"Forty Seven Bank",
 "FSN":"Fusion",
 "FST":"Fastcoin",
@@ -1851,5 +1850,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-08-31T09:00:03.262955"
+"updated":"2018-09-01T09:00:03.288132"
 }
