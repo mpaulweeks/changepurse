@@ -209,7 +209,7 @@
 "BMH":"BlockMesh",
 "BMX":"BitMart Token",
 "BNB":"Binance Coin",
-"BNC":"Bionic",
+"BNC0":"Bionic",
 "BND":"Blocknode",
 "BNK":"Bankera",
 "BNN":"BrokerNekoNetwork",
@@ -352,7 +352,7 @@
 "CMCT":"Crowd Machine",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -385,7 +385,7 @@
 "CPY":"COPYTRACK",
 "CRAVE":"Crave",
 "CRB":"Creditbit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -1391,7 +1391,7 @@
 "SCC":"SiaCashCoin",
 "SCL":"Sociall",
 "SCR":"Scorum Coins",
-"SCRL":"Scroll",
+"SCRL":"SCRL",
 "SCRT":"SecretCoin",
 "SCS":"SpeedCash",
 "SCT":"Soma",
@@ -1690,7 +1690,7 @@
 "VTC":"Vertcoin",
 "VTHO":"VeThor Token",
 "VUC":"Virta Unique Coin",
-"VULC":"VULCANO",
+"VULC":"Vulcano [OLD]",
 "VZT":"Vezt",
 "W3C":"W3Coin",
 "WA":"WA Space",
@@ -1850,5 +1850,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-04T09:00:03.028227"
+"updated":"2018-09-05T09:00:03.030148"
 }
