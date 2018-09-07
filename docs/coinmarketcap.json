@@ -164,6 +164,7 @@
 "BDG":"BitDegree",
 "BDL":"Bitdeal",
 "BEE":"Bee Token",
+"BEET":"Beetle Coin",
 "BELA":"Bela",
 "BENJI":"BenjiRolls",
 "BERN":"BERNcash",
@@ -197,6 +198,7 @@
 "BIX":"Bibox Token",
 "BKBT":"BeeKan",
 "BKX":"Bankex",
+"BLACK":"eosBLACK",
 "BLAZR":"BlazerCoin",
 "BLC":"Blakecoin",
 "BLK":"BlackCoin",
@@ -724,7 +726,7 @@
 "GOLF":"Golfcoin",
 "GOLOS":"Golos",
 "GOOD":"Goodomy",
-"GOT":"GoNetwork",
+"GOT":"ParkinGo",
 "GP":"GoldPieces",
 "GPKR":"Gold Poker",
 "GPL":"Gold Pressed Latinum",
@@ -1421,6 +1423,7 @@
 "SGR":"Sugar Exchange",
 "SHA":"SHACoin",
 "SHDW":"Shadow Token",
+"SHE":"ShineChain",
 "SHIFT":"Shift",
 "SHIP":"ShipChain",
 "SHL":"Oyster Shell",
@@ -1650,6 +1653,7 @@
 "USE":"Usechain Token",
 "USNBT":"NuBits",
 "UST":"Ultra Salescloud",
+"UT":"Ulord",
 "UTC":"UltraCoin",
 "UTK":"UTRUST",
 "UTNP":"Universa",
@@ -1856,5 +1860,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-06T09:03:36.165647"
+"updated":"2018-09-07T09:00:02.526021"
 }
