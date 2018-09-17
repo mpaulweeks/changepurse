@@ -1425,7 +1425,7 @@
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
 "SC2":"SecureCloudCoin",
-"SCC":"SiaCashCoin",
+"SCC":"StockChain",
 "SCL":"Sociall",
 "SCR":"Scorum Coins",
 "SCRL":"SCRL",
@@ -1896,5 +1896,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-16T09:00:02.617737"
+"updated":"2018-09-17T09:00:02.999955"
 }
