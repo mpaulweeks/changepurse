@@ -373,7 +373,7 @@
 "CMCT":"Crowd Machine",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -989,7 +989,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1038,7 +1038,7 @@
 "MCAP":"MCAP",
 "MCC":"Moving Cloud Coin",
 "MCI":"Musiconomi",
-"MCO":"MCO",
+"MCO":"Crypto.com",
 "MCRN":"MACRON",
 "MCT":"Master Contract Token",
 "MDA":"Moeda Loyalty Points",
@@ -1437,7 +1437,7 @@
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
 "SC2":"SecureCloudCoin",
-"SCC":"StockChain",
+"SCC":"SiaCashCoin",
 "SCL":"Sociall",
 "SCR":"Scorum Coins",
 "SCRL":"SCRL",
@@ -1913,5 +1913,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-19T09:00:03.032081"
+"updated":"2018-09-20T09:00:02.902569"
 }
