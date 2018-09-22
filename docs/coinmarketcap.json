@@ -354,6 +354,7 @@
 "CHAN":"ChanCoin",
 "CHAT":"ChatCoin",
 "CHC":"ChainCoin",
+"CHE":"Crypto Harbor Exchange",
 "CHEAP":"Cheapcoin",
 "CHESS":"ChessCoin",
 "CHEX":"CHEX",
@@ -374,6 +375,7 @@
 "CLOAK":"CloakCoin",
 "CLUB":"ClubCoin",
 "CMCT":"Crowd Machine",
+"CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
 "CMS":"COMSA [XEM]",
@@ -893,6 +895,7 @@
 "INV":"Invacio",
 "INXT":"Internxt",
 "IOC":"I/O Coin",
+"IOG":"Internet of Games",
 "ION":"ION",
 "IOP":"Internet of People",
 "IOST":"IOST",
@@ -1288,6 +1291,7 @@
 "PLNC":"PLNcoin",
 "PLR":"Pillar",
 "PLU":"Pluton",
+"PLURA":"PluraCoin",
 "PLX":"PlexCoin",
 "PLY":"PlayCoin",
 "PMA":"PumaPay",
@@ -1341,6 +1345,7 @@
 "PXC":"Pixie Coin",
 "PXI":"Prime-XI",
 "PYLNT":"Pylon Network",
+"PYN":"PAYCENT",
 "PZM":"PRIZM",
 "Q2C":"QubitCoin",
 "QASH":"QASH",
@@ -1413,6 +1418,7 @@
 "RNTB":"BitRent",
 "ROCK2":"ICE ROCK MINING",
 "ROOFS":"Roofs",
+"ROX":"Robotina",
 "RPC":"RonPaulCoin",
 "RPL":"Rocket Pool",
 "RRC":"RRCoin",
@@ -1482,6 +1488,7 @@
 "SIG":"Spectiv",
 "SIGMA":"SIGMAcoin",
 "SIGT":"Signatum",
+"SIX":"SIX",
 "SJCX":"Storjcoin X",
 "SJW":"SJWCoin",
 "SKB":"Sakura Bloom",
@@ -1917,5 +1924,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-21T09:00:02.562415"
+"updated":"2018-09-22T09:00:02.604390"
 }
