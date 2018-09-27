@@ -346,7 +346,7 @@
 "CEDEX":"CEDEX Coin",
 "CEEK":"CEEK VR",
 "CEFS":"CryptopiaFeeShares",
-"CEN":"Coinsuper Ecosystem Network",
+"CEN":"Centaure",
 "CENNZ":"Centrality",
 "CET":"CoinEx Token",
 "CF":"Californium",
@@ -415,7 +415,7 @@
 "CRAVE":"Crave",
 "CRB":"Creditbit",
 "CRBT":"Cruisebit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
 "CREA":"Creativecoin",
@@ -838,7 +838,6 @@
 "HQX":"HOQU",
 "HRC":"Haracoin",
 "HSC":"HashCoin",
-"HSR":"Hshare",
 "HST":"Decision Token",
 "HT":"Huobi Token",
 "HTH":"Help The Homeless Coin",
@@ -902,7 +901,7 @@
 "INV":"Invacio",
 "INXT":"Internxt",
 "IOC":"I/O Coin",
-"IOG":"Internet of Games",
+"IOG":"Playgroundz",
 "ION":"ION",
 "IOP":"Internet of People",
 "IOST":"IOST",
@@ -1251,7 +1250,7 @@
 "OXY":"Oxycoin",
 "PAI":"Project Pai",
 "PAK":"Pakcoin",
-"PAL":"PolicyPal Network",
+"PAL":"Pal Network",
 "PARETO":"Pareto Network",
 "PART":"Particl",
 "PASC":"Pascal Coin",
@@ -1940,5 +1939,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-26T09:00:02.713361"
+"updated":"2018-09-27T09:00:03.417100"
 }
