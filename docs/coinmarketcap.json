@@ -456,6 +456,7 @@
 "DACS":"DACSEE",
 "DADI":"DADI",
 "DAG":"Constellation",
+"DAGT":"Digital Asset Guarantee Token",
 "DAI":"Dai",
 "DALC":"Dalecoin",
 "DAN":"Daneel",
@@ -625,6 +626,7 @@
 "ERC":"EuropeCoin",
 "ERC20":"ERC20",
 "ERO":"Eroscoin",
+"ERT":"Eristica",
 "ERY":"Eryllium",
 "ESC":"Escroco",
 "ESCO":"EscrowCoin",
@@ -834,6 +836,7 @@
 "HQX":"HOQU",
 "HRC":"Haracoin",
 "HSC":"HashCoin",
+"HSN":"Helper Search Token",
 "HST":"Decision Token",
 "HT":"Huobi Token",
 "HTH":"Help The Homeless Coin",
@@ -1784,7 +1787,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webcoin",
+"WEB":"Webchain",
 "WELL":"WELL",
 "WETH":"WETH",
 "WGO":"WavesGo",
@@ -1798,6 +1801,7 @@
 "WINGS":"Wings",
 "WINK":"Wink",
 "WISH":"MyWish",
+"WIT":"WITChain",
 "WOMEN":"WomenCoin",
 "WORM":"HealthyWormCoin",
 "WPR":"WePower",
@@ -1865,7 +1869,7 @@
 "XPX":"ProximaX",
 "XPY":"PayCoin",
 "XQN":"Quotient",
-"XRA":"Ratecoin",
+"XRA":"Xriba",
 "XRE":"RevolverCoin",
 "XRH":"Rhenium",
 "XRL":"Rialto",
@@ -1937,5 +1941,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-09-29T09:00:02.530433"
+"updated":"2018-09-30T09:00:02.794475"
 }
