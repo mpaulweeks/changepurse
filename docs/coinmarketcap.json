@@ -350,7 +350,7 @@
 "CEEK":"CEEK VR",
 "CEFS":"CryptopiaFeeShares",
 "CEL":"Celsius",
-"CEN":"Centaure",
+"CEN":"Coinsuper Ecosystem Network",
 "CENNZ":"Centrality",
 "CET":"CoinEx Token",
 "CF":"Californium",
@@ -1479,7 +1479,7 @@
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
 "SC2":"SecureCloudCoin",
-"SCC":"StockChain",
+"SCC":"SiaCashCoin",
 "SCL":"Sociall",
 "SCR":"Scorum Coins",
 "SCRIV":"SCRIV NETWORK",
@@ -1904,7 +1904,7 @@
 "XPX":"ProximaX",
 "XPY":"PayCoin",
 "XQN":"Quotient",
-"XRA":"Ratecoin",
+"XRA":"Xriba",
 "XRE":"RevolverCoin",
 "XRH":"Rhenium",
 "XRL":"Rialto",
@@ -1976,5 +1976,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-10-06T09:00:03.507923"
+"updated":"2018-10-07T09:00:03.281986"
 }
