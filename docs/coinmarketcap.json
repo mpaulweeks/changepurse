@@ -428,7 +428,7 @@
 "CRAVE":"Crave",
 "CRB":"Creditbit",
 "CRBT":"Cruisebit",
-"CRC":"CryCash",
+"CRC":"CrowdCoin",
 "CRD":"CryptalDash",
 "CRDNC":"Credence Coin",
 "CRE":"Cybereits",
@@ -1033,7 +1033,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -2013,5 +2013,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-10-14T09:00:03.102285"
+"updated":"2018-10-15T09:00:02.643672"
 }
