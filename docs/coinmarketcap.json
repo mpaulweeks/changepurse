@@ -209,7 +209,7 @@
 "BITG":"Bitcoin Green",
 "BITGOLD":"bitGold",
 "BITOK":"Bitok",
-"BITS":"Bitswift",
+"BITS":"Bitstar",
 "BITSILVER":"bitSilver",
 "BITUSD":"bitUSD",
 "BITX":"BitScreener Token",
@@ -684,7 +684,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"EvenCoin",
+"EVN":"Envion",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -2041,5 +2041,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-10-20T09:00:03.067777"
+"updated":"2018-10-21T09:00:03.170128"
 }
