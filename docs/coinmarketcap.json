@@ -385,7 +385,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -668,7 +668,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"EvenCoin",
+"EVN":"Envion",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -1455,7 +1455,7 @@
 "RICHX":"RichCoin",
 "RISE":"Rise",
 "RIYA":"Etheriya",
-"RKC":"Royal Kingdom Coin",
+"RKC":"Rookiecoin",
 "RKT":"Rock",
 "RLC":"iExec RLC",
 "RLT":"RouletteToken",
@@ -2008,5 +2008,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-10-27T09:00:03.198141"
+"updated":"2018-10-28T09:00:03.073996"
 }
