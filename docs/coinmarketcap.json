@@ -677,7 +677,7 @@
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
 "EXCL":"ExclusiveCoin",
-"EXMR":"Ethereum Monero",
+"EXMR":"EXMR",
 "EXN":"ExchangeN",
 "EXP":"Expanse",
 "EXRN":"EXRNchain",
@@ -1087,6 +1087,7 @@
 "MDT":"Measurable Data Token",
 "MEC":"Megacoin",
 "MED":"MediBloc [QRC20]",
+"MEDIBIT":"MediBit",
 "MEDIC":"MedicCoin",
 "MEDX":"MediBloc [ERC20]",
 "MEET":"CoinMeet",
@@ -1352,6 +1353,7 @@
 "PMNT":"Paymon",
 "PND":"Pandacoin",
 "PNDM":"Pandemia",
+"PNK":"Kleros",
 "PNT":"Penta",
 "PNX":"Phantomx",
 "PNY":"Peony",
@@ -1363,6 +1365,7 @@
 "PONZI":"PonziCoin",
 "POP":"PopularCoin",
 "POS":"PoSToken",
+"POSS":"Posscoin",
 "POST":"PostCoin",
 "POSW":"PoSW Coin",
 "POT":"PotCoin",
@@ -1750,6 +1753,7 @@
 "TTC":"TittieCoin",
 "TTT":"TrustNote",
 "TTU":"TaTaTu",
+"TTV":"TV-TWO",
 "TUBE":"BitTube",
 "TUSD":"TrueUSD",
 "TV":"Ti-Value",
@@ -1857,6 +1861,7 @@
 "WDC":"WorldCoin",
 "WEB":"Webchain",
 "WELL":"WELL",
+"WET":"WeShow Token",
 "WETH":"WETH",
 "WGO":"WavesGo",
 "WGR":"Wagerr",
@@ -2021,5 +2026,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-01T09:00:03.305501"
+"updated":"2018-11-02T09:00:02.647268"
 }
