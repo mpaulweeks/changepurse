@@ -380,7 +380,6 @@
 "CKUSD":"CK USD",
 "CL":"Coinlancer",
 "CLAM":"Clams",
-"CLD":"Cloud",
 "CLN":"Colu Local Network",
 "CLO":"Callisto Network",
 "CLOAK":"CloakCoin",
@@ -661,6 +660,7 @@
 "ETHM":"Ethereum Meta",
 "ETHO":"Ether-1",
 "ETHOS":"Ethos",
+"ETI":"EtherInc",
 "ETK":"EnergiToken",
 "ETN":"Electroneum",
 "ETP":"Metaverse ETP",
@@ -1031,7 +1031,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1284,6 +1284,7 @@
 "ORI":"Origami",
 "ORME":"Ormeus Coin",
 "ORS":"ORS Group",
+"OSA":"Optimal Shelf Availability Token",
 "OST":"OST",
 "OTB":"OTCBTC Token",
 "OTN":"Open Trading Network",
@@ -1624,7 +1625,6 @@
 "STAC":"StarterCoin",
 "STAK":"STRAKS",
 "STAR":"Starbase",
-"STARS":"StarCash Network",
 "START":"Startcoin",
 "STC":"StarChain",
 "STEEM":"Steem",
@@ -2021,5 +2021,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-07T09:00:02.821776"
+"updated":"2018-11-08T09:00:02.909250"
 }
