@@ -166,6 +166,8 @@
 "BCDN":"BlockCDN",
 "BCF":"Bitcoin Fast",
 "BCH":"Bitcoin Cash",
+"BCHABC":"Bitcoin Cash ABC [IOU]",
+"BCHSV":"Bitcoin Cash SV [IOU]",
 "BCI":"Bitcoin Interest",
 "BCN":"Bytecoin",
 "BCO":"BridgeCoin",
@@ -388,7 +390,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -861,6 +863,7 @@
 "HTH":"Help The Homeless Coin",
 "HTML":"HTMLCOIN",
 "HUC":"HunterCoin",
+"HUM":"Humanscape",
 "HUR":"Hurify",
 "HUSH":"Hush",
 "HUZU":"HUZU",
@@ -915,13 +918,13 @@
 "INK":"Ink",
 "INN":"Innova",
 "INO":"INO COIN",
-"INS":"INS Ecosystem",
+"INS":"Insolar",
 "INSN":"InsaneCoin",
 "INSTAR":"Insights Network",
 "INSUR":"InsurChain",
 "INT":"Internet Node Token",
 "INV":"Invacio",
-"INVE":"INVEToken",
+"INVE":"InterValue",
 "INXT":"Internxt",
 "IOC":"I/O Coin",
 "IOG":"Playgroundz",
@@ -2021,5 +2024,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-08T09:00:02.909250"
+"updated":"2018-11-09T09:00:03.325513"
 }
