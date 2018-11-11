@@ -70,7 +70,7 @@
 "ALI":"AiLink Token",
 "ALIS":"ALIS",
 "ALL":"Allion",
-"ALT":"Alt.Estate token",
+"ALT":"Altcoin",
 "ALTX":"Alttex",
 "ALX":"ALAX",
 "AMB":"Ambrosus",
@@ -390,7 +390,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -1034,7 +1034,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -2024,5 +2024,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-10T09:00:03.295207"
+"updated":"2018-11-11T09:00:03.326085"
 }
