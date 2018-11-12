@@ -70,7 +70,7 @@
 "ALI":"AiLink Token",
 "ALIS":"ALIS",
 "ALL":"Allion",
-"ALT":"Altcoin",
+"ALT":"Alt.Estate token",
 "ALTX":"Alttex",
 "ALX":"ALAX",
 "AMB":"Ambrosus",
@@ -674,7 +674,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"Envion",
+"EVN":"EvenCoin",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -1034,7 +1034,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -2024,5 +2024,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-11T09:00:03.326085"
+"updated":"2018-11-12T09:00:03.478480"
 }
