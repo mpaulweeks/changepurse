@@ -497,7 +497,6 @@
 "DCT":"DECENT",
 "DCY":"Dinastycoin",
 "DDD":"Scry.info",
-"DDF":"DigitalDevelopersFund",
 "DDX":"dietbitcoin",
 "DEAL":"iDealCash",
 "DEB":"Debitum",
@@ -1034,7 +1033,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1548,6 +1547,7 @@
 "SGR":"Sugar Exchange",
 "SHADE":"SHADE Token",
 "SHARD":"Shard",
+"SHB":"SkyHub Coin",
 "SHDW":"Shadow Token",
 "SHE":"ShineChain",
 "SHIFT":"Shift",
@@ -1913,7 +1913,7 @@
 "XDCE":"XinFin Network",
 "XDN":"DigitalNote",
 "XDNA":"XDNA",
-"XEL":"Elastic",
+"XEL":"XEL",
 "XEM":"NEM",
 "XES":"Proxeus",
 "XET":"ETERNAL TOKEN",
@@ -2024,5 +2024,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-12T09:00:03.478480"
+"updated":"2018-11-13T09:00:03.181725"
 }
