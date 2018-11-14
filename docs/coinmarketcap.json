@@ -70,7 +70,7 @@
 "ALI":"AiLink Token",
 "ALIS":"ALIS",
 "ALL":"Allion",
-"ALT":"Alt.Estate token",
+"ALT":"Altcoin",
 "ALTX":"Alttex",
 "ALX":"ALAX",
 "AMB":"Ambrosus",
@@ -390,7 +390,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -1817,6 +1817,7 @@
 "VIT":"Vice Industry Token",
 "VITAE":"Vitae",
 "VITE":"VITE",
+"VITES":"Vites",
 "VIU":"Viuly",
 "VIVID":"Vivid Coin",
 "VIVO":"VIVO",
@@ -1858,7 +1859,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webchain",
+"WEB":"Webcoin",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2024,5 +2025,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-13T09:00:03.181725"
+"updated":"2018-11-14T09:00:03.460502"
 }
