@@ -670,7 +670,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"Envion",
+"EVN":"EvenCoin",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -1026,7 +1026,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1757,6 +1757,7 @@
 "UCASH":"UNIVERSAL CASH",
 "UCN":"UChain",
 "UCT":"Ubique Chain Of Things",
+"UDOO":"uDoo",
 "UFO":"Uniform Fiscal Object",
 "UFR":"Upfiring",
 "UGC":"ugChain",
@@ -1790,6 +1791,7 @@
 "VEC2":"VectorAI",
 "VEE":"BLOCKv",
 "VERI":"Veritaseum",
+"VEST":"VestChain",
 "VET":"VeChain",
 "VEX":"Vexanium",
 "VIA":"Viacoin",
@@ -2012,5 +2014,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-15T09:00:03.530533"
+"updated":"2018-11-16T09:00:03.508947"
 }
