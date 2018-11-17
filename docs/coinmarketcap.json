@@ -147,7 +147,6 @@
 "BAAS":"BaaSid",
 "BANCA":"Banca",
 "BANK":"Bank Coin",
-"BAS":"BitAsean",
 "BAT":"Basic Attention Token",
 "BAX":"BABB",
 "BAY":"BitBay",
@@ -232,7 +231,7 @@
 "BMH":"BlockMesh",
 "BMX":"BitMart Token",
 "BNB":"Binance Coin",
-"BNC0":"Bionic",
+"BNC":"Bionic",
 "BND":"Blocknode",
 "BNK":"Bankera",
 "BNN":"BrokerNekoNetwork",
@@ -456,6 +455,7 @@
 "CVC":"Civic",
 "CVN":"CVCoin",
 "CVT":"CyberVein",
+"CWV":"CWV Chain",
 "CXO":"CargoX",
 "CXT":"Coinonat",
 "CYFM":"CyberFM",
@@ -556,7 +556,6 @@
 "DRS":"Digital Rupees",
 "DRT":"DomRaider",
 "DRXNE":"DROXNE",
-"DSH":"Dashcoin",
 "DSR":"Desire",
 "DT":"Dragon Token",
 "DTA":"DATA",
@@ -670,7 +669,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"EvenCoin",
+"EVN":"Envion",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -1757,7 +1756,7 @@
 "UCASH":"UNIVERSAL CASH",
 "UCN":"UChain",
 "UCT":"Ubique Chain Of Things",
-"UDOO":"uDoo",
+"UDOO":"Howdoo",
 "UFO":"Uniform Fiscal Object",
 "UFR":"Upfiring",
 "UGC":"ugChain",
@@ -2014,5 +2013,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-16T09:00:03.508947"
+"updated":"2018-11-17T09:00:03.620342"
 }
