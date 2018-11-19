@@ -388,7 +388,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -462,6 +462,7 @@
 "CYL":"Crystal Token",
 "CYMT":"CyberMusic",
 "CZR":"CanonChain",
+"D":"Denarius",
 "DAC":"Davinci Coin",
 "DACC":"DACC",
 "DACH":"DACH Coin",
@@ -534,7 +535,6 @@
 "DML":"Decentralized Machine Learning",
 "DMT":"DMarket",
 "DNA":"EncrypGen",
-"DNR":"Denarius",
 "DNT":"district0x",
 "DNZ":"Adenz",
 "DOCK":"Dock",
@@ -1025,7 +1025,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -2013,5 +2013,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-18T09:00:03.591989"
+"updated":"2018-11-19T09:00:03.981016"
 }
