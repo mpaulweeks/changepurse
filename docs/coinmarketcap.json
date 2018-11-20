@@ -164,7 +164,6 @@
 "BCDN":"BlockCDN",
 "BCF":"Bitcoin Fast",
 "BCH":"Bitcoin Cash",
-"BCHABC":"Bitcoin Cash ABC [IOU]",
 "BCHSV":"Bitcoin Cash SV [IOU]",
 "BCI":"Bitcoin Interest",
 "BCN":"Bytecoin",
@@ -388,7 +387,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -669,7 +668,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"Envion",
+"EVN":"EvenCoin",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -875,7 +874,6 @@
 "ICOB":"ICOBID",
 "ICON":"Iconic",
 "ICOO":"ICO OpenLedger",
-"ICOS":"ICOS",
 "ICR":"InterCrone",
 "ICX":"ICON",
 "IDH":"indaHash",
@@ -1025,7 +1023,7 @@
 "LKK":"Lykke",
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1104,6 +1102,7 @@
 "MGO":"MobileGo",
 "MIB":"MIB Coin",
 "MIC":"Mindexcoin",
+"MICRO":"Micromines",
 "MILO":"MiloCoin",
 "MINEX":"Minex",
 "MINT":"MintCoin",
@@ -2013,5 +2012,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-19T09:00:03.981016"
+"updated":"2018-11-20T09:00:03.670763"
 }
