@@ -164,7 +164,7 @@
 "BCDN":"BlockCDN",
 "BCF":"Bitcoin Fast",
 "BCH":"Bitcoin Cash",
-"BCHSV":"Bitcoin Cash SV [IOU]",
+"BCHSV":"Bitcoin Cash SV",
 "BCI":"Bitcoin Interest",
 "BCN":"Bytecoin",
 "BCO":"BridgeCoin",
@@ -2004,5 +2004,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-24T09:00:03.741252"
+"updated":"2018-11-25T09:00:02.905383"
 }
