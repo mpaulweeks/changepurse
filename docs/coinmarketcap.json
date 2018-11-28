@@ -123,6 +123,7 @@
 "ATMOS":"Atmos",
 "ATN":"ATN",
 "ATOM":"Atomic Coin",
+"ATP":"Atlas Protocol",
 "ATS":"Authorship",
 "ATX":"Aston",
 "AU":"AurumCoin",
@@ -174,6 +175,7 @@
 "BDG":"BitDegree",
 "BDL":"Bitdeal",
 "BDT":"BDT Token",
+"BEAT":"BEAT",
 "BEE":"Bee Token",
 "BEET":"Beetle Coin",
 "BELA":"Bela",
@@ -382,7 +384,7 @@
 "CLO":"Callisto Network",
 "CLOAK":"CloakCoin",
 "CLUB":"ClubCoin",
-"CMCT":"Crowd Machine",
+"CMCT":"Cyber Movie Chain",
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
@@ -2005,5 +2007,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-27T09:00:03.152428"
+"updated":"2018-11-28T09:00:03.050801"
 }
