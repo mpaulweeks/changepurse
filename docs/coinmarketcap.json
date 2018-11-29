@@ -162,6 +162,7 @@
 "BCARD":"CARDbuyers",
 "BCD":"Bitcoin Diamond",
 "BCDN":"BlockCDN",
+"BCDT":"Blockchain Certified Data Token",
 "BCF":"Bitcoin Fast",
 "BCH":"Bitcoin Cash",
 "BCI":"Bitcoin Interest",
@@ -271,7 +272,7 @@
 "BSX":"Bitspace",
 "BTA":"Bata",
 "BTAD":"Bitcoin Adult",
-"BTB":"Bitibu Coin",
+"BTB":"BitBar",
 "BTBc":"Bitbase",
 "BTC":"Bitcoin",
 "BTCM":"BTCMoon",
@@ -286,6 +287,7 @@
 "BTK":"Bitcoin Token",
 "BTM":"Bitmark",
 "BTN":"BitNewChain",
+"BTNT":"BitNautic Token",
 "BTO":"Bottos",
 "BTPL":"Bitcoin Planet",
 "BTQ":"BitQuark",
@@ -388,7 +390,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -2007,5 +2009,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-28T09:00:03.050801"
+"updated":"2018-11-29T09:00:03.586201"
 }
