@@ -426,7 +426,7 @@
 "CRAVE":"Crave",
 "CRB":"Creditbit",
 "CRBT":"Cruisebit",
-"CRC":"CrowdCoin",
+"CRC":"CryCash",
 "CRD":"CryptalDash",
 "CRE":"Cybereits",
 "CREA":"CREA",
@@ -831,7 +831,7 @@
 "HLM":"Helium",
 "HMC":"HarmonyCoin",
 "HMQ":"Humaniq",
-"HNC":"Huncoin",
+"HNC":"Helleniccoin",
 "HNDC":"HondaisCoin",
 "HODL":"HOdlcoin",
 "HOLD":"HOLD",
@@ -1209,6 +1209,7 @@
 "NOBS":"No BS Crypto",
 "NOKU":"Noku",
 "NOR":"Noir",
+"NOS":"nOS",
 "NOTE":"DNotes",
 "NOX":"Nitro",
 "NPER":"NPER",
@@ -1225,7 +1226,6 @@
 "NTK":"NetKoin",
 "NTO":"Fujinto",
 "NTRN":"Neutron",
-"NTWK":"Network Token",
 "NTY":"Nexty",
 "NUG":"Nuggets",
 "NUKO":"Nekonium",
@@ -1794,7 +1794,6 @@
 "VIB":"Viberate",
 "VIBE":"VIBE",
 "VIDZ":"PureVidz",
-"VIEW":"View",
 "VIKKY":"VikkyToken",
 "VIN":"VINchain",
 "VIPS":"Vipstar Coin",
@@ -1988,7 +1987,7 @@
 "ZER":"Zero",
 "ZEST":"ZEST",
 "ZET":"Zetacoin",
-"ZEUS":"ZeusCrowdfunding",
+"ZEUS":"ZeusNetwork",
 "ZIL":"Zilliqa",
 "ZINC":"ZINC",
 "ZIP":"Zipper",
@@ -2009,5 +2008,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-11-30T09:00:02.997833"
+"updated":"2018-12-01T09:00:03.442720"
 }
