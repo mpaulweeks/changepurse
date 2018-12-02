@@ -68,7 +68,7 @@
 "ALI":"AiLink Token",
 "ALIS":"ALIS",
 "ALL":"Allion",
-"ALT":"Altcoin",
+"ALT":"Alt.Estate token",
 "ALTX":"Alttex",
 "ALX":"ALAX",
 "AMB":"Ambrosus",
@@ -390,7 +390,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -2008,5 +2008,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-01T09:00:03.442720"
+"updated":"2018-12-02T09:00:03.437019"
 }
