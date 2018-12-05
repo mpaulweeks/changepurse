@@ -632,6 +632,7 @@
 "EPY":"Emphy",
 "EQL":"Equal",
 "EQT":"EquiTrader",
+"EQUAD":"QuadrantProtocol",
 "ERA":"ERA",
 "ERC20":"ERC20",
 "ERO":"Eroscoin",
@@ -1008,7 +1009,7 @@
 "LIFE":"LIFE",
 "LIGHT":"LightChain",
 "LIKE":"LikeCoin",
-"LINA":"Lina",
+"LINA":"LINA",
 "LINDA":"Linda",
 "LINK":"Chainlink",
 "LINX":"Linx",
@@ -1179,7 +1180,6 @@
 "NEOG":"NEO GOLD",
 "NEOS":"NeosCoin",
 "NER":"Nerves",
-"NET":"Nimiq Exchange Token",
 "NETKO":"Netko",
 "NEU":"Neumark",
 "NEVA":"NevaCoin",
@@ -1232,6 +1232,7 @@
 "NYAN":"Nyancoin",
 "NYC":"NewYorkCoin",
 "NYEX":"Nyerium",
+"NZL":"Zealium",
 "OAX":"OAX",
 "OBITS":"OBITS",
 "OBT":"Orbis Token",
@@ -2001,5 +2002,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-04T09:00:03.300540"
+"updated":"2018-12-05T09:00:03.269932"
 }
