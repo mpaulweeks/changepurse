@@ -132,7 +132,7 @@
 "AUTO":"Cube",
 "AUX":"Auxilium",
 "AV":"AvatarCoin",
-"AVA":"Travala",
+"AVA":"Travala.com",
 "AVH":"Animation Vision Cash",
 "AVINOC":"AVINOC",
 "AVT":"Aventus",
@@ -808,7 +808,6 @@
 "HAL":"Halcyon",
 "HALLO":"Halloween Coin",
 "HAND":"ShowHand",
-"HAV":"Havven",
 "HAVY":"Havy",
 "HB":"HeartBout",
 "HBC":"HomeBlockCoin",
@@ -1430,6 +1429,7 @@
 "RBLX":"Rublix",
 "RBMC":"Rubex Money",
 "RBT":"Rimbit",
+"RBTC":"Smart Bitcoin",
 "RBY":"Rubycoin",
 "RC":"RussiaCoin",
 "RCD":"RECORD",
@@ -1575,6 +1575,7 @@
 "SNRG":"Synergy",
 "SNT":"Status",
 "SNTR":"Silent Notary",
+"SNX":"Synthetix Collateral Token",
 "SOAR":"Soarcoin",
 "SOC":"All Sports",
 "SOCC":"SocialCoin",
@@ -1728,7 +1729,7 @@
 "TRXC":"TRONCLASSIC",
 "TSC":"Thunderstake",
 "TSL":"Energo",
-"TTC":"TittieCoin",
+"TTC":"TTC Protocol",
 "TTT":"TrustNote",
 "TTU":"TaTaTu",
 "TTV":"TV-TWO",
@@ -1824,7 +1825,7 @@
 "W3C":"W3Coin",
 "WA":"WA Space",
 "WAB":"WABnetwork",
-"WABI":"WaBi",
+"WABI":"Wabi",
 "WAGE":"Digiwage",
 "WAN":"Wanchain",
 "WAND":"WandX",
@@ -2002,5 +2003,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-05T09:00:03.269932"
+"updated":"2018-12-06T09:00:02.996523"
 }
