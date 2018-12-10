@@ -389,7 +389,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [ETH]",
+"CMS":"COMSA [XEM]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -668,7 +668,7 @@
 "EVE":"Devery",
 "EVI":"Evimeria",
 "EVIL":"Evil Coin",
-"EVN":"EvenCoin",
+"EVN":"Envion",
 "EVR":"Everus",
 "EVX":"Everex",
 "EXC":"Excaliburcoin",
@@ -2003,5 +2003,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-09T09:00:03.462305"
+"updated":"2018-12-10T09:00:03.969944"
 }
