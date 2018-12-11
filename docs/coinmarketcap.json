@@ -1029,6 +1029,7 @@
 "LPC":"Lightpaycoin",
 "LQD":"Liquidity Network",
 "LRC":"Loopring",
+"LRM":"LRM Coin",
 "LRN":"Loopring [NEO]",
 "LSK":"Lisk",
 "LST":"Lendroid Support Token",
@@ -1497,6 +1498,7 @@
 "SALT":"SALT",
 "SAN":"Santiment Network Token",
 "SANDG":"Save and Gain",
+"SAT":"Social Activity Token",
 "SBD":"Steem Dollars",
 "SBTC":"Super Bitcoin",
 "SC":"Siacoin",
@@ -1823,7 +1825,6 @@
 "VULC":"VULCANO",
 "VZT":"Vezt",
 "W3C":"W3Coin",
-"WA":"WA Space",
 "WAB":"WABnetwork",
 "WABI":"Wabi",
 "WAGE":"Digiwage",
@@ -1945,7 +1946,6 @@
 "XST":"Stealth",
 "XSTC":"Safe Trade Coin",
 "XTL":"Stellite",
-"XTO":"Tao",
 "XTRD":"XTRD",
 "XTZ":"Tezos",
 "XUC":"Exchange Union",
@@ -2003,5 +2003,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-10T09:00:03.969944"
+"updated":"2018-12-11T09:00:03.145578"
 }
