@@ -707,6 +707,7 @@
 "FND":"FundRequest",
 "FNKOS":"FNKOS",
 "FNTB":"Fintab",
+"FOAM":"FOAM",
 "FOIN":"FOIN",
 "FOOD":"FoodCoin",
 "FOR":"FORCE",
@@ -1128,7 +1129,7 @@
 "MONA":"MonaCoin",
 "MONK":"Monkey Project",
 "MOON":"Mooncoin",
-"MORE":"Mithril Ore",
+"MORE":"More Coin",
 "MOT":"Olympus Labs",
 "MOTO":"Motocoin",
 "MRI":"Mirai",
@@ -1837,7 +1838,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webchain",
+"WEB":"Webcoin",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2003,5 +2004,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-11T09:00:03.145578"
+"updated":"2018-12-12T09:00:03.097530"
 }
