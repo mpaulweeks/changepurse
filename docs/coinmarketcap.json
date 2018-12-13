@@ -804,6 +804,7 @@
 "GVE":"Globalvillage Ecosystem",
 "GVT":"Genesis Vision",
 "GXS":"GXChain",
+"GXX":"GravityCoin",
 "GZE":"GazeCoin",
 "GZRO":"Gravity",
 "HAC":"Hackspace Capital",
@@ -857,7 +858,6 @@
 "HVCO":"High Voltage",
 "HVN":"Hiveterminal Token",
 "HWC":"HollyWoodCoin",
-"HXX":"Hexx",
 "HYB":"Hybrid Block",
 "HYC":"HYCON",
 "HYDRO":"Hydro",
@@ -1268,6 +1268,7 @@
 "OPC":"OP Coin",
 "OPCX":"OPCoinX",
 "OPEN":"Open Platform",
+"OPQ":"Opacity",
 "OPT":"Opus",
 "OPTI":"OptiToken",
 "ORB":"Orbitcoin",
@@ -1838,7 +1839,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webcoin",
+"WEB":"Webchain",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2004,5 +2005,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-12T09:00:03.097530"
+"updated":"2018-12-13T09:00:03.326473"
 }
