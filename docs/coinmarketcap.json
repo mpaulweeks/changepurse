@@ -953,6 +953,7 @@
 "JSE":"JSECOIN",
 "KAN":"BitKan",
 "KARMA":"KARMA",
+"KAT":"Kambria",
 "KB3":"B3Coin",
 "KBC":"Karatgold Coin",
 "KBR":"Kubera Coin",
@@ -1332,6 +1333,7 @@
 "PKT":"Playkey",
 "PLACO":"PlayerCoin",
 "PLAN":"Plancoin",
+"PLAT":"Platinum",
 "PLAY":"HEROcoin",
 "PLBT":"Polybius",
 "PLC":"PLATINCOIN",
@@ -1839,7 +1841,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webchain",
+"WEB":"Webcoin",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -1937,7 +1939,6 @@
 "XRA":"Ratecoin",
 "XRE":"RevolverCoin",
 "XRH":"Rhenium",
-"XRL":"Rialto",
 "XRP":"XRP",
 "XRT":"XRT Token",
 "XSD":"SounDAC",
@@ -2005,5 +2006,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-13T09:00:03.326473"
+"updated":"2018-12-14T09:00:03.045172"
 }
