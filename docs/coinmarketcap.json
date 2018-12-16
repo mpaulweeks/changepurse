@@ -389,7 +389,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -1022,7 +1022,7 @@
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
 "LML":"Lisk Machine Learning",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1132,7 +1132,7 @@
 "MONA":"MonaCoin",
 "MONK":"Monkey Project",
 "MOON":"Mooncoin",
-"MORE":"More Coin",
+"MORE":"Mithril Ore",
 "MOT":"Olympus Labs",
 "MOTO":"Motocoin",
 "MRI":"Mirai",
@@ -2008,5 +2008,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-15T09:00:03.036392"
+"updated":"2018-12-16T09:00:03.342551"
 }
