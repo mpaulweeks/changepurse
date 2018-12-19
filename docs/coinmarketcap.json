@@ -14,7 +14,7 @@
 "8BIT":"8Bit",
 "AAA":"Abulaba",
 "AAC":"Acute Angle Cloud",
-"ABBC":"Alibabacoin",
+"ABBC":"ABBC Coin",
 "ABC":"Alphabit",
 "ABDT":"Atlantis Blue Digital Token",
 "ABL":"Airbloc",
@@ -1397,6 +1397,7 @@
 "PUT":"PutinCoin",
 "PWR":"PWR Coin",
 "PXC":"Pixie Coin",
+"PXG":"PlayGame Token",
 "PXI":"Prime-XI",
 "PYLNT":"Pylon Network",
 "PYN":"PAYCENT",
@@ -1728,7 +1729,7 @@
 "TRK":"Truckcoin",
 "TROLL":"Trollcoin",
 "TRST":"WeTrust",
-"TRTL":"Turtlecoin",
+"TRTL":"TurtleCoin",
 "TRTT":"Trittium",
 "TRUE":"TrueChain",
 "TRUMP":"TrumpCoin",
@@ -1842,7 +1843,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webcoin",
+"WEB":"Webchain",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2007,5 +2008,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-18T09:00:03.317621"
+"updated":"2018-12-19T09:00:02.720340"
 }
