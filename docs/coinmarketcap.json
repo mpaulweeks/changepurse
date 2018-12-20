@@ -1031,6 +1031,7 @@
 "LOKI":"Loki",
 "LOOM":"Loom Network",
 "LPC":"Lightpaycoin",
+"LPT":"Livepeer",
 "LQD":"Liquidity Network",
 "LRC":"Loopring",
 "LRM":"LRM Coin",
@@ -1132,7 +1133,7 @@
 "MONA":"MonaCoin",
 "MONK":"Monkey Project",
 "MOON":"Mooncoin",
-"MORE":"Mithril Ore",
+"MORE":"More Coin",
 "MOT":"Olympus Labs",
 "MOTO":"Motocoin",
 "MRI":"Mirai",
@@ -1229,7 +1230,7 @@
 "NTY":"Nexty",
 "NUG":"Nuggets",
 "NUKO":"Nekonium",
-"NULS":"Nuls",
+"NULS":"NULS",
 "NVC":"Novacoin",
 "NXC":"Nexium",
 "NXS":"Nexus",
@@ -1774,6 +1775,7 @@
 "URALS":"UralsCoin",
 "USC":"Ultimate Secure Cash",
 "USDC":"USD Coin",
+"USDS":"Stronghold USD",
 "USDT":"Tether",
 "USE":"Usechain Token",
 "USNBT":"NuBits",
@@ -1843,7 +1845,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webchain",
+"WEB":"Webcoin",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2008,5 +2010,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-19T09:00:02.720340"
+"updated":"2018-12-20T09:00:03.602357"
 }
