@@ -388,7 +388,7 @@
 "CMIT":"CMITCOIN",
 "CMM":"Commercium",
 "CMPCO":"CampusCoin",
-"CMS":"COMSA [XEM]",
+"CMS":"COMSA [ETH]",
 "CMT":"Comet",
 "CND":"Cindicator",
 "CNET":"ContractNet",
@@ -1021,7 +1021,7 @@
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
 "LML":"Lisk Machine Learning",
-"LNC":"Blocklancer",
+"LNC":"Linker Coin",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1840,7 +1840,7 @@
 "WC":"WINCOIN",
 "WCT":"Waves Community Token",
 "WDC":"WorldCoin",
-"WEB":"Webcoin",
+"WEB":"Webchain",
 "WELL":"WELL",
 "WET":"WeShow Token",
 "WETH":"WETH",
@@ -2004,5 +2004,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-22T09:00:02.674586"
+"updated":"2018-12-23T09:00:03.249536"
 }
