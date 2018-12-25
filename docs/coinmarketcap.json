@@ -396,6 +396,7 @@
 "CNNC":"Cannation",
 "CNO":"Coin(O)",
 "CNT":"Centurion",
+"CNUS":"CoinUs",
 "CNX":"Cryptonex",
 "COAL":"BitCoal",
 "COB":"Cobinhood",
@@ -1395,7 +1396,7 @@
 "PUT":"PutinCoin",
 "PWR":"PWR Coin",
 "PXC":"Pixie Coin",
-"PXG":"PlayGame Token",
+"PXG":"PlayGame",
 "PXI":"Prime-XI",
 "PYLNT":"Pylon Network",
 "PYN":"PAYCENT",
@@ -2004,5 +2005,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-24T09:00:03.340829"
+"updated":"2018-12-25T09:00:03.614229"
 }
