@@ -1022,7 +1022,7 @@
 "LKY":"Linkey",
 "LMC":"LoMoCoin",
 "LML":"Lisk Machine Learning",
-"LNC":"Linker Coin",
+"LNC":"Blocklancer",
 "LND":"Lendingblock",
 "LOBS":"Lobstex",
 "LOC":"LockTrip",
@@ -1288,7 +1288,7 @@
 "PAI":"Project Pai",
 "PAK":"Pakcoin",
 "PAL":"Pal Network",
-"PARETO":"Pareto Network",
+"PARETO":"PARETO Rewards",
 "PART":"Particl",
 "PASC":"Pascal Coin",
 "PASL":"Pascal Lite",
@@ -2005,5 +2005,5 @@
 "ZYD":"Zayedcoin",
 "ZZC":"ZoZoCoin"
 },
-"updated":"2018-12-25T09:00:03.614229"
+"updated":"2018-12-26T09:00:03.404239"
 }
