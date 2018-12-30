@@ -23,12 +23,10 @@
 "DASH":"Dash",
 "DCN":"Dentacoin",
 "DCR":"Decred",
-"DEX":"DEX",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
-"EDR":"Endor Protocol",
 "ELA":"Elastos",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -55,7 +53,9 @@
 "MGO":"MobileGo",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MOAC":"MOAC",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2018-12-29T09:00:03.015372"
+"updated":"2018-12-30T09:00:02.870156"
 }
