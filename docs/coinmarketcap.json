@@ -15,6 +15,7 @@
 "BNT":"Bancor",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
+"BTCP":"Bitcoin Private",
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
@@ -23,6 +24,7 @@
 "DASH":"Dash",
 "DCN":"Dentacoin",
 "DCR":"Decred",
+"DEX":"DEX",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DGTX":"Digitex Futures",
@@ -45,6 +47,7 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
+"LKY":"Linkey",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -64,7 +67,6 @@
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard Token",
-"PAY":"TenX",
 "PIVX":"PIVX",
 "POLY":"Polymath",
 "PPT":"Populous",
@@ -73,7 +75,6 @@
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
-"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -83,7 +84,6 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"VERI":"Veritaseum",
 "VET":"VeChain",
 "WAN":"Wanchain",
 "WAVES":"Waves",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2018-12-30T09:00:02.870156"
+"updated":"2018-12-31T09:00:03.112092"
 }
