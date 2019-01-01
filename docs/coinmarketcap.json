@@ -15,7 +15,6 @@
 "BNT":"Bancor",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
-"BTCP":"Bitcoin Private",
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
@@ -84,6 +83,7 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"VERI":"Veritaseum",
 "VET":"VeChain",
 "WAN":"Wanchain",
 "WAVES":"Waves",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2018-12-31T09:00:03.112092"
+"updated":"2019-01-01T09:00:03.110627"
 }
