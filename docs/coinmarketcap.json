@@ -74,11 +74,11 @@
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
+"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
 "STRAT":"Stratis",
-"THETA":"THETA",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-01T09:00:03.110627"
+"updated":"2019-01-02T09:00:03.279155"
 }
