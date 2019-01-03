@@ -19,6 +19,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "CNX":"Cryptonex",
+"CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCN":"Dentacoin",
@@ -33,7 +34,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -74,11 +74,12 @@
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
-"RVN":"Ravencoin",
+"RNT":"OneRoot Network",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
 "STRAT":"Stratis",
+"THETA":"THETA",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -96,10 +97,9 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-02T09:00:03.279155"
+"updated":"2019-01-03T09:00:03.232123"
 }
