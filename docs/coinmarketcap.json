@@ -24,7 +24,6 @@
 "DASH":"Dash",
 "DCN":"Dentacoin",
 "DCR":"Decred",
-"DEX":"DEX",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DGTX":"Digitex Futures",
@@ -74,7 +73,7 @@
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
-"RNT":"OneRoot Network",
+"REPO":"REPO",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -97,9 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-03T09:00:03.232123"
+"updated":"2019-01-04T09:00:02.759136"
 }
