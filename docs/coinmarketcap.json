@@ -23,8 +23,10 @@
 "DASH":"Dash",
 "DCN":"Dentacoin",
 "DCR":"Decred",
+"DEX":"DEX",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
+"DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
 "EOS":"EOS",
@@ -32,7 +34,6 @@
 "ETH":"Ethereum",
 "ETN":"Electroneum",
 "ETP":"Metaverse ETP",
-"EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -54,7 +55,6 @@
 "MGO":"MobileGo",
 "MIOTA":"IOTA",
 "MKR":"Maker",
-"MOAC":"MOAC",
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-06T09:00:02.724917"
+"updated":"2019-01-07T09:00:02.814954"
 }
