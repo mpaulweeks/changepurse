@@ -47,6 +47,7 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
+"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -56,7 +57,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-10T09:00:03.624401"
+"updated":"2019-01-11T09:00:03.392972"
 }
