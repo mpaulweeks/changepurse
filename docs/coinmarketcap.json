@@ -37,7 +37,6 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
-"GXS":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
@@ -48,6 +47,7 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
+"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-12T09:00:02.682811"
+"updated":"2019-01-13T09:00:03.159624"
 }
