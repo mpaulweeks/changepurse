@@ -37,7 +37,6 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
-"GXS":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
@@ -54,7 +53,6 @@
 "MAID":"MaidSafeCoin",
 "MANA":"Decentraland",
 "MCO":"Crypto.com",
-"MGO":"MobileGo",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -65,11 +63,13 @@
 "ODE":"ODEM",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"OSA":"Optimal Shelf Availability Token",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
 "POLY":"Polymath",
 "PPT":"Populous",
 "QASH":"QASH",
+"QKC":"QuarkChain",
 "QTUM":"Qtum",
 "R":"Revain",
 "RDD":"ReddCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-14T09:00:02.538008"
+"updated":"2019-01-15T09:00:02.670373"
 }
