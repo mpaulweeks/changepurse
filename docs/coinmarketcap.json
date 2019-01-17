@@ -19,6 +19,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "CNX":"Cryptonex",
+"CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCN":"Dentacoin",
@@ -35,7 +36,6 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
-"GXS":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
@@ -63,6 +63,7 @@
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSA":"Optimal Shelf Availability Token",
+"PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
 "POLY":"Polymath",
@@ -96,10 +97,9 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-16T09:00:02.977802"
+"updated":"2019-01-17T09:00:02.587590"
 }
