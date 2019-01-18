@@ -19,7 +19,6 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "CNX":"Cryptonex",
-"CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCN":"Dentacoin",
@@ -27,7 +26,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -36,6 +34,7 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
+"GXS":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
@@ -97,9 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-17T09:00:02.587590"
+"updated":"2019-01-18T09:00:02.635722"
 }
