@@ -34,6 +34,7 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
+"GXS":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
@@ -52,7 +53,6 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
-"MOAC":"MOAC",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-19T09:00:03.226565"
+"updated":"2019-01-20T09:00:03.347596"
 }
