@@ -68,13 +68,13 @@
 "PIVX":"PIVX",
 "POLY":"Polymath",
 "POWR":"Power Ledger",
+"PPP":"PayPie",
 "PPT":"Populous",
 "QTUM":"Qtum",
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-21T09:00:02.663688"
+"updated":"2019-01-22T09:00:02.651632"
 }
