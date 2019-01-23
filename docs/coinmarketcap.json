@@ -13,7 +13,6 @@
 "BCN":"Bytecoin",
 "BCZERO":"Buggyra Coin Zero",
 "BNB":"Binance Coin",
-"BNT":"Bancor",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
 "BTG":"Bitcoin Gold",
@@ -75,6 +74,7 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
+"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-22T09:00:02.651632"
+"updated":"2019-01-23T09:00:03.073709"
 }
