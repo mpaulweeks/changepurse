@@ -19,6 +19,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "CNX":"Cryptonex",
+"CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCN":"Dentacoin",
@@ -26,7 +27,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -57,7 +57,6 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "ODE":"ODEM",
 "OMG":"OmiseGO",
@@ -68,6 +67,7 @@
 "PIVX":"PIVX",
 "POLY":"Polymath",
 "POWR":"Power Ledger",
+"PPP":"PayPie",
 "PPT":"Populous",
 "QTUM":"Qtum",
 "R":"Revain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-24T09:00:03.044066"
+"updated":"2019-01-25T09:00:03.122882"
 }
