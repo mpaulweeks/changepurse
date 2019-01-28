@@ -10,7 +10,6 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
-"BCZERO":"Buggyra Coin Zero",
 "BNB":"Binance Coin",
 "BNT":"Bancor",
 "BSV":"Bitcoin SV",
@@ -58,6 +57,7 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "ODE":"ODEM",
 "OMG":"OmiseGO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-27T09:00:03.369600"
+"updated":"2019-01-28T09:00:03.433192"
 }
