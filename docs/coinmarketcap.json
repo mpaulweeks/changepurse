@@ -23,6 +23,7 @@
 "DASH":"Dash",
 "DCN":"Dentacoin",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
@@ -52,6 +53,7 @@
 "MAID":"MaidSafeCoin",
 "MANA":"Decentraland",
 "MCO":"Crypto.com",
+"MGO":"MobileGo",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -87,7 +89,6 @@
 "VET":"VeChain",
 "WAN":"Wanchain",
 "WAVES":"Waves",
-"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -96,10 +97,9 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-28T09:00:03.433192"
+"updated":"2019-01-29T09:00:02.734009"
 }
