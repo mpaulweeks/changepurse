@@ -21,13 +21,13 @@
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
-"DCN":"Dentacoin",
 "DCR":"Decred",
 "DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
+"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -59,6 +59,7 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "ODE":"ODEM",
 "OMG":"OmiseGO",
@@ -66,7 +67,6 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POLY":"Polymath",
 "POWR":"Power Ledger",
 "PPT":"Populous",
 "QTUM":"Qtum",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-30T09:00:03.226187"
+"updated":"2019-01-31T09:00:02.955276"
 }
