@@ -27,12 +27,12 @@
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
-"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
 "EURS":"STASIS EURS",
+"EVR":"Everus",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -84,8 +84,8 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"VERI":"Veritaseum",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-01-31T09:00:02.955276"
+"updated":"2019-02-01T09:00:03.234501"
 }
