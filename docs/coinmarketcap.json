@@ -32,7 +32,6 @@
 "ETH":"Ethereum",
 "ETN":"Electroneum",
 "EURS":"STASIS EURS",
-"EVR":"Everus",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -55,6 +54,7 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MOAC":"MOAC",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-02T09:00:02.664130"
+"updated":"2019-02-03T09:00:03.207918"
 }
