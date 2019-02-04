@@ -27,6 +27,7 @@
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
+"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -65,7 +66,6 @@
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PAY":"TenX",
 "PIVX":"PIVX",
 "POWR":"Power Ledger",
 "PPT":"Populous",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-03T09:00:03.207918"
+"updated":"2019-02-04T09:00:03.575957"
 }
