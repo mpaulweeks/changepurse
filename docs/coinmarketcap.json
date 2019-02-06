@@ -18,6 +18,7 @@
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
+"CENNZ":"Centrality",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -74,7 +75,6 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -84,8 +84,8 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"VERI":"Veritaseum",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-05T09:00:03.113206"
+"updated":"2019-02-06T09:00:03.610552"
 }
