@@ -22,15 +22,16 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
+"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -65,6 +66,7 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
+"POLY":"Polymath",
 "POWR":"Power Ledger",
 "PPT":"Populous",
 "QNT":"Quant",
@@ -73,7 +75,6 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -85,7 +86,6 @@
 "USDT":"Tether",
 "VERI":"Veritaseum",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-07T09:00:03.056878"
+"updated":"2019-02-08T09:00:03.211860"
 }
