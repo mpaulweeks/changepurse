@@ -6,6 +6,7 @@
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
+"B2G":"Bitcoiin",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
@@ -27,11 +28,11 @@
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
-"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
+"ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -66,7 +67,6 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POLY":"Polymath",
 "POWR":"Power Ledger",
 "PPT":"Populous",
 "QNT":"Quant",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-08T09:00:03.211860"
+"updated":"2019-02-09T09:00:03.376875"
 }
