@@ -6,7 +6,6 @@
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
-"B2G":"Bitcoiin",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
@@ -32,7 +31,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -75,6 +73,7 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
+"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -86,6 +85,7 @@
 "USDT":"Tether",
 "VERI":"Veritaseum",
 "VET":"VeChain",
+"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-09T09:00:03.376875"
+"updated":"2019-02-10T09:00:03.425275"
 }
