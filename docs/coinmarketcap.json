@@ -27,6 +27,7 @@
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
+"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -85,7 +86,6 @@
 "USDT":"Tether",
 "VERI":"Veritaseum",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-10T09:00:03.425275"
+"updated":"2019-02-11T09:00:03.197664"
 }
