@@ -26,8 +26,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
-"ELF":"aelf",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -55,6 +53,7 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MOAC":"MOAC",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -86,6 +85,7 @@
 "USDT":"Tether",
 "VERI":"Veritaseum",
 "VET":"VeChain",
+"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-11T09:00:03.197664"
+"updated":"2019-02-12T09:00:02.763486"
 }
