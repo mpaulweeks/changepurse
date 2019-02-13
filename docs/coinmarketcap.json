@@ -26,10 +26,12 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
+"ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -73,7 +75,6 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -85,7 +86,6 @@
 "USDT":"Tether",
 "VERI":"Veritaseum",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-12T09:00:02.763486"
+"updated":"2019-02-13T09:00:02.701047"
 }
