@@ -32,7 +32,6 @@
 "ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
-"GAS":"Gas",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
 "GXC":"GXChain",
@@ -74,12 +73,13 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
-"STORJ":"Storj",
 "STRAT":"Stratis",
 "THETA":"THETA",
+"TOMO":"TomoChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-17T09:00:02.857397"
+"updated":"2019-02-18T09:00:02.770705"
 }
