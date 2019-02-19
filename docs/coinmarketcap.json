@@ -22,6 +22,7 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
@@ -41,7 +42,6 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
-"KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
@@ -73,7 +73,7 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"SAN":"Santiment Network Token",
+"RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-18T09:00:02.770705"
+"updated":"2019-02-19T09:00:02.577324"
 }
