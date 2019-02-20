@@ -22,7 +22,6 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
-"DENT":"Dent",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
@@ -73,10 +72,11 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
+"STORJ":"Storj",
 "STRAT":"Stratis",
 "THETA":"THETA",
 "TOMO":"TomoChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-19T09:00:02.577324"
+"updated":"2019-02-20T09:00:02.755244"
 }
