@@ -2,7 +2,6 @@
 "coins":{
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -41,6 +40,7 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
+"KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
@@ -53,6 +53,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MOAC":"MOAC",
+"MOC":"Moss Coin",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -72,7 +73,6 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-20T09:00:02.755244"
+"updated":"2019-02-21T09:00:03.453077"
 }
