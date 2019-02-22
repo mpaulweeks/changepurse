@@ -53,7 +53,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MOAC":"MOAC",
-"MOC":"Moss Coin",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -67,16 +66,17 @@
 "PIVX":"PIVX",
 "POWR":"Power Ledger",
 "PPT":"Populous",
+"QASH":"QASH",
 "QNT":"Quant",
 "QTUM":"Qtum",
 "R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
-"STORJ":"Storj",
 "STRAT":"Stratis",
 "THETA":"THETA",
 "TOMO":"TomoChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-21T09:00:03.453077"
+"updated":"2019-02-22T09:00:03.172465"
 }
