@@ -73,7 +73,7 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
-"SAN":"Santiment Network Token",
+"S4F":"S4FE",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-22T09:00:03.172465"
+"updated":"2019-02-23T09:00:02.796105"
 }
