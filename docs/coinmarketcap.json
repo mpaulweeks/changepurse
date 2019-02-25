@@ -10,7 +10,6 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BNB":"Binance Coin",
-"BNT":"Bancor",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
 "BTG":"Bitcoin Gold",
@@ -25,11 +24,13 @@
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
+"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
 "ETP":"Metaverse ETP",
+"EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -44,7 +45,6 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
-"LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
@@ -75,6 +75,7 @@
 "REP":"Augur",
 "REPO":"REPO",
 "S4F":"S4FE",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -84,7 +85,6 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"VERI":"Veritaseum",
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-24T09:00:02.720695"
+"updated":"2019-02-25T09:00:02.462762"
 }
