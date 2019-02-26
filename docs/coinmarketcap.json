@@ -15,7 +15,6 @@
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
-"CENNZ":"Centrality",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -45,6 +44,7 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
+"LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
@@ -54,7 +54,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MOAC":"MOAC",
-"MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -74,8 +73,8 @@
 "RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
+"RVN":"Ravencoin",
 "S4F":"S4FE",
-"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -85,6 +84,7 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"VERI":"Veritaseum",
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-25T09:00:02.462762"
+"updated":"2019-02-26T09:00:03.257042"
 }
