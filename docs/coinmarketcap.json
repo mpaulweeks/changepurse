@@ -1,5 +1,6 @@
 {
 "coins":{
+"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "AOA":"Aurora",
@@ -44,7 +45,6 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
-"LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
@@ -67,10 +67,10 @@
 "POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
+"QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
 "R":"Revain",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-26T09:00:03.257042"
+"updated":"2019-02-27T09:00:03.253604"
 }
