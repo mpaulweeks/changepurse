@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -22,6 +23,7 @@
 "DASH":"Dash",
 "DCR":"Decred",
 "DGB":"DigiByte",
+"DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
@@ -29,7 +31,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"ETP":"Metaverse ETP",
 "EURS":"STASIS EURS",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -74,7 +75,6 @@
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
-"S4F":"S4FE",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-02-28T09:00:03.078232"
+"updated":"2019-03-01T09:00:03.235994"
 }
