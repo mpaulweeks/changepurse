@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -31,7 +30,7 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"EURS":"STASIS EURS",
+"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -72,6 +71,7 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "R":"Revain",
+"RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-01T09:00:03.235994"
+"updated":"2019-03-02T09:00:02.769280"
 }
