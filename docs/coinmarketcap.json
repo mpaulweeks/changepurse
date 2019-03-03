@@ -45,6 +45,7 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LKY":"Linkey",
+"LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
@@ -71,7 +72,6 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "R":"Revain",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-02T09:00:02.769280"
+"updated":"2019-03-03T09:00:02.593517"
 }
