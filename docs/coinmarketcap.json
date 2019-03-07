@@ -72,6 +72,7 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "R":"Revain",
+"RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
@@ -84,7 +85,6 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"VERI":"Veritaseum",
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-06T09:00:02.793706"
+"updated":"2019-03-07T09:00:03.261140"
 }
