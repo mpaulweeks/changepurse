@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -12,6 +11,7 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BNB":"Binance Coin",
+"BNT":"Bancor",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
 "BTG":"Bitcoin Gold",
@@ -44,6 +44,7 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LKY":"Linkey",
 "LOOM":"Loom Network",
@@ -66,13 +67,11 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "REPO":"REPO",
 "RVN":"Ravencoin",
@@ -86,6 +85,7 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
+"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-08T09:00:03.077804"
+"updated":"2019-03-09T09:00:02.998248"
 }
