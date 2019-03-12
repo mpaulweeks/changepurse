@@ -32,6 +32,7 @@
 "ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
+"GRS":"Groestlcoin",
 "GUSD":"Gemini Dollar",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -42,7 +43,6 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LKY":"Linkey",
 "LOOM":"Loom Network",
@@ -66,6 +66,7 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
+"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -79,7 +80,6 @@
 "STEEM":"Steem",
 "STRAT":"Stratis",
 "THETA":"THETA",
-"THR":"ThoreCoin",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-11T09:00:02.767902"
+"updated":"2019-03-12T09:00:02.872050"
 }
