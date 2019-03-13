@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -32,7 +33,6 @@
 "ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
-"GRS":"Groestlcoin",
 "GUSD":"Gemini Dollar",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -44,7 +44,6 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
-"LKY":"Linkey",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
 "LSK":"Lisk",
@@ -80,6 +79,7 @@
 "STEEM":"Steem",
 "STRAT":"Stratis",
 "THETA":"THETA",
+"THR":"ThoreCoin",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-12T09:00:02.872050"
+"updated":"2019-03-13T09:00:03.197193"
 }
