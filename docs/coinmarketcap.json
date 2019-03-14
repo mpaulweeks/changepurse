@@ -17,6 +17,7 @@
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
+"BTT":"BitTorrent",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -31,6 +32,7 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
+"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -59,13 +61,11 @@
 "NEO":"NEO",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
-"ODE":"ODEM",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-13T09:00:03.197193"
+"updated":"2019-03-14T09:00:02.547898"
 }
