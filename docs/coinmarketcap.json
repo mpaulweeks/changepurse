@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -63,6 +62,7 @@
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"ORME":"Ormeus Coin",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-16T09:00:03.310621"
+"updated":"2019-03-17T09:00:03.176964"
 }
