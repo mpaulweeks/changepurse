@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -25,13 +26,13 @@
 "DGB":"DigiByte",
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -43,6 +44,7 @@
 "INB":"Insight Chain",
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
+"KIN":"Kin",
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
@@ -54,7 +56,6 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
-"MOAC":"MOAC",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -62,7 +63,6 @@
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"ORME":"Ormeus Coin",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-18T09:00:03.107762"
+"updated":"2019-03-19T09:00:03.334275"
 }
