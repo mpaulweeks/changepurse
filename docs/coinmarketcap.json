@@ -25,7 +25,6 @@
 "DGB":"DigiByte",
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -43,8 +42,8 @@
 "INB":"Insight Chain",
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
-"KIN":"Kin",
 "KMD":"Komodo",
+"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -55,6 +54,7 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MOAC":"MOAC",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-20T09:00:02.894633"
+"updated":"2019-03-21T09:00:02.844633"
 }
