@@ -60,6 +60,7 @@
 "NEO":"NEO",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
@@ -85,7 +86,6 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-21T09:00:02.844633"
+"updated":"2019-03-22T09:00:02.767211"
 }
