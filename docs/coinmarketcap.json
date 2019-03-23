@@ -66,7 +66,6 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -86,6 +85,7 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
+"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-22T09:00:02.767211"
+"updated":"2019-03-23T09:00:03.689820"
 }
