@@ -43,7 +43,6 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -57,15 +56,16 @@
 "MOAC":"MOAC",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
+"NAS":"Nebulas",
 "NEO":"NEO",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
-"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
+"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-23T09:00:03.689820"
+"updated":"2019-03-24T09:00:03.400045"
 }
