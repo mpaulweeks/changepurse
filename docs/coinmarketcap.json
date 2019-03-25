@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -58,13 +59,13 @@
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
+"POLY":"Polymath",
 "POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
@@ -85,7 +86,6 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WTC":"Waltonchain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-24T09:00:03.400045"
+"updated":"2019-03-25T09:00:02.682148"
 }
