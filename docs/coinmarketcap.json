@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -44,6 +43,7 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -57,7 +57,6 @@
 "MOAC":"MOAC",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
-"NAS":"Nebulas",
 "NEO":"NEO",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
+"WICC":"WaykiChain",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-25T09:00:02.682148"
+"updated":"2019-03-26T09:00:03.297731"
 }
