@@ -26,6 +26,7 @@
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
+"ENG":"Enigma",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -43,7 +44,6 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -59,13 +59,12 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POLY":"Polymath",
-"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -85,6 +84,7 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
+"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WICC":"WaykiChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-26T09:00:03.297731"
+"updated":"2019-03-27T09:00:02.701629"
 }
