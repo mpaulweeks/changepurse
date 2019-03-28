@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -26,7 +27,6 @@
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELF":"aelf",
-"ENG":"Enigma",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -54,7 +54,6 @@
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
-"MOAC":"MOAC",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -65,6 +64,7 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
+"POWR":"Power Ledger",
 "PPT":"Populous",
 "QASH":"QASH",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-27T09:00:02.701629"
+"updated":"2019-03-28T09:00:02.644088"
 }
