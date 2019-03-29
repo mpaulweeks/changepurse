@@ -26,6 +26,7 @@
 "DGB":"DigiByte",
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -44,6 +45,7 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -71,7 +73,6 @@
 "QTUM":"Qtum",
 "R":"Revain",
 "REP":"Augur",
-"REPO":"REPO",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
@@ -84,7 +85,6 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
-"WAN":"Wanchain",
 "WAVES":"Waves",
 "WAX":"WAX",
 "WICC":"WaykiChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-28T09:00:02.644088"
+"updated":"2019-03-29T09:00:03.001275"
 }
