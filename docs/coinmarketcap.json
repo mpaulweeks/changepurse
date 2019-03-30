@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
-"AION":"Aion",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
@@ -11,6 +10,7 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -45,7 +45,6 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"KNC":"Kyber Network",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -73,6 +72,7 @@
 "QTUM":"Qtum",
 "R":"Revain",
 "REP":"Augur",
+"REPO":"REPO",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-03-29T09:00:03.001275"
+"updated":"2019-03-30T09:00:03.136729"
 }
