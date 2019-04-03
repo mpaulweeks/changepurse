@@ -11,6 +11,7 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BCZERO":"Buggyra Coin Zero",
 "BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
@@ -29,7 +30,6 @@
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
 "ELF":"aelf",
-"ENG":"Enigma",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -69,7 +69,6 @@
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
 "PPT":"Populous",
-"QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
 "REP":"Augur",
@@ -82,6 +81,7 @@
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRX":"TRON",
+"TTC":"TTC Protocol",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-02T09:00:02.934733"
+"updated":"2019-04-03T09:00:02.481612"
 }
