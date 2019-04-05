@@ -33,6 +33,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
@@ -68,7 +69,6 @@
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
 "PPT":"Populous",
-"QASH":"QASH",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-04T09:00:03.482394"
+"updated":"2019-04-05T09:00:02.774097"
 }
