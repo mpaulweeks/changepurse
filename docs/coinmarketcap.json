@@ -11,7 +11,6 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
-"BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -69,6 +68,7 @@
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
 "PPT":"Populous",
+"QASH":"QASH",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-06T09:00:03.438066"
+"updated":"2019-04-07T09:00:02.761941"
 }
