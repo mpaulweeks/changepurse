@@ -33,7 +33,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETN":"Electroneum",
-"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -79,6 +78,7 @@
 "STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
+"TRUE":"TrueChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-09T09:00:03.097600"
+"updated":"2019-04-10T09:00:03.181390"
 }
