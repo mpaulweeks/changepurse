@@ -27,7 +27,6 @@
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
-"ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -79,6 +78,7 @@
 "STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
+"TRUE":"TrueChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-11T09:00:03.397773"
+"updated":"2019-04-12T09:00:03.166577"
 }
