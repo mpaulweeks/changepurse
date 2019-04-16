@@ -27,11 +27,11 @@
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
+"ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-15T09:00:02.858273"
+"updated":"2019-04-16T09:00:02.970342"
 }
