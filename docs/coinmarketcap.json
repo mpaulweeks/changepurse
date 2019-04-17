@@ -11,6 +11,7 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -44,7 +45,6 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"LAMB":"Lambda",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-16T09:00:02.970342"
+"updated":"2019-04-17T09:00:03.220925"
 }
