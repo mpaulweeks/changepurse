@@ -66,7 +66,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
     let marketplace = null;
     let idCounter = 0;
 
-    function refresh(){
+    function refreshView(){
       updateCharts();
       $scope.$apply();
     }
@@ -136,7 +136,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
         };
         self.total = [newTotal];
       }
-      refresh();
+      refreshView();
     }
 
     function removeHolding(id){
@@ -148,7 +148,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       });
       self.holdings = newHoldings;
       setQueryParams();
-      refresh();
+      calcTotal();
     }
 
     function setQueryParams(){
@@ -228,6 +228,6 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
         const pricePer = values[1];
         newHolding(symbol, quantity, pricePer);
       });
-      refresh();
+      refreshView();
     });
   });
