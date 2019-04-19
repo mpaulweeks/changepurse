@@ -67,6 +67,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
     let idCounter = 0;
 
     function refreshView(){
+      setQueryParams();
       updateCharts();
       $scope.$apply();
     }
@@ -147,7 +148,6 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
         }
       });
       self.holdings = newHoldings;
-      setQueryParams();
       calcTotal();
     }
 
@@ -221,7 +221,8 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
         return 0;
       });
       window.location.search.split('?')[1].split('&').forEach(seg => {
-        const parts = seg.split('=');
+        const decoded = decodeURIComponent(seg);
+        const parts = decoded.split('=');
         const values = parts[1].split('|');
         const symbol = parts[0];
         const quantity = values[0];
