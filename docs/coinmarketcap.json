@@ -70,7 +70,6 @@
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
+"WICC":"WaykiChain",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-19T09:00:03.593523"
+"updated":"2019-04-20T09:00:03.194984"
 }
