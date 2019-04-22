@@ -11,6 +11,7 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -24,6 +25,7 @@
 "DASH":"Dash",
 "DCR":"Decred",
 "DGB":"DigiByte",
+"DGD":"DigixDAO",
 "DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
@@ -66,7 +68,6 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
-"POWR":"Power Ledger",
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
@@ -87,7 +88,6 @@
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
-"WICC":"WaykiChain",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-21T09:00:03.095604"
+"updated":"2019-04-22T09:00:03.411773"
 }
