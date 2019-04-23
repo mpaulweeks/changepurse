@@ -11,7 +11,6 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
-"BIX":"Bibox Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -65,6 +64,7 @@
 "NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "PIVX":"PIVX",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-22T09:00:03.411773"
+"updated":"2019-04-23T09:00:03.339340"
 }
