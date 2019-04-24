@@ -46,8 +46,6 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
-"LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -67,12 +65,14 @@
 "ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PIVX":"PIVX",
+"POWR":"Power Ledger",
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
+"RDD":"ReddCoin",
 "REP":"Augur",
+"REPO":"REPO",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SNT":"Status",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-23T09:00:03.339340"
+"updated":"2019-04-24T09:00:02.819122"
 }
