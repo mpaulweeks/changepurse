@@ -23,6 +23,7 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DGTX":"Digitex Futures",
@@ -57,11 +58,9 @@
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
-"NAS":"Nebulas",
 "NEO":"NEO",
 "NPXS":"Pundi X",
 "NULS":"NULS",
-"ODE":"ODEM",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "ORBS":"Orbs",
@@ -98,8 +97,9 @@
 "XVG":"Verge",
 "XZC":"Zcoin",
 "ZEC":"Zcash",
+"ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-25T09:00:02.544849"
+"updated":"2019-04-26T09:00:02.722627"
 }
