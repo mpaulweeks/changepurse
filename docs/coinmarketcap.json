@@ -26,7 +26,6 @@
 "DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
-"DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "ELA":"Elastos",
 "ELF":"aelf",
@@ -58,6 +57,7 @@
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
+"NAS":"Nebulas",
 "NEO":"NEO",
 "NPXS":"Pundi X",
 "NULS":"NULS",
@@ -69,7 +69,6 @@
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
@@ -79,6 +78,7 @@
 "STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
+"TRUE":"TrueChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-26T09:00:02.722627"
+"updated":"2019-04-27T09:00:03.181546"
 }
