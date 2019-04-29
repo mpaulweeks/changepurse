@@ -27,13 +27,11 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
 "GUSD":"Gemini Dollar",
@@ -72,6 +70,7 @@
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
+"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -80,6 +79,7 @@
 "STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
+"TRUE":"TrueChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-28T09:00:02.817860"
+"updated":"2019-04-29T09:00:03.210328"
 }
