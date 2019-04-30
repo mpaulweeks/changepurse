@@ -27,6 +27,7 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -96,10 +97,9 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-29T09:00:03.210328"
+"updated":"2019-04-30T09:00:02.639706"
 }
