@@ -7,6 +7,7 @@
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ARK":"Ark",
+"ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
@@ -33,9 +34,9 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
-"GUSD":"Gemini Dollar",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HOT":"Holo",
@@ -58,7 +59,6 @@
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
-"NAS":"Nebulas",
 "NEO":"NEO",
 "NPXS":"Pundi X",
 "NULS":"NULS",
@@ -71,7 +71,6 @@
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -98,8 +97,9 @@
 "XTZ":"Tezos",
 "XVG":"Verge",
 "ZEC":"Zcash",
+"ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-04-30T09:00:02.639706"
+"updated":"2019-05-01T09:00:02.436269"
 }
