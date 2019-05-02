@@ -34,7 +34,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -96,10 +95,11 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-01T09:00:02.436269"
+"updated":"2019-05-02T09:00:02.498595"
 }
