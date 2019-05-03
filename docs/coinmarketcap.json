@@ -34,6 +34,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETN":"Electroneum",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -47,7 +48,6 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-02T09:00:02.498595"
+"updated":"2019-05-03T09:00:03.026785"
 }
