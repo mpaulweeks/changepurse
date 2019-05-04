@@ -47,7 +47,6 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
-"LOOM":"Loom Network",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -70,6 +69,7 @@
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
+"R":"Revain",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-03T09:00:03.026785"
+"updated":"2019-05-04T09:00:03.248998"
 }
