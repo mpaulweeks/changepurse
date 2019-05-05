@@ -24,7 +24,6 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
-"DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
@@ -47,6 +46,7 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
+"LOOM":"Loom Network",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-04T09:00:03.248998"
+"updated":"2019-05-05T09:00:03.422137"
 }
