@@ -27,7 +27,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -47,6 +46,7 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
+"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-05T09:00:03.422137"
+"updated":"2019-05-06T09:00:03.348519"
 }
