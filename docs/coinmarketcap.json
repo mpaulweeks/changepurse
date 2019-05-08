@@ -24,6 +24,7 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
@@ -36,7 +37,6 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
-"HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -46,8 +46,6 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
-"LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -59,6 +57,7 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NET":"NEXT",
 "NEW":"Newton",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
@@ -72,6 +71,7 @@
 "REP":"Augur",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-07T09:00:02.843860"
+"updated":"2019-05-08T09:00:03.305251"
 }
