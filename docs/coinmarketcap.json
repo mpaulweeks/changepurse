@@ -29,11 +29,13 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -46,11 +48,9 @@
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-09T09:00:02.799238"
+"updated":"2019-05-10T09:00:02.570489"
 }
