@@ -1,7 +1,6 @@
 {
 "coins":{
 "ABBC":"ABBC Coin",
-"ABT":"Arcblock",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "AION":"Aion",
@@ -51,6 +50,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-10T09:00:02.570489"
+"updated":"2019-05-11T09:00:03.270695"
 }
