@@ -20,6 +20,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"CLAM":"Clams",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -29,7 +30,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -44,7 +44,6 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LINK":"Chainlink",
@@ -68,6 +67,7 @@
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
+"RDD":"ReddCoin",
 "REP":"Augur",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-13T09:00:03.027730"
+"updated":"2019-05-14T09:00:03.502679"
 }
