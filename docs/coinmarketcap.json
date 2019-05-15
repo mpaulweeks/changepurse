@@ -30,6 +30,7 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -39,6 +40,7 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
+"HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -50,12 +52,10 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-14T09:00:03.502679"
+"updated":"2019-05-15T09:00:02.744423"
 }
