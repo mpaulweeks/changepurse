@@ -1,7 +1,6 @@
 {
 "coins":{
 "ABBC":"ABBC Coin",
-"ABT":"Arcblock",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "AION":"Aion",
@@ -20,7 +19,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"CLAM":"Clams",
+"CCCX":"Clipper Coin",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -48,10 +47,13 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"LA":"LATOKEN",
 "LINK":"Chainlink",
+"LOOM":"Loom Network",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -66,10 +68,8 @@
 "PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"R":"Revain",
 "RDD":"ReddCoin",
 "REP":"Augur",
-"RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-15T09:00:02.744423"
+"updated":"2019-05-16T09:00:03.309778"
 }
