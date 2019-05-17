@@ -1,6 +1,7 @@
 {
 "coins":{
 "ABBC":"ABBC Coin",
+"ABT":"Arcblock",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "AION":"Aion",
@@ -19,7 +20,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"CCCX":"Clipper Coin",
+"CLAM":"Clams",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -29,13 +30,11 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -47,9 +46,9 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"LA":"LATOKEN",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
+"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -58,6 +57,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
@@ -65,7 +65,6 @@
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "RDD":"ReddCoin",
@@ -74,6 +73,7 @@
 "SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
+"SOLVE":"SOLVE",
 "STEEM":"Steem",
 "STRAT":"Stratis",
 "THETA":"THETA",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-16T09:00:03.309778"
+"updated":"2019-05-17T09:00:03.181233"
 }
