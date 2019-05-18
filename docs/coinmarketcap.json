@@ -30,6 +30,7 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -57,7 +58,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-17T09:00:03.181233"
+"updated":"2019-05-18T09:00:02.664786"
 }
