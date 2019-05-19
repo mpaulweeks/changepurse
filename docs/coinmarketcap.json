@@ -30,12 +30,12 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-18T09:00:02.664786"
+"updated":"2019-05-19T09:00:02.940766"
 }
