@@ -35,7 +35,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -45,8 +44,10 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"LA":"LATOKEN",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
 "LRC":"Loopring",
@@ -60,6 +61,7 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NET":"NEXT",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
@@ -67,7 +69,6 @@
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -95,11 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-19T09:00:02.940766"
+"updated":"2019-05-20T09:00:03.360007"
 }
