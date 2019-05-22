@@ -53,7 +53,6 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MANA":"Decentraland",
-"MATIC":"Matic Network",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -96,10 +95,11 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-21T09:00:02.789514"
+"updated":"2019-05-22T09:00:02.868674"
 }
