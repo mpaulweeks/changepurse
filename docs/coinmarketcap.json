@@ -35,7 +35,9 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETP":"Metaverse ETP",
 "FCT":"Factom",
+"GBC":"Gold Bits Coin",
 "GNT":"Golem",
 "GXC":"GXChain",
 "HOT":"Holo",
@@ -59,12 +61,11 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -95,11 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZEC":"Zcash",
 "ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-24T09:00:02.746507"
+"updated":"2019-05-25T09:00:03.228896"
 }
