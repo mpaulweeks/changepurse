@@ -29,7 +29,6 @@
 "DGB":"DigiByte",
 "DGD":"DigixDAO",
 "DOGE":"Dogecoin",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -37,7 +36,6 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "FCT":"Factom",
-"GBC":"Gold Bits Coin",
 "GNT":"Golem",
 "GXC":"GXChain",
 "HOT":"Holo",
@@ -54,6 +52,7 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MANA":"Decentraland",
+"MATIC":"Matic Network",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -61,13 +60,14 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NPXS":"Pundi X",
-"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
+"R":"Revain",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-25T09:00:03.228896"
+"updated":"2019-05-26T09:00:03.417021"
 }
