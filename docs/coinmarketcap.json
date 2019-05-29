@@ -58,13 +58,13 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "R":"Revain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-28T09:00:03.701261"
+"updated":"2019-05-29T09:00:03.558752"
 }
