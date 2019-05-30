@@ -37,6 +37,7 @@
 "FCT":"Factom",
 "GNT":"Golem",
 "GXC":"GXChain",
+"HC":"HyperCash",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -62,7 +63,6 @@
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-29T09:00:03.558752"
+"updated":"2019-05-30T09:00:02.850141"
 }
