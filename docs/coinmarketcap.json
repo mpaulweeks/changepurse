@@ -38,6 +38,7 @@
 "GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
+"HEDG":"HedgeTrade",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -76,7 +77,6 @@
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
 "STRAT":"Stratis",
-"TFUEL":"Theta Fuel",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRUE":"TrueChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-05-30T09:00:02.850141"
+"updated":"2019-05-31T09:00:03.443107"
 }
