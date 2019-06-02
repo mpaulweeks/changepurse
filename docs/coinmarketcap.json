@@ -38,6 +38,7 @@
 "GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
+"HEDG":"HedgeTrade",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -61,7 +62,6 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NEX":"Nash Exchange",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-01T09:00:03.293082"
+"updated":"2019-06-02T09:00:02.596134"
 }
