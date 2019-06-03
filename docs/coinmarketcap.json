@@ -53,7 +53,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -65,6 +64,7 @@
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-02T09:00:02.596134"
+"updated":"2019-06-03T09:00:03.538700"
 }
