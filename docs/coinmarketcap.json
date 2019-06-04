@@ -38,7 +38,6 @@
 "GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
-"HEDG":"HedgeTrade",
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
@@ -53,6 +52,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -60,6 +60,7 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NET":"NEXT",
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
@@ -69,7 +70,6 @@
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"R":"Revain",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-03T09:00:03.538700"
+"updated":"2019-06-04T09:00:03.357263"
 }
