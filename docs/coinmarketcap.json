@@ -46,12 +46,13 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"LA":"LATOKEN",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -61,7 +62,6 @@
 "NEO":"NEO",
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
-"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "ORBS":"Orbs",
@@ -69,7 +69,6 @@
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"R":"Revain",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -77,6 +76,7 @@
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
 "STRAT":"Stratis",
+"TFUEL":"Theta Fuel",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRUE":"TrueChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-05T09:00:03.413318"
+"updated":"2019-06-06T09:00:03.355983"
 }
