@@ -15,6 +15,7 @@
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
+"BTC2":"Bitcoin 2",
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
 "BTS":"BitShares",
@@ -49,6 +50,7 @@
 "LA":"LATOKEN",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
+"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -64,7 +66,6 @@
 "NPXS":"Pundi X",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"ORBS":"Orbs",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
@@ -76,7 +77,6 @@
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
 "STRAT":"Stratis",
-"TFUEL":"Theta Fuel",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRUE":"TrueChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-06T09:00:03.355983"
+"updated":"2019-06-07T09:00:02.781822"
 }
