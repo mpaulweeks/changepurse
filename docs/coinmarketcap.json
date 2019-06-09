@@ -59,10 +59,9 @@
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
+"NAS":"Nebulas",
 "NEO":"NEO",
-"NEX":"Nash Exchange",
 "NPXS":"Pundi X",
-"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
@@ -76,6 +75,7 @@
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
 "STRAT":"Stratis",
+"TFUEL":"Theta Fuel",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRUE":"TrueChain",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-08T09:00:02.993837"
+"updated":"2019-06-09T09:00:02.691085"
 }
