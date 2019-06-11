@@ -34,7 +34,7 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
-"FCT":"Factom",
+"FTM":"Fantom",
 "GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -52,7 +52,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -67,6 +66,7 @@
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
+"PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-10T09:00:03.484258"
+"updated":"2019-06-11T09:00:02.458781"
 }
