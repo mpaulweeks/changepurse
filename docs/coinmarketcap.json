@@ -34,7 +34,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
-"FTM":"Fantom",
 "GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -52,7 +51,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MANA":"Decentraland",
 "MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -61,12 +59,14 @@
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
+"NEX":"Nash Exchange",
 "NPXS":"Pundi X",
+"NRG":"Energi",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
-"PPT":"Populous",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-13T09:00:02.752809"
+"updated":"2019-06-14T09:00:02.743447"
 }
