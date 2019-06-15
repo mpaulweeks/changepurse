@@ -47,7 +47,6 @@
 "KMD":"Komodo",
 "LINK":"Chainlink",
 "LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -71,6 +70,7 @@
 "QTUM":"Qtum",
 "REP":"Augur",
 "RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "SOLVE":"SOLVE",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-14T09:00:02.743447"
+"updated":"2019-06-15T09:00:02.973512"
 }
