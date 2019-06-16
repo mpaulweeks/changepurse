@@ -18,6 +18,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"CCCX":"Clipper Coin",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -25,7 +26,6 @@
 "DCR":"Decred",
 "DENT":"Dent",
 "DGB":"DigiByte",
-"DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "ELF":"aelf",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-15T09:00:02.973512"
+"updated":"2019-06-16T09:00:03.342168"
 }
