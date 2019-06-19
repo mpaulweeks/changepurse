@@ -40,12 +40,12 @@
 "HOT":"Holo",
 "HT":"Huobi Token",
 "ICX":"ICON",
+"INB":"Insight Chain",
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"LEO":"UNUS SED LEO",
 "LINK":"Chainlink",
-"LOOM":"Loom Network",
-"LRC":"Loopring",
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-18T09:00:03.592283"
+"updated":"2019-06-19T09:00:03.479598"
 }
