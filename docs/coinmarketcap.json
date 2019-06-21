@@ -23,7 +23,6 @@
 "DCR":"Decred",
 "DENT":"Dent",
 "DGB":"DigiByte",
-"DGD":"DigixDAO",
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "ELF":"aelf",
@@ -68,6 +67,7 @@
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
+"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-20T09:00:03.242518"
+"updated":"2019-06-21T09:00:02.976740"
 }
