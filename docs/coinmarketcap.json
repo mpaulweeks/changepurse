@@ -25,7 +25,6 @@
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
-"EKT":"EDUCare",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
+"WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-22T09:00:03.335040"
+"updated":"2019-06-23T09:00:03.771592"
 }
