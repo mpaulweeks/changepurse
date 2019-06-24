@@ -25,6 +25,7 @@
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
+"EKT":"EDUCare",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -43,6 +44,7 @@
 "IOST":"IOST",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
+"LAMB":"Lambda",
 "LEO":"UNUS SED LEO",
 "LINK":"Chainlink",
 "LSK":"Lisk",
@@ -67,7 +69,6 @@
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QTUM":"Qtum",
-"RDD":"ReddCoin",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -87,7 +88,6 @@
 "VET":"VeChain",
 "WAVES":"Waves",
 "WAX":"WAX",
-"WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-23T09:00:03.771592"
+"updated":"2019-06-24T09:00:03.283628"
 }
