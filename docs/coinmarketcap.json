@@ -61,13 +61,13 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
-"NULS":"NULS",
 "ODE":"ODEM",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
+"QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-24T09:00:03.283628"
+"updated":"2019-06-25T09:00:02.783749"
 }
