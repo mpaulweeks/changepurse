@@ -26,6 +26,7 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -54,7 +55,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
@@ -86,6 +86,7 @@
 "USDT":"Tether",
 "VEST":"VestChain",
 "VET":"VeChain",
+"VSYS":"V Systems",
 "WAVES":"Waves",
 "WAX":"WAX",
 "XEM":"NEM",
@@ -97,9 +98,8 @@
 "XVG":"Verge",
 "XZC":"Zcoin",
 "ZEC":"Zcash",
-"ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-25T09:00:02.783749"
+"updated":"2019-06-26T09:00:03.208457"
 }
