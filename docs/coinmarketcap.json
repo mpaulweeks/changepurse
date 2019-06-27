@@ -26,7 +26,6 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -55,6 +54,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
@@ -67,7 +67,6 @@
 "PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
-"QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
 "RVN":"Ravencoin",
@@ -79,7 +78,6 @@
 "STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
-"TRUE":"TrueChain",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -93,13 +91,15 @@
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
+"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
 "XZC":"Zcoin",
 "ZEC":"Zcash",
+"ZEN":"Horizen",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-26T09:00:03.208457"
+"updated":"2019-06-27T09:00:03.450263"
 }
