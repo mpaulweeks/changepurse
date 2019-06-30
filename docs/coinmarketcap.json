@@ -17,7 +17,6 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -61,6 +60,7 @@
 "NAS":"Nebulas",
 "NEO":"NEO",
 "NEX":"Nash Exchange",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OMG":"OmiseGO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-06-29T09:00:03.292682"
+"updated":"2019-06-30T09:00:02.459813"
 }
