@@ -17,6 +17,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -63,12 +64,10 @@
 "NRG":"Energi",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
-"R":"Revain",
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
@@ -89,6 +88,7 @@
 "VSYS":"V Systems",
 "WAVES":"Waves",
 "WAX":"WAX",
+"WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-02T09:00:02.655633"
+"updated":"2019-07-03T09:00:03.368767"
 }
