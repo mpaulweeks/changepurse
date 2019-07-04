@@ -17,7 +17,6 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -27,7 +26,6 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -62,8 +60,10 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QNT":"Quant",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-03T09:00:03.368767"
+"updated":"2019-07-04T09:00:03.977513"
 }
