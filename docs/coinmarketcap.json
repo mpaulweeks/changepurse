@@ -33,6 +33,7 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "GNT":"Golem",
+"GRIN":"Grin",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -57,13 +58,12 @@
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
+"NET":"NEXT",
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
-"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"PAI":"Project Pai",
 "PAX":"Paxos Standard Token",
 "QBIT":"Qubitica",
 "QNT":"Quant",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-04T09:00:03.977513"
+"updated":"2019-07-05T09:00:03.426164"
 }
