@@ -17,6 +17,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -26,6 +27,7 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
+"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -33,7 +35,6 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "GNT":"Golem",
-"GRIN":"Grin",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -62,6 +63,7 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
+"NULS":"NULS",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard Token",
@@ -71,7 +73,6 @@
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
-"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "SOLVE":"SOLVE",
@@ -87,7 +88,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-05T09:00:03.426164"
+"updated":"2019-07-06T09:00:03.449113"
 }
