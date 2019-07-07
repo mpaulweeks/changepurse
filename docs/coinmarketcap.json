@@ -27,7 +27,6 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ELA":"Elastos",
 "ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
@@ -55,7 +54,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NAS":"Nebulas",
 "NEO":"NEO",
@@ -73,6 +71,7 @@
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "SOLVE":"SOLVE",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-06T09:00:03.449113"
+"updated":"2019-07-07T09:00:03.253964"
 }
