@@ -68,7 +68,6 @@
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
-"REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -93,6 +92,7 @@
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
+"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-07T09:00:03.253964"
+"updated":"2019-07-08T09:00:02.844544"
 }
