@@ -17,6 +17,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"BZNT":"Bezant",
 "CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -42,7 +43,6 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -68,6 +68,7 @@
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
+"REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -86,7 +87,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-09T09:00:03.049272"
+"updated":"2019-07-10T09:00:03.248271"
 }
