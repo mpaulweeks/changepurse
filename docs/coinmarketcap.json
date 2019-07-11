@@ -55,8 +55,8 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
-"NAS":"Nebulas",
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-10T09:00:03.248271"
+"updated":"2019-07-11T09:00:02.460730"
 }
