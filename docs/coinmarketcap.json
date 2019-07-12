@@ -43,6 +43,7 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -71,7 +72,6 @@
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
-"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "SOLVE":"SOLVE",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-11T09:00:02.460730"
+"updated":"2019-07-12T09:00:02.679270"
 }
