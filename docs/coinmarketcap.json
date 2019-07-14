@@ -17,7 +17,6 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"BZNT":"Bezant",
 "CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
@@ -33,6 +32,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -70,8 +70,8 @@
 "QTUM":"Qtum",
 "REN":"Ren",
 "REP":"Augur",
-"RIF":"RIF Token",
 "RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SNT":"Status",
 "SOLVE":"SOLVE",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-13T09:00:03.328319"
+"updated":"2019-07-14T09:00:03.030331"
 }
