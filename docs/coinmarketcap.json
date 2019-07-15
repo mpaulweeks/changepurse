@@ -32,7 +32,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -43,6 +42,7 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-14T09:00:03.030331"
+"updated":"2019-07-15T09:00:03.309844"
 }
