@@ -22,6 +22,7 @@
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
+"DENT":"Dent",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
@@ -42,6 +43,7 @@
 "ICX":"ICON",
 "INB":"Insight Chain",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -67,7 +69,6 @@
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
-"REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
 "SAN":"Santiment Network Token",
@@ -75,7 +76,6 @@
 "SNT":"Status",
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
-"STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRX":"TRON",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-16T09:00:03.203502"
+"updated":"2019-07-17T09:00:03.246399"
 }
