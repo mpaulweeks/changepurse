@@ -32,7 +32,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETN":"Electroneum",
 "ETP":"Metaverse ETP",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -76,6 +75,7 @@
 "SNT":"Status",
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
+"STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRX":"TRON",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-17T09:00:03.246399"
+"updated":"2019-07-18T09:00:02.959673"
 }
