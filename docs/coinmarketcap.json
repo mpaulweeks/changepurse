@@ -41,6 +41,7 @@
 "HT":"Huobi Token",
 "ICX":"ICON",
 "INB":"Insight Chain",
+"INO":"INO COIN",
 "IOST":"IOST",
 "JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
@@ -55,7 +56,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -87,12 +87,12 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
-"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-19T09:00:02.565508"
+"updated":"2019-07-20T09:00:03.040726"
 }
