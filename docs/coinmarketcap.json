@@ -71,7 +71,6 @@
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
-"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNT":"Status",
@@ -83,16 +82,17 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"UUU":"U Network",
 "VEST":"VestChain",
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
+"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-21T09:00:03.431701"
+"updated":"2019-07-22T09:00:03.295404"
 }
