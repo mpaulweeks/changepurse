@@ -33,7 +33,6 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "FXC":"Flexacoin",
-"GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -71,6 +70,7 @@
 "REN":"Ren",
 "REP":"Augur",
 "RVN":"Ravencoin",
+"SAN":"Santiment Network Token",
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNT":"Status",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-22T09:00:03.295404"
+"updated":"2019-07-23T09:00:03.166583"
 }
