@@ -77,13 +77,13 @@
 "SNT":"Status",
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
+"STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"UUU":"U Network",
 "VEST":"VestChain",
 "VET":"VeChain",
 "VSYS":"V Systems",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-25T09:00:02.607572"
+"updated":"2019-07-26T09:00:02.796648"
 }
