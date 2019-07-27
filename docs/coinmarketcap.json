@@ -77,7 +77,6 @@
 "SNT":"Status",
 "SOLVE":"SOLVE",
 "STEEM":"Steem",
-"STRAT":"Stratis",
 "THETA":"THETA",
 "THR":"ThoreCoin",
 "TRX":"TRON",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-26T09:00:02.796648"
+"updated":"2019-07-27T09:00:03.034738"
 }
