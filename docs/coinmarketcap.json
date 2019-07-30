@@ -17,7 +17,6 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
-"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -43,7 +42,6 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -56,6 +54,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -84,6 +83,7 @@
 "UIP":"UnlimitedIP",
 "USDC":"USD Coin",
 "USDT":"Tether",
+"UUU":"U Network",
 "VEST":"VestChain",
 "VET":"VeChain",
 "VSYS":"V Systems",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-29T09:00:03.345749"
+"updated":"2019-07-30T09:00:02.935711"
 }
