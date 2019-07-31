@@ -30,7 +30,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FXC":"Flexacoin",
 "GNT":"Golem",
 "GXC":"GXChain",
@@ -42,6 +41,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -54,7 +54,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -80,7 +79,6 @@
 "THR":"ThoreCoin",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
-"UIP":"UnlimitedIP",
 "USDC":"USD Coin",
 "USDT":"Tether",
 "UUU":"U Network",
@@ -90,9 +88,11 @@
 "WAVES":"Waves",
 "WTC":"Waltonchain",
 "XEM":"NEM",
+"XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
+"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-07-30T09:00:02.935711"
+"updated":"2019-07-31T09:00:02.965877"
 }
