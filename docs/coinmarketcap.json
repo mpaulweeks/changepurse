@@ -31,7 +31,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "FXC":"Flexacoin",
-"GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -42,6 +41,7 @@
 "INO":"INO COIN",
 "IOST":"IOST",
 "JCT":"Japan Content Token",
+"KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
 "LAMB":"Lambda",
@@ -64,6 +64,7 @@
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard Token",
+"PLC":"PLATINCOIN",
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
@@ -73,7 +74,6 @@
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNT":"Status",
-"SOLVE":"SOLVE",
 "STEEM":"Steem",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-01T09:00:02.492512"
+"updated":"2019-08-02T09:00:02.627942"
 }
