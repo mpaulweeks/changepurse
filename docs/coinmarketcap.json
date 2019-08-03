@@ -25,11 +25,11 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"FST":"1irstcoin",
 "FXC":"Flexacoin",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-02T09:00:02.627942"
+"updated":"2019-08-03T09:00:02.705060"
 }
