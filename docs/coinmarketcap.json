@@ -58,7 +58,6 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OMG":"OmiseGO",
@@ -70,6 +69,7 @@
 "QTUM":"Qtum",
 "REN":"Ren",
 "REP":"Augur",
+"RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SLV":"Silverway",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-03T09:00:02.705060"
+"updated":"2019-08-04T09:00:03.015691"
 }
