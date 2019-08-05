@@ -17,6 +17,7 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"BXK":"Bitbook Gambling",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -29,7 +30,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"FST":"1irstcoin",
 "FXC":"Flexacoin",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-04T09:00:03.015691"
+"updated":"2019-08-05T09:00:02.640566"
 }
