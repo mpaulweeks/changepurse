@@ -26,6 +26,7 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
+"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -92,7 +93,6 @@
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
-"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-06T09:00:03.012310"
+"updated":"2019-08-07T09:00:02.989461"
 }
