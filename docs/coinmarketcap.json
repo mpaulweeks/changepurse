@@ -26,7 +26,6 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -73,7 +72,6 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
-"SLV":"Silverway",
 "SNT":"Status",
 "STEEM":"Steem",
 "THETA":"THETA",
@@ -87,12 +85,14 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
 "XLM":"Stellar",
 "XMR":"Monero",
+"XMX":"XMax",
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-07T09:00:02.989461"
+"updated":"2019-08-08T09:00:02.929331"
 }
