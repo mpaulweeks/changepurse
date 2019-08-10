@@ -29,8 +29,8 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"FST":"1irstcoin",
 "FXC":"Flexacoin",
-"GNT":"Golem",
 "GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -54,7 +54,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -97,9 +96,10 @@
 "XTZ":"Tezos",
 "XVG":"Verge",
 "XZC":"Zcoin",
+"ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-09T09:00:03.263776"
+"updated":"2019-08-10T09:00:03.065993"
 }
