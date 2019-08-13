@@ -10,6 +10,7 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BITUSD":"bitUSD",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -54,7 +55,6 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -85,7 +85,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIX":"Wixlar",
+"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-12T09:00:02.965842"
+"updated":"2019-08-13T09:00:02.539136"
 }
