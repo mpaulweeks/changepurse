@@ -10,7 +10,6 @@
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
-"BITUSD":"bitUSD",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -42,6 +41,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-13T09:00:02.539136"
+"updated":"2019-08-14T09:00:03.208748"
 }
