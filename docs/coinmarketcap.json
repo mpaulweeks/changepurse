@@ -18,6 +18,7 @@
 "BTS":"BitShares",
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
+"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Chain",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -51,7 +52,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -61,6 +61,7 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
+"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard Token",
@@ -85,7 +86,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WAX":"WAX",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-14T09:00:03.208748"
+"updated":"2019-08-15T09:00:02.448081"
 }
