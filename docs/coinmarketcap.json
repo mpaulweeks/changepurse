@@ -3,6 +3,7 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
+"ALGO":"Algorand",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
@@ -82,7 +83,6 @@
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"VEST":"VestChain",
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-15T09:00:02.448081"
+"updated":"2019-08-16T09:00:02.345361"
 }
