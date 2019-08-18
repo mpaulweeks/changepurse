@@ -43,7 +43,6 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -53,6 +52,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-17T09:00:02.550555"
+"updated":"2019-08-18T09:00:03.197791"
 }
