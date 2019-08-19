@@ -43,6 +43,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -52,7 +53,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -86,6 +86,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIX":"Wixlar",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -95,11 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-18T09:00:03.197791"
+"updated":"2019-08-19T09:00:02.660961"
 }
