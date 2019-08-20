@@ -1,16 +1,15 @@
 {
 "coins":{
-"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
 "AOA":"Aurora",
-"ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
+"BDX":"Beldex",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -65,6 +64,7 @@
 "OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
+"OSC":"Oasis City",
 "PAX":"Paxos Standard Token",
 "PLC":"PLATINCOIN",
 "QBIT":"Qubitica",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-19T09:00:02.660961"
+"updated":"2019-08-20T09:00:03.045540"
 }
