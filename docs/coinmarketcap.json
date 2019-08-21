@@ -86,7 +86,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIX":"Wixlar",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -96,10 +95,11 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-20T09:00:03.045540"
+"updated":"2019-08-21T09:00:02.754670"
 }
