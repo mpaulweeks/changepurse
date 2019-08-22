@@ -5,6 +5,7 @@
 "ALGO":"Algorand",
 "AOA":"Aurora",
 "ATOM":"Cosmos",
+"ATP":"Atlas Protocol",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
@@ -31,7 +32,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
-"FST":"1irstcoin",
 "FXC":"Flexacoin",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-21T09:00:02.754670"
+"updated":"2019-08-22T09:00:02.975469"
 }
