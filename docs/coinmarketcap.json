@@ -4,6 +4,7 @@
 "AE":"Aeternity",
 "ALGO":"Algorand",
 "AOA":"Aurora",
+"ARDR":"Ardor",
 "ATOM":"Cosmos",
 "ATP":"Atlas Protocol",
 "BAT":"Basic Attention Token",
@@ -42,7 +43,6 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -72,6 +72,7 @@
 "QTUM":"Qtum",
 "REN":"Ren",
 "REP":"Augur",
+"RHOC":"RChain",
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -86,6 +87,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIX":"Wixlar",
 "WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -95,11 +97,9 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
-"ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-22T09:00:02.975469"
+"updated":"2019-08-23T09:00:03.381511"
 }
