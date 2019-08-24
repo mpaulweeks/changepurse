@@ -29,6 +29,7 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
+"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -72,7 +73,6 @@
 "QTUM":"Qtum",
 "REN":"Ren",
 "REP":"Augur",
-"RHOC":"RChain",
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-23T09:00:03.381511"
+"updated":"2019-08-24T09:00:02.406542"
 }
