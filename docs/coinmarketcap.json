@@ -1,5 +1,6 @@
 {
 "coins":{
+"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
@@ -29,7 +30,6 @@
 "DOGE":"Dogecoin",
 "EGT":"Egretia",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-24T09:00:02.406542"
+"updated":"2019-08-25T09:00:02.604593"
 }
