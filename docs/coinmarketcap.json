@@ -1,6 +1,5 @@
 {
 "coins":{
-"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
@@ -34,6 +33,7 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
+"FST":"1irstcoin",
 "FXC":"Flexacoin",
 "GXC":"GXChain",
 "HC":"HyperCash",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-25T09:00:02.604593"
+"updated":"2019-08-26T09:00:02.730591"
 }
