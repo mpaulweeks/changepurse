@@ -35,7 +35,6 @@
 "ETP":"Metaverse ETP",
 "FST":"1irstcoin",
 "FXC":"Flexacoin",
-"GXC":"GXChain",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -44,6 +43,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -88,7 +88,6 @@
 "VSYS":"V Systems",
 "WAVES":"Waves",
 "WIX":"Wixlar",
-"WTC":"Waltonchain",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
@@ -97,9 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-26T09:00:02.730591"
+"updated":"2019-08-27T09:00:02.701347"
 }
