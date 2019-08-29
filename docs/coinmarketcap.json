@@ -44,6 +44,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -62,7 +63,6 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
-"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSC":"Oasis City",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-28T09:00:02.860302"
+"updated":"2019-08-29T09:00:02.768991"
 }
