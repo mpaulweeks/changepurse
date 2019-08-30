@@ -1,5 +1,6 @@
 {
 "coins":{
+"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
@@ -34,7 +35,6 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "FST":"1irstcoin",
-"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -44,7 +44,6 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -71,7 +70,6 @@
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
-"REN":"Ren",
 "REP":"Augur",
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
@@ -80,6 +78,7 @@
 "STEEM":"Steem",
 "THETA":"THETA",
 "THR":"ThoreCoin",
+"THX":"ThoreNext",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
 "USDC":"USD Coin",
@@ -87,6 +86,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIN":"WINk",
 "WIX":"Wixlar",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-29T09:00:02.768991"
+"updated":"2019-08-30T09:00:03.277834"
 }
