@@ -1,11 +1,9 @@
 {
 "coins":{
-"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
 "AOA":"Aurora",
-"ARDR":"Ardor",
 "ATOM":"Cosmos",
 "ATP":"Atlas Protocol",
 "BAT":"Basic Attention Token",
@@ -28,6 +26,7 @@
 "DCR":"Decred",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
+"DRG":"Dragon Coins",
 "EGT":"Egretia",
 "EKT":"EDUCare",
 "EOS":"EOS",
@@ -70,6 +69,7 @@
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
+"REN":"Ren",
 "REP":"Augur",
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-08-30T09:00:03.277834"
+"updated":"2019-08-31T09:00:03.337794"
 }
