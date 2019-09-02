@@ -44,6 +44,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -74,7 +75,6 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
-"SNT":"Status",
 "STEEM":"Steem",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-01T09:00:02.379442"
+"updated":"2019-09-02T09:00:02.672026"
 }
