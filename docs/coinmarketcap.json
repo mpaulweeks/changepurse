@@ -35,6 +35,7 @@
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
 "FST":"1irstcoin",
+"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -44,7 +45,6 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
-"JCT":"Japan Content Token",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-02T09:00:02.672026"
+"updated":"2019-09-03T09:00:02.881052"
 }
