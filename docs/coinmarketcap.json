@@ -33,9 +33,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FST":"1irstcoin",
-"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -63,6 +61,7 @@
 "NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
+"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSC":"Oasis City",
@@ -75,6 +74,7 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
+"SNX":"Synthetix Network Token",
 "STEEM":"Steem",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-03T09:00:02.881052"
+"updated":"2019-09-04T09:00:02.927299"
 }
