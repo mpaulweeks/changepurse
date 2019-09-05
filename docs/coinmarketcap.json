@@ -34,6 +34,7 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "FST":"1irstcoin",
+"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -66,7 +67,6 @@
 "ONT":"Ontology",
 "OSC":"Oasis City",
 "PAX":"Paxos Standard Token",
-"PLC":"PLATINCOIN",
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
@@ -74,7 +74,7 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
-"SNX":"Synthetix Network Token",
+"SNT":"Status",
 "STEEM":"Steem",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-04T09:00:02.927299"
+"updated":"2019-09-05T09:00:03.363971"
 }
