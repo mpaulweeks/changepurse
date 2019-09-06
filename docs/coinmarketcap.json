@@ -27,14 +27,13 @@
 "DCR":"Decred",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
-"EGT":"Egretia",
 "EKT":"EDUCare",
 "ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETP":"Metaverse ETP",
 "FST":"1irstcoin",
-"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -56,6 +55,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-05T09:00:03.363971"
+"updated":"2019-09-06T09:00:03.193188"
 }
