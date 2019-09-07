@@ -32,8 +32,8 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FST":"1irstcoin",
+"FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-06T09:00:03.193188"
+"updated":"2019-09-07T09:00:02.882379"
 }
