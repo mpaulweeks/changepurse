@@ -1,5 +1,6 @@
 {
 "coins":{
+"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
@@ -86,7 +87,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIN":"WINk",
 "WIX":"Wixlar",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-07T09:00:02.882379"
+"updated":"2019-09-08T09:00:03.121865"
 }
