@@ -1,13 +1,11 @@
 {
 "coins":{
-"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
 "AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
-"ATP":"Atlas Protocol",
 "BAT":"Basic Attention Token",
 "BCD":"Bitcoin Diamond",
 "BCH":"Bitcoin Cash",
@@ -53,6 +51,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -61,6 +60,7 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-08T09:00:03.121865"
+"updated":"2019-09-09T09:00:03.263146"
 }
