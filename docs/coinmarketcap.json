@@ -60,7 +60,6 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -68,6 +67,7 @@
 "ONT":"Ontology",
 "OSC":"Oasis City",
 "PAX":"Paxos Standard Token",
+"PZM":"PRIZM",
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-09T09:00:03.263146"
+"updated":"2019-09-10T09:00:02.977467"
 }
