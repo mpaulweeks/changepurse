@@ -1,5 +1,6 @@
 {
 "coins":{
+"ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
@@ -20,7 +21,7 @@
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
 "CCCX":"Clipper Coin",
-"CRO":"Crypto.com Chain",
+"CRO":"Crypto.com Coin",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
@@ -32,7 +33,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "ETP":"Metaverse ETP",
-"FST":"1irstcoin",
 "FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
@@ -52,7 +52,6 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
-"MCO":"Crypto.com",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -61,6 +60,7 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -75,7 +75,6 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
-"SNT":"Status",
 "SNX":"Synthetix Network Token",
 "STEEM":"Steem",
 "THETA":"THETA",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIX":"Wixlar",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-11T09:00:03.173459"
+"updated":"2019-09-12T09:00:02.708927"
 }
