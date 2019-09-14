@@ -52,6 +52,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MCO":"MCO",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -60,7 +61,6 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-13T09:00:03.314325"
+"updated":"2019-09-14T09:00:03.162610"
 }
