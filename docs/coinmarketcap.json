@@ -61,6 +61,7 @@
 "NEO":"NEO",
 "NET":"NEXT",
 "NEX":"Nash Exchange",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -87,7 +88,6 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIX":"Wixlar",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-14T09:00:03.162610"
+"updated":"2019-09-15T09:00:02.537718"
 }
