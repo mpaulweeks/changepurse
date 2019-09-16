@@ -60,15 +60,13 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
-"NEX":"Nash Exchange",
-"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSC":"Oasis City",
-"PAX":"Paxos Standard Token",
+"PAX":"Paxos Standard",
 "QBIT":"Qubitica",
 "QNT":"Quant",
 "QTUM":"Qtum",
@@ -76,6 +74,7 @@
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
+"SLV":"Silverway",
 "SNX":"Synthetix Network Token",
 "STEEM":"Steem",
 "THETA":"THETA",
@@ -88,6 +87,7 @@
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIX":"Wixlar",
 "XEM":"NEM",
 "XET":"ETERNAL TOKEN",
 "XIN":"Mixin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-15T09:00:02.537718"
+"updated":"2019-09-16T09:00:02.889419"
 }
