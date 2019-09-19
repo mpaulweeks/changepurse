@@ -29,7 +29,6 @@
 "DOGE":"Dogecoin",
 "DTR":"Dynamic Trading Rights",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -53,6 +52,7 @@
 "LSK":"Lisk",
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
+"MB":"MineBee",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -60,7 +60,7 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
-"NEXO":"Nexo",
+"NEX":"Nash Exchange",
 "NPXS":"Pundi X",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-18T09:00:03.353079"
+"updated":"2019-09-19T09:00:02.699289"
 }
