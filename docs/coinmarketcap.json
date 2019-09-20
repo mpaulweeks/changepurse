@@ -12,6 +12,7 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
+"BEAM":"Beam",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -59,11 +60,10 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NET":"NEXT",
 "NEX":"Nash Exchange",
+"NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
-"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSC":"Oasis City",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-19T09:00:02.699289"
+"updated":"2019-09-20T09:00:02.852605"
 }
