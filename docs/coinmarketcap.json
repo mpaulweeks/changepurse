@@ -32,7 +32,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"ETP":"Metaverse ETP",
 "FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
@@ -77,6 +76,7 @@
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
+"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-22T09:00:02.770510"
+"updated":"2019-09-23T09:00:02.773983"
 }
