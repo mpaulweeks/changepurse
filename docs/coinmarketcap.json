@@ -20,7 +20,6 @@
 "BTS":"BitShares",
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
-"CCCX":"Clipper Coin",
 "CRO":"Crypto.com Coin",
 "DAI":"Dai",
 "DASH":"Dash",
@@ -32,6 +31,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"ETP":"Metaverse ETP",
 "FXC":"Flexacoin",
 "GNT":"Golem",
 "HC":"HyperCash",
@@ -58,11 +58,11 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NET":"NEXT",
 "NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
+"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "OSC":"Oasis City",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-23T09:00:02.773983"
+"updated":"2019-09-24T09:00:02.943291"
 }
