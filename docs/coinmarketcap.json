@@ -11,7 +11,6 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
-"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -22,6 +21,7 @@
 "BXK":"Bitbook Gambling",
 "CCCX":"Clipper Coin",
 "CRO":"Crypto.com Coin",
+"CRPT":"Crypterium",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
@@ -35,6 +35,7 @@
 "ETP":"Metaverse ETP",
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
+"GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -53,13 +54,13 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
+"MCO":"MCO",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NET":"NEXT",
 "NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
@@ -89,7 +90,6 @@
 "VITAE":"Vitae",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIX":"Wixlar",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-09-25T09:00:03.257449"
+"updated":"2019-09-26T09:00:03.503330"
 }
