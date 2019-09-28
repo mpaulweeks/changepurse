@@ -53,7 +53,6 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
-"MCO":"MCO",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -99,7 +98,8 @@
 "XVG":"Verge",
 "ZB":"ZB",
 "ZEC":"Zcash",
+"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-27T09:00:02.981211"
+"updated":"2019-09-28T09:00:03.328265"
 }
