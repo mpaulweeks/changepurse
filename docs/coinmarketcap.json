@@ -34,7 +34,6 @@
 "ETP":"Metaverse ETP",
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
-"GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -53,6 +52,7 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
+"MCO":"MCO",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -60,7 +60,6 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
-"NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -89,6 +88,7 @@
 "VITAE":"Vitae",
 "VSYS":"V Systems",
 "WAVES":"Waves",
+"WIX":"Wixlar",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-28T09:00:03.328265"
+"updated":"2019-09-29T09:00:02.898206"
 }
