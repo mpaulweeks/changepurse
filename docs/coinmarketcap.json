@@ -34,6 +34,7 @@
 "ETP":"Metaverse ETP",
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
+"GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -45,7 +46,6 @@
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
-"LAMB":"Lambda",
 "LEO":"UNUS SED LEO",
 "LINK":"Chainlink",
 "LSK":"Lisk",
@@ -60,6 +60,7 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
+"NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -88,7 +89,6 @@
 "VITAE":"Vitae",
 "VSYS":"V Systems",
 "WAVES":"Waves",
-"WIX":"Wixlar",
 "XEM":"NEM",
 "XIN":"Mixin",
 "XLM":"Stellar",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-09-29T09:00:02.898206"
+"updated":"2019-09-30T09:00:03.017449"
 }
