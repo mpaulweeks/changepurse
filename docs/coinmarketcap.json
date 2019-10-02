@@ -2,7 +2,6 @@
 "coins":{
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
-"AE":"Aeternity",
 "ALGO":"Algorand",
 "AOA":"Aurora",
 "ARDR":"Ardor",
@@ -29,13 +28,13 @@
 "DOGE":"Dogecoin",
 "DTR":"Dynamic Trading Rights",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "FNB":"FNB Protocol",
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
+"GAP":"GAPS",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -53,7 +52,7 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
-"MCO":"MCO",
+"MEXC":"MEXC Token",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -61,7 +60,6 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NET":"NEXT",
-"NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -97,9 +95,11 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
+"XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
+"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-01T09:00:03.257173"
+"updated":"2019-10-02T09:00:03.290044"
 }
