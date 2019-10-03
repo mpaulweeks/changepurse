@@ -31,7 +31,6 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
-"FNB":"FNB Protocol",
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
 "GAP":"GAPS",
@@ -90,6 +89,7 @@
 "WAVES":"Waves",
 "XEM":"NEM",
 "XIN":"Mixin",
+"XLAB":"XcelToken Plus",
 "XLM":"Stellar",
 "XMR":"Monero",
 "XRP":"XRP",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-02T09:00:03.290044"
+"updated":"2019-10-03T09:00:03.063440"
 }
