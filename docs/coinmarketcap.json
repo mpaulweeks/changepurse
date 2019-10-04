@@ -19,6 +19,7 @@
 "BTS":"BitShares",
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
+"CENNZ":"Centrality",
 "CRO":"Crypto.com Coin",
 "CRPT":"Crypterium",
 "DAI":"Dai",
@@ -28,6 +29,7 @@
 "DOGE":"Dogecoin",
 "DTR":"Dynamic Trading Rights",
 "EKT":"EDUCare",
+"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -51,6 +53,7 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
+"MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -58,7 +61,6 @@
 "MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NET":"NEXT",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -89,7 +91,6 @@
 "WAVES":"Waves",
 "XEM":"NEM",
 "XIN":"Mixin",
-"XLAB":"XcelToken Plus",
 "XLM":"Stellar",
 "XMR":"Monero",
 "XRP":"XRP",
@@ -98,8 +99,7 @@
 "XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
-"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-03T09:00:03.063440"
+"updated":"2019-10-04T09:00:03.090771"
 }
