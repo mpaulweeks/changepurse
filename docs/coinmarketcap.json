@@ -21,7 +21,6 @@
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
 "CRO":"Crypto.com Coin",
-"CRPT":"Crypterium",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
@@ -36,6 +35,7 @@
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
 "GAP":"GAPS",
+"GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -53,7 +53,6 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
-"MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -99,7 +98,8 @@
 "XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
+"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-04T09:00:03.090771"
+"updated":"2019-10-05T09:00:03.240492"
 }
