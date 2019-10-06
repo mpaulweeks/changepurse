@@ -3,7 +3,6 @@
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
 "ALGO":"Algorand",
-"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -67,6 +66,7 @@
 "ONT":"Ontology",
 "OSC":"Oasis City",
 "PAX":"Paxos Standard",
+"PLC":"PLATINCOIN",
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-05T09:00:03.240492"
+"updated":"2019-10-06T09:00:03.062813"
 }
