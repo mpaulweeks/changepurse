@@ -2,6 +2,7 @@
 "coins":{
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
+"AE":"Aeternity",
 "ALGO":"Algorand",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
@@ -56,9 +57,9 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NET":"NEXT",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -66,7 +67,6 @@
 "ONT":"Ontology",
 "OSC":"Oasis City",
 "PAX":"Paxos Standard",
-"PLC":"PLATINCOIN",
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-06T09:00:03.062813"
+"updated":"2019-10-07T09:00:03.651361"
 }
