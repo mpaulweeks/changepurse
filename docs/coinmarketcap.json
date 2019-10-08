@@ -4,6 +4,7 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
+"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -21,6 +22,7 @@
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
 "CRO":"Crypto.com Coin",
+"CRPT":"Crypterium",
 "DAI":"Dai",
 "DASH":"Dash",
 "DCR":"Decred",
@@ -59,7 +61,6 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NET":"NEXT",
 "NEXO":"Nexo",
 "NPXS":"Pundi X",
 "NRG":"Energi",
@@ -67,6 +68,7 @@
 "ONT":"Ontology",
 "OSC":"Oasis City",
 "PAX":"Paxos Standard",
+"PZM":"PRIZM",
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
@@ -85,7 +87,6 @@
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
-"VITAE":"Vitae",
 "VSYS":"V Systems",
 "WAVES":"Waves",
 "XEM":"NEM",
@@ -95,11 +96,10 @@
 "XRP":"XRP",
 "XTZ":"Tezos",
 "XVG":"Verge",
-"XZC":"Zcoin",
 "ZB":"ZB",
 "ZEC":"Zcash",
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-07T09:00:03.651361"
+"updated":"2019-10-08T09:00:03.181403"
 }
