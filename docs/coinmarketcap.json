@@ -55,6 +55,7 @@
 "LTC":"Litecoin",
 "MAID":"MaidSafeCoin",
 "MB":"MineBee",
+"MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -66,7 +67,6 @@
 "NRG":"Energi",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
-"OSC":"Oasis City",
 "PAX":"Paxos Standard",
 "PZM":"PRIZM",
 "QNT":"Quant",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-08T09:00:03.181403"
+"updated":"2019-10-09T09:00:03.982022"
 }
