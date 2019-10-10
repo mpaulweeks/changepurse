@@ -30,7 +30,6 @@
 "DOGE":"Dogecoin",
 "DTR":"Dynamic Trading Rights",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -68,6 +67,7 @@
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard",
+"PLC":"PLATINCOIN",
 "PZM":"PRIZM",
 "QNT":"Quant",
 "QTUM":"Qtum",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-09T09:00:03.982022"
+"updated":"2019-10-10T09:00:03.933134"
 }
