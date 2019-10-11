@@ -59,6 +59,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -67,17 +68,16 @@
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard",
-"PLC":"PLATINCOIN",
 "PZM":"PRIZM",
 "QNT":"Quant",
 "QTUM":"Qtum",
+"REN":"Ren",
 "REP":"Augur",
 "RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
-"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-10T09:00:03.933134"
+"updated":"2019-10-11T09:00:03.868483"
 }
