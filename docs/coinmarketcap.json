@@ -12,6 +12,7 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
+"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -73,7 +74,6 @@
 "QTUM":"Qtum",
 "REN":"Ren",
 "REP":"Augur",
-"RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SLV":"Silverway",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-13T09:00:03.843664"
+"updated":"2019-10-14T09:00:03.371477"
 }
