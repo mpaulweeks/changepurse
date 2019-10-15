@@ -12,7 +12,6 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
-"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -31,7 +30,7 @@
 "DOGE":"Dogecoin",
 "DTR":"Dynamic Trading Rights",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
+"EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
@@ -61,6 +60,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-14T09:00:03.371477"
+"updated":"2019-10-15T09:00:04.062229"
 }
