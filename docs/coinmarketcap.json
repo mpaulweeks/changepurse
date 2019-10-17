@@ -38,7 +38,6 @@
 "FTT":"FTX Token",
 "FXC":"Flexacoin",
 "GAP":"GAPS",
-"GNT":"Golem",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
 "HOT":"Holo",
@@ -47,6 +46,7 @@
 "INB":"Insight Chain",
 "INO":"INO COIN",
 "IOST":"IOST",
+"JWL":"Jewel",
 "KBC":"Karatgold Coin",
 "KCS":"KuCoin Shares",
 "KMD":"Komodo",
@@ -64,7 +64,6 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -79,6 +78,7 @@
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
+"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-10-16T09:00:03.910512"
+"updated":"2019-10-17T09:00:03.534434"
 }
