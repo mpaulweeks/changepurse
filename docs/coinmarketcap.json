@@ -61,12 +61,12 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEX":"Nash Exchange",
 "NEXO":"Nexo",
 "NRG":"Energi",
+"OKB":"OKB",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-10-18T09:00:03.478045"
+"updated":"2019-10-19T09:00:02.707789"
 }
