@@ -4,7 +4,6 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
-"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -61,9 +60,9 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
-"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
+"NEW":"Newton",
 "NEXO":"Nexo",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -99,7 +98,8 @@
 "XVG":"Verge",
 "ZB":"ZB",
 "ZEC":"Zcash",
+"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-21T09:00:03.834228"
+"updated":"2019-10-22T09:00:03.590281"
 }
