@@ -4,6 +4,7 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
+"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -11,7 +12,6 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
-"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-10-23T09:00:03.306349"
+"updated":"2019-10-24T09:00:03.894613"
 }
