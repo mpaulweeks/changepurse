@@ -21,6 +21,7 @@
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
+"CNX":"Cryptonex",
 "CRO":"Crypto.com Coin",
 "CRPT":"Crypterium",
 "DAI":"Dai",
@@ -78,7 +79,6 @@
 "SC":"Siacoin",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
-"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-10-24T09:00:03.894613"
+"updated":"2019-10-25T09:00:03.653878"
 }
