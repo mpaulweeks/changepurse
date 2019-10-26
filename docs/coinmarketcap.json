@@ -4,7 +4,6 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
-"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -12,6 +11,7 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
+"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -64,7 +64,6 @@
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
-"NEW":"Newton",
 "NEXO":"Nexo",
 "NRG":"Energi",
 "OKB":"OKB",
@@ -75,6 +74,7 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
+"RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SLV":"Silverway",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-10-25T09:00:03.653878"
+"updated":"2019-10-26T09:00:03.268042"
 }
