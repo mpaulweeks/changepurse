@@ -11,7 +11,6 @@
 "BCH":"Bitcoin Cash",
 "BCN":"Bytecoin",
 "BDX":"Beldex",
-"BF":"BitForex Token",
 "BNB":"Binance Coin",
 "BSV":"Bitcoin SV",
 "BTC":"Bitcoin",
@@ -29,6 +28,7 @@
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "EKT":"EDUCare",
+"ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
@@ -54,7 +54,6 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
-"MB":"MineBee",
 "MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
@@ -99,7 +98,8 @@
 "XVG":"Verge",
 "ZB":"ZB",
 "ZEC":"Zcash",
+"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-10-31T09:00:03.842367"
+"updated":"2019-11-01T09:00:04.394632"
 }
