@@ -4,6 +4,7 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
+"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -28,7 +29,6 @@
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
 "EKT":"EDUCare",
-"ELF":"aelf",
 "ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
@@ -62,7 +62,6 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
-"NOAH":"Noah Coin",
 "NRG":"Energi",
 "OKB":"OKB",
 "OMG":"OmiseGO",
@@ -73,6 +72,7 @@
 "QTUM":"Qtum",
 "REP":"Augur",
 "RIF":"RIF Token",
+"RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SLV":"Silverway",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-01T09:00:04.394632"
+"updated":"2019-11-02T09:00:04.287327"
 }
