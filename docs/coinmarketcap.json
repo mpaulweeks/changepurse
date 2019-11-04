@@ -71,10 +71,10 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
-"RIF":"RIF Token",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
+"SEELE":"Seele",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
 "STEEM":"Steem",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-03T09:00:03.626182"
+"updated":"2019-11-04T09:00:03.874693"
 }
