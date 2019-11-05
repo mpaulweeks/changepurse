@@ -54,6 +54,7 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
+"MB":"MineBee",
 "MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
@@ -71,13 +72,12 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
-"RLC":"iExec RLC",
+"RIF":"RIF Token",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SEELE":"Seele",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
-"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-04T09:00:03.874693"
+"updated":"2019-11-05T09:00:03.415572"
 }
