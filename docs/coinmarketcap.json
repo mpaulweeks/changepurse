@@ -29,8 +29,8 @@
 "DCR":"Decred",
 "DGB":"DigiByte",
 "DOGE":"Dogecoin",
+"DX":"DxChain Token",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-07T09:00:04.329470"
+"updated":"2019-11-08T09:00:04.010477"
 }
