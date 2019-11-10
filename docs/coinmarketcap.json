@@ -21,7 +21,6 @@
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
-"CHZ":"Chiliz",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Coin",
 "DAI":"Dai",
@@ -55,6 +54,7 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
+"MB":"MineBee",
 "MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
@@ -72,12 +72,12 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
+"RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
 "SEELE":"Seele",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
-"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-09T09:00:03.469832"
+"updated":"2019-11-10T09:00:03.420434"
 }
