@@ -54,7 +54,6 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
-"MB":"MineBee",
 "MCO":"MCO",
 "MEXC":"MEXC Token",
 "MIOTA":"IOTA",
@@ -72,6 +71,7 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
+"RIF":"RIF Token",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-10T09:00:03.420434"
+"updated":"2019-11-11T09:00:02.981375"
 }
