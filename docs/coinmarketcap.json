@@ -17,6 +17,7 @@
 "BTC":"Bitcoin",
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
+"BTMX":"BitMax Token",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
@@ -35,7 +36,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "FTT":"FTX Token",
-"FXC":"Flexacoin",
 "GAP":"GAPS",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -56,6 +56,7 @@
 "MAID":"MaidSafeCoin",
 "MCO":"MCO",
 "MEXC":"MEXC Token",
+"MIN":"MINDOL",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
@@ -98,8 +99,7 @@
 "XVG":"Verge",
 "ZB":"ZB",
 "ZEC":"Zcash",
-"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-11T09:00:02.981375"
+"updated":"2019-11-12T09:00:03.675580"
 }
