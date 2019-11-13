@@ -17,11 +17,11 @@
 "BTC":"Bitcoin",
 "BTG":"Bitcoin Gold",
 "BTM":"Bytom",
-"BTMX":"BitMax Token",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
+"CHZ":"Chiliz",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Coin",
 "DAI":"Dai",
@@ -60,6 +60,7 @@
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -72,7 +73,6 @@
 "QNT":"Quant",
 "QTUM":"Qtum",
 "REP":"Augur",
-"RIF":"RIF Token",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
 "SC":"Siacoin",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-11-12T09:00:03.675580"
+"updated":"2019-11-13T09:00:03.888534"
 }
