@@ -4,7 +4,6 @@
 "ADA":"Cardano",
 "AE":"Aeternity",
 "ALGO":"Algorand",
-"AOA":"Aurora",
 "ARDR":"Ardor",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -22,6 +21,7 @@
 "BTT":"BitTorrent",
 "BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
+"CHZ":"Chiliz",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Coin",
 "DAI":"Dai",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-16T09:00:03.940647"
+"updated":"2019-11-17T09:00:03.862661"
 }
