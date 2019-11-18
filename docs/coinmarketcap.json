@@ -31,7 +31,6 @@
 "DOGE":"Dogecoin",
 "DX":"DxChain Token",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -78,6 +77,7 @@
 "SEELE":"Seele",
 "SLV":"Silverway",
 "SNX":"Synthetix Network Token",
+"STEEM":"Steem",
 "SXP":"Swipe",
 "THETA":"THETA",
 "THR":"ThoreCoin",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-17T09:00:03.862661"
+"updated":"2019-11-18T09:00:03.788976"
 }
