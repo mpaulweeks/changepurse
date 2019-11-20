@@ -30,6 +30,7 @@
 "DOGE":"Dogecoin",
 "DX":"DxChain Token",
 "EKT":"EDUCare",
+"ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -59,7 +60,6 @@
 "MIN":"MINDOL",
 "MIOTA":"IOTA",
 "MKR":"Maker",
-"MMO":"MMOCoin",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-19T09:00:04.346016"
+"updated":"2019-11-20T09:00:03.014346"
 }
