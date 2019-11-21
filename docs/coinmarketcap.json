@@ -55,8 +55,8 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
+"MB":"MineBee",
 "MCO":"MCO",
-"MEXC":"MEXC Token",
 "MIN":"MINDOL",
 "MIOTA":"IOTA",
 "MKR":"Maker",
@@ -101,5 +101,5 @@
 "ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-20T09:00:03.014346"
+"updated":"2019-11-21T09:00:03.661699"
 }
