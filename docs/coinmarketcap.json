@@ -27,6 +27,7 @@
 "DASH":"Dash",
 "DCR":"Decred",
 "DGB":"DigiByte",
+"DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "DX":"DxChain Token",
 "EKT":"EDUCare",
@@ -36,7 +37,6 @@
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
 "FTT":"FTX Token",
-"FXC":"Flexacoin",
 "GAP":"GAPS",
 "HC":"HyperCash",
 "HEDG":"HedgeTrade",
@@ -55,11 +55,11 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
-"MB":"MineBee",
 "MCO":"MCO",
 "MIN":"MINDOL",
 "MIOTA":"IOTA",
 "MKR":"Maker",
+"MMO":"MMOCoin",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
@@ -84,6 +84,7 @@
 "THX":"ThoreNext",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
+"UNI":"UNI COIN",
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
@@ -98,8 +99,7 @@
 "XVG":"Verge",
 "ZB":"ZB",
 "ZEC":"Zcash",
-"ZIL":"Zilliqa",
 "ZRX":"0x"
 },
-"updated":"2019-11-21T09:00:03.661699"
+"updated":"2019-11-22T09:00:03.828989"
 }
