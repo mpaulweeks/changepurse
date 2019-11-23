@@ -27,11 +27,9 @@
 "DASH":"Dash",
 "DCR":"Decred",
 "DGB":"DigiByte",
-"DGTX":"Digitex Futures",
 "DOGE":"Dogecoin",
 "DX":"DxChain Token",
 "EKT":"EDUCare",
-"ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
@@ -55,16 +53,18 @@
 "LTC":"Litecoin",
 "LUNA":"LUNA",
 "MAID":"MaidSafeCoin",
+"MB":"MineBee",
 "MCO":"MCO",
 "MIN":"MINDOL",
 "MIOTA":"IOTA",
 "MKR":"Maker",
 "MMO":"MMOCoin",
+"MOF":"Molecular Future",
 "MONA":"MonaCoin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
-"OKB":"OKB",
+"NOAH":"Noah Coin",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-11-22T09:00:03.828989"
+"updated":"2019-11-23T09:00:03.161651"
 }
