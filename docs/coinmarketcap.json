@@ -30,10 +30,12 @@
 "DOGE":"Dogecoin",
 "DX":"DxChain Token",
 "EKT":"EDUCare",
+"ENJ":"Enjin Coin",
 "EON":"Dimension Chain",
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"FST":"1irstcoin",
 "FTT":"FTX Token",
 "GAP":"GAPS",
 "HC":"HyperCash",
@@ -64,7 +66,6 @@
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
-"NOAH":"Noah Coin",
 "OMG":"OmiseGO",
 "ONT":"Ontology",
 "PAX":"Paxos Standard",
@@ -84,7 +85,6 @@
 "THX":"ThoreNext",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
-"UNI":"UNI COIN",
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-11-23T09:00:03.161651"
+"updated":"2019-11-24T09:00:03.721124"
 }
