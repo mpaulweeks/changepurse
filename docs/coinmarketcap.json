@@ -2,7 +2,6 @@
 "coins":{
 "ABBC":"ABBC Coin",
 "ADA":"Cardano",
-"AE":"Aeternity",
 "ALGO":"Algorand",
 "ATOM":"Cosmos",
 "BAT":"Basic Attention Token",
@@ -32,6 +31,7 @@
 "EOS":"EOS",
 "ETC":"Ethereum Classic",
 "ETH":"Ethereum",
+"FSN":"Fusion",
 "FST":"1irstcoin",
 "FTT":"FTX Token",
 "GAP":"GAPS",
@@ -60,6 +60,7 @@
 "MKR":"Maker",
 "MMO":"MMOCoin",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -86,7 +87,6 @@
 "UNI":"UNI COIN",
 "USDC":"USD Coin",
 "USDT":"Tether",
-"VEST":"VestChain",
 "VET":"VeChain",
 "VSYS":"V Systems",
 "WAVES":"Waves",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-11-25T09:00:03.628489"
+"updated":"2019-11-26T09:00:03.657417"
 }
