@@ -8,5 +8,5 @@ source venv/bin/activate
 python -m py.fetch_coinmarketcap
 
 git add .
-git commit -m 'update coinmarketcap.json'
+git commit -m 'update price.json'
 git push
