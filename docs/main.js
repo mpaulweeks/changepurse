@@ -72,47 +72,38 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       $scope.$apply();
     }
 
-    function fetchCurrency(symbol){
-      const tickerName = marketplace[symbol];
-      const safeTickerName = tickerName.replace(' ', '-');
-      const url = `https://api.coinmarketcap.com/v1/ticker/${safeTickerName}/?v=${getTimestamp()}`;
-      return fetch(url).then(r => r.json());
-    }
-    function getCurrency(symbol){
-      promises[symbol] = promises[symbol] || fetchCurrency(symbol);
-      return promises[symbol];
-    }
-
     function newHolding(symbol, quantity, pricePer){
+      // convert params to numbers
       quantity = parseFloat(quantity, 10);
       pricePer = parseFloat(pricePer, 10);
+
       const id = idCounter++;
-      const hold = {
+      const curr = marketplace[symbol] || {
+        name: symbol,
+        USD: 0,
+      };
+      const priceSum = pricePer * quantity;
+      const marketPer = parseFloat(curr.USD, 10);
+      const marketSum = quantity * marketPer;
+      const gainPercent = calcGainPercent(priceSum, marketSum);
+
+      self.holdings.push({
         id: id,
         symbol: symbol,
-        name: marketplace[symbol] || symbol,
+        name: curr.name,
         quantity: quantity,
         pricePer: pricePer,
-        priceSum: pricePer * quantity,
+        priceSum: priceSum,
+        marketPer: marketPer,
+        marketSum: marketSum,
+        gainPercent: gainPercent,
+        gainStyle: gainStyle(gainPercent),
         serialize: () => {
           return symbol + '=' + [quantity, pricePer].join('|');
         },
         remove: () => removeHolding(id),
-      };
-      const promise = getCurrency(symbol).then(ticker => {
-        const data = ticker[0];
-        const marketPer = parseFloat(data.price_usd, 10);
-        const marketSum = hold.quantity * marketPer;
-        const gainPercent = calcGainPercent(hold.priceSum, marketSum);
-        Object.assign(hold, {
-          marketPer: marketPer,
-          marketSum: marketSum,
-          gainPercent: gainPercent,
-          gainStyle: gainStyle(gainPercent),
-        });
-        calcTotal();
       });
-      self.holdings.push(hold);
+      calcTotal();
     }
 
     function calcTotal(){
@@ -205,13 +196,13 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       setQueryParams();
     };
 
-    const NAMES_URL = 'coinmarketcap.json';
-    fetch(NAMES_URL).then(r => r.json()).then(data => {
+    const PRICES_URL = 'price.json';
+    fetch(PRICES_URL).then(r => r.json()).then(data => {
       marketplace = data.coins;
       self.currencies = [];
       for (symbol in marketplace){
         self.currencies.push({
-          label: `${marketplace[symbol]} (${symbol})`,
+          label: `${marketplace[symbol].name} (${symbol})`,
           symbol: symbol,
         });
       }
