@@ -18,10 +18,10 @@
 "BTM":"Bytom",
 "BTS":"BitShares",
 "BTT":"BitTorrent",
+"BXK":"Bitbook Gambling",
 "CENNZ":"Centrality",
 "CNX":"Cryptonex",
 "CRO":"Crypto.com Coin",
-"DAI":"Single Collateral DAI ",
 "DASH":"Dash",
 "DCR":"Decred",
 "DGB":"DigiByte",
@@ -61,6 +61,7 @@
 "MKR":"Maker",
 "MOF":"Molecular Future",
 "MONA":"MonaCoin",
+"MXM":"Maximine Coin",
 "NANO":"Nano",
 "NEO":"NEO",
 "NEXO":"Nexo",
@@ -73,9 +74,9 @@
 "REP":"Augur",
 "RLC":"iExec RLC",
 "RVN":"Ravencoin",
+"SAI":"Single Collateral DAI ",
 "SC":"Siacoin",
 "SEELE":"Seele",
-"SLV":"Silverway",
 "SNX":"Synthetix Network Token",
 "STEEM":"Steem",
 "SXP":"Swipe",
@@ -84,7 +85,6 @@
 "THX":"ThoreNext",
 "TRX":"TRON",
 "TUSD":"TrueUSD",
-"UNI":"UNI COIN",
 "USDC":"USD Coin",
 "USDT":"Tether",
 "VET":"VeChain",
@@ -101,5 +101,5 @@
 "ZEC":"Zcash",
 "ZRX":"0x"
 },
-"updated":"2019-11-27T09:00:03.584504"
+"updated":"2019-11-29T09:00:03.360328"
 }
