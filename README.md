@@ -20,5 +20,5 @@ virtualenv venv
 source venv/bin/activate
 pip install -r py/requirements.txt
 
-# see crontab.sh for more info
+# see cronjob.sh for more info
 ```
