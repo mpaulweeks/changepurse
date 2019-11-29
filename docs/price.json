@@ -1,0 +1,9085 @@
+{
+  "coins": {
+    "0xBTC": {
+      "USD": 0.103236278501,
+      "name": "0xBitcoin"
+    },
+    "1337": {
+      "USD": 3.08068058347e-05,
+      "name": "Elite"
+    },
+    "1SG": {
+      "USD": 0.721568261391,
+      "name": "1SG"
+    },
+    "1ST": {
+      "USD": 0.0991685301529,
+      "name": "FirstBlood"
+    },
+    "1UP": {
+      "USD": 0.00250958998904,
+      "name": "Uptrennd"
+    },
+    "1WO": {
+      "USD": 0.112632214386,
+      "name": "1World"
+    },
+    "1X2": {
+      "USD": 0.0473615304174,
+      "name": "1X2 COIN"
+    },
+    "2GIVE": {
+      "USD": 7.75147797338e-05,
+      "name": "2GIVE"
+    },
+    "3DC": {
+      "USD": 0.00767396319365,
+      "name": "3DCoin"
+    },
+    "42": {
+      "USD": 16399.2626004,
+      "name": "42-coin"
+    },
+    "777": {
+      "USD": 0.000194774950248,
+      "name": "BiNGO.Fun"
+    },
+    "7E": {
+      "USD": 3.7570161852e-05,
+      "name": "7Eleven"
+    },
+    "A": {
+      "USD": 0.0131691671485,
+      "name": "Alpha Token"
+    },
+    "AAA": {
+      "USD": 1.5253002577e-05,
+      "name": "Abulaba"
+    },
+    "AAC": {
+      "USD": 0.00152858488922,
+      "name": "Acute Angle Cloud"
+    },
+    "ABBC": {
+      "USD": 0.184852165379,
+      "name": "ABBC Coin"
+    },
+    "ABDT": {
+      "USD": 0.00335477054522,
+      "name": "Atlantis Blue Digital Token"
+    },
+    "ABL": {
+      "USD": 0.00838837416056,
+      "name": "Airbloc"
+    },
+    "ABS": {
+      "USD": 0.0025960124322,
+      "name": "Absolute"
+    },
+    "ABT": {
+      "USD": 0.156659916456,
+      "name": "Arcblock"
+    },
+    "ABX": {
+      "USD": 0.00587969135261,
+      "name": "Arbidex"
+    },
+    "ABYSS": {
+      "USD": 0.00895595076695,
+      "name": "Abyss Token"
+    },
+    "AC3": {
+      "USD": 0.00100770291779,
+      "name": "AC3"
+    },
+    "ACAT": {
+      "USD": 0.000253748502431,
+      "name": "Alphacat"
+    },
+    "ACC": {
+      "USD": 0.0105364993182,
+      "name": "ACChain"
+    },
+    "ACDC": {
+      "USD": 5.71210103366e-05,
+      "name": "Volt"
+    },
+    "ACE": {
+      "USD": 0.0140301751318,
+      "name": "ACE (TokenStars)"
+    },
+    "ACED": {
+      "USD": 0.000775147797338,
+      "name": "AceD"
+    },
+    "ACES": {
+      "USD": 0.000123741847099,
+      "name": "Aces"
+    },
+    "ACM": {
+      "USD": 0.0702283904388,
+      "name": "Actinium"
+    },
+    "ACOIN": {
+      "USD": 0.0137535033817,
+      "name": "Acoin"
+    },
+    "ACT": {
+      "USD": 0.00691753789518,
+      "name": "Achain"
+    },
+    "ACU": {
+      "USD": 0.00279188817183,
+      "name": "Aitheon"
+    },
+    "AD": {
+      "USD": 0.00133843701598,
+      "name": "Asian Dragon"
+    },
+    "ADA": {
+      "USD": 0.0418604281968,
+      "name": "Cardano"
+    },
+    "ADB": {
+      "USD": 0.000384619559234,
+      "name": "adbank"
+    },
+    "ADC": {
+      "USD": 0.000155029559468,
+      "name": "AudioCoin"
+    },
+    "ADH": {
+      "USD": 0.000487000965567,
+      "name": "AdHive"
+    },
+    "ADI": {
+      "USD": 0.000591723662869,
+      "name": "Aditus"
+    },
+    "ADK": {
+      "USD": 1.67575756365,
+      "name": "Aidos Kuneen"
+    },
+    "ADL": {
+      "USD": 0.00418579810563,
+      "name": "Adelphoi"
+    },
+    "ADM": {
+      "USD": 0.00992037678589,
+      "name": "ADAMANT Messenger"
+    },
+    "ADN": {
+      "USD": 0.000377180115093,
+      "name": "Aladdin"
+    },
+    "ADS": {
+      "USD": 0.0323999432135,
+      "name": "Adshares"
+    },
+    "ADT": {
+      "USD": 0.00533572097027,
+      "name": "adToken"
+    },
+    "ADX": {
+      "USD": 0.0991935138391,
+      "name": "AdEx"
+    },
+    "ADZ": {
+      "USD": 0.00100769213654,
+      "name": "Adzcoin"
+    },
+    "AE": {
+      "USD": 0.171606101346,
+      "name": "Aeternity"
+    },
+    "AEG": {
+      "USD": 0.000720879939934,
+      "name": "Aegeus"
+    },
+    "AEN": {
+      "USD": 0.0259960359961,
+      "name": "Aencoin"
+    },
+    "AEON": {
+      "USD": 0.196662024999,
+      "name": "Aeon"
+    },
+    "AERGO": {
+      "USD": 0.0427998706837,
+      "name": "Aergo"
+    },
+    "AET": {
+      "USD": 0.334050911715,
+      "name": "Aerotoken"
+    },
+    "AFIN": {
+      "USD": 0.00958372680235,
+      "name": "Asian Fintech"
+    },
+    "AGI": {
+      "USD": 0.0199475406343,
+      "name": "SingularityNET"
+    },
+    "AGLT": {
+      "USD": 0.0005,
+      "name": "Agrolot"
+    },
+    "AGRO": {
+      "USD": 0.291027037336,
+      "name": "Agrocoin"
+    },
+    "AGRS": {
+      "USD": 0.154099382111,
+      "name": "Agoras Tokens"
+    },
+    "AGVC": {
+      "USD": 0.0558422103641,
+      "name": "AgaveCoin"
+    },
+    "AIB": {
+      "USD": 0.00115113718773,
+      "name": "Advanced Internet Blocks"
+    },
+    "AID": {
+      "USD": 0.00896454279382,
+      "name": "AidCoin"
+    },
+    "AIDOC": {
+      "USD": 0.00353709491996,
+      "name": "AI Doctor"
+    },
+    "AION": {
+      "USD": 0.0670236478199,
+      "name": "Aion"
+    },
+    "AIT": {
+      "USD": 0.000860934998436,
+      "name": "AICHAIN"
+    },
+    "AIX": {
+      "USD": 0.000930150111331,
+      "name": "Aigang"
+    },
+    "AKA": {
+      "USD": 0.000389842857511,
+      "name": "Akroma"
+    },
+    "AKRO": {
+      "USD": 0.00175922902467,
+      "name": "Akropolis "
+    },
+    "ALB": {
+      "USD": 3.38739043909e-05,
+      "name": "ALBOS"
+    },
+    "ALC": {
+      "USD": 0.000411503707904,
+      "name": "ALLCOIN"
+    },
+    "ALGO": {
+      "USD": 0.282634812044,
+      "name": "Algorand"
+    },
+    "ALI": {
+      "USD": 7.59363617139e-06,
+      "name": "AiLink Token"
+    },
+    "ALIS": {
+      "USD": 0.0340376134596,
+      "name": "ALIS"
+    },
+    "ALLN": {
+      "USD": 0.040082330448,
+      "name": "Airline & Life Networking Token"
+    },
+    "ALP": {
+      "USD": 0.0040818054791,
+      "name": "Alphacon"
+    },
+    "ALT": {
+      "USD": 9.99940658566e-05,
+      "name": "Alt.Estate token"
+    },
+    "ALV": {
+      "USD": 0.00938940961619,
+      "name": "ALLUVA"
+    },
+    "ALX": {
+      "USD": 0.000205924174522,
+      "name": "ALAX"
+    },
+    "AMB": {
+      "USD": 0.023963305108,
+      "name": "Ambrosus"
+    },
+    "AMIO": {
+      "USD": 0.052938752998,
+      "name": "Amino Network"
+    },
+    "AMLT": {
+      "USD": 0.00702262382349,
+      "name": "AMLT"
+    },
+    "AMM": {
+      "USD": 0.00376481452724,
+      "name": "MicroMoney"
+    },
+    "AMN": {
+      "USD": 0.00121930401254,
+      "name": "Amon"
+    },
+    "AMO": {
+      "USD": 0.00021313181618,
+      "name": "AMO Coin"
+    },
+    "AMON": {
+      "USD": 0.00199496827952,
+      "name": "AmonD"
+    },
+    "AMP": {
+      "USD": 0.00162781037441,
+      "name": "HyperSpace"
+    },
+    "AMPL": {
+      "USD": 1.02594008211,
+      "name": "Ampleforth"
+    },
+    "AMS": {
+      "USD": 0.000453624580745,
+      "name": "AmsterdamCoin"
+    },
+    "ANC": {
+      "USD": 0.0315485153517,
+      "name": "Anoncoin"
+    },
+    "ANCT": {
+      "USD": 0.797395092611,
+      "name": "Anchor"
+    },
+    "ANKR": {
+      "USD": 0.00197541347688,
+      "name": "Ankr"
+    },
+    "ANON": {
+      "USD": 0.011937276079,
+      "name": "ANON"
+    },
+    "ANT": {
+      "USD": 0.602814184976,
+      "name": "Aragon"
+    },
+    "AOA": {
+      "USD": 0.00477213151348,
+      "name": "Aurora"
+    },
+    "AOG": {
+      "USD": 0.00279053207042,
+      "name": "smARTOFGIVING"
+    },
+    "APC": {
+      "USD": 0.000273805815945,
+      "name": "Alpha Coin"
+    },
+    "APIS": {
+      "USD": 0.000465359409438,
+      "name": "APIS"
+    },
+    "APL": {
+      "USD": 0.000837351309051,
+      "name": "Apollo Currency"
+    },
+    "APPC": {
+      "USD": 0.0297684209001,
+      "name": "AppCoins"
+    },
+    "APR": {
+      "USD": 0.00279053207042,
+      "name": "APR Coin"
+    },
+    "ARAW": {
+      "USD": 9.31245425294e-06,
+      "name": "ARAW"
+    },
+    "ARB": {
+      "USD": 0.000635565730109,
+      "name": "ARbit"
+    },
+    "ARC": {
+      "USD": 0.00124023647574,
+      "name": "Advanced Technology Coin"
+    },
+    "ARCO": {
+      "USD": 0.0404207003797,
+      "name": "AquariusCoin"
+    },
+    "ARCT": {
+      "USD": 0.000155029559468,
+      "name": "ArbitrageCT"
+    },
+    "ARDR": {
+      "USD": 0.0525417657712,
+      "name": "Ardor"
+    },
+    "AREPA": {
+      "USD": 0.00237867811694,
+      "name": "Arepacoin"
+    },
+    "ARGUS": {
+      "USD": 0.000542603458137,
+      "name": "Argus"
+    },
+    "ARION": {
+      "USD": 0.00408447939769,
+      "name": "Arion"
+    },
+    "ARK": {
+      "USD": 0.199540322896,
+      "name": "Ark"
+    },
+    "ARN": {
+      "USD": 0.166592427556,
+      "name": "Aeron"
+    },
+    "ARO": {
+      "USD": 0.000852662577072,
+      "name": "Arionum"
+    },
+    "ARPA": {
+      "USD": 0.0116195959933,
+      "name": "ARPA Chain"
+    },
+    "ARQ": {
+      "USD": 0.00992048398737,
+      "name": "Arqma"
+    },
+    "ARRR": {
+      "USD": 0.0385121526752,
+      "name": "Pirate Chain"
+    },
+    "ART": {
+      "USD": 0.025620768029,
+      "name": "Maecenas"
+    },
+    "ARY": {
+      "USD": 0.000289907023853,
+      "name": "Block Array"
+    },
+    "ASA": {
+      "USD": 0.000157797242597,
+      "name": "Asura Coin"
+    },
+    "ASAFE": {
+      "USD": 0.0132267046029,
+      "name": "AllSafe"
+    },
+    "ASG": {
+      "USD": 0.00026,
+      "name": "Asgard"
+    },
+    "AST": {
+      "USD": 0.0232270054422,
+      "name": "AirSwap"
+    },
+    "AT": {
+      "USD": 0.0447659474242,
+      "name": "ABCC Token"
+    },
+    "ATB": {
+      "USD": 0.0010455078151,
+      "name": "ATBCoin"
+    },
+    "ATCC": {
+      "USD": 0.00429174014045,
+      "name": "ATC Coin"
+    },
+    "ATH": {
+      "USD": 0.000775147797338,
+      "name": "Atheios"
+    },
+    "ATL": {
+      "USD": 0.0374617299167,
+      "name": "ATLANT"
+    },
+    "ATLS": {
+      "USD": 0.00662487187324,
+      "name": "Atlas Token"
+    },
+    "ATM": {
+      "USD": 0.000100806231445,
+      "name": "ATMChain"
+    },
+    "ATMI": {
+      "USD": 0.00021337,
+      "name": "Atonomi"
+    },
+    "ATN": {
+      "USD": 0.00516589725466,
+      "name": "ATN"
+    },
+    "ATOM": {
+      "USD": 4.02576657015,
+      "name": "Cosmos"
+    },
+    "ATP": {
+      "USD": 0.00586977614897,
+      "name": "Atlas Protocol"
+    },
+    "ATS": {
+      "USD": 7.03132132247e-05,
+      "name": "Authorship"
+    },
+    "ATX": {
+      "USD": 0.000347343150866,
+      "name": "Aston"
+    },
+    "AUC": {
+      "USD": 0.00387352806763,
+      "name": "Auctus"
+    },
+    "AUNIT": {
+      "USD": 0.0334,
+      "name": "Aunite"
+    },
+    "AUR": {
+      "USD": 0.0530915729331,
+      "name": "Auroracoin"
+    },
+    "AUTO": {
+      "USD": 0.000490508747286,
+      "name": "Cube"
+    },
+    "AUX": {
+      "USD": 0.000935526263055,
+      "name": "Auxilium"
+    },
+    "AV": {
+      "USD": 0.0446485131267,
+      "name": "AvatarCoin"
+    },
+    "AVA": {
+      "USD": 0.0961997212225,
+      "name": "Travala.com"
+    },
+    "AVH": {
+      "USD": 0.000226221870253,
+      "name": "Animation Vision Cash"
+    },
+    "AVT": {
+      "USD": 0.100218090961,
+      "name": "Aventus"
+    },
+    "AWC": {
+      "USD": 0.0711206625791,
+      "name": "Atomic Wallet Coin"
+    },
+    "AXE": {
+      "USD": 0.565755355738,
+      "name": "Axe"
+    },
+    "AXIOM": {
+      "USD": 0.00362709736214,
+      "name": "Axiom"
+    },
+    "AXPR": {
+      "USD": 0.0037778830788,
+      "name": "aXpire"
+    },
+    "AYA": {
+      "USD": 0.00285034842806,
+      "name": "Aryacoin"
+    },
+    "AZ": {
+      "USD": 1.59766631901e-05,
+      "name": "Azbit"
+    },
+    "AZART": {
+      "USD": 7.75147797338e-05,
+      "name": "Azart"
+    },
+    "B2B": {
+      "USD": 0.519187896664,
+      "name": "B2BX"
+    },
+    "B2G": {
+      "USD": 0.000355334010257,
+      "name": "Bitcoiin"
+    },
+    "B91": {
+      "USD": 0.0337693634025,
+      "name": "B91"
+    },
+    "B@": {
+      "USD": 0.00191158778909,
+      "name": "Bankcoin"
+    },
+    "BAAS": {
+      "USD": 0.00085033713368,
+      "name": "BaaSid"
+    },
+    "BANCA": {
+      "USD": 1.90140406663e-05,
+      "name": "Banca"
+    },
+    "BAND": {
+      "USD": 0.297911358736,
+      "name": "Band Protocol"
+    },
+    "BAT": {
+      "USD": 0.211721694684,
+      "name": "Basic Attention Token"
+    },
+    "BAW": {
+      "USD": 7.82711705251e-06,
+      "name": "BAWnetwork"
+    },
+    "BAX": {
+      "USD": 0.000251842306751,
+      "name": "BABB"
+    },
+    "BAY": {
+      "USD": 0.0048059163435,
+      "name": "BitBay"
+    },
+    "BBC": {
+      "USD": 0.000929299422996,
+      "name": "TraDove B2BCoin"
+    },
+    "BBGC": {
+      "USD": 4.30885052316e-05,
+      "name": "Big Bang Game Coin"
+    },
+    "BBK": {
+      "USD": 0.000929541808056,
+      "name": "Bitblocks"
+    },
+    "BBN": {
+      "USD": 0.000284047486208,
+      "name": "Banyan Network"
+    },
+    "BBO": {
+      "USD": 0.000428268773768,
+      "name": "Bigbom"
+    },
+    "BBP": {
+      "USD": 0.000175395341465,
+      "name": "BiblePay"
+    },
+    "BBR": {
+      "USD": 0.142704712466,
+      "name": "Boolberry"
+    },
+    "BBS": {
+      "USD": 6.80648489718e-07,
+      "name": "BBSCoin"
+    },
+    "BC": {
+      "USD": 0.00186035471361,
+      "name": "Block-Chain.com"
+    },
+    "BCA": {
+      "USD": 0.0408350389352,
+      "name": "Bitcoin Atom"
+    },
+    "BCAC": {
+      "USD": 0.00023442836562,
+      "name": "Business Credit Alliance Chain"
+    },
+    "BCARD": {
+      "USD": 7.75147797338e-05,
+      "name": "CARDbuyers"
+    },
+    "BCD": {
+      "USD": 0.404031039166,
+      "name": "Bitcoin Diamond"
+    },
+    "BCDN": {
+      "USD": 0.00374569378037,
+      "name": "BlockCDN"
+    },
+    "BCDT": {
+      "USD": 0.0226986394523,
+      "name": "Blockchain Certified Data Token"
+    },
+    "BCEO": {
+      "USD": 0.0374151584985,
+      "name": "bitCEO"
+    },
+    "BCH": {
+      "USD": 225.19093331,
+      "name": "Bitcoin Cash"
+    },
+    "BCI": {
+      "USD": 0.0281415311682,
+      "name": "Bitcoin Interest"
+    },
+    "BCN": {
+      "USD": 0.000359379692247,
+      "name": "Bytecoin"
+    },
+    "BCO": {
+      "USD": 0.0281481336569,
+      "name": "BridgeCoin"
+    },
+    "BCPT": {
+      "USD": 0.0271321806282,
+      "name": "Blockmason Credit Protocol"
+    },
+    "BCS": {
+      "USD": 0.568157455424,
+      "name": "Business Credit Substitute"
+    },
+    "BCV": {
+      "USD": 0.00653272523806,
+      "name": "BitCapitalVendor"
+    },
+    "BCX": {
+      "USD": 0.000609069351935,
+      "name": "BitcoinX"
+    },
+    "BCY": {
+      "USD": 0.0355996951206,
+      "name": "BitCrystals"
+    },
+    "BCZ": {
+      "USD": 0.108359395879,
+      "name": "Bitcoin CZ"
+    },
+    "BCZERO": {
+      "USD": 0.0135532826589,
+      "name": "Buggyra Coin Zero"
+    },
+    "BDG": {
+      "USD": 0.000822703373333,
+      "name": "BitDegree"
+    },
+    "BDP": {
+      "USD": 0.0218864310487,
+      "name": "BidiPass"
+    },
+    "BDX": {
+      "USD": 0.0804841001936,
+      "name": "Beldex"
+    },
+    "BEAM": {
+      "USD": 0.572741996697,
+      "name": "Beam"
+    },
+    "BEAT": {
+      "USD": 0.000795294321823,
+      "name": "BEAT"
+    },
+    "BECN": {
+      "USD": 0.000142310939698,
+      "name": "Beacon"
+    },
+    "BEE": {
+      "USD": 0.000150610362928,
+      "name": "Bee Token"
+    },
+    "BEET": {
+      "USD": 0.00488241705123,
+      "name": "Beetle Coin"
+    },
+    "BELA": {
+      "USD": 0.00384485095092,
+      "name": "Bela"
+    },
+    "BEN": {
+      "USD": 0.0062213048364,
+      "name": "BitCoen"
+    },
+    "BENJI": {
+      "USD": 0.000144365056742,
+      "name": "BenjiRolls"
+    },
+    "BENZ": {
+      "USD": 5.32243959571e-05,
+      "name": "Benz"
+    },
+    "BERN": {
+      "USD": 0.000375336754499,
+      "name": "BERNcash"
+    },
+    "BERRY": {
+      "USD": 0.000331382720678,
+      "name": "Rentberry"
+    },
+    "BEST": {
+      "USD": 0.0566061606979,
+      "name": "Bitpanda Ecosystem Token"
+    },
+    "BET": {
+      "USD": 0.044512514917,
+      "name": "DAO.Casino"
+    },
+    "BETHER": {
+      "USD": 0.000617580824824,
+      "name": "Bethereum"
+    },
+    "BETR": {
+      "USD": 0.00130460560734,
+      "name": "BetterBetting"
+    },
+    "BEZ": {
+      "USD": 0.00368768337792,
+      "name": "Bezop"
+    },
+    "BF": {
+      "USD": 0.00784393833391,
+      "name": "BitForex Token"
+    },
+    "BFT": {
+      "USD": 0.0134039142861,
+      "name": "BnkToTheFuture"
+    },
+    "BFX": {
+      "USD": 0.0031353540485,
+      "name": "Bitfex"
+    },
+    "BGBP": {
+      "USD": 1.29971541254,
+      "name": "Binance GBP Stable Coin"
+    },
+    "BGG": {
+      "USD": 0.000893308749609,
+      "name": "Bgogo Token"
+    },
+    "BHD": {
+      "USD": 3.56077538431,
+      "name": "BitcoinHD"
+    },
+    "BHIG": {
+      "USD": 0.0466555345197,
+      "name": "BuckHathCoin"
+    },
+    "BHP": {
+      "USD": 0.911912229837,
+      "name": "BHPCoin"
+    },
+    "BHT": {
+      "USD": 0.0288053733971,
+      "name": "BHEX Token"
+    },
+    "BIA": {
+      "USD": 0.00221127277572,
+      "name": "Bilaxy Token"
+    },
+    "BIFI": {
+      "USD": 0.00134187677303,
+      "name": "Bitcoin File"
+    },
+    "BIO": {
+      "USD": 0.000189363959627,
+      "name": "BioCoin"
+    },
+    "BIR": {
+      "USD": 0.00440920425382,
+      "name": "Birake"
+    },
+    "BIRD": {
+      "USD": 0.00150732953379,
+      "name": "Birdchain"
+    },
+    "BIS": {
+      "USD": 0.113206420281,
+      "name": "Bismuth"
+    },
+    "BIT": {
+      "USD": 0.00263550251095,
+      "name": "First Bitcoin"
+    },
+    "BITB": {
+      "USD": 0.000360489564589,
+      "name": "Bean Cash"
+    },
+    "BITBTC": {
+      "USD": 4008.69774889,
+      "name": "bitBTC"
+    },
+    "BITC": {
+      "USD": 0.0215193777477,
+      "name": "BitCash"
+    },
+    "BITCNY": {
+      "USD": 0.142570696232,
+      "name": "bitCNY"
+    },
+    "BITEUR": {
+      "USD": 1.14009935935,
+      "name": "bitEUR"
+    },
+    "BITG": {
+      "USD": 0.137754213212,
+      "name": "BitGreen"
+    },
+    "BITGOLD": {
+      "USD": 213.877635593,
+      "name": "bitGold"
+    },
+    "BITS": {
+      "USD": 4.60796416198e-07,
+      "name": "Bitcoinus"
+    },
+    "BITSILVER": {
+      "USD": 1.72901358362,
+      "name": "bitSilver"
+    },
+    "BITUSD": {
+      "USD": 1.5369666555,
+      "name": "bitUSD"
+    },
+    "BITX": {
+      "USD": 0.00104100656798,
+      "name": "BitScreener Token"
+    },
+    "BIX": {
+      "USD": 0.105242118748,
+      "name": "Bibox Token"
+    },
+    "BKBT": {
+      "USD": 0.000429256332759,
+      "name": "BeeKan"
+    },
+    "BKX": {
+      "USD": 0.00372159985739,
+      "name": "BANKEX"
+    },
+    "BLACK": {
+      "USD": 0.000534545473036,
+      "name": "eosBLACK"
+    },
+    "BLAST": {
+      "USD": 0.000930177356806,
+      "name": "BLAST"
+    },
+    "BLAZR": {
+      "USD": 8.78299908591e-05,
+      "name": "BlazerCoin"
+    },
+    "BLC": {
+      "USD": 0.000495743063286,
+      "name": "Blakecoin"
+    },
+    "BLCR": {
+      "USD": 0.000216174908398,
+      "name": "Blacer Coin"
+    },
+    "BLINK": {
+      "USD": 0.000440360757082,
+      "name": "Blockmason Link"
+    },
+    "BLK": {
+      "USD": 0.0409612191403,
+      "name": "BlackCoin"
+    },
+    "BLOC": {
+      "USD": 0.00135031348957,
+      "name": "Blockcloud"
+    },
+    "BLOCK": {
+      "USD": 0.710994042438,
+      "name": "Blocknet"
+    },
+    "BLT": {
+      "USD": 0.0283667095251,
+      "name": "Bloom"
+    },
+    "BLTG": {
+      "USD": 0.00203496824086,
+      "name": "Block-Logic"
+    },
+    "BLU": {
+      "USD": 0.000176614242792,
+      "name": "BlueCoin"
+    },
+    "BLUE": {
+      "USD": 0.00999835932287,
+      "name": "Blue Protocol"
+    },
+    "BLZ": {
+      "USD": 0.0222367266945,
+      "name": "Bluzelle"
+    },
+    "BMC": {
+      "USD": 0.140085222699,
+      "name": "Blackmoon"
+    },
+    "BMH": {
+      "USD": 0.000302230126182,
+      "name": "BlockMesh"
+    },
+    "BMX": {
+      "USD": 0.0162685670874,
+      "name": "BitMart Token"
+    },
+    "BNANA": {
+      "USD": 0.107070355395,
+      "name": "Chimpion"
+    },
+    "BNB": {
+      "USD": 16.1284779412,
+      "name": "Binance Coin"
+    },
+    "BNC": {
+      "USD": 1.84406877757e-05,
+      "name": "Bionic"
+    },
+    "BND": {
+      "USD": 7.60102877678e-05,
+      "name": "Blocknode"
+    },
+    "BNK": {
+      "USD": 0.00118737372371,
+      "name": "Bankera"
+    },
+    "BNN": {
+      "USD": 3.17580132142e-07,
+      "name": "BrokerNekoNetwork"
+    },
+    "BNP": {
+      "USD": 0.00144157205831,
+      "name": "BenePit Protocol"
+    },
+    "BNT": {
+      "USD": 0.291487825907,
+      "name": "Bancor"
+    },
+    "BNTY": {
+      "USD": 0.00173942751607,
+      "name": "Bounty0x"
+    },
+    "BNY": {
+      "USD": 0.00197074483693,
+      "name": "Bancacy"
+    },
+    "BOA": {
+      "USD": 0.0228281674042,
+      "name": "BOSAGORA"
+    },
+    "BOB": {
+      "USD": 0.000995495024327,
+      "name": "Bob's Repair"
+    },
+    "BOC": {
+      "USD": 0.00131515554224,
+      "name": "BingoCoin"
+    },
+    "BOK": {
+      "USD": 0.000775147797338,
+      "name": "Blockium"
+    },
+    "BOLI": {
+      "USD": 0.00945785939099,
+      "name": "Bolivarcoin"
+    },
+    "BOLT": {
+      "USD": 0.00896330137186,
+      "name": "BOLT"
+    },
+    "BOLTT": {
+      "USD": 0.0148969336197,
+      "name": "Boltt Coin "
+    },
+    "BOMB": {
+      "USD": 0.983809491078,
+      "name": "BOMB"
+    },
+    "BON": {
+      "USD": 0.00689881539631,
+      "name": "Bonpay"
+    },
+    "BOOM": {
+      "USD": 0.000934377101976,
+      "name": "BOOM"
+    },
+    "BORA": {
+      "USD": 0.00805118653204,
+      "name": "BORA"
+    },
+    "BOS": {
+      "USD": 0.00428698091852,
+      "name": "BOScoin"
+    },
+    "BOST": {
+      "USD": 0.00165612464232,
+      "name": "BoostCoin"
+    },
+    "BOTX": {
+      "USD": 0.0227504814824,
+      "name": "botXcoin"
+    },
+    "BOUTS": {
+      "USD": 0.00159381111701,
+      "name": "BoutsPro"
+    },
+    "BOX": {
+      "USD": 0.00370858000003,
+      "name": "ContentBox"
+    },
+    "BOXX": {
+      "USD": 0.00578051429454,
+      "name": "Blockparty (BOXX Token)"
+    },
+    "BPRO": {
+      "USD": 0.00228247723013,
+      "name": "Bitcloud Pro"
+    },
+    "BPT": {
+      "USD": 0.0286029537218,
+      "name": "Blockport"
+    },
+    "BPX": {
+      "USD": 0.00745847304652,
+      "name": "Bispex"
+    },
+    "BQQQ": {
+      "USD": 0.000690382415992,
+      "name": "Bitsdaq"
+    },
+    "BQT": {
+      "USD": 0.0111144378453,
+      "name": "Blockchain Quotations Index Token"
+    },
+    "BQTX": {
+      "USD": 0.0400323884386,
+      "name": "BQT"
+    },
+    "BRAT": {
+      "USD": 6.78e-06,
+      "name": "BROTHER"
+    },
+    "BRC": {
+      "USD": 1.33939296462,
+      "name": "Baer Chain"
+    },
+    "BRD": {
+      "USD": 0.271570782107,
+      "name": "Bread"
+    },
+    "BRDG": {
+      "USD": 0.000673675370936,
+      "name": "Bridge Protocol"
+    },
+    "BRIA": {
+      "USD": 0.05,
+      "name": "BriaCoin"
+    },
+    "BRO": {
+      "USD": 0.00875917010992,
+      "name": "Bitradio"
+    },
+    "BRZ": {
+      "USD": 0.23434937121,
+      "name": "Brazilian Digital Token"
+    },
+    "BRZE": {
+      "USD": 0.46518164235,
+      "name": "Breezecoin"
+    },
+    "BSC": {
+      "USD": 0.00155029559468,
+      "name": "BowsCoin"
+    },
+    "BSD": {
+      "USD": 0.0015557483552,
+      "name": "BitSend"
+    },
+    "BSM": {
+      "USD": 1.02265502322e-05,
+      "name": "Bitsum"
+    },
+    "BST": {
+      "USD": 0.0992189679952,
+      "name": "BlockStamp"
+    },
+    "BSTN": {
+      "USD": 6.88786300621e-06,
+      "name": "BitStation"
+    },
+    "BSTY": {
+      "USD": 0.00775147797338,
+      "name": "GlobalBoost-Y"
+    },
+    "BSV": {
+      "USD": 110.44248279,
+      "name": "Bitcoin SV"
+    },
+    "BSX": {
+      "USD": 0.000311601321883,
+      "name": "Bitspace"
+    },
+    "BTA": {
+      "USD": 0.00449470628427,
+      "name": "Bata"
+    },
+    "BTAD": {
+      "USD": 0.000277296470215,
+      "name": "Bitcoin Adult"
+    },
+    "BTB": {
+      "USD": 1.67098610672,
+      "name": "BitBar"
+    },
+    "BTC": {
+      "USD": 7755.13793064,
+      "name": "Bitcoin"
+    },
+    "BTC2": {
+      "USD": 1.50378672684,
+      "name": "Bitcoin 2"
+    },
+    "BTCB": {
+      "USD": 7734.29299224,
+      "name": "Bitcoin BEP2"
+    },
+    "BTCF": {
+      "USD": 0.00743576119988,
+      "name": "Bitcoin Fast"
+    },
+    "BTCL": {
+      "USD": 0.00139526603521,
+      "name": "BTC Lite"
+    },
+    "BTCM": {
+      "USD": 0.00088955,
+      "name": "BTCMoon"
+    },
+    "BTCN": {
+      "USD": 0.00406297045486,
+      "name": "BitcoiNote"
+    },
+    "BTCONE": {
+      "USD": 0.00239982443427,
+      "name": "BitCoin One"
+    },
+    "BTCP": {
+      "USD": 0.109655377217,
+      "name": "Bitcoin Private"
+    },
+    "BTCRED": {
+      "USD": 0.001002,
+      "name": "Bitcoin Red"
+    },
+    "BTCS": {
+      "USD": 0.00681914942215,
+      "name": "Bitcoin Scrypt"
+    },
+    "BTCZ": {
+      "USD": 0.000143747921154,
+      "name": "BitcoinZ"
+    },
+    "BTDX": {
+      "USD": 0.000697633017604,
+      "name": "Bitcloud"
+    },
+    "BTG": {
+      "USD": 6.77717743311,
+      "name": "Bitcoin Gold"
+    },
+    "BTK": {
+      "USD": 3.09022025694e-06,
+      "name": "Bitcoin Turbo Koin"
+    },
+    "BTM": {
+      "USD": 0.0869720032377,
+      "name": "Bytom"
+    },
+    "BTMX": {
+      "USD": 0.0518085582333,
+      "name": "BitMax Token"
+    },
+    "BTN": {
+      "USD": 0.00772687125212,
+      "name": "BitNewChain"
+    },
+    "BTNT": {
+      "USD": 0.00558106414084,
+      "name": "BitNautic Token"
+    },
+    "BTO": {
+      "USD": 0.00384996704014,
+      "name": "Bottos"
+    },
+    "BTR": {
+      "USD": 0.00224792861228,
+      "name": "Bitether"
+    },
+    "BTRN": {
+      "USD": 0.000233173181196,
+      "name": "Biotron"
+    },
+    "BTRS": {
+      "USD": 4.53360924261,
+      "name": "Bitball Treasure"
+    },
+    "BTS": {
+      "USD": 0.0219305618432,
+      "name": "BitShares"
+    },
+    "BTT": {
+      "USD": 0.0430489872465,
+      "name": "Blocktrade Token"
+    },
+    "BTU": {
+      "USD": 0.193002845014,
+      "name": "BTU Protocol"
+    },
+    "BTW": {
+      "USD": 0.000947367854545,
+      "name": "BitWhite"
+    },
+    "BTX": {
+      "USD": 0.000161747865576,
+      "name": "Bitcoin X"
+    },
+    "BTZC": {
+      "USD": 0.0013410056894,
+      "name": "BeatzCoin"
+    },
+    "BU": {
+      "USD": 0.00629254849536,
+      "name": "BUMO"
+    },
+    "BUB": {
+      "USD": 0.0364328441688,
+      "name": "Bubble"
+    },
+    "BUD": {
+      "USD": 7.82711705251e-07,
+      "name": "BUDDY"
+    },
+    "BUL": {
+      "USD": 0.00961183268699,
+      "name": "Bulleon"
+    },
+    "BUMBA": {
+      "USD": 0.000224332068462,
+      "name": "BumbaCoin"
+    },
+    "BUNNY": {
+      "USD": 1.8785080926e-05,
+      "name": "BunnyToken"
+    },
+    "BURN": {
+      "USD": 0.121851493173,
+      "name": "Blockburn"
+    },
+    "BURST": {
+      "USD": 0.00342354040538,
+      "name": "Burst"
+    },
+    "BUSD": {
+      "USD": 1.00082032199,
+      "name": "Binance USD"
+    },
+    "BUT": {
+      "USD": 0.00170328974345,
+      "name": "BitUP Token"
+    },
+    "BUZZ": {
+      "USD": 1.55029559468e-05,
+      "name": "BUZZCoin"
+    },
+    "BWK": {
+      "USD": 0.0114731710977,
+      "name": "Bulwark"
+    },
+    "BWT": {
+      "USD": 0.00153621820029,
+      "name": "Bittwatt"
+    },
+    "BWX": {
+      "USD": 0.0458114733934,
+      "name": "Blue Whale EXchange"
+    },
+    "BXC": {
+      "USD": 0.00042382655455,
+      "name": "BonusCloud"
+    },
+    "BXK": {
+      "USD": 0.136168501907,
+      "name": "Bitbook Gambling"
+    },
+    "BXY": {
+      "USD": 0.00720887451525,
+      "name": "Beaxy"
+    },
+    "BYT": {
+      "USD": 0.771719341321,
+      "name": "Bayan Token"
+    },
+    "BZ": {
+      "USD": 0.18168906427,
+      "name": "Bit-Z Token"
+    },
+    "BZE": {
+      "USD": 7.82557927107e-05,
+      "name": "BZEdge"
+    },
+    "BZKY": {
+      "USD": 0.000291097267474,
+      "name": "BIZKEY"
+    },
+    "BZL": {
+      "USD": 0.00435286222311,
+      "name": "BZLCOIN"
+    },
+    "BZNT": {
+      "USD": 0.00291526791809,
+      "name": "Bezant"
+    },
+    "BZX": {
+      "USD": 0.00205316861808,
+      "name": "Bitcoin Zero"
+    },
+    "C2": {
+      "USD": 0.000353051775286,
+      "name": "Coin2.1"
+    },
+    "C20": {
+      "USD": 0.406341130087,
+      "name": "CRYPTO20"
+    },
+    "C8": {
+      "USD": 0.014604837532,
+      "name": "Carboneum [C8] Token"
+    },
+    "CAB": {
+      "USD": 0.000465088678403,
+      "name": "Cabbage"
+    },
+    "CAG": {
+      "USD": 0.0740060295866,
+      "name": "Change"
+    },
+    "CAI": {
+      "USD": 7.05899299933e-05,
+      "name": "Cai Token"
+    },
+    "CAJ": {
+      "USD": 1.90678606667,
+      "name": "Cajutel"
+    },
+    "CAN": {
+      "USD": 0.000605818859864,
+      "name": "Content and AD Network"
+    },
+    "CANN": {
+      "USD": 0.0050384606827,
+      "name": "CannabisCoin"
+    },
+    "CAPP": {
+      "USD": 0.00114480875872,
+      "name": "Cappasity"
+    },
+    "CAR": {
+      "USD": 0.000666870372874,
+      "name": "CarBlock"
+    },
+    "CARAT": {
+      "USD": 0.529018942769,
+      "name": "CARAT"
+    },
+    "CARBON": {
+      "USD": 7.19069326845e-05,
+      "name": "Carboncoin"
+    },
+    "CARD": {
+      "USD": 0.00027407142001,
+      "name": "Cardstack"
+    },
+    "CARE": {
+      "USD": 4.68541452556e-05,
+      "name": "Carebit"
+    },
+    "CAS": {
+      "USD": 0.00378191832224,
+      "name": "Cashaa"
+    },
+    "CASH": {
+      "USD": 0.000270493235181,
+      "name": "Cashcoin"
+    },
+    "CAT": {
+      "USD": 0.00012247,
+      "name": "BitClave"
+    },
+    "CATO": {
+      "USD": 0.00483707465496,
+      "name": "CatoCoin"
+    },
+    "CATT": {
+      "USD": 0.000494823611823,
+      "name": "Catex Token"
+    },
+    "CB": {
+      "USD": 0.00299891837747,
+      "name": "COINBIG"
+    },
+    "CBC": {
+      "USD": 0.0665921020626,
+      "name": "CryptoBossCoin"
+    },
+    "CBIX": {
+      "USD": 0.00980315587643,
+      "name": "Cubiex"
+    },
+    "CBM": {
+      "USD": 0.000105019706945,
+      "name": "CryptoBonusMiles"
+    },
+    "CBT": {
+      "USD": 0.0332210841255,
+      "name": "CommerceBlock"
+    },
+    "CCC": {
+      "USD": 0.0014464512313,
+      "name": "Coindom"
+    },
+    "CCCX": {
+      "USD": 0.0136976158927,
+      "name": "Clipper Coin"
+    },
+    "CCH": {
+      "USD": 7.62162848795e-05,
+      "name": "Coinchase Token"
+    },
+    "CCL": {
+      "USD": 7.14560482495e-05,
+      "name": "CYCLEAN"
+    },
+    "CCN": {
+      "USD": 1.84288744641e-06,
+      "name": "CustomContractNetwork"
+    },
+    "CCO": {
+      "USD": 0.00730583105681,
+      "name": "Ccore"
+    },
+    "CCRB": {
+      "USD": 0.00465088678403,
+      "name": "CryptoCarbon"
+    },
+    "CCT": {
+      "USD": 0.00151027976883,
+      "name": "Crystal Clear "
+    },
+    "CCX": {
+      "USD": 0.143328372214,
+      "name": "Conceal"
+    },
+    "CDC": {
+      "USD": 4.97303627713e-05,
+      "name": "Commerce Data Connection"
+    },
+    "CDM": {
+      "USD": 7.28047299419e-06,
+      "name": "CDMCOIN"
+    },
+    "CDT": {
+      "USD": 0.00989822913108,
+      "name": "Blox"
+    },
+    "CDX": {
+      "USD": 0.000930177356806,
+      "name": "CDX Network"
+    },
+    "CEDEX": {
+      "USD": 0.00548054736017,
+      "name": "CEDEX Coin"
+    },
+    "CEEK": {
+      "USD": 0.00199954359814,
+      "name": "CEEK VR"
+    },
+    "CEL": {
+      "USD": 0.0560659225578,
+      "name": "Celsius"
+    },
+    "CELR": {
+      "USD": 0.00469309664621,
+      "name": "Celer Network"
+    },
+    "CEN": {
+      "USD": 7.75147797338e-05,
+      "name": "Centaure"
+    },
+    "CENNZ": {
+      "USD": 0.150813326643,
+      "name": "Centrality"
+    },
+    "CENT": {
+      "USD": 0.00111303039922,
+      "name": "CENTERCOIN"
+    },
+    "CET": {
+      "USD": 0.0168317976893,
+      "name": "CoinEx Token"
+    },
+    "CF": {
+      "USD": 0.00752167800695,
+      "name": "Californium"
+    },
+    "CFL": {
+      "USD": 7.59494577778e-05,
+      "name": "CryptoFlow"
+    },
+    "CFUN": {
+      "USD": 8.94671659131e-06,
+      "name": "CFun"
+    },
+    "CGEN": {
+      "USD": 7.75147797338e-05,
+      "name": "CommunityGeneration"
+    },
+    "CHAT": {
+      "USD": 0.00179016775997,
+      "name": "ChatCoin"
+    },
+    "CHEESE": {
+      "USD": 6.20118237871e-05,
+      "name": "Cheesecoin"
+    },
+    "CHESS": {
+      "USD": 0.00100769213654,
+      "name": "ChessCoin"
+    },
+    "CHEX": {
+      "USD": 0.00419696614022,
+      "name": "CHEX"
+    },
+    "CHP": {
+      "USD": 0.00504897955172,
+      "name": "CoinPoker"
+    },
+    "CHR": {
+      "USD": 0.0160179972381,
+      "name": "Chromia"
+    },
+    "CHSB": {
+      "USD": 0.0076647678084,
+      "name": "SwissBorg"
+    },
+    "CHT": {
+      "USD": 2.1326455374,
+      "name": "Countinghouse"
+    },
+    "CHX": {
+      "USD": 0.0131570388802,
+      "name": "Own"
+    },
+    "CHZ": {
+      "USD": 0.012121548918,
+      "name": "Chiliz"
+    },
+    "CIC": {
+      "USD": 0.000528615010017,
+      "name": "CIChain"
+    },
+    "CIPX": {
+      "USD": 0.000258180310998,
+      "name": "Colletrix"
+    },
+    "CIT": {
+      "USD": 0.00254068219524,
+      "name": "CariNet"
+    },
+    "CIV": {
+      "USD": 0.0155029559468,
+      "name": "Civitas"
+    },
+    "CIX100": {
+      "USD": 0.571543970441,
+      "name": "Cryptoindex.com 100"
+    },
+    "CJ": {
+      "USD": 9.44626075123e-05,
+      "name": "Cryptojacks"
+    },
+    "CJT": {
+      "USD": 0.000302295299291,
+      "name": "ConnectJob"
+    },
+    "CKB": {
+      "USD": 0.00842417632934,
+      "name": "Nervos Network"
+    },
+    "CKUSD": {
+      "USD": 0.108939498521,
+      "name": "CK USD"
+    },
+    "CL": {
+      "USD": 0.00116882462936,
+      "name": "Coinlancer"
+    },
+    "CLAM": {
+      "USD": 0.719092116299,
+      "name": "Clams"
+    },
+    "CLB": {
+      "USD": 0.00147277743558,
+      "name": "Cloudbric"
+    },
+    "CLM": {
+      "USD": 6.15157365514e-06,
+      "name": "Claymore"
+    },
+    "CLN": {
+      "USD": 0.0172196575155,
+      "name": "Colu Local Network"
+    },
+    "CLO": {
+      "USD": 0.00079406697589,
+      "name": "Callisto Network"
+    },
+    "CLOAK": {
+      "USD": 0.385923304903,
+      "name": "CloakCoin"
+    },
+    "CLR": {
+      "USD": 0.0137181697663,
+      "name": "Color Platform"
+    },
+    "CLUB": {
+      "USD": 0.0620118237871,
+      "name": "ClubCoin"
+    },
+    "CMCT": {
+      "USD": 2.07899928383e-06,
+      "name": "Cyber Movie Chain"
+    },
+    "CMIT": {
+      "USD": 1.5654234105e-06,
+      "name": "CMITCOIN"
+    },
+    "CMM": {
+      "USD": 0.00241524403008,
+      "name": "Commercium"
+    },
+    "CMS": {
+      "USD": 0.0638056074084,
+      "name": "COMSA [XEM]"
+    },
+    "CMT": {
+      "USD": 0.00583881555528,
+      "name": "Comet"
+    },
+    "CND": {
+      "USD": 0.00868551219706,
+      "name": "Cindicator"
+    },
+    "CNET": {
+      "USD": 0.0083354397479,
+      "name": "ContractNet"
+    },
+    "CNN": {
+      "USD": 5.05246671742e-05,
+      "name": "Content Neutrality Network"
+    },
+    "CNNC": {
+      "USD": 0.0015107229403,
+      "name": "Cannation"
+    },
+    "CNNS": {
+      "USD": 0.0050404812314,
+      "name": "CNNS"
+    },
+    "CNT": {
+      "USD": 7.75147797338e-05,
+      "name": "Centurion"
+    },
+    "CNUS": {
+      "USD": 0.000910104313499,
+      "name": "CoinUs"
+    },
+    "CNX": {
+      "USD": 1.93851411563,
+      "name": "Cryptonex"
+    },
+    "COAL": {
+      "USD": 0.000310059118935,
+      "name": "BitCoal"
+    },
+    "COB": {
+      "USD": 0.000465088678403,
+      "name": "Cobinhood"
+    },
+    "COCOS": {
+      "USD": 0.000800491078799,
+      "name": "Cocos-BCX"
+    },
+    "COFI": {
+      "USD": 0.0017074301966,
+      "name": "CoinFi"
+    },
+    "COLX": {
+      "USD": 0.000232544339201,
+      "name": "ColossusXT"
+    },
+    "CON": {
+      "USD": 0.00254235151317,
+      "name": "CONUN"
+    },
+    "CONI": {
+      "USD": 0.0124956665172,
+      "name": "Coni"
+    },
+    "CONST": {
+      "USD": 49.836768176,
+      "name": "Constant"
+    },
+    "CONX": {
+      "USD": 0.0010572659435,
+      "name": "Concoin"
+    },
+    "COS": {
+      "USD": 0.0129782696958,
+      "name": "COS"
+    },
+    "COSM": {
+      "USD": 0.00733694994924,
+      "name": "Cosmo Coin"
+    },
+    "COT": {
+      "USD": 2.61406479426e-05,
+      "name": "CoTrader"
+    },
+    "COTI": {
+      "USD": 0.00716051789716,
+      "name": "COTI"
+    },
+    "COTN": {
+      "USD": 6.83343546604e-05,
+      "name": "CottonCoin"
+    },
+    "COU": {
+      "USD": 1.39464652571e-06,
+      "name": "Couchain"
+    },
+    "COV": {
+      "USD": 0.0603473239641,
+      "name": "Covesting"
+    },
+    "COVA": {
+      "USD": 0.000251334022619,
+      "name": "COVA"
+    },
+    "CPAY": {
+      "USD": 0.0234811946152,
+      "name": "Cryptopay"
+    },
+    "CPC": {
+      "USD": 0.0146017243188,
+      "name": "Cashpayz Token"
+    },
+    "CPT": {
+      "USD": 0.000180086587744,
+      "name": "Cryptaur"
+    },
+    "CPU": {
+      "USD": 0.00139526603521,
+      "name": "CPUchain"
+    },
+    "CPX": {
+      "USD": 0.00305141149331,
+      "name": "Apex"
+    },
+    "CPY": {
+      "USD": 0.0106494890427,
+      "name": "COPYTRACK"
+    },
+    "CRAD": {
+      "USD": 0.00015654234105,
+      "name": "CryptoAds Marketplace"
+    },
+    "CRAVE": {
+      "USD": 0.00572686436441,
+      "name": "Crave"
+    },
+    "CRB": {
+      "USD": 0.000697633017604,
+      "name": "Creditbit"
+    },
+    "CRC": {
+      "USD": 0.0156226043532,
+      "name": "CryCash"
+    },
+    "CRD": {
+      "USD": 0.00209289905281,
+      "name": "CryptalDash"
+    },
+    "CRE": {
+      "USD": 0.0014248867905,
+      "name": "Cybereits"
+    },
+    "CRED": {
+      "USD": 0.0070142752241,
+      "name": "Verify"
+    },
+    "CREDIT": {
+      "USD": 9.81697530771e-06,
+      "name": "CREDIT"
+    },
+    "CREDO": {
+      "USD": 0.0251804182308,
+      "name": "Credo"
+    },
+    "CREVA": {
+      "USD": 7.75147797338e-05,
+      "name": "CrevaCoin"
+    },
+    "CREX": {
+      "USD": 5.35139641713,
+      "name": "Crex Token"
+    },
+    "CRM": {
+      "USD": 0.000464833309839,
+      "name": "Cream"
+    },
+    "CRN": {
+      "USD": 0.00919756601503,
+      "name": "ChronoCoin"
+    },
+    "CRO": {
+      "USD": 0.0286793447872,
+      "name": "Crypto.com Coin"
+    },
+    "CROAT": {
+      "USD": 0.00116272169601,
+      "name": "CROAT"
+    },
+    "CRON": {
+      "USD": 0.26053760511,
+      "name": "Cryptocean"
+    },
+    "CRPT": {
+      "USD": 0.458766721785,
+      "name": "Crypterium"
+    },
+    "CRW": {
+      "USD": 0.0429453838879,
+      "name": "Crown"
+    },
+    "CRYP": {
+      "USD": 0.00021916385778,
+      "name": "CrypticCoin"
+    },
+    "CS": {
+      "USD": 0.0834413306435,
+      "name": "Credits"
+    },
+    "CSC": {
+      "USD": 0.000375292211961,
+      "name": "CasinoCoin"
+    },
+    "CSM": {
+      "USD": 0.0601542718189,
+      "name": "Consentium"
+    },
+    "CSNO": {
+      "USD": 0.0287440306209,
+      "name": "BitDice"
+    },
+    "CSP": {
+      "USD": 0.00562276571163,
+      "name": "Caspian"
+    },
+    "CSPN": {
+      "USD": 0.177533272842,
+      "name": "Crypto Sports"
+    },
+    "CSTL": {
+      "USD": 0.00333313552855,
+      "name": "Castle"
+    },
+    "CTC": {
+      "USD": 0.053934800067,
+      "name": "Credit Tag Chain"
+    },
+    "CTL": {
+      "USD": 0.000697633017604,
+      "name": "Citadel"
+    },
+    "CTRT": {
+      "USD": 1.5654234105e-06,
+      "name": "Cryptrust"
+    },
+    "CTX": {
+      "USD": 0.00108520691627,
+      "name": "Centauri"
+    },
+    "CTXC": {
+      "USD": 0.102770106456,
+      "name": "Cortex"
+    },
+    "CURE": {
+      "USD": 0.0609926756549,
+      "name": "Curecoin"
+    },
+    "CUST": {
+      "USD": 0.00657630654714,
+      "name": "Custody Token"
+    },
+    "CUT": {
+      "USD": 0.0719138627795,
+      "name": "CUTcoin"
+    },
+    "CV": {
+      "USD": 0.000184965525656,
+      "name": "carVertical"
+    },
+    "CVC": {
+      "USD": 0.0309643416752,
+      "name": "Civic"
+    },
+    "CVCC": {
+      "USD": 53.8569073239,
+      "name": "CryptoVerificationCoin"
+    },
+    "CVN": {
+      "USD": 0.0474019497779,
+      "name": "CVCoin"
+    },
+    "CVNT": {
+      "USD": 0.00968557092186,
+      "name": "Content Value Network"
+    },
+    "CVT": {
+      "USD": 0.00492389976629,
+      "name": "CyberVein"
+    },
+    "CWV": {
+      "USD": 0.0010035550974,
+      "name": "CWV Chain"
+    },
+    "CXC": {
+      "USD": 1.47694212415,
+      "name": "CAPITAL X CELL"
+    },
+    "CXO": {
+      "USD": 0.0060196537326,
+      "name": "CargoX"
+    },
+    "CXP": {
+      "USD": 0.00112897383838,
+      "name": "CaixaPay"
+    },
+    "CXT": {
+      "USD": 0.000264153421103,
+      "name": "Coinonat"
+    },
+    "CYBR": {
+      "USD": 0.00541788624213,
+      "name": "CYBR Token"
+    },
+    "CYFM": {
+      "USD": 9.39283201258e-07,
+      "name": "CyberFM"
+    },
+    "CYL": {
+      "USD": 0.0143476053971,
+      "name": "Crystal Token"
+    },
+    "CYMT": {
+      "USD": 7.16967595166e-05,
+      "name": "CyberMusic"
+    },
+    "CZR": {
+      "USD": 0.0031042245578,
+      "name": "CanonChain"
+    },
+    "D": {
+      "USD": 0.0896882164041,
+      "name": "Denarius"
+    },
+    "DAB": {
+      "USD": 0.200412314879,
+      "name": "DABANKING"
+    },
+    "DAC": {
+      "USD": 0.00220020516647,
+      "name": "Davinci Coin"
+    },
+    "DACC": {
+      "USD": 1.79515665941e-05,
+      "name": "DACC"
+    },
+    "DACHX": {
+      "USD": 0.00155029559468,
+      "name": "Dach Coin"
+    },
+    "DACS": {
+      "USD": 0.00205221255414,
+      "name": "DACSEE"
+    },
+    "DAD": {
+      "USD": 0.210165294264,
+      "name": "DAD Chain"
+    },
+    "DADI": {
+      "USD": 0.0334007165206,
+      "name": "Edge"
+    },
+    "DAG": {
+      "USD": 0.0197669387828,
+      "name": "Constellation"
+    },
+    "DAGT": {
+      "USD": 0.115741145279,
+      "name": "Digital Asset Guarantee Token"
+    },
+    "DAI": {
+      "USD": 1.0020530888,
+      "name": "Multi-collateral DAI"
+    },
+    "DALC": {
+      "USD": 0.00402360221544,
+      "name": "Dalecoin"
+    },
+    "DAN": {
+      "USD": 0.00294556162989,
+      "name": "Daneel"
+    },
+    "DAPP": {
+      "USD": 0.007450711179,
+      "name": "LiquidApps"
+    },
+    "DAPPT": {
+      "USD": 0.000729328662508,
+      "name": "Dapp Token"
+    },
+    "DAPS": {
+      "USD": 7.43746380267e-05,
+      "name": "DAPS Token"
+    },
+    "DAR": {
+      "USD": 0.0151947254467,
+      "name": "Darcrus"
+    },
+    "DASH": {
+      "USD": 57.3513055843,
+      "name": "Dash"
+    },
+    "DASHG": {
+      "USD": 0.000421550811227,
+      "name": "Dash Green"
+    },
+    "DAT": {
+      "USD": 0.000913627016266,
+      "name": "Datum"
+    },
+    "DATA": {
+      "USD": 0.024348964462,
+      "name": "Streamr DATAcoin"
+    },
+    "DATP": {
+      "USD": 6.33302204003e-07,
+      "name": "Decentralized Asset Trading Platform"
+    },
+    "DATX": {
+      "USD": 0.00032701215053,
+      "name": "DATx"
+    },
+    "DAV": {
+      "USD": 0.000179796280472,
+      "name": "DAV Coin"
+    },
+    "DAX": {
+      "USD": 0.00299865596849,
+      "name": "DAEX"
+    },
+    "DAY": {
+      "USD": 0.149969882511,
+      "name": "Chronologic"
+    },
+    "DBC": {
+      "USD": 0.00119296423049,
+      "name": "DeepBrain Chain"
+    },
+    "DBET": {
+      "USD": 0.00329649251336,
+      "name": "DecentBet"
+    },
+    "DBIX": {
+      "USD": 0.0839485064517,
+      "name": "DubaiCoin"
+    },
+    "DCN": {
+      "USD": 2.59583387281e-05,
+      "name": "Dentacoin"
+    },
+    "DCR": {
+      "USD": 19.1763065517,
+      "name": "Decred"
+    },
+    "DCT": {
+      "USD": 0.0250150621455,
+      "name": "DECENT"
+    },
+    "DCTO": {
+      "USD": 1.53227929508e-06,
+      "name": "Decentralized Crypto Token"
+    },
+    "DCY": {
+      "USD": 0.000155029559468,
+      "name": "Dinastycoin"
+    },
+    "DDD": {
+      "USD": 0.00619445619294,
+      "name": "Scry.info"
+    },
+    "DDK": {
+      "USD": 4.29945460819,
+      "name": "DDKoin"
+    },
+    "DEAL": {
+      "USD": 7.75147797338e-05,
+      "name": "iDealCash"
+    },
+    "DEC": {
+      "USD": 0.0829361322884,
+      "name": "Darico Ecosystem Coin"
+    },
+    "DEEP": {
+      "USD": 0.00147078105884,
+      "name": "DeepCloud AI"
+    },
+    "DEEX": {
+      "USD": 0.0149953894879,
+      "name": "DEEX"
+    },
+    "DEFI": {
+      "USD": 0.0361280447481,
+      "name": "Defi"
+    },
+    "DELTA": {
+      "USD": 4.53972789046e-07,
+      "name": "DeltaChain"
+    },
+    "DEM": {
+      "USD": 0.000620118237871,
+      "name": "Deutsche eMark"
+    },
+    "DENT": {
+      "USD": 0.000174548424808,
+      "name": "Dent"
+    },
+    "DERO": {
+      "USD": 0.528764201538,
+      "name": "Dero"
+    },
+    "DEV": {
+      "USD": 0.0138271439269,
+      "name": "DeviantCoin"
+    },
+    "DEX": {
+      "USD": 0.0142470163613,
+      "name": "DEX"
+    },
+    "DFS": {
+      "USD": 0.0104277333671,
+      "name": "Fantasy Sports"
+    },
+    "DFT": {
+      "USD": 0.500928924774,
+      "name": "DigiFinexToken"
+    },
+    "DGB": {
+      "USD": 0.00694966397836,
+      "name": "DigiByte"
+    },
+    "DGC": {
+      "USD": 0.000542603458137,
+      "name": "Digitalcoin"
+    },
+    "DGD": {
+      "USD": 18.7319071779,
+      "name": "DigixDAO"
+    },
+    "DGTX": {
+      "USD": 0.0474096460614,
+      "name": "Digitex Futures"
+    },
+    "DGX": {
+      "USD": 45.4555037836,
+      "name": "Digix Gold Token"
+    },
+    "DICE": {
+      "USD": 0.331842513667,
+      "name": "Etheroll"
+    },
+    "DIG": {
+      "USD": 0.00131646602171,
+      "name": "Dignity"
+    },
+    "DILI": {
+      "USD": 0.000276020040228,
+      "name": "D Community"
+    },
+    "DIM": {
+      "USD": 6.88589481945e-05,
+      "name": "DIMCOIN"
+    },
+    "DIME": {
+      "USD": 9.88664891195e-07,
+      "name": "Dimecoin"
+    },
+    "DIN": {
+      "USD": 0.000232544339201,
+      "name": "Dinero"
+    },
+    "DIO": {
+      "USD": 0.00182171291027,
+      "name": "Decimated"
+    },
+    "DIT": {
+      "USD": 0.00261787320114,
+      "name": "Digital Insurance Token"
+    },
+    "DIVI": {
+      "USD": 0.0131217461728,
+      "name": "Divi"
+    },
+    "DLC": {
+      "USD": 0.000883849087921,
+      "name": "Dollarcoin"
+    },
+    "DLT": {
+      "USD": 0.0441226833843,
+      "name": "Agrello"
+    },
+    "DMB": {
+      "USD": 0.000310059118935,
+      "name": "Digital Money Bits"
+    },
+    "DMD": {
+      "USD": 0.325388787593,
+      "name": "Diamond"
+    },
+    "DML": {
+      "USD": 0.000303019009571,
+      "name": "Decentralized Machine Learning"
+    },
+    "DMME": {
+      "USD": 0.0249786103314,
+      "name": "DMme"
+    },
+    "DMT": {
+      "USD": 0.240517716218,
+      "name": "DMarket"
+    },
+    "DMTC": {
+      "USD": 0.0535000182313,
+      "name": "Demeter Chain"
+    },
+    "DNA": {
+      "USD": 0.0149417168244,
+      "name": "EncrypGen"
+    },
+    "DNT": {
+      "USD": 0.00630892198797,
+      "name": "district0x"
+    },
+    "DOCK": {
+      "USD": 0.00910536799566,
+      "name": "Dock"
+    },
+    "DOGE": {
+      "USD": 0.00236602186101,
+      "name": "Dogecoin"
+    },
+    "DOGEC": {
+      "USD": 0.0217317129167,
+      "name": "DogeCash"
+    },
+    "DOGET": {
+      "USD": 3.130846821e-06,
+      "name": "Doge Token"
+    },
+    "DOLLAR": {
+      "USD": 1.76832855055,
+      "name": "Dollar International"
+    },
+    "DOOH": {
+      "USD": 7.29582846163e-05,
+      "name": "Bidooh DOOH Token"
+    },
+    "DOPE": {
+      "USD": 0.00162781037441,
+      "name": "DopeCoin"
+    },
+    "DOS": {
+      "USD": 0.0116084926237,
+      "name": "DOS Network"
+    },
+    "DOT": {
+      "USD": 76.4007252603,
+      "name": "Polkadot [IOU]"
+    },
+    "DOV": {
+      "USD": 0.00104354130831,
+      "name": "Dovu"
+    },
+    "DOW": {
+      "USD": 0.00415776457829,
+      "name": "DOWCOIN"
+    },
+    "DPN": {
+      "USD": 0.000426331288536,
+      "name": "DIPNET"
+    },
+    "DPT": {
+      "USD": 13.650280122,
+      "name": "Diamond Platform Token"
+    },
+    "DPY": {
+      "USD": 0.0268789567227,
+      "name": "Delphy"
+    },
+    "DRA": {
+      "USD": 2.99928468067e-05,
+      "name": "Diruna"
+    },
+    "DRAGON": {
+      "USD": 0.000183039761894,
+      "name": "Dragon Option"
+    },
+    "DREAM": {
+      "USD": 0.0372304478707,
+      "name": "DreamTeam Token"
+    },
+    "DREP": {
+      "USD": 0.00175918222162,
+      "name": "DREP"
+    },
+    "DRG": {
+      "USD": 0.0537193395347,
+      "name": "Dragon Coins"
+    },
+    "DRGN": {
+      "USD": 0.0300734542421,
+      "name": "Dragonchain"
+    },
+    "DRM": {
+      "USD": 0.00602583468712,
+      "name": "Dreamcoin"
+    },
+    "DROP": {
+      "USD": 0.000257050353967,
+      "name": "Dropil"
+    },
+    "DRT": {
+      "USD": 0.00106661690333,
+      "name": "DomRaider"
+    },
+    "DSC": {
+      "USD": 0.726492239371,
+      "name": "Dash Cash"
+    },
+    "DSR": {
+      "USD": 0.000930177356806,
+      "name": "Desire"
+    },
+    "DT": {
+      "USD": 2.62372621182,
+      "name": "Dragon Token"
+    },
+    "DTA": {
+      "USD": 0.000296441579389,
+      "name": "DATA"
+    },
+    "DTC": {
+      "USD": 0.000542603458137,
+      "name": "Datacoin"
+    },
+    "DTEM": {
+      "USD": 0.00114373455017,
+      "name": "Dystem"
+    },
+    "DTEP": {
+      "USD": 0.0335638996247,
+      "name": "DECOIN"
+    },
+    "DTH": {
+      "USD": 0.00172557264814,
+      "name": "Dether"
+    },
+    "DTR": {
+      "USD": 0.0193922483204,
+      "name": "Dynamic Trading Rights"
+    },
+    "DTRC": {
+      "USD": 0.000323237031787,
+      "name": "Datarius Credit"
+    },
+    "DTX": {
+      "USD": 0.0176494336901,
+      "name": "DaTa eXchange"
+    },
+    "DUO": {
+      "USD": 0.0129731196772,
+      "name": "DUO Network Token"
+    },
+    "DUSK": {
+      "USD": 0.0422190138753,
+      "name": "Dusk Network"
+    },
+    "DVP": {
+      "USD": 0.00656416625309,
+      "name": "Decentralized Vulnerability Platform"
+    },
+    "DVT": {
+      "USD": 0.000155029559468,
+      "name": "DeVault"
+    },
+    "DWS": {
+      "USD": 0.000306544356179,
+      "name": "DWS"
+    },
+    "DX": {
+      "USD": 0.00106222433554,
+      "name": "DxChain Token"
+    },
+    "DXG": {
+      "USD": 0.732523182453,
+      "name": "Dexter G"
+    },
+    "DXR": {
+      "USD": 534.249270701,
+      "name": "DEXTER"
+    },
+    "DXT": {
+      "USD": 0.00183745173359,
+      "name": "Datawallet"
+    },
+    "DYN": {
+      "USD": 0.10193153842,
+      "name": "Dynamic"
+    },
+    "DYNMT": {
+      "USD": 0.528774435472,
+      "name": "Dynamite"
+    },
+    "E2C": {
+      "USD": 0.0104749985126,
+      "name": "Electronic Energy Coin"
+    },
+    "EBASE": {
+      "USD": 1.15041028972,
+      "name": "EURBASE"
+    },
+    "EBC": {
+      "USD": 0.00028694845669,
+      "name": "EBCoin"
+    },
+    "EBK": {
+      "USD": 0.0094782497644,
+      "name": "ebakus"
+    },
+    "EBST": {
+      "USD": 0.00187255712348,
+      "name": "eBoost"
+    },
+    "EBTC": {
+      "USD": 0.00749261792526,
+      "name": "eBitcoin"
+    },
+    "EC": {
+      "USD": 0.0104379739938,
+      "name": "Echoin"
+    },
+    "ECA": {
+      "USD": 0.000224802697253,
+      "name": "Electra"
+    },
+    "ECASH": {
+      "USD": 0.00325562074882,
+      "name": "Ethereum Cash"
+    },
+    "ECC": {
+      "USD": 0.000130257706514,
+      "name": "ECC"
+    },
+    "ECHT": {
+      "USD": 0.00023064509359,
+      "name": "e-Chat"
+    },
+    "ECO": {
+      "USD": 0.0028487640667,
+      "name": "Ormeus Ecosystem"
+    },
+    "ECOB": {
+      "USD": 0.00434082766509,
+      "name": "Ecobit"
+    },
+    "ECOM": {
+      "USD": 0.0214564897643,
+      "name": "Omnitude"
+    },
+    "ECOREAL": {
+      "USD": 0.0701617941568,
+      "name": "Ecoreal Estate"
+    },
+    "ECT": {
+      "USD": 1.27261399173e-05,
+      "name": "SuperEdge"
+    },
+    "ECTE": {
+      "USD": 0.0359447333849,
+      "name": "EurocoinToken"
+    },
+    "EDC": {
+      "USD": 0.00984423612731,
+      "name": "EDC Blockchain"
+    },
+    "EDG": {
+      "USD": 0.00788280598302,
+      "name": "Edgeless"
+    },
+    "EDN": {
+      "USD": 0.00243185809152,
+      "name": "Eden"
+    },
+    "EDO": {
+      "USD": 0.2584478281,
+      "name": "Eidoo"
+    },
+    "EDR": {
+      "USD": 0.00338482722504,
+      "name": "Endor Protocol"
+    },
+    "EDRC": {
+      "USD": 0.0256573920919,
+      "name": "EDRCoin"
+    },
+    "EDS": {
+      "USD": 5.17807361888e-05,
+      "name": "Endorsit"
+    },
+    "EDU": {
+      "USD": 0.000101012407368,
+      "name": "EduCoin"
+    },
+    "EFL": {
+      "USD": 0.0620893385668,
+      "name": "e-Gulden"
+    },
+    "EFX": {
+      "USD": 0.00612277823512,
+      "name": "Effect.AI"
+    },
+    "EGC": {
+      "USD": 0.0116272169601,
+      "name": "EverGreenCoin"
+    },
+    "EGCC": {
+      "USD": 0.000250423037486,
+      "name": "Engine"
+    },
+    "EGEM": {
+      "USD": 0.0042306107474,
+      "name": "EtherGem"
+    },
+    "EGG": {
+      "USD": 0.00112821297621,
+      "name": "Nestree"
+    },
+    "EGT": {
+      "USD": 0.00233380530075,
+      "name": "Egretia"
+    },
+    "EGX": {
+      "USD": 0.000232544339201,
+      "name": "EagleX"
+    },
+    "EKO": {
+      "USD": 0.00161984804176,
+      "name": "EchoLink"
+    },
+    "EKT": {
+      "USD": 0.0983378715321,
+      "name": "EDUCare"
+    },
+    "EL": {
+      "USD": 0.00620118237871,
+      "name": "Elcoin"
+    },
+    "ELA": {
+      "USD": 1.72788760583,
+      "name": "Elastos"
+    },
+    "ELAC": {
+      "USD": 0.00739616869676,
+      "name": "ELA Coin"
+    },
+    "ELD": {
+      "USD": 0.0030051638563,
+      "name": "electrumdark"
+    },
+    "ELE": {
+      "USD": 0.00053042099087,
+      "name": "Elementrem"
+    },
+    "ELEC": {
+      "USD": 0.000754455638992,
+      "name": "Electrify.Asia"
+    },
+    "ELET": {
+      "USD": 0.00730726317584,
+      "name": "Elementeum"
+    },
+    "ELF": {
+      "USD": 0.0691434346295,
+      "name": "aelf"
+    },
+    "ELI": {
+      "USD": 0.0331201266199,
+      "name": "Eligma Token"
+    },
+    "ELITE": {
+      "USD": 0.00379822420696,
+      "name": "Ethereum Lite"
+    },
+    "ELLA": {
+      "USD": 0.000775147797338,
+      "name": "Ellaism"
+    },
+    "ELLI": {
+      "USD": 0.000181426610107,
+      "name": "Elliot Coin"
+    },
+    "ELTCOIN": {
+      "USD": 0.000134626413303,
+      "name": "ELTCOIN"
+    },
+    "ELY": {
+      "USD": 0.000902097105526,
+      "name": "Elysian"
+    },
+    "EM": {
+      "USD": 0.00608845916634,
+      "name": "Eminer"
+    },
+    "EMB": {
+      "USD": 3.19403080262e-08,
+      "name": "EmberCoin"
+    },
+    "EMC": {
+      "USD": 0.0743020952316,
+      "name": "Emercoin"
+    },
+    "EMC2": {
+      "USD": 0.0536848514932,
+      "name": "Einsteinium"
+    },
+    "EMD": {
+      "USD": 0.00377745358077,
+      "name": "Emerald Crypto"
+    },
+    "EMPR": {
+      "USD": 2.21304098617e-09,
+      "name": "empowr coin"
+    },
+    "EMRX": {
+      "USD": 0.398686800305,
+      "name": "Emirex Token"
+    },
+    "EMT": {
+      "USD": 0.00767823560893,
+      "name": "Emanate"
+    },
+    "ENG": {
+      "USD": 0.547556911263,
+      "name": "Enigma"
+    },
+    "ENGT": {
+      "USD": 0.000119179037312,
+      "name": "Engagement Token"
+    },
+    "ENJ": {
+      "USD": 0.0611444274917,
+      "name": "Enjin Coin"
+    },
+    "ENQ": {
+      "USD": 0.0192164006687,
+      "name": "Enecuum"
+    },
+    "ENRG": {
+      "USD": 0.00116272169601,
+      "name": "Energycoin"
+    },
+    "ENT": {
+      "USD": 0.00146969010447,
+      "name": "Eternity"
+    },
+    "ENTRC": {
+      "USD": 0.0048059163435,
+      "name": "EnterCoin"
+    },
+    "ENTS": {
+      "USD": 4.64364130992e-06,
+      "name": "EUNOMIA"
+    },
+    "EON": {
+      "USD": 0.354426867399,
+      "name": "Dimension Chain"
+    },
+    "EOS": {
+      "USD": 2.77947634462,
+      "name": "EOS"
+    },
+    "EOSC": {
+      "USD": 0.00615010434666,
+      "name": "EOS Force"
+    },
+    "EOSDAC": {
+      "USD": 0.00285058642932,
+      "name": "eosDAC"
+    },
+    "EOSDT": {
+      "USD": 1.01340138604,
+      "name": "EOSDT"
+    },
+    "EOST": {
+      "USD": 2.58816862832e-05,
+      "name": "EOS TRUST"
+    },
+    "EPY": {
+      "USD": 0.00572944968244,
+      "name": "Emphy"
+    },
+    "EQL": {
+      "USD": 0.00059679665517,
+      "name": "Equal"
+    },
+    "EQT": {
+      "USD": 0.00132274258735,
+      "name": "EquiTrader"
+    },
+    "EQUAD": {
+      "USD": 0.00134979290542,
+      "name": "QuadrantProtocol"
+    },
+    "ERC20": {
+      "USD": 0.0530835078501,
+      "name": "ERC20"
+    },
+    "ERD": {
+      "USD": 0.00210912904322,
+      "name": "Elrond"
+    },
+    "ERG": {
+      "USD": 0.51039609132,
+      "name": "Ergo"
+    },
+    "ERK": {
+      "USD": 0.00790740423992,
+      "name": "Eureka Coin"
+    },
+    "ERO": {
+      "USD": 0.00139526603521,
+      "name": "Eroscoin"
+    },
+    "ERT": {
+      "USD": 0.00248047295148,
+      "name": "Eristica"
+    },
+    "ESBC": {
+      "USD": 0.026716234493,
+      "name": "ESBC"
+    },
+    "ESCE": {
+      "USD": 7.76412806978e-06,
+      "name": "Escroco Emerald"
+    },
+    "ESCX": {
+      "USD": 0.000151846070819,
+      "name": "ESCX Token"
+    },
+    "ESN": {
+      "USD": 0.00472840156376,
+      "name": "Ethersocial"
+    },
+    "ESP": {
+      "USD": 2.14981944616e-05,
+      "name": "Espers"
+    },
+    "ESS": {
+      "USD": 0.000435474724528,
+      "name": "Essentia"
+    },
+    "EST": {
+      "USD": 0.000432056861298,
+      "name": "Esports Token"
+    },
+    "ESZ": {
+      "USD": 0.0350006408205,
+      "name": "EtherSportz"
+    },
+    "ETA": {
+      "USD": 4.39330340928e-06,
+      "name": "Etheera"
+    },
+    "ETC": {
+      "USD": 4.10424369498,
+      "name": "Ethereum Classic"
+    },
+    "ETGP": {
+      "USD": 1.00769213654e-05,
+      "name": "Ethereum Gold Project"
+    },
+    "ETH": {
+      "USD": 156.526479309,
+      "name": "Ethereum"
+    },
+    "ETHM": {
+      "USD": 4.78192498184e-05,
+      "name": "Ethereum Meta"
+    },
+    "ETHO": {
+      "USD": 0.00535199888292,
+      "name": "Ether-1"
+    },
+    "ETHOS": {
+      "USD": 0.0287773248599,
+      "name": "Ethos"
+    },
+    "ETHPLO": {
+      "USD": 0.00113336808904,
+      "name": "ETHplode"
+    },
+    "ETI": {
+      "USD": 7.20887451525e-05,
+      "name": "EtherInc"
+    },
+    "ETK": {
+      "USD": 0.000138389006958,
+      "name": "EnergiToken"
+    },
+    "ETM": {
+      "USD": 0.0136652986334,
+      "name": "En-Tan-Mo"
+    },
+    "ETN": {
+      "USD": 0.00413229307163,
+      "name": "Electroneum"
+    },
+    "ETP": {
+      "USD": 0.40562600195,
+      "name": "Metaverse ETP"
+    },
+    "ETT": {
+      "USD": 0.00218948599304,
+      "name": "EncryptoTel [ETH]"
+    },
+    "ETX": {
+      "USD": 0.000179719850638,
+      "name": "EthereumX"
+    },
+    "ETZ": {
+      "USD": 0.0171412997481,
+      "name": "Ether Zero"
+    },
+    "EUC": {
+      "USD": 0.00111132129653,
+      "name": "Eurocoin"
+    },
+    "EUM": {
+      "USD": 0.979844781977,
+      "name": "Elitium"
+    },
+    "EUNO": {
+      "USD": 0.00655314747195,
+      "name": "EUNO"
+    },
+    "EURS": {
+      "USD": 1.10054001347,
+      "name": "STASIS EURO"
+    },
+    "EVC": {
+      "USD": 0.0045240184415,
+      "name": "Eva Cash"
+    },
+    "EVE": {
+      "USD": 0.00255435911801,
+      "name": "Devery"
+    },
+    "EVED": {
+      "USD": 0.00378675923,
+      "name": "Evedo"
+    },
+    "EVI": {
+      "USD": 7.75147797338e-07,
+      "name": "Evimeria"
+    },
+    "EVIL": {
+      "USD": 0.00231484930119,
+      "name": "Evil Coin"
+    },
+    "EVN": {
+      "USD": 0.0119073299972,
+      "name": "EvenCoin"
+    },
+    "EVOS": {
+      "USD": 0.000697633017604,
+      "name": "EVOS"
+    },
+    "EVR": {
+      "USD": 0.0771417608785,
+      "name": "Everus"
+    },
+    "EVT": {
+      "USD": 0.00678155166342,
+      "name": "EveriToken"
+    },
+    "EVX": {
+      "USD": 0.294872605297,
+      "name": "Everex"
+    },
+    "EVY": {
+      "USD": 0.00018112270343,
+      "name": "EveryCoin "
+    },
+    "EXCL": {
+      "USD": 0.0714686269146,
+      "name": "ExclusiveCoin"
+    },
+    "EXMR": {
+      "USD": 3.22129395937,
+      "name": "EXMR FDN"
+    },
+    "EXO": {
+      "USD": 0.182008159789,
+      "name": "Exosis"
+    },
+    "EXP": {
+      "USD": 0.0492993167438,
+      "name": "Expanse"
+    },
+    "EXRN": {
+      "USD": 1.24232247389e-05,
+      "name": "EXRNchain"
+    },
+    "EXT": {
+      "USD": 5.10439817528e-05,
+      "name": "Experience Token"
+    },
+    "EXY": {
+      "USD": 0.0161820332347,
+      "name": "Experty"
+    },
+    "EZW": {
+      "USD": 1.53598438759e-06,
+      "name": "EZOOW"
+    },
+    "EtLyteT": {
+      "USD": 0.061364649675,
+      "name": "Ethlyte Crypto"
+    },
+    "F1C": {
+      "USD": 0.00103944114457,
+      "name": "Future1coin"
+    },
+    "FAB": {
+      "USD": 0.0510328031824,
+      "name": "Fast Access Blockchain"
+    },
+    "FACE": {
+      "USD": 0.00146424108139,
+      "name": "Faceter"
+    },
+    "FAIR": {
+      "USD": 0.00167257357492,
+      "name": "FairGame"
+    },
+    "FAT": {
+      "USD": 0.0169949939212,
+      "name": "Fatcoin"
+    },
+    "FBN": {
+      "USD": 2.71131334699e-05,
+      "name": "Fivebalance"
+    },
+    "FCQ": {
+      "USD": 1.10702690491,
+      "name": "Fortem Capital"
+    },
+    "FCT": {
+      "USD": 112.433245581,
+      "name": "FirmaChain"
+    },
+    "FDX": {
+      "USD": 0.00153411494229,
+      "name": "FidentiaX"
+    },
+    "FDZ": {
+      "USD": 0.00283995629863,
+      "name": "Friendz"
+    },
+    "FET": {
+      "USD": 0.0552400894234,
+      "name": "Fetch.ai"
+    },
+    "FEX": {
+      "USD": 5.47898193676e-07,
+      "name": "FidexToken"
+    },
+    "FGC": {
+      "USD": 0.00759185659025,
+      "name": "FantasyGold"
+    },
+    "FIII": {
+      "USD": 0.000188400110581,
+      "name": "Fiii"
+    },
+    "FIL": {
+      "USD": 4.15346097222,
+      "name": "Filecoin [Futures]"
+    },
+    "FJC": {
+      "USD": 9.44358109456e-05,
+      "name": "FujiCoin"
+    },
+    "FKX": {
+      "USD": 0.00129161220253,
+      "name": "FortKnoxster"
+    },
+    "FLASH": {
+      "USD": 0.00364319464749,
+      "name": "Flash"
+    },
+    "FLC": {
+      "USD": 2.15896563714,
+      "name": "Flowchain"
+    },
+    "FLETA": {
+      "USD": 0.00921214662516,
+      "name": "FLETA"
+    },
+    "FLG": {
+      "USD": 1.13361901751,
+      "name": "Folgory Coin"
+    },
+    "FLIXX": {
+      "USD": 0.00404251317747,
+      "name": "Flixxo"
+    },
+    "FLM": {
+      "USD": 7.2248543647e-05,
+      "name": "FolmCoin"
+    },
+    "FLO": {
+      "USD": 0.0267425990082,
+      "name": "FLO"
+    },
+    "FLOT": {
+      "USD": 0.00201538427308,
+      "name": "Fire Lotto"
+    },
+    "FLP": {
+      "USD": 0.00950056134366,
+      "name": "FLIP"
+    },
+    "FNB": {
+      "USD": 0.00648862424101,
+      "name": "FNB Protocol"
+    },
+    "FND": {
+      "USD": 0.00111614689169,
+      "name": "FundRequest"
+    },
+    "FNKOS": {
+      "USD": 0.00661189535547,
+      "name": "FNKOS"
+    },
+    "FNTB": {
+      "USD": 0.0032198893567,
+      "name": "Fintab"
+    },
+    "FO": {
+      "USD": 0.00937726120832,
+      "name": "FIBOS"
+    },
+    "FOAM": {
+      "USD": 0.0209184480101,
+      "name": "FOAM"
+    },
+    "FOIN": {
+      "USD": 2401.60423346,
+      "name": "FOIN"
+    },
+    "FOR": {
+      "USD": 0.000310059118935,
+      "name": "FORCE"
+    },
+    "FOTA": {
+      "USD": 0.000904260969452,
+      "name": "Fortuna"
+    },
+    "FOXT": {
+      "USD": 0.00208456440092,
+      "name": "Fox Trading"
+    },
+    "FRC": {
+      "USD": 0.00387573898669,
+      "name": "Freicoin"
+    },
+    "FREC": {
+      "USD": 0.000150612633954,
+      "name": "Freyrchain"
+    },
+    "FREE": {
+      "USD": 9.16333327492e-08,
+      "name": "FREE Coin"
+    },
+    "FRM": {
+      "USD": 0.0053778446202,
+      "name": "Ferrum Network"
+    },
+    "FRN": {
+      "USD": 0.00254640611126,
+      "name": "Francs"
+    },
+    "FRST": {
+      "USD": 0.004606,
+      "name": "FirstCoin"
+    },
+    "FSBT": {
+      "USD": 0.0258748835522,
+      "name": "FSBT API Token"
+    },
+    "FSCP": {
+      "USD": 0.00252930892441,
+      "name": "Five Star Coin Pro"
+    },
+    "FSN": {
+      "USD": 0.717873729098,
+      "name": "Fusion"
+    },
+    "FST": {
+      "USD": 1.65257015334,
+      "name": "1irstcoin"
+    },
+    "FT": {
+      "USD": 0.0303623653144,
+      "name": "FToken"
+    },
+    "FTC": {
+      "USD": 0.0117822465195,
+      "name": "Feathercoin"
+    },
+    "FTI": {
+      "USD": 0.000277751118785,
+      "name": "FansTime"
+    },
+    "FTM": {
+      "USD": 0.0132354665864,
+      "name": "Fantom"
+    },
+    "FTN": {
+      "USD": 0.0135512471215,
+      "name": "Fountain"
+    },
+    "FTO": {
+      "USD": 0.104324688791,
+      "name": "FuturoCoin"
+    },
+    "FTT": {
+      "USD": 0.000530463353812,
+      "name": "FarmaTrust"
+    },
+    "FTX": {
+      "USD": 0.00741450705677,
+      "name": "FintruX Network"
+    },
+    "FTXT": {
+      "USD": 1.26799296251e-06,
+      "name": "FUTURAX"
+    },
+    "FUEL": {
+      "USD": 0.00426317891463,
+      "name": "Etherparty"
+    },
+    "FUN": {
+      "USD": 0.00310215096983,
+      "name": "FunFair"
+    },
+    "FUNDZ": {
+      "USD": 0.00511597546243,
+      "name": "FundToken"
+    },
+    "FUZZ": {
+      "USD": 0.00472884862673,
+      "name": "FuzzBalls"
+    },
+    "FX": {
+      "USD": 0.105473751487,
+      "name": "Function X"
+    },
+    "FXC": {
+      "USD": 0.0023544723933,
+      "name": "Flexacoin"
+    },
+    "FXT": {
+      "USD": 0.000757024508031,
+      "name": "FuzeX"
+    },
+    "FYP": {
+      "USD": 0.0156510091761,
+      "name": "FlypMe"
+    },
+    "GALI": {
+      "USD": 0.00499415158063,
+      "name": "Galilel"
+    },
+    "GAME": {
+      "USD": 0.0737146634018,
+      "name": "GameCredits"
+    },
+    "GAP": {
+      "USD": 7.08708032069,
+      "name": "GAPS"
+    },
+    "GARD": {
+      "USD": 3.7228137391e-05,
+      "name": "Hashgard"
+    },
+    "GAS": {
+      "USD": 1.15550909525,
+      "name": "Gas"
+    },
+    "GAT": {
+      "USD": 0.000469627023151,
+      "name": "Global Awards Token"
+    },
+    "GB": {
+      "USD": 0.00197832642217,
+      "name": "GoldBlocks"
+    },
+    "GBC": {
+      "USD": 0.0199788422363,
+      "name": "Gold Bits Coin"
+    },
+    "GBG": {
+      "USD": 0.00300636728489,
+      "name": "Golos Gold"
+    },
+    "GBX": {
+      "USD": 0.0234687743069,
+      "name": "GoByte"
+    },
+    "GBYTE": {
+      "USD": 18.3758019206,
+      "name": "Obyte"
+    },
+    "GCC": {
+      "USD": 0.00180972870693,
+      "name": "GuccioneCoin"
+    },
+    "GCN": {
+      "USD": 4.90236141565e-07,
+      "name": "GCN Coin"
+    },
+    "GCR": {
+      "USD": 0.0334088700653,
+      "name": "Global Currency Reserve"
+    },
+    "GDR": {
+      "USD": 0.000281761704754,
+      "name": "Guider"
+    },
+    "GEM": {
+      "USD": 0.000257117506924,
+      "name": "Gems "
+    },
+    "GEN": {
+      "USD": 0.0854752279176,
+      "name": "DAOstack"
+    },
+    "GENE": {
+      "USD": 0.00069427619934,
+      "name": "Parkgene"
+    },
+    "GEO": {
+      "USD": 0.228668600215,
+      "name": "GeoCoin"
+    },
+    "GET": {
+      "USD": 0.0042428927415,
+      "name": "Themis"
+    },
+    "GETX": {
+      "USD": 0.000308903637653,
+      "name": "Guaranteed Ethurance Token Extra"
+    },
+    "GEX": {
+      "USD": 0.0162873287064,
+      "name": "Gexan"
+    },
+    "GFUN": {
+      "USD": 0.000899695539963,
+      "name": "GoldFund"
+    },
+    "GIC": {
+      "USD": 0.0210242193377,
+      "name": "Giant"
+    },
+    "GIN": {
+      "USD": 0.00779617422596,
+      "name": "GINcoin"
+    },
+    "GIO": {
+      "USD": 0.000387408353168,
+      "name": "Graviocoin"
+    },
+    "GLC": {
+      "USD": 0.00971566457637,
+      "name": "GoldCoin"
+    },
+    "GLT": {
+      "USD": 0.000852662577072,
+      "name": "GlobalToken"
+    },
+    "GMAT": {
+      "USD": 0.00336860425107,
+      "name": "GoWithMi"
+    },
+    "GMB": {
+      "USD": 0.00019214681911,
+      "name": "GAMB"
+    },
+    "GMBC": {
+      "USD": 0.000308873958072,
+      "name": "Gamblica"
+    },
+    "GMCN": {
+      "USD": 8.77516577991e-05,
+      "name": "GambleCoin"
+    },
+    "GNO": {
+      "USD": 14.6547837642,
+      "name": "Gnosis"
+    },
+    "GNT": {
+      "USD": 0.0397934983064,
+      "name": "Golem"
+    },
+    "GNX": {
+      "USD": 0.0073815495075,
+      "name": "Genaro Network"
+    },
+    "GNY": {
+      "USD": 0.115131752217,
+      "name": "GNY"
+    },
+    "GO": {
+      "USD": 0.00981560077999,
+      "name": "GoChain"
+    },
+    "GOD": {
+      "USD": 0.168982999396,
+      "name": "Bitcoin God"
+    },
+    "GOLD": {
+      "USD": 0.0093035239027,
+      "name": "Golden Token"
+    },
+    "GOLOS": {
+      "USD": 0.00254043917019,
+      "name": "Golos"
+    },
+    "GOM": {
+      "USD": 0.00186382836583,
+      "name": "GoMoney"
+    },
+    "GOS": {
+      "USD": 0.12861205656,
+      "name": "Gosama"
+    },
+    "GOSS": {
+      "USD": 0.000489157896414,
+      "name": "Gossipcoin"
+    },
+    "GOT": {
+      "USD": 0.00720594761226,
+      "name": "GoNetwork"
+    },
+    "GPKR": {
+      "USD": 0.00410828332589,
+      "name": "Gold Poker"
+    },
+    "GPT": {
+      "USD": 0.00195968954743,
+      "name": "GoPower"
+    },
+    "GPYX": {
+      "USD": 0.0126531669187,
+      "name": "GoldenPyrex"
+    },
+    "GRAT": {
+      "USD": 0.000610508332616,
+      "name": "Gratz"
+    },
+    "GRC": {
+      "USD": 0.00286657650515,
+      "name": "GridCoin"
+    },
+    "GRFT": {
+      "USD": 0.000468920795284,
+      "name": "Graft"
+    },
+    "GRID": {
+      "USD": 0.0327023671082,
+      "name": "Grid+"
+    },
+    "GRIM": {
+      "USD": 5.0244225267e-05,
+      "name": "Grimcoin"
+    },
+    "GRIN": {
+      "USD": 1.21470073423,
+      "name": "Grin"
+    },
+    "GRLC": {
+      "USD": 0.000852662577072,
+      "name": "Garlicoin"
+    },
+    "GRN": {
+      "USD": 0.00317996903861,
+      "name": "GreenPower"
+    },
+    "GRS": {
+      "USD": 0.246786350844,
+      "name": "Groestlcoin"
+    },
+    "GSC": {
+      "USD": 0.00424605220672,
+      "name": "Global Social Chain"
+    },
+    "GSE": {
+      "USD": 0.000122251107867,
+      "name": "GSENetwork"
+    },
+    "GSR": {
+      "USD": 0.00782899275312,
+      "name": "GeyserCoin"
+    },
+    "GST": {
+      "USD": 0.000264303192605,
+      "name": "Game Stars"
+    },
+    "GT": {
+      "USD": 0.392031803203,
+      "name": "Gatechain Token"
+    },
+    "GTC": {
+      "USD": 0.00317344643634,
+      "name": "Game.com"
+    },
+    "GTM": {
+      "USD": 0.038432904855,
+      "name": "Gentarium"
+    },
+    "GTN": {
+      "USD": 0.258477389255,
+      "name": "GlitzKoin"
+    },
+    "GTO": {
+      "USD": 0.01240487971,
+      "name": "Gifto"
+    },
+    "GUESS": {
+      "USD": 0.000382230887152,
+      "name": "Peerguess"
+    },
+    "GUP": {
+      "USD": 0.00189627487749,
+      "name": "Matchpool"
+    },
+    "GUSD": {
+      "USD": 1.00111865843,
+      "name": "Gemini Dollar"
+    },
+    "GVE": {
+      "USD": 0.000177845489358,
+      "name": "Globalvillage Ecosystem"
+    },
+    "GVT": {
+      "USD": 1.12344773604,
+      "name": "Genesis Vision"
+    },
+    "GXC": {
+      "USD": 0.476935422075,
+      "name": "GXChain"
+    },
+    "GXX": {
+      "USD": 0.0247695382522,
+      "name": "GravityCoin"
+    },
+    "GZE": {
+      "USD": 0.000437726969616,
+      "name": "GazeCoin"
+    },
+    "GZRO": {
+      "USD": 7.75147797338e-05,
+      "name": "Gravity"
+    },
+    "HALO": {
+      "USD": 0.000461590646849,
+      "name": "Halo Platform"
+    },
+    "HAND": {
+      "USD": 2.97475356316e-07,
+      "name": "ShowHand"
+    },
+    "HAVY": {
+      "USD": 1.24326678803e-06,
+      "name": "Havy"
+    },
+    "HB": {
+      "USD": 0.00289198426231,
+      "name": "HeartBout"
+    },
+    "HBAR": {
+      "USD": 0.0273212872798,
+      "name": "Hedera Hashgraph"
+    },
+    "HBT": {
+      "USD": 0.225806738215,
+      "name": "Hubii Network"
+    },
+    "HBX": {
+      "USD": 0.00574102492699,
+      "name": "HashBX "
+    },
+    "HBZ": {
+      "USD": 0.00189606533906,
+      "name": "HBZ coin"
+    },
+    "HC": {
+      "USD": 1.33365350498,
+      "name": "HyperCash"
+    },
+    "HDAC": {
+      "USD": 0.0284590515645,
+      "name": "Hdac"
+    },
+    "HEAT": {
+      "USD": 0.0135650864534,
+      "name": "HEAT"
+    },
+    "HEDG": {
+      "USD": 0.666891193045,
+      "name": "HedgeTrade"
+    },
+    "HELP": {
+      "USD": 0.00271301729068,
+      "name": "GoHelpFund"
+    },
+    "HER": {
+      "USD": 8.82752096118e-05,
+      "name": "HeroNode"
+    },
+    "HERB": {
+      "USD": 3.48530778831e-06,
+      "name": "Herbalist Token"
+    },
+    "HERO": {
+      "USD": 0.031980007228,
+      "name": "Hero"
+    },
+    "HGO": {
+      "USD": 0.0015725543137,
+      "name": "HireGo"
+    },
+    "HGT": {
+      "USD": 0.000434102994297,
+      "name": "HelloGold"
+    },
+    "HINT": {
+      "USD": 0.00561335302285,
+      "name": "Hintchain"
+    },
+    "HIT": {
+      "USD": 4.80068291532e-05,
+      "name": "HitChain"
+    },
+    "HKN": {
+      "USD": 0.119083759094,
+      "name": "Hacken"
+    },
+    "HLC": {
+      "USD": 0.00341064265963,
+      "name": "Qitmeer"
+    },
+    "HLM": {
+      "USD": 0.0148053229292,
+      "name": "Helium"
+    },
+    "HLT": {
+      "USD": 0.147637911307,
+      "name": "Esportbits"
+    },
+    "HLX": {
+      "USD": 0.000465088678403,
+      "name": "Hilux"
+    },
+    "HMC": {
+      "USD": 0.000245418521081,
+      "name": "HarmonyCoin"
+    },
+    "HMQ": {
+      "USD": 0.00489848416733,
+      "name": "Humaniq"
+    },
+    "HNB": {
+      "USD": 0.0129065104043,
+      "name": "HashNet BitEco"
+    },
+    "HNC": {
+      "USD": 0.00201538427308,
+      "name": "Helleniccoin"
+    },
+    "HNDC": {
+      "USD": 7.75147797338e-06,
+      "name": "HondaisCoin"
+    },
+    "HNST": {
+      "USD": 0.00521433804703,
+      "name": "Honest"
+    },
+    "HOLD": {
+      "USD": 0.000615211400327,
+      "name": "HOLD"
+    },
+    "HORSE": {
+      "USD": 0.000874689112792,
+      "name": "Ethouse"
+    },
+    "HORUS": {
+      "USD": 0.000662756627551,
+      "name": "HorusPay"
+    },
+    "HOT": {
+      "USD": 0.00260342904605,
+      "name": "HOT Token"
+    },
+    "HPB": {
+      "USD": 0.081449390391,
+      "name": "High Performance Blockchain"
+    },
+    "HPC": {
+      "USD": 0.0492993999107,
+      "name": "Happycoin"
+    },
+    "HPT": {
+      "USD": 0.00533096125258,
+      "name": "Huobi Pool Token"
+    },
+    "HPY": {
+      "USD": 0.00054211351931,
+      "name": "Hyper Pay"
+    },
+    "HQT": {
+      "USD": 0.000640767319255,
+      "name": "HyperQuant"
+    },
+    "HQX": {
+      "USD": 0.00160515100884,
+      "name": "HOQU"
+    },
+    "HSC": {
+      "USD": 8.42193170878e-05,
+      "name": "HashCoin"
+    },
+    "HSN": {
+      "USD": 6.08366388297e-07,
+      "name": "Helper Search Token"
+    },
+    "HST": {
+      "USD": 0.000232544339201,
+      "name": "Decision Token"
+    },
+    "HT": {
+      "USD": 2.7928225542,
+      "name": "Huobi Token"
+    },
+    "HTML": {
+      "USD": 3.12994707289e-05,
+      "name": "HTMLCOIN"
+    },
+    "HUDDL": {
+      "USD": 0.00239879727093,
+      "name": "HUDDL"
+    },
+    "HUM": {
+      "USD": 0.00791372687855,
+      "name": "Humanscape"
+    },
+    "HUR": {
+      "USD": 5.63552427781e-05,
+      "name": "Hurify"
+    },
+    "HUSD": {
+      "USD": 1.00040204842,
+      "name": "HUSD"
+    },
+    "HUSH": {
+      "USD": 0.0685230021993,
+      "name": "Hush"
+    },
+    "HVCO": {
+      "USD": 0.00565857892057,
+      "name": "High Voltage"
+    },
+    "HVN": {
+      "USD": 0.00189703266321,
+      "name": "Hiveterminal Token"
+    },
+    "HWC": {
+      "USD": 0.000155029559468,
+      "name": "HollyWoodCoin"
+    },
+    "HX": {
+      "USD": 0.0147756155061,
+      "name": "HyperExchange"
+    },
+    "HXRO": {
+      "USD": 0.0417738122296,
+      "name": "Hxro"
+    },
+    "HYB": {
+      "USD": 0.000380396773606,
+      "name": "Hybrid Block"
+    },
+    "HYC": {
+      "USD": 0.00461950030732,
+      "name": "HYCON"
+    },
+    "HYDRO": {
+      "USD": 0.00047809076437,
+      "name": "Hydro"
+    },
+    "HYN": {
+      "USD": 0.0640501681042,
+      "name": "Hyperion"
+    },
+    "HYPE": {
+      "USD": 0.000598318101698,
+      "name": "Hype Token"
+    },
+    "HYPX": {
+      "USD": 1.69e-06,
+      "name": "HYPNOXYS"
+    },
+    "HYT": {
+      "USD": 0.00116272169601,
+      "name": "HoryouToken"
+    },
+    "IBANK": {
+      "USD": 0.000733941594036,
+      "name": "iBank"
+    },
+    "IBT": {
+      "USD": 1.2523387284e-05,
+      "name": "ICOBay"
+    },
+    "IBTC": {
+      "USD": 7.55117687522e-05,
+      "name": "iBTC"
+    },
+    "IC": {
+      "USD": 0.0492361684948,
+      "name": "Ignition"
+    },
+    "ICHX": {
+      "USD": 1.82552741693e-06,
+      "name": "IceChain"
+    },
+    "ICNQ": {
+      "USD": 0.18628538585,
+      "name": "Iconiq Lab Token"
+    },
+    "ICOB": {
+      "USD": 8.3612239578e-05,
+      "name": "ICOBID"
+    },
+    "ICON": {
+      "USD": 0.00752098489998,
+      "name": "Iconic"
+    },
+    "ICOO": {
+      "USD": 0.087856949787,
+      "name": "ICO OpenLedger"
+    },
+    "ICR": {
+      "USD": 0.00234651746064,
+      "name": "InterCrone"
+    },
+    "ICT": {
+      "USD": 0.00283663988108,
+      "name": "ICOCalendar.Today"
+    },
+    "ICX": {
+      "USD": 0.14013266447,
+      "name": "ICON"
+    },
+    "IDEAL": {
+      "USD": 0.00674378583684,
+      "name": "IDEALCOIN"
+    },
+    "IDEX": {
+      "USD": 0.0103266166245,
+      "name": "IDEX"
+    },
+    "IDH": {
+      "USD": 0.00362144886083,
+      "name": "indaHash"
+    },
+    "IDRT": {
+      "USD": 7.02251611874e-05,
+      "name": "Rupiah Token"
+    },
+    "IDT": {
+      "USD": 0.00516757701995,
+      "name": "InvestDigital"
+    },
+    "IDXM": {
+      "USD": 61.652926116,
+      "name": "IDEX Membership"
+    },
+    "IETH": {
+      "USD": 0.0359518674361,
+      "name": "iEthereum"
+    },
+    "IFC": {
+      "USD": 7.75147797338e-06,
+      "name": "Infinitecoin"
+    },
+    "IFLT": {
+      "USD": 8.32033155861e-07,
+      "name": "InflationCoin"
+    },
+    "IFOOD": {
+      "USD": 0.00015030873918,
+      "name": "Ifoods Chain"
+    },
+    "IFP": {
+      "USD": 5.43413945791e-05,
+      "name": "Infinipay"
+    },
+    "IFT": {
+      "USD": 0.000284886929332,
+      "name": "InvestFeed"
+    },
+    "IG": {
+      "USD": 7.82711705251e-06,
+      "name": "IGToken"
+    },
+    "IGG": {
+      "USD": 8.60615876147e-05,
+      "name": "IG Gold"
+    },
+    "IGNIS": {
+      "USD": 0.0406959001922,
+      "name": "Ignis"
+    },
+    "IHF": {
+      "USD": 0.0347075884922,
+      "name": "Invictus Hyperion Fund"
+    },
+    "IHT": {
+      "USD": 0.00157976990912,
+      "name": "IHT Real Estate Protocol"
+    },
+    "IIC": {
+      "USD": 0.000130663333753,
+      "name": "Intelligent Investment Chain"
+    },
+    "ILC": {
+      "USD": 0.106171915194,
+      "name": "ILCoin"
+    },
+    "ILK": {
+      "USD": 0.00267434253747,
+      "name": "INLOCK"
+    },
+    "IMG": {
+      "USD": 0.107907453667,
+      "name": "ImageCoin"
+    },
+    "IMP": {
+      "USD": 0.00315530199,
+      "name": "Ether Kingdoms Token"
+    },
+    "IMPL": {
+      "USD": 0.00720887451525,
+      "name": "Impleum"
+    },
+    "IMS": {
+      "USD": 0.00176779575776,
+      "name": "Independent Money System"
+    },
+    "IMT": {
+      "USD": 0.000121398043218,
+      "name": "Moneytoken"
+    },
+    "INB": {
+      "USD": 0.587907467896,
+      "name": "Insight Chain"
+    },
+    "INC": {
+      "USD": 0.000257395829604,
+      "name": "Influence Chain"
+    },
+    "INCNT": {
+      "USD": 0.126366081807,
+      "name": "Incent"
+    },
+    "INCO": {
+      "USD": 3.82881233936e-06,
+      "name": "Incodium"
+    },
+    "INCX": {
+      "USD": 9.79689473186e-05,
+      "name": "InternationalCryptoX"
+    },
+    "IND": {
+      "USD": 0.00154783012191,
+      "name": "Indorse Token"
+    },
+    "INE": {
+      "USD": 0.0163908973304,
+      "name": "IntelliShare"
+    },
+    "INF": {
+      "USD": 0.234840655323,
+      "name": "Infinitus Token"
+    },
+    "ING": {
+      "USD": 0.00201538427308,
+      "name": "Iungo"
+    },
+    "INK": {
+      "USD": 0.00228871256644,
+      "name": "Ink"
+    },
+    "INN": {
+      "USD": 0.00558106414084,
+      "name": "Innova"
+    },
+    "INNBCL": {
+      "USD": 1.23929949485e-09,
+      "name": "InnovativeBioresearchClassic"
+    },
+    "INO": {
+      "USD": 1.68218696189,
+      "name": "INO COIN"
+    },
+    "INS": {
+      "USD": 0.168724299725,
+      "name": "Insolar"
+    },
+    "INSN": {
+      "USD": 0.00255798773122,
+      "name": "InsaneCoin"
+    },
+    "INSTAR": {
+      "USD": 0.0155698643131,
+      "name": "Insights Network"
+    },
+    "INSUR": {
+      "USD": 0.000139384167964,
+      "name": "InsurChain"
+    },
+    "INT": {
+      "USD": 0.0191529106848,
+      "name": "INT Chain"
+    },
+    "INV": {
+      "USD": 0.0040380912767,
+      "name": "Invacio"
+    },
+    "INVE": {
+      "USD": 0.000342741506006,
+      "name": "InterValue"
+    },
+    "INX": {
+      "USD": 0.0873816776628,
+      "name": "INMAX"
+    },
+    "INXT": {
+      "USD": 0.782434186633,
+      "name": "Internxt"
+    },
+    "IOC": {
+      "USD": 0.0717011712538,
+      "name": "I/O Coin"
+    },
+    "IOEX": {
+      "USD": 0.0242778614427,
+      "name": "IOEX"
+    },
+    "IOG": {
+      "USD": 0.00605552877399,
+      "name": "Playgroundz"
+    },
+    "IONC": {
+      "USD": 0.00399762136998,
+      "name": "IONChain"
+    },
+    "IOP": {
+      "USD": 0.0191750502023,
+      "name": "Internet of People"
+    },
+    "IOST": {
+      "USD": 0.0056357896719,
+      "name": "IOST"
+    },
+    "IOTW": {
+      "USD": 0.00429708726183,
+      "name": "IOTW"
+    },
+    "IOTX": {
+      "USD": 0.0045080863624,
+      "name": "IoTeX"
+    },
+    "IOUX": {
+      "USD": 0.219509828298,
+      "name": "IOU"
+    },
+    "IOV": {
+      "USD": 0.000297774689241,
+      "name": "IOV BlockChain"
+    },
+    "IPC": {
+      "USD": 0.0395813013174,
+      "name": "IPChain"
+    },
+    "IPL": {
+      "USD": 0.00271178137282,
+      "name": "VouchForMe"
+    },
+    "IPSX": {
+      "USD": 0.000155029559468,
+      "name": "IP Exchange"
+    },
+    "IQ": {
+      "USD": 0.00325562074882,
+      "name": "IQ.cash"
+    },
+    "IQN": {
+      "USD": 0.603330137498,
+      "name": "IQeon"
+    },
+    "IRD": {
+      "USD": 0.00155029559468,
+      "name": "Iridium"
+    },
+    "IRIS": {
+      "USD": 0.0243028994797,
+      "name": "IRISnet"
+    },
+    "ISR": {
+      "USD": 0.0065225689914,
+      "name": "Insureum"
+    },
+    "ITC": {
+      "USD": 0.116648943783,
+      "name": "IoT Chain"
+    },
+    "ITI": {
+      "USD": 0.901961976983,
+      "name": "iTicoin"
+    },
+    "ITL": {
+      "USD": 7.83858679366e-07,
+      "name": "Italian Lira"
+    },
+    "ITT": {
+      "USD": 0.00272912812482,
+      "name": "Intelligent Trading Foundation"
+    },
+    "IVY": {
+      "USD": 0.00301836068618,
+      "name": "Ivy"
+    },
+    "IXC": {
+      "USD": 0.0177569281746,
+      "name": "Ixcoin"
+    },
+    "IXT": {
+      "USD": 0.00623976741815,
+      "name": "IXT"
+    },
+    "IZI": {
+      "USD": 0.000402913107738,
+      "name": "IZIChain"
+    },
+    "J": {
+      "USD": 0.00434082766509,
+      "name": "Joincoin"
+    },
+    "J8T": {
+      "USD": 0.000466922203444,
+      "name": "JET8"
+    },
+    "JAR": {
+      "USD": 0.00243980659346,
+      "name": "Jarvis+"
+    },
+    "JCT": {
+      "USD": 0.000143811234845,
+      "name": "Japan Content Token"
+    },
+    "JET": {
+      "USD": 0.00542603458137,
+      "name": "Jetcoin"
+    },
+    "JEW": {
+      "USD": 8.80658053272e-05,
+      "name": "Shekel"
+    },
+    "JIYO": {
+      "USD": 9.83355868098e-05,
+      "name": "Jiyo [OLD]"
+    },
+    "JNB": {
+      "USD": 13.324170518,
+      "name": "Jinbi Token"
+    },
+    "JNT": {
+      "USD": 0.0222520921757,
+      "name": "Jibrel Network"
+    },
+    "JOINT": {
+      "USD": 0.00136191836714,
+      "name": "Joint Ventures"
+    },
+    "JS": {
+      "USD": 0.000831612536315,
+      "name": "JavaScript Token"
+    },
+    "JSE": {
+      "USD": 0.000172196575155,
+      "name": "JSECOIN"
+    },
+    "JUL": {
+      "USD": 0.038849749475,
+      "name": "Joule"
+    },
+    "JWL": {
+      "USD": 0.823254367236,
+      "name": "Jewel"
+    },
+    "KAASO": {
+      "USD": 0.0106026423093,
+      "name": "KAASO"
+    },
+    "KAN": {
+      "USD": 0.00207057446216,
+      "name": "BitKan"
+    },
+    "KAPP": {
+      "USD": 4.89289933503e-06,
+      "name": "Kappi Network"
+    },
+    "KARMA": {
+      "USD": 8.42163306877e-05,
+      "name": "KARMA"
+    },
+    "KAT": {
+      "USD": 0.000609425002814,
+      "name": "Kambria"
+    },
+    "KAVA": {
+      "USD": 1.08808499883,
+      "name": "Kava"
+    },
+    "KB3": {
+      "USD": 0.000527933032466,
+      "name": "B3Coin"
+    },
+    "KBC": {
+      "USD": 0.0251310271281,
+      "name": "Karatgold Coin"
+    },
+    "KCASH": {
+      "USD": 0.00538454623485,
+      "name": "Kcash"
+    },
+    "KCS": {
+      "USD": 1.03752512884,
+      "name": "KuCoin Shares"
+    },
+    "KEK": {
+      "USD": 0.0196143955366,
+      "name": "KekCoin"
+    },
+    "KEY": {
+      "USD": 0.00148172643316,
+      "name": "KEY"
+    },
+    "KGC": {
+      "USD": 0.00060925142281,
+      "name": "Krypton Galaxy Coin"
+    },
+    "KICK": {
+      "USD": 0.000164783846279,
+      "name": "KickToken"
+    },
+    "KICKS": {
+      "USD": 0.204847804165,
+      "name": "Sessia"
+    },
+    "KIN": {
+      "USD": 3.98309748327e-06,
+      "name": "Kin"
+    },
+    "KIND": {
+      "USD": 0.00127567382166,
+      "name": "Kind Ads Token"
+    },
+    "KLKS": {
+      "USD": 0.0046508987423,
+      "name": "Kalkulus"
+    },
+    "KLN": {
+      "USD": 0.370753349701,
+      "name": "Kolion"
+    },
+    "KMD": {
+      "USD": 0.767131084087,
+      "name": "Komodo"
+    },
+    "KNC": {
+      "USD": 0.185068628261,
+      "name": "Kyber Network"
+    },
+    "KNDC": {
+      "USD": 9.39254046301e-06,
+      "name": "KanadeCoin"
+    },
+    "KNOW": {
+      "USD": 0.00219076674141,
+      "name": "KNOW"
+    },
+    "KNT": {
+      "USD": 4.69627023151e-05,
+      "name": "Kora Network Token"
+    },
+    "KOBO": {
+      "USD": 0.00255798773122,
+      "name": "Kobocoin"
+    },
+    "KRB": {
+      "USD": 0.0603205992507,
+      "name": "Karbo"
+    },
+    "KRI": {
+      "USD": 0.0184916738656,
+      "name": "Krios"
+    },
+    "KRL": {
+      "USD": 0.0471779634926,
+      "name": "Kryll"
+    },
+    "KSH": {
+      "USD": 0.206459835275,
+      "name": "Kahsh"
+    },
+    "KST": {
+      "USD": 0.000211711902443,
+      "name": "StarCoin"
+    },
+    "KT": {
+      "USD": 0.141842642843,
+      "name": "Kuai Token"
+    },
+    "KTS": {
+      "USD": 0.0116174303368,
+      "name": "Klimatas"
+    },
+    "KUE": {
+      "USD": 5.05108443279e-05,
+      "name": "Kuende"
+    },
+    "KUN": {
+      "USD": 4.15479219373,
+      "name": "KUN"
+    },
+    "KURT": {
+      "USD": 0.000441948939439,
+      "name": "Kurrent"
+    },
+    "KUV": {
+      "USD": 6.95048678942e-05,
+      "name": "Kuverit"
+    },
+    "KWATT": {
+      "USD": 0.000228551817933,
+      "name": "4NEW"
+    },
+    "KWH": {
+      "USD": 6.26169364201e-06,
+      "name": "KWHCoin"
+    },
+    "KXC": {
+      "USD": 1.17406755788e-06,
+      "name": "KingXChain"
+    },
+    "KYD": {
+      "USD": 0.0108154619374,
+      "name": "Know Your Developer"
+    },
+    "KZC": {
+      "USD": 0.0177372449893,
+      "name": "KZ Cash"
+    },
+    "KZE": {
+      "USD": 0.0974926288609,
+      "name": "Almeela"
+    },
+    "LA": {
+      "USD": 0.0799520920975,
+      "name": "LATOKEN"
+    },
+    "LABX": {
+      "USD": 0.17750884559,
+      "name": "Stakinglab"
+    },
+    "LAD": {
+      "USD": 0.00816341886125,
+      "name": "Ladder Network Token"
+    },
+    "LALA": {
+      "USD": 0.000966901448957,
+      "name": "LALA World"
+    },
+    "LAMB": {
+      "USD": 0.044184410369,
+      "name": "Lambda"
+    },
+    "LAMBS": {
+      "USD": 0.0353329416389,
+      "name": "Lambda Space Token"
+    },
+    "LANA": {
+      "USD": 7.55464941824e-05,
+      "name": "LanaCoin"
+    },
+    "LBA": {
+      "USD": 0.0234716752898,
+      "name": "Cred"
+    },
+    "LBC": {
+      "USD": 0.00906922922886,
+      "name": "LBRY Credits"
+    },
+    "LBN": {
+      "USD": 0.0134564134981,
+      "name": "Lucky Block Network"
+    },
+    "LBTC": {
+      "USD": 0.00015998,
+      "name": "LiteBitcoin"
+    },
+    "LCC": {
+      "USD": 0.007153968261,
+      "name": "Litecoin Cash"
+    },
+    "LCP": {
+      "USD": 0.0136426012332,
+      "name": "Litecoin Plus"
+    },
+    "LCS": {
+      "USD": 0.00720887451525,
+      "name": "LocalCoinSwap"
+    },
+    "LDC": {
+      "USD": 7.87366526206e-05,
+      "name": "Leadcoin"
+    },
+    "LDOGE": {
+      "USD": 7.3334014872e-06,
+      "name": "LiteDoge"
+    },
+    "LEDU": {
+      "USD": 0.00394455073158,
+      "name": "Education Ecosystem"
+    },
+    "LEMO": {
+      "USD": 0.00344268280735,
+      "name": "LemoChain"
+    },
+    "LEND": {
+      "USD": 0.0157521652522,
+      "name": "Aave"
+    },
+    "LEO": {
+      "USD": 0.00595444069175,
+      "name": "LEOcoin"
+    },
+    "LET": {
+      "USD": 0.00319879643364,
+      "name": "LinkEye"
+    },
+    "LEV": {
+      "USD": 0.0192672313052,
+      "name": "Leverj"
+    },
+    "LEVL": {
+      "USD": 0.297255454168,
+      "name": "Levolution"
+    },
+    "LFC": {
+      "USD": 0.000179395185394,
+      "name": "Linfinity"
+    },
+    "LGS": {
+      "USD": 0.00390553955169,
+      "name": "LogisCoin"
+    },
+    "LHT": {
+      "USD": 0.00240210141582,
+      "name": "LHT"
+    },
+    "LIF": {
+      "USD": 0.0791321188681,
+      "name": "Winding Tree"
+    },
+    "LIFE": {
+      "USD": 2.89905276205e-05,
+      "name": "LIFE"
+    },
+    "LIGHT": {
+      "USD": 7.01712461296e-06,
+      "name": "LightChain"
+    },
+    "LIKE": {
+      "USD": 0.00279053207042,
+      "name": "LikeCoin"
+    },
+    "LINA": {
+      "USD": 0.0743218688632,
+      "name": "LINA"
+    },
+    "LINK": {
+      "USD": 2.35116762551,
+      "name": "Chainlink"
+    },
+    "LINKA": {
+      "USD": 0.00861327972987,
+      "name": "LINKA"
+    },
+    "LION": {
+      "USD": 0.0113493197261,
+      "name": "Coin Lion"
+    },
+    "LIT": {
+      "USD": 0.0239632266374,
+      "name": "Lition"
+    },
+    "LKK": {
+      "USD": 0.00960077872687,
+      "name": "Lykke"
+    },
+    "LKU": {
+      "USD": 0.0177837998052,
+      "name": "Lukiu"
+    },
+    "LKY": {
+      "USD": 0.0581257111703,
+      "name": "Linkey"
+    },
+    "LMC": {
+      "USD": 0.000401486729165,
+      "name": "LoMoCoin"
+    },
+    "LML": {
+      "USD": 0.012457547187,
+      "name": "Lisk Machine Learning"
+    },
+    "LNC": {
+      "USD": 0.00015047469526,
+      "name": "Blocklancer"
+    },
+    "LND": {
+      "USD": 0.00233818148237,
+      "name": "Lendingblock"
+    },
+    "LNX": {
+      "USD": 0.00211749092838,
+      "name": "LNX Protocol"
+    },
+    "LOBS": {
+      "USD": 0.0225970168452,
+      "name": "Lobstex"
+    },
+    "LOC": {
+      "USD": 0.437414211658,
+      "name": "LockTrip"
+    },
+    "LOCI": {
+      "USD": 0.000744235165583,
+      "name": "LOCIcoin"
+    },
+    "LOCUS": {
+      "USD": 0.00422504417037,
+      "name": "Locus Chain"
+    },
+    "LOKI": {
+      "USD": 0.438143353733,
+      "name": "Loki"
+    },
+    "LOL": {
+      "USD": 0.0496239221129,
+      "name": "LOLTOKEN"
+    },
+    "LOOM": {
+      "USD": 0.0186355431297,
+      "name": "Loom Network"
+    },
+    "LOT": {
+      "USD": 0.00753985274497,
+      "name": "Lukki Operating Token"
+    },
+    "LPC": {
+      "USD": 0.00124023647574,
+      "name": "Lightpaycoin"
+    },
+    "LPT": {
+      "USD": 2.04204706537,
+      "name": "Livepeer"
+    },
+    "LQD": {
+      "USD": 0.00896623121786,
+      "name": "Liquidity Network"
+    },
+    "LRC": {
+      "USD": 0.025271887495,
+      "name": "Loopring"
+    },
+    "LRM": {
+      "USD": 5.42603458137e-05,
+      "name": "LRM Coin"
+    },
+    "LRN": {
+      "USD": 0.0130264565794,
+      "name": "Loopring [NEO]"
+    },
+    "LSK": {
+      "USD": 0.702683244461,
+      "name": "Lisk"
+    },
+    "LST": {
+      "USD": 0.00023787135073,
+      "name": "Lendroid Support Token"
+    },
+    "LTC": {
+      "USD": 48.6614967831,
+      "name": "Litecoin"
+    },
+    "LTCR": {
+      "USD": 0.000441886080937,
+      "name": "Litecred"
+    },
+    "LTCU": {
+      "USD": 0.00422505881719,
+      "name": "LiteCoin Ultra"
+    },
+    "LTHN": {
+      "USD": 0.000232544339201,
+      "name": "Lethean"
+    },
+    "LTK": {
+      "USD": 0.0407738194017,
+      "name": "LinkToken"
+    },
+    "LTO": {
+      "USD": 0.0233820707287,
+      "name": "LTO Network"
+    },
+    "LUC": {
+      "USD": 0.000126121924123,
+      "name": "Level Up Coin"
+    },
+    "LUN": {
+      "USD": 1.00107453227,
+      "name": "Lunyr"
+    },
+    "LUNA": {
+      "USD": 0.00352779368985,
+      "name": "Luna Coin"
+    },
+    "LUNES": {
+      "USD": 0.00284075704783,
+      "name": "Lunes"
+    },
+    "LUX": {
+      "USD": 0.159373771399,
+      "name": "LUXCoin"
+    },
+    "LVL": {
+      "USD": 1.83e-06,
+      "name": "LevelApp Token"
+    },
+    "LXT": {
+      "USD": 0.0042831584465,
+      "name": "Litex"
+    },
+    "LYL": {
+      "USD": 0.000325562074882,
+      "name": "LoyalCoin"
+    },
+    "LYM": {
+      "USD": 0.00305036511313,
+      "name": "Lympo"
+    },
+    "M2O": {
+      "USD": 0.000220724700881,
+      "name": "M2O"
+    },
+    "MAC": {
+      "USD": 0.012745632417,
+      "name": "Matrexcoin"
+    },
+    "MAG": {
+      "USD": 0.000517023580825,
+      "name": "Maggie"
+    },
+    "MAID": {
+      "USD": 0.123594134931,
+      "name": "MaidSafeCoin"
+    },
+    "MAN": {
+      "USD": 0.0825683295165,
+      "name": "Matrix AI Network"
+    },
+    "MANA": {
+      "USD": 0.0262138550712,
+      "name": "Decentraland"
+    },
+    "MANNA": {
+      "USD": 0.00034342951742,
+      "name": "Manna"
+    },
+    "MAO": {
+      "USD": 0.0470784560093,
+      "name": "Mao Zedong"
+    },
+    "MAPR": {
+      "USD": 293.054582857,
+      "name": "Maya Preferred 223"
+    },
+    "MAS": {
+      "USD": 0.00215120292128,
+      "name": "MidasProtocol"
+    },
+    "MASH": {
+      "USD": 0.000320911799153,
+      "name": "MASTERNET"
+    },
+    "MATIC": {
+      "USD": 0.0245266888762,
+      "name": "Matic Network"
+    },
+    "MAX": {
+      "USD": 0.00294556162989,
+      "name": "Maxcoin"
+    },
+    "MAY": {
+      "USD": 0.000227003455204,
+      "name": "Theresa May Coin"
+    },
+    "MB": {
+      "USD": 0.0278104258098,
+      "name": "MineBee"
+    },
+    "MB8": {
+      "USD": 0.0189167839847,
+      "name": "MB8 Coin"
+    },
+    "MBC": {
+      "USD": 8.63520228753e-05,
+      "name": "MicroBitcoin"
+    },
+    "MBL": {
+      "USD": 0.00163594831446,
+      "name": "MovieBloc"
+    },
+    "MBN": {
+      "USD": 0.00408350784999,
+      "name": "Membrana"
+    },
+    "MCASH": {
+      "USD": 0.00699308508561,
+      "name": "Mcashchain"
+    },
+    "MCC": {
+      "USD": 0.00363957730298,
+      "name": "Moving Cloud Coin"
+    },
+    "MCH": {
+      "USD": 0.141193471601,
+      "name": "MeconCash"
+    },
+    "MCO": {
+      "USD": 4.23120883413,
+      "name": "MCO"
+    },
+    "MCPC": {
+      "USD": 0.00775046224078,
+      "name": "Mobile Crypto Pay Coin"
+    },
+    "MCT": {
+      "USD": 0.000355010797212,
+      "name": "Master Contract Token"
+    },
+    "MCW": {
+      "USD": 0.00307366803635,
+      "name": "Mocrow"
+    },
+    "MDA": {
+      "USD": 0.610916422947,
+      "name": "Moeda Loyalty Points"
+    },
+    "MDS": {
+      "USD": 0.00347967634882,
+      "name": "MediShares"
+    },
+    "MDT": {
+      "USD": 0.00856856542038,
+      "name": "Measurable Data Token"
+    },
+    "MEC": {
+      "USD": 0.00162781037441,
+      "name": "Megacoin"
+    },
+    "MED": {
+      "USD": 0.00392225208256,
+      "name": "MediBloc"
+    },
+    "MEDIBIT": {
+      "USD": 2.32544339201e-06,
+      "name": "MediBit"
+    },
+    "MEDIC": {
+      "USD": 7.07691260287e-05,
+      "name": "MedicCoin"
+    },
+    "MEDX": {
+      "USD": 0.00416649024008,
+      "name": "MediBloc [ERC20]"
+    },
+    "MEET": {
+      "USD": 0.0111768050096,
+      "name": "CoinMeet"
+    },
+    "MEETONE": {
+      "USD": 0.000962514652387,
+      "name": "MEET.ONE"
+    },
+    "MEME": {
+      "USD": 0.00956764628248,
+      "name": "Memetic / PepeCoin"
+    },
+    "MER": {
+      "USD": 0.00273101586117,
+      "name": "Mercury"
+    },
+    "MERI": {
+      "USD": 0.136832464276,
+      "name": "Merebel"
+    },
+    "MERO": {
+      "USD": 0.000287744548448,
+      "name": "Mero"
+    },
+    "MES": {
+      "USD": 0.000210879680477,
+      "name": "MesChain"
+    },
+    "MESG": {
+      "USD": 0.00965429040119,
+      "name": "MESG"
+    },
+    "MESSE": {
+      "USD": 0.00184420082181,
+      "name": "MESSE TOKEN"
+    },
+    "MET": {
+      "USD": 0.526953446429,
+      "name": "Metronome"
+    },
+    "META": {
+      "USD": 0.00462756752361,
+      "name": "Metadium"
+    },
+    "METM": {
+      "USD": 0.00107960457179,
+      "name": "MetaMorph"
+    },
+    "MEX": {
+      "USD": 0.000368969070316,
+      "name": "MEX"
+    },
+    "MEXC": {
+      "USD": 0.00361162677316,
+      "name": "MEXC Token"
+    },
+    "MFC": {
+      "USD": 0.00534851980163,
+      "name": "MFCoin"
+    },
+    "MFG": {
+      "USD": 0.000712522014449,
+      "name": "SyncFab"
+    },
+    "MFT": {
+      "USD": 0.00123306708714,
+      "name": "Mainframe"
+    },
+    "MFTU": {
+      "USD": 0.000256651281035,
+      "name": "Mainstream For The Underground"
+    },
+    "MGC": {
+      "USD": 0.00144958207812,
+      "name": "MGC Token"
+    },
+    "MGD": {
+      "USD": 0.0172196575155,
+      "name": "MassGrid"
+    },
+    "MGO": {
+      "USD": 0.00995838753903,
+      "name": "MobileGo"
+    },
+    "MGX": {
+      "USD": 0.00628805566384,
+      "name": "MargiX"
+    },
+    "MHC": {
+      "USD": 0.00325887833232,
+      "name": "#MetaHash"
+    },
+    "MIB": {
+      "USD": 0.00480075190375,
+      "name": "MIB Coin"
+    },
+    "MIC": {
+      "USD": 0.00108520691627,
+      "name": "Mindexcoin"
+    },
+    "MICRO": {
+      "USD": 1.03317945093e-06,
+      "name": "Micromines"
+    },
+    "MIDAS": {
+      "USD": 0.45107377938,
+      "name": "Midas"
+    },
+    "MILO": {
+      "USD": 0.000619188866488,
+      "name": "MiloCoin"
+    },
+    "MIN": {
+      "USD": 3.16257846002,
+      "name": "MINDOL"
+    },
+    "MINT": {
+      "USD": 0.000169939642045,
+      "name": "MintCoin"
+    },
+    "MINX": {
+      "USD": 0.037924666177,
+      "name": "InnovaMinex"
+    },
+    "MIOTA": {
+      "USD": 0.217313028867,
+      "name": "IOTA"
+    },
+    "MIR": {
+      "USD": 0.00332717784841,
+      "name": "MIR COIN"
+    },
+    "MITH": {
+      "USD": 0.00979679177033,
+      "name": "Mithril"
+    },
+    "MITX": {
+      "USD": 0.00703354717437,
+      "name": "Morpheus Labs"
+    },
+    "MIX": {
+      "USD": 0.0029089960836,
+      "name": "MixMarvel"
+    },
+    "MKR": {
+      "USD": 559.684757498,
+      "name": "Maker"
+    },
+    "MLC": {
+      "USD": 0.00481472917392,
+      "name": "Mallcoin"
+    },
+    "MLM": {
+      "USD": 7.75267056809e-05,
+      "name": "MktCoin"
+    },
+    "MLN": {
+      "USD": 3.6121886699,
+      "name": "Melon"
+    },
+    "MMO": {
+      "USD": 0.0052212481699,
+      "name": "MMOCoin"
+    },
+    "MNC": {
+      "USD": 0.0221692270039,
+      "name": "Mincoin"
+    },
+    "MNE": {
+      "USD": 0.0045733720043,
+      "name": "Minereum"
+    },
+    "MNP": {
+      "USD": 0.00681888282496,
+      "name": "MNPCoin"
+    },
+    "MNTP": {
+      "USD": 0.206053571458,
+      "name": "GoldMint"
+    },
+    "MNX": {
+      "USD": 0.054481114333,
+      "name": "MinexCoin"
+    },
+    "MOAC": {
+      "USD": 0.254517464673,
+      "name": "MOAC"
+    },
+    "MOBI": {
+      "USD": 0.00512668894092,
+      "name": "Mobius"
+    },
+    "MOC": {
+      "USD": 0.0134644829265,
+      "name": "Moss Coin"
+    },
+    "MODX": {
+      "USD": 0.00494715592414,
+      "name": "MODEL-X-coin"
+    },
+    "MOF": {
+      "USD": 1.14352092962,
+      "name": "Molecular Future"
+    },
+    "MOIN": {
+      "USD": 0.00379822420696,
+      "name": "Moin"
+    },
+    "MOJO": {
+      "USD": 0.00100769213654,
+      "name": "MojoCoin"
+    },
+    "MOLK": {
+      "USD": 0.00100769213654,
+      "name": "MobilinkToken"
+    },
+    "MONA": {
+      "USD": 0.934495461936,
+      "name": "MonaCoin"
+    },
+    "MONK": {
+      "USD": 0.0586237648608,
+      "name": "Monkey Project"
+    },
+    "MOON": {
+      "USD": 4.49777993089e-06,
+      "name": "Mooncoin"
+    },
+    "MORE": {
+      "USD": 0.0455011757038,
+      "name": "More Coin"
+    },
+    "MOT": {
+      "USD": 0.00651337869781,
+      "name": "Olympus Labs"
+    },
+    "MOTO": {
+      "USD": 0.0162020838737,
+      "name": "Motocoin"
+    },
+    "MOX": {
+      "USD": 0.00155983121569,
+      "name": "MoX"
+    },
+    "MPAY": {
+      "USD": 0.0134792633666,
+      "name": "MenaPay"
+    },
+    "MPG": {
+      "USD": 0.00329695088377,
+      "name": "Max Property Group"
+    },
+    "MRI": {
+      "USD": 0.000955640724475,
+      "name": "Mirai"
+    },
+    "MRK": {
+      "USD": 0.00084799718702,
+      "name": "MARK.SPACE"
+    },
+    "MRO": {
+      "USD": 0.00124607703476,
+      "name": "Mero Currency"
+    },
+    "MRPH": {
+      "USD": 0.154589480997,
+      "name": "Morpheus.Network"
+    },
+    "MRT": {
+      "USD": 0.0083433460915,
+      "name": "Miners' Reward Token"
+    },
+    "MRX": {
+      "USD": 0.000150526534249,
+      "name": "Metrix Coin"
+    },
+    "MSD": {
+      "USD": 0.00511597546243,
+      "name": "MSD"
+    },
+    "MSR": {
+      "USD": 0.0299789371915,
+      "name": "Masari"
+    },
+    "MST": {
+      "USD": 0.0168382573444,
+      "name": "MustangCoin"
+    },
+    "MT": {
+      "USD": 0.00111280803586,
+      "name": "MyToken"
+    },
+    "MTC": {
+      "USD": 0.00138619417744,
+      "name": "MTC Mesh Network"
+    },
+    "MTH": {
+      "USD": 0.012184505666,
+      "name": "Monetha"
+    },
+    "MTL": {
+      "USD": 0.320776060219,
+      "name": "Metal"
+    },
+    "MTN": {
+      "USD": 0.0032049535174,
+      "name": "Medicalchain"
+    },
+    "MTV": {
+      "USD": 0.00061824817558,
+      "name": "MultiVAC"
+    },
+    "MTX": {
+      "USD": 0.02080956378,
+      "name": "Matryx"
+    },
+    "MUE": {
+      "USD": 0.00511597546243,
+      "name": "MonetaryUnit"
+    },
+    "MVC": {
+      "USD": 0.0057360937003,
+      "name": "Maverick Chain"
+    },
+    "MVL": {
+      "USD": 0.000277448479591,
+      "name": "MVL"
+    },
+    "MVP": {
+      "USD": 0.000338177549877,
+      "name": "Merculet"
+    },
+    "MWAT": {
+      "USD": 0.0117029416897,
+      "name": "Restart Energy MWAT"
+    },
+    "MX": {
+      "USD": 0.0724347125327,
+      "name": "MX Token"
+    },
+    "MXC": {
+      "USD": 0.00138167252004,
+      "name": "Machine Xchange Coin"
+    },
+    "MXM": {
+      "USD": 0.0777969639845,
+      "name": "Maximine Coin"
+    },
+    "MXT": {
+      "USD": 0.00798402231258,
+      "name": "MarteXcoin"
+    },
+    "MYB": {
+      "USD": 0.000497294934183,
+      "name": "MyBit"
+    },
+    "MYST": {
+      "USD": 0.0382163438821,
+      "name": "Mysterium"
+    },
+    "MZK": {
+      "USD": 0.00403077303488,
+      "name": "Muzika"
+    },
+    "N8V": {
+      "USD": 0.0507466449879,
+      "name": "NativeCoin"
+    },
+    "NAM": {
+      "USD": 3.66866337136e-05,
+      "name": "NAM COIN"
+    },
+    "NANJ": {
+      "USD": 1.40888106945e-05,
+      "name": "NANJCOIN"
+    },
+    "NANO": {
+      "USD": 0.882746559048,
+      "name": "Nano"
+    },
+    "NANOX": {
+      "USD": 17598.8411299,
+      "name": "Project-X"
+    },
+    "NAS": {
+      "USD": 0.459877077448,
+      "name": "Nebulas"
+    },
+    "NASH": {
+      "USD": 6.96251502345e-05,
+      "name": "NeoWorld Cash"
+    },
+    "NAT": {
+      "USD": 0.000134782955644,
+      "name": "Natmin Pure Escrow"
+    },
+    "NAV": {
+      "USD": 0.121755904567,
+      "name": "NavCoin"
+    },
+    "NAVI": {
+      "USD": 0.000200541271418,
+      "name": "Naviaddress"
+    },
+    "NAVY": {
+      "USD": 0.00081495036706,
+      "name": "BoatPilot Token"
+    },
+    "NBAI": {
+      "USD": 0.00071852934542,
+      "name": "Nebula AI"
+    },
+    "NBC": {
+      "USD": 0.0187126446081,
+      "name": "Niobium Coin"
+    },
+    "NBOT": {
+      "USD": 0.0143224187273,
+      "name": "Naka Bodhi Token"
+    },
+    "NBR": {
+      "USD": 0.000599923992942,
+      "name": "Niobio Cash"
+    },
+    "NBX": {
+      "USD": 0.019389189997,
+      "name": "Netbox Coin"
+    },
+    "NCASH": {
+      "USD": 0.00108736349278,
+      "name": "Nucleus Vision"
+    },
+    "NCC": {
+      "USD": 0.0025899504358,
+      "name": "NeuroChain"
+    },
+    "NCP": {
+      "USD": 4.86903209368e-07,
+      "name": "Newton Coin Project"
+    },
+    "NCT": {
+      "USD": 0.00176459132,
+      "name": "PolySwarm"
+    },
+    "NDX": {
+      "USD": 6.26169364201e-07,
+      "name": "nDEX"
+    },
+    "NEAL": {
+      "USD": 0.00181071927799,
+      "name": "Coineal Token"
+    },
+    "NEBL": {
+      "USD": 0.456517951889,
+      "name": "Neblio"
+    },
+    "NEC": {
+      "USD": 0.0933232746663,
+      "name": "Nectar"
+    },
+    "NEO": {
+      "USD": 9.83550407106,
+      "name": "NEO"
+    },
+    "NEOX": {
+      "USD": 0.248587067828,
+      "name": "NEOX"
+    },
+    "NET": {
+      "USD": 0.787234235414,
+      "name": "NEXT"
+    },
+    "NETKO": {
+      "USD": 0.0157668168296,
+      "name": "Netko"
+    },
+    "NEU": {
+      "USD": 0.103231010683,
+      "name": "Neumark"
+    },
+    "NEVA": {
+      "USD": 0.0045023446344,
+      "name": "NevaCoin"
+    },
+    "NEW": {
+      "USD": 0.00258657629426,
+      "name": "Newton"
+    },
+    "NEWOS": {
+      "USD": 0.00034439315031,
+      "name": "NewsToken"
+    },
+    "NEWS": {
+      "USD": 0.0013062136606,
+      "name": "PUBLISH"
+    },
+    "NEX": {
+      "USD": 0.814096244768,
+      "name": "Nash Exchange"
+    },
+    "NEXO": {
+      "USD": 0.0983421175703,
+      "name": "Nexo"
+    },
+    "NEXT": {
+      "USD": 0.281862902711,
+      "name": "Next.exchange"
+    },
+    "NEXXO": {
+      "USD": 0.00113180112579,
+      "name": "Nexxo"
+    },
+    "NGC": {
+      "USD": 0.0218879855634,
+      "name": "NAGA"
+    },
+    "NIM": {
+      "USD": 0.000372217990515,
+      "name": "Nimiq"
+    },
+    "NIO": {
+      "USD": 0.0010925965137,
+      "name": "Autonio"
+    },
+    "NIX": {
+      "USD": 0.0523023962372,
+      "name": "NIX"
+    },
+    "NKC": {
+      "USD": 0.00541949584716,
+      "name": "Nework"
+    },
+    "NKN": {
+      "USD": 0.0227420910194,
+      "name": "NKN"
+    },
+    "NLC2": {
+      "USD": 0.000776059429325,
+      "name": "NoLimitCoin"
+    },
+    "NLG": {
+      "USD": 0.00740455219543,
+      "name": "Gulden"
+    },
+    "NMC": {
+      "USD": 0.417659106288,
+      "name": "Namecoin"
+    },
+    "NMR": {
+      "USD": 7.22806681073,
+      "name": "Numeraire"
+    },
+    "NNB": {
+      "USD": 0.00114145109553,
+      "name": "NNB Token"
+    },
+    "NOAH": {
+      "USD": 0.00139698554721,
+      "name": "Noah Coin"
+    },
+    "NOBS": {
+      "USD": 4.08373284717e-05,
+      "name": "No BS Crypto"
+    },
+    "NODE": {
+      "USD": 0.00794039639864,
+      "name": "Whole Network"
+    },
+    "NOIA": {
+      "USD": 0.0079540167421,
+      "name": "NOIA Network"
+    },
+    "NOIZ": {
+      "USD": 0.310136633715,
+      "name": "NOIZchain"
+    },
+    "NOKU": {
+      "USD": 0.0277510189628,
+      "name": "Noku"
+    },
+    "NOR": {
+      "USD": 0.00801502822448,
+      "name": "Noir"
+    },
+    "NOS": {
+      "USD": 0.0100340026943,
+      "name": "nOS"
+    },
+    "NOTE": {
+      "USD": 0.00312922371413,
+      "name": "DNotes"
+    },
+    "NOVA": {
+      "USD": 8.24769471251e-05,
+      "name": "NOVA"
+    },
+    "NOW": {
+      "USD": 0.00517209571041,
+      "name": "NOW Token"
+    },
+    "NOX": {
+      "USD": 0.000212756704475,
+      "name": "Nitro"
+    },
+    "NPC": {
+      "USD": 0.044260939228,
+      "name": "NPCoin"
+    },
+    "NPLC": {
+      "USD": 0.000286271295966,
+      "name": "Plus-Coin"
+    },
+    "NPX": {
+      "USD": 0.187772371285,
+      "name": "NaPoleonX"
+    },
+    "NPXS": {
+      "USD": 0.000176497118318,
+      "name": "Pundi X"
+    },
+    "NPXSXEM": {
+      "USD": 0.000135057397239,
+      "name": "Pundi X NEM"
+    },
+    "NRG": {
+      "USD": 1.64087921874,
+      "name": "Energi"
+    },
+    "NRP": {
+      "USD": 1.38589888524e-06,
+      "name": "Neural Protocol"
+    },
+    "NRVE": {
+      "USD": 0.00164526000444,
+      "name": "Narrative"
+    },
+    "NSD": {
+      "USD": 0.0514354269621,
+      "name": "Nasdacoin"
+    },
+    "NSR": {
+      "USD": 0.000681370867688,
+      "name": "NuShares"
+    },
+    "NSS": {
+      "USD": 0.0353884245965,
+      "name": "NSS Coin"
+    },
+    "NTK": {
+      "USD": 7.72495692813e-06,
+      "name": "NetKoin"
+    },
+    "NTR": {
+      "USD": 0.0313089378371,
+      "name": "Netrum"
+    },
+    "NTRN": {
+      "USD": 0.00396875672237,
+      "name": "Neutron"
+    },
+    "NTY": {
+      "USD": 1.30995804172e-05,
+      "name": "Nexty"
+    },
+    "NUG": {
+      "USD": 0.000413271780372,
+      "name": "Nuggets"
+    },
+    "NUKO": {
+      "USD": 0.000387573898669,
+      "name": "Nekonium"
+    },
+    "NULS": {
+      "USD": 0.318926775435,
+      "name": "NULS"
+    },
+    "NUSD": {
+      "USD": 1.00020836408,
+      "name": "Neutral Dollar "
+    },
+    "NVC": {
+      "USD": 0.31168692931,
+      "name": "Novacoin"
+    },
+    "NWC": {
+      "USD": 0.0229487828775,
+      "name": "Newscrypto.io"
+    },
+    "NXS": {
+      "USD": 0.209959268524,
+      "name": "Nexus"
+    },
+    "NXT": {
+      "USD": 0.0106245058872,
+      "name": "Nxt"
+    },
+    "NYC": {
+      "USD": 5.38154820621e-06,
+      "name": "NewYorkCoin"
+    },
+    "NYE": {
+      "USD": 3.23182454734,
+      "name": "NewYork Exchange"
+    },
+    "NYEX": {
+      "USD": 0.000132396485466,
+      "name": "Nyerium"
+    },
+    "NZL": {
+      "USD": 0.000852662577072,
+      "name": "Zealium"
+    },
+    "OATH": {
+      "USD": 0.000171848531161,
+      "name": "Oath Protocol"
+    },
+    "OAX": {
+      "USD": 0.062693923768,
+      "name": "OAX"
+    },
+    "OBITS": {
+      "USD": 0.072774428074,
+      "name": "OBITS"
+    },
+    "OBSR": {
+      "USD": 0.00137032674015,
+      "name": "Observer"
+    },
+    "OBT": {
+      "USD": 0.000960478200618,
+      "name": "Orbis Token"
+    },
+    "OBTC": {
+      "USD": 4.06025391129e-05,
+      "name": "Obitan Chain"
+    },
+    "OBX": {
+      "USD": 0.000858424554096,
+      "name": "OOOBTC TOKEN"
+    },
+    "OC": {
+      "USD": 5.0998948118e-06,
+      "name": "OceanChain"
+    },
+    "OCC": {
+      "USD": 0.00652160359967,
+      "name": "Octoin Coin"
+    },
+    "OCE": {
+      "USD": 0.00296566651424,
+      "name": "OceanEx Token"
+    },
+    "OCEAN": {
+      "USD": 0.0243347180619,
+      "name": "Ocean Protocol"
+    },
+    "OCL": {
+      "USD": 0.000100549370817,
+      "name": "Oceanlab"
+    },
+    "OCN": {
+      "USD": 0.000603522358164,
+      "name": "Odyssey"
+    },
+    "OCT": {
+      "USD": 0.0169146688809,
+      "name": "OracleChain"
+    },
+    "OCUL": {
+      "USD": 1.55029559468e-05,
+      "name": "Oculor"
+    },
+    "ODE": {
+      "USD": 0.0627474769211,
+      "name": "ODEM"
+    },
+    "ODEX": {
+      "USD": 6.24043453247e-07,
+      "name": "One DEX"
+    },
+    "ODN": {
+      "USD": 0.00112455356634,
+      "name": "Obsidian"
+    },
+    "OF": {
+      "USD": 0.000149385066462,
+      "name": "OFCOIN"
+    },
+    "OGO": {
+      "USD": 0.0142213736671,
+      "name": "Origo"
+    },
+    "OK": {
+      "USD": 0.0214718340392,
+      "name": "OKCash"
+    },
+    "OKB": {
+      "USD": 2.38840430977,
+      "name": "OKB"
+    },
+    "OLE": {
+      "USD": 0.000659514090422,
+      "name": "Olive"
+    },
+    "OLMP": {
+      "USD": 0.000141862272787,
+      "name": "Olympic"
+    },
+    "OLT": {
+      "USD": 0.00571122390033,
+      "name": "OneLedger"
+    },
+    "OLXA": {
+      "USD": 0.000200652991455,
+      "name": "OLXA"
+    },
+    "OMG": {
+      "USD": 0.80949951825,
+      "name": "OmiseGO"
+    },
+    "OMNI": {
+      "USD": 3.53052450598,
+      "name": "Omni"
+    },
+    "OMX": {
+      "USD": 0.000164649876591,
+      "name": "Shivom"
+    },
+    "ONE": {
+      "USD": 0.00318824880729,
+      "name": "BigONE Token"
+    },
+    "ONG": {
+      "USD": 0.118721375754,
+      "name": "Ontology Gas"
+    },
+    "ONION": {
+      "USD": 0.147032290319,
+      "name": "DeepOnion"
+    },
+    "ONL": {
+      "USD": 0.0119693947647,
+      "name": "On.Live"
+    },
+    "ONOT": {
+      "USD": 1.5654234105e-05,
+      "name": "ONOToken"
+    },
+    "ONT": {
+      "USD": 0.675492712672,
+      "name": "Ontology"
+    },
+    "ONX": {
+      "USD": 0.000232544339201,
+      "name": "Onix"
+    },
+    "OOT": {
+      "USD": 0.00315113661801,
+      "name": "Utrum"
+    },
+    "OPAL": {
+      "USD": 0.0113946726209,
+      "name": "Opal"
+    },
+    "OPC": {
+      "USD": 7.52682449033e-06,
+      "name": "OP Coin"
+    },
+    "OPCX": {
+      "USD": 0.000232544339201,
+      "name": "OPCoinX"
+    },
+    "OPEN": {
+      "USD": 0.000745745710915,
+      "name": "Open Platform"
+    },
+    "OPNN": {
+      "USD": 0.000701302890773,
+      "name": "Opennity"
+    },
+    "OPQ": {
+      "USD": 0.0160508152277,
+      "name": "Opacity"
+    },
+    "OPT": {
+      "USD": 0.000977389284853,
+      "name": "Opus"
+    },
+    "OPTI": {
+      "USD": 0.00534851980163,
+      "name": "OptiToken"
+    },
+    "ORB": {
+      "USD": 0.298431901975,
+      "name": "Orbitcoin"
+    },
+    "ORBS": {
+      "USD": 0.00761394303535,
+      "name": "Orbs"
+    },
+    "ORE": {
+      "USD": 0.00728638929498,
+      "name": "Galactrum"
+    },
+    "ORI": {
+      "USD": 0.00441728737093,
+      "name": "Origami"
+    },
+    "ORMEUS": {
+      "USD": 0.0180436859818,
+      "name": "Ormeus Coin"
+    },
+    "OROX": {
+      "USD": 0.000303189296105,
+      "name": "Cointorox"
+    },
+    "ORS": {
+      "USD": 0.0305819187553,
+      "name": "ORS Group"
+    },
+    "OSA": {
+      "USD": 0.000616207955926,
+      "name": "Optimal Shelf Availability Token"
+    },
+    "OST": {
+      "USD": 0.0116112670047,
+      "name": "OST"
+    },
+    "OTB": {
+      "USD": 0.0123056015001,
+      "name": "OTCBTC Token"
+    },
+    "OTN": {
+      "USD": 0.00759644841392,
+      "name": "Open Trading Network"
+    },
+    "OTO": {
+      "USD": 0.329201412641,
+      "name": "OTOCASH"
+    },
+    "OVC": {
+      "USD": 0.118232831572,
+      "name": "OVCODE"
+    },
+    "OWC": {
+      "USD": 0.123408402014,
+      "name": "ODUWA"
+    },
+    "OWN": {
+      "USD": 3.30304339616e-05,
+      "name": "OWNDATA"
+    },
+    "OXY": {
+      "USD": 7.61335107911e-05,
+      "name": "Oxycoin"
+    },
+    "P2PX": {
+      "USD": 0.000461058258798,
+      "name": "P2P Global Network"
+    },
+    "PAC": {
+      "USD": 0.000224715548964,
+      "name": "PAC Global"
+    },
+    "PAI": {
+      "USD": 0.0146308196047,
+      "name": "Project Pai"
+    },
+    "PAK": {
+      "USD": 0.000260137211999,
+      "name": "Pakcoin"
+    },
+    "PAL": {
+      "USD": 0.000698631457261,
+      "name": "PAL Network"
+    },
+    "PAR": {
+      "USD": 0.000371488309113,
+      "name": "Parachute"
+    },
+    "PARETO": {
+      "USD": 0.000813708933805,
+      "name": "PARETO Rewards"
+    },
+    "PART": {
+      "USD": 0.916988236837,
+      "name": "Particl"
+    },
+    "PASC": {
+      "USD": 0.031641113007,
+      "name": "Pascal"
+    },
+    "PASS": {
+      "USD": 0.00242272015875,
+      "name": "Blockpass"
+    },
+    "PAT": {
+      "USD": 0.000179168365322,
+      "name": "Patron"
+    },
+    "PAWS": {
+      "USD": 0.0171204901475,
+      "name": "PAWS Fund"
+    },
+    "PAX": {
+      "USD": 1.00158330488,
+      "name": "Paxos Standard"
+    },
+    "PAXEX": {
+      "USD": 0.000232544339201,
+      "name": "PAXEX"
+    },
+    "PAXG": {
+      "USD": 1468.43018032,
+      "name": "PAX Gold"
+    },
+    "PAY": {
+      "USD": 0.062288759355,
+      "name": "TenX"
+    },
+    "PAYX": {
+      "USD": 0.0137741432375,
+      "name": "Paypex"
+    },
+    "PBT": {
+      "USD": 166.082275287,
+      "name": "Primalbase Token"
+    },
+    "PC": {
+      "USD": 0.000124866331336,
+      "name": "Promotion Coin"
+    },
+    "PCH": {
+      "USD": 0.00211711902443,
+      "name": "POPCHAIN"
+    },
+    "PCL": {
+      "USD": 0.000638531704543,
+      "name": "Peculium"
+    },
+    "PCM": {
+      "USD": 0.0148389185881,
+      "name": "Precium"
+    },
+    "PCN": {
+      "USD": 2.30617429624e-06,
+      "name": "PeepCoin"
+    },
+    "PCX": {
+      "USD": 1.66283471387,
+      "name": "ChainX"
+    },
+    "PDATA": {
+      "USD": 0.000798342013199,
+      "name": "PDATA"
+    },
+    "PEDI": {
+      "USD": 2.46875168159e-05,
+      "name": "Pedity"
+    },
+    "PENG": {
+      "USD": 2.08813753936e-05,
+      "name": "PENG"
+    },
+    "PEOS": {
+      "USD": 0.00672345779484,
+      "name": "pEOS"
+    },
+    "PEPECASH": {
+      "USD": 0.00529431363331,
+      "name": "Pepe Cash"
+    },
+    "PERL": {
+      "USD": 0.024210565007,
+      "name": "Perlin"
+    },
+    "PEX": {
+      "USD": 0.00186028331974,
+      "name": "PosEx"
+    },
+    "PFR": {
+      "USD": 0.000247336898859,
+      "name": "Payfair"
+    },
+    "PGN": {
+      "USD": 0.0022301292733,
+      "name": "Pigeoncoin"
+    },
+    "PHI": {
+      "USD": 0.0572184693391,
+      "name": "PHI Token"
+    },
+    "PHO": {
+      "USD": 2.40760904439e-06,
+      "name": "Photon"
+    },
+    "PHON": {
+      "USD": 7.75147797338e-05,
+      "name": "Phonecoin"
+    },
+    "PHR": {
+      "USD": 0.0709594952936,
+      "name": "Phore"
+    },
+    "PHV": {
+      "USD": 0.0103502597799,
+      "name": "PATHHIVE "
+    },
+    "PHX": {
+      "USD": 0.00488355037423,
+      "name": "Red Pulse Phoenix"
+    },
+    "PI": {
+      "USD": 0.00448716489453,
+      "name": "PCHAIN"
+    },
+    "PIA": {
+      "USD": 0.00203505043365,
+      "name": "Futurepia"
+    },
+    "PIB": {
+      "USD": 0.00011855852398,
+      "name": "PIBBLE"
+    },
+    "PING": {
+      "USD": 0.0467845286722,
+      "name": "CryptoPing"
+    },
+    "PINK": {
+      "USD": 0.00178434633958,
+      "name": "Pinkcoin"
+    },
+    "PIPL": {
+      "USD": 0.00279179923427,
+      "name": "PiplCoin"
+    },
+    "PIRL": {
+      "USD": 0.00801580169449,
+      "name": "Pirl"
+    },
+    "PIVX": {
+      "USD": 0.228776599759,
+      "name": "PIVX"
+    },
+    "PIX": {
+      "USD": 0.000842810318754,
+      "name": "Lampix"
+    },
+    "PKB": {
+      "USD": 0.00358993540765,
+      "name": "ParkByte"
+    },
+    "PKC": {
+      "USD": 0.00368426202334,
+      "name": "PikcioChain"
+    },
+    "PKG": {
+      "USD": 9.45833187735e-06,
+      "name": "PKG Token"
+    },
+    "PKT": {
+      "USD": 0.0249574650901,
+      "name": "Playkey"
+    },
+    "PLA": {
+      "USD": 5.56958675462e-05,
+      "name": "Plair"
+    },
+    "PLAT": {
+      "USD": 0.000288823067624,
+      "name": "BitGuild PLAT"
+    },
+    "PLAY": {
+      "USD": 0.0019325139195,
+      "name": "HEROcoin"
+    },
+    "PLBT": {
+      "USD": 0.79013676794,
+      "name": "Polybius"
+    },
+    "PLC": {
+      "USD": 5.77612641715,
+      "name": "PLATINCOIN"
+    },
+    "PLG": {
+      "USD": 0.00733266787582,
+      "name": "Pledge Coin"
+    },
+    "PLNC": {
+      "USD": 0.000155029559468,
+      "name": "PLNcoin"
+    },
+    "PLR": {
+      "USD": 0.0284390319737,
+      "name": "Pillar"
+    },
+    "PLTC": {
+      "USD": 0.288788666336,
+      "name": "PlatonCoin"
+    },
+    "PLU": {
+      "USD": 0.65548725879,
+      "name": "Pluton"
+    },
+    "PLURA": {
+      "USD": 7.75147797338e-05,
+      "name": "PluraCoin"
+    },
+    "PLUS1": {
+      "USD": 0.0205384439969,
+      "name": "PlusOneCoin"
+    },
+    "PLY": {
+      "USD": 0.00211803403566,
+      "name": "PlayCoin [QRC20]"
+    },
+    "PMA": {
+      "USD": 0.000221948532734,
+      "name": "PumaPay"
+    },
+    "PMNT": {
+      "USD": 0.000155029559468,
+      "name": "Paymon"
+    },
+    "PND": {
+      "USD": 1.56773921757e-05,
+      "name": "Pandacoin"
+    },
+    "PNK": {
+      "USD": 0.00795466307252,
+      "name": "Kleros"
+    },
+    "PNT": {
+      "USD": 9.77055546679e-05,
+      "name": "Penta"
+    },
+    "PNX": {
+      "USD": 3.01775247977e-05,
+      "name": "Phantomx"
+    },
+    "PNY": {
+      "USD": 0.0162781037441,
+      "name": "Peony"
+    },
+    "POA": {
+      "USD": 0.0154226326666,
+      "name": "POA"
+    },
+    "POE": {
+      "USD": 0.00224640705342,
+      "name": "Po.et"
+    },
+    "POLIS": {
+      "USD": 1.80458169473,
+      "name": "Polis"
+    },
+    "POLL": {
+      "USD": 0.0168317520713,
+      "name": "ClearPoll"
+    },
+    "POLY": {
+      "USD": 0.0225014373839,
+      "name": "Polymath"
+    },
+    "PONZI": {
+      "USD": 0.0106970396033,
+      "name": "PonziCoin"
+    },
+    "POP": {
+      "USD": 6.82979599717e-05,
+      "name": "PopularCoin"
+    },
+    "POSS": {
+      "USD": 1.44700154166e-08,
+      "name": "Posscoin"
+    },
+    "POST": {
+      "USD": 0.00123679677101,
+      "name": "PostCoin"
+    },
+    "POSW": {
+      "USD": 0.00244276249319,
+      "name": "PoSW Coin"
+    },
+    "POT": {
+      "USD": 0.0057360937003,
+      "name": "PotCoin"
+    },
+    "POWR": {
+      "USD": 0.0426412977011,
+      "name": "Power Ledger"
+    },
+    "PPC": {
+      "USD": 0.192264375022,
+      "name": "Peercoin"
+    },
+    "PPP": {
+      "USD": 0.0986999460321,
+      "name": "PayPie"
+    },
+    "PPT": {
+      "USD": 0.526018547069,
+      "name": "Populous"
+    },
+    "PPY": {
+      "USD": 0.362536624815,
+      "name": "Peerplays"
+    },
+    "PRA": {
+      "USD": 0.020077302457,
+      "name": "ProChain"
+    },
+    "PRE": {
+      "USD": 0.0064578353254,
+      "name": "Presearch"
+    },
+    "PRG": {
+      "USD": 0.0170731683027,
+      "name": "Paragon"
+    },
+    "PRIV": {
+      "USD": 0.0032681490621,
+      "name": "PRiVCY"
+    },
+    "PRIX": {
+      "USD": 0.220917122241,
+      "name": "Privatix"
+    },
+    "PRJ": {
+      "USD": 7.75147797338e-05,
+      "name": "Project Coin"
+    },
+    "PRO": {
+      "USD": 0.0809058947727,
+      "name": "Propy"
+    },
+    "PROB": {
+      "USD": 0.0813169761225,
+      "name": "ProBit Token"
+    },
+    "PROC": {
+      "USD": 6.74378583684e-05,
+      "name": "ProCurrency"
+    },
+    "PROM": {
+      "USD": 0.209731331013,
+      "name": "Prometeus"
+    },
+    "PROUD": {
+      "USD": 0.00186035471361,
+      "name": "PROUD Money"
+    },
+    "PRS": {
+      "USD": 0.030053111021,
+      "name": "PressOne"
+    },
+    "PRTX": {
+      "USD": 8.20657644768e-05,
+      "name": "Printex"
+    },
+    "PRX": {
+      "USD": 0.000620098284876,
+      "name": "ProxyNode"
+    },
+    "PSC": {
+      "USD": 0.00170532515372,
+      "name": "PrimeStone"
+    },
+    "PSM": {
+      "USD": 2.17041383255e-05,
+      "name": "PRASM"
+    },
+    "PST": {
+      "USD": 0.021100525901,
+      "name": "Primas"
+    },
+    "PTC": {
+      "USD": 0.00620118237871,
+      "name": "Pesetacoin"
+    },
+    "PTI": {
+      "USD": 0.00532679671744,
+      "name": "Paytomat"
+    },
+    "PTN": {
+      "USD": 0.00341313139724,
+      "name": "PalletOne"
+    },
+    "PTON": {
+      "USD": 0.000150041277477,
+      "name": "PTON"
+    },
+    "PTOY": {
+      "USD": 0.00680812078077,
+      "name": "Patientory"
+    },
+    "PTT": {
+      "USD": 0.000256460845531,
+      "name": "Proton Token"
+    },
+    "PUB": {
+      "USD": 0.000114681640335,
+      "name": "PUBLYTO Token"
+    },
+    "PUT": {
+      "USD": 0.00141784808193,
+      "name": "Profile Utility Token"
+    },
+    "PVT": {
+      "USD": 0.000871347998501,
+      "name": "Pivot Token"
+    },
+    "PWR": {
+      "USD": 1.55029559468e-05,
+      "name": "PWR Coin"
+    },
+    "PXC": {
+      "USD": 0.000811595462584,
+      "name": "Pixie Coin"
+    },
+    "PXG": {
+      "USD": 0.000283744590294,
+      "name": "PlayGame"
+    },
+    "PXI": {
+      "USD": 0.000149523852565,
+      "name": "Prime-XI"
+    },
+    "PXL": {
+      "USD": 0.0175936536714,
+      "name": "PIXEL"
+    },
+    "PYLNT": {
+      "USD": 0.630035908986,
+      "name": "Pylon Network"
+    },
+    "PYN": {
+      "USD": 0.00558024501295,
+      "name": "PAYCENT"
+    },
+    "PZM": {
+      "USD": 0.424673610359,
+      "name": "PRIZM"
+    },
+    "QAC": {
+      "USD": 0.00411593808921,
+      "name": "Quasarcoin"
+    },
+    "QASH": {
+      "USD": 0.0515664314509,
+      "name": "QASH"
+    },
+    "QBC": {
+      "USD": 0.00119897639138,
+      "name": "Quebecoin"
+    },
+    "QBIC": {
+      "USD": 0.000832942677671,
+      "name": "Qbic"
+    },
+    "QBIT": {
+      "USD": 28.781230139,
+      "name": "Qubitica"
+    },
+    "QBT": {
+      "USD": 0.00662433622386,
+      "name": "Qbao"
+    },
+    "QBX": {
+      "USD": 0.00121320314314,
+      "name": "qiibee"
+    },
+    "QCH": {
+      "USD": 0.0358513837797,
+      "name": "QChi"
+    },
+    "QCX": {
+      "USD": 0.00778618134454,
+      "name": "QuickX Protocol"
+    },
+    "QDAO": {
+      "USD": 24.1396287048,
+      "name": "Q DAO Governance token v1.0"
+    },
+    "QKC": {
+      "USD": 0.00418400512762,
+      "name": "QuarkChain"
+    },
+    "QLC": {
+      "USD": 0.0147194868033,
+      "name": "QLC Chain"
+    },
+    "QNO": {
+      "USD": 0.000310059118935,
+      "name": "QYNO"
+    },
+    "QNT": {
+      "USD": 6.13414004657,
+      "name": "Quant"
+    },
+    "QNTU": {
+      "USD": 6.34077802472e-05,
+      "name": "Quanta Utility Token"
+    },
+    "QQQ": {
+      "USD": 0.00145767052222,
+      "name": "Poseidon Network"
+    },
+    "QRK": {
+      "USD": 0.0070083325276,
+      "name": "Quark"
+    },
+    "QRL": {
+      "USD": 0.111569585879,
+      "name": "Quantum Resistant Ledger"
+    },
+    "QSP": {
+      "USD": 0.0106258234789,
+      "name": "Quantstamp"
+    },
+    "QTUM": {
+      "USD": 1.90325614162,
+      "name": "Qtum"
+    },
+    "QUAN": {
+      "USD": 0.000310059118935,
+      "name": "Quantis Network"
+    },
+    "QUBE": {
+      "USD": 0.000126173166348,
+      "name": "Qube"
+    },
+    "QUIN": {
+      "USD": 2.55749837306e-06,
+      "name": "QUINADS"
+    },
+    "QUN": {
+      "USD": 0.00492842319261,
+      "name": "QunQun"
+    },
+    "QURO": {
+      "USD": 2.58308676387e-05,
+      "name": "Qurito"
+    },
+    "QUSD": {
+      "USD": 0.0116415114321,
+      "name": "QUSD"
+    },
+    "QWC": {
+      "USD": 1.39526603521e-05,
+      "name": "Qwertycoin"
+    },
+    "R": {
+      "USD": 0.0414344155098,
+      "name": "Revain"
+    },
+    "RADS": {
+      "USD": 0.452806805378,
+      "name": "Radium"
+    },
+    "RAGNA": {
+      "USD": 0.000310059118935,
+      "name": "Ragnarok"
+    },
+    "RALLY": {
+      "USD": 0.000383588432021,
+      "name": "Rally"
+    },
+    "RATING": {
+      "USD": 0.00013044457217,
+      "name": "DPRating"
+    },
+    "RAVEN": {
+      "USD": 0.000155620195595,
+      "name": "Raven Protocol"
+    },
+    "RBBT": {
+      "USD": 5e-07,
+      "name": "RabbitCoin"
+    },
+    "RBG": {
+      "USD": 0.00404610432471,
+      "name": "Rankingball Gold"
+    },
+    "RBIES": {
+      "USD": 0.00186035471361,
+      "name": "Rubies"
+    },
+    "RBLX": {
+      "USD": 0.13030176038,
+      "name": "Rublix"
+    },
+    "RBT": {
+      "USD": 0.000372864110952,
+      "name": "Rimbit"
+    },
+    "RBTC": {
+      "USD": 7592.02824065,
+      "name": "RSK Smart Bitcoin"
+    },
+    "RBY": {
+      "USD": 0.0416466826564,
+      "name": "Rubycoin"
+    },
+    "RC20": {
+      "USD": 3.10059118935e-05,
+      "name": "RoboCalls"
+    },
+    "RCN": {
+      "USD": 0.0491885203991,
+      "name": "Ripio Credit Network"
+    },
+    "RCT": {
+      "USD": 0.000347523997131,
+      "name": "RealChain"
+    },
+    "RDC": {
+      "USD": 7.18311451787e-06,
+      "name": "Ordocoin"
+    },
+    "RDD": {
+      "USD": 0.000769085573367,
+      "name": "ReddCoin"
+    },
+    "RDN": {
+      "USD": 0.13732087561,
+      "name": "Raiden Network Token"
+    },
+    "READ": {
+      "USD": 0.000989859326853,
+      "name": "Read"
+    },
+    "REAL": {
+      "USD": 0.0398171548305,
+      "name": "REAL"
+    },
+    "REBL": {
+      "USD": 0.000533554593814,
+      "name": "REBL"
+    },
+    "REC": {
+      "USD": 0.00277003541955,
+      "name": "Regalcoin"
+    },
+    "RED": {
+      "USD": 0.00192780214452,
+      "name": "RED"
+    },
+    "REF": {
+      "USD": 0.107055585306,
+      "name": "RefToken"
+    },
+    "REM": {
+      "USD": 0.00452335397955,
+      "name": "Remme"
+    },
+    "REN": {
+      "USD": 0.0410165530706,
+      "name": "Ren"
+    },
+    "REP": {
+      "USD": 11.2332545451,
+      "name": "Augur"
+    },
+    "REPO": {
+      "USD": 0.0574881854289,
+      "name": "REPO"
+    },
+    "REQ": {
+      "USD": 0.0147689918495,
+      "name": "Request"
+    },
+    "RET": {
+      "USD": 0.000799737775636,
+      "name": "RealTract"
+    },
+    "REX": {
+      "USD": 0.0113238033245,
+      "name": "imbrex"
+    },
+    "RFOX": {
+      "USD": 0.00722227111404,
+      "name": "RedFOX Labs"
+    },
+    "RFR": {
+      "USD": 0.000839719271361,
+      "name": "Refereum"
+    },
+    "RHOC": {
+      "USD": 0.0704440534726,
+      "name": "RChain"
+    },
+    "RIF": {
+      "USD": 0.065565586574,
+      "name": "RIF Token"
+    },
+    "RISE": {
+      "USD": 0.00201538427308,
+      "name": "Rise"
+    },
+    "RLC": {
+      "USD": 0.668588820249,
+      "name": "iExec RLC"
+    },
+    "RLT": {
+      "USD": 0.00131775125548,
+      "name": "RouletteToken"
+    },
+    "RLX": {
+      "USD": 0.000162804034692,
+      "name": "Relex"
+    },
+    "RMESH": {
+      "USD": 0.00363491315919,
+      "name": "RightMesh"
+    },
+    "RMT": {
+      "USD": 0.00157705363993,
+      "name": "SureRemit"
+    },
+    "RNT": {
+      "USD": 0.0102535091236,
+      "name": "OneRoot Network"
+    },
+    "RNTB": {
+      "USD": 3.84791935568e-05,
+      "name": "BitRent"
+    },
+    "ROBET": {
+      "USD": 0.331168851537,
+      "name": "RoBET"
+    },
+    "ROCK2": {
+      "USD": 0.0557867445796,
+      "name": "ICE ROCK MINING"
+    },
+    "ROCO": {
+      "USD": 0.0179834288982,
+      "name": "ROIyal Coin"
+    },
+    "ROM": {
+      "USD": 3.31660074083e-05,
+      "name": "ROMToken"
+    },
+    "ROOBEE": {
+      "USD": 0.00439976856882,
+      "name": "ROOBEE"
+    },
+    "ROX": {
+      "USD": 0.0511236620436,
+      "name": "Robotina"
+    },
+    "RPD": {
+      "USD": 7.75147797338e-05,
+      "name": "Rapids"
+    },
+    "RPI": {
+      "USD": 4.65088678403e-05,
+      "name": "RPICoin"
+    },
+    "RPL": {
+      "USD": 0.422664320835,
+      "name": "Rocket Pool"
+    },
+    "RPZX": {
+      "USD": 0.000620118237871,
+      "name": "Rapidz"
+    },
+    "RRC": {
+      "USD": 0.000102595110717,
+      "name": "RRCoin"
+    },
+    "RSR": {
+      "USD": 0.0015700848994,
+      "name": "Reserve Rights"
+    },
+    "RSTR": {
+      "USD": 7.75147797338e-05,
+      "name": "Ondori"
+    },
+    "RTE": {
+      "USD": 0.000776539718558,
+      "name": "Rate3"
+    },
+    "RTH": {
+      "USD": 0.712239380301,
+      "name": "Rotharium"
+    },
+    "RUFF": {
+      "USD": 0.00612097503878,
+      "name": "Ruff"
+    },
+    "RUNE": {
+      "USD": 0.0771392094607,
+      "name": "THORChain"
+    },
+    "RUP": {
+      "USD": 0.00150078088629,
+      "name": "Rupee"
+    },
+    "RUPX": {
+      "USD": 0.000286804685015,
+      "name": "Rupaya"
+    },
+    "RVN": {
+      "USD": 0.0233337771714,
+      "name": "Ravencoin"
+    },
+    "RVT": {
+      "USD": 0.00961057441842,
+      "name": "Rivetz"
+    },
+    "RYO": {
+      "USD": 0.0203860040783,
+      "name": "Ryo Currency"
+    },
+    "S": {
+      "USD": 0.00015654234105,
+      "name": "Sharpay"
+    },
+    "S4F": {
+      "USD": 0.020919660413,
+      "name": "S4FE"
+    },
+    "SAFE": {
+      "USD": 0.0246513829913,
+      "name": "SafeCoin"
+    },
+    "SAI": {
+      "USD": 1.01132763302,
+      "name": "Single Collateral DAI "
+    },
+    "SAL": {
+      "USD": 0.00263633144212,
+      "name": "SalPay"
+    },
+    "SALT": {
+      "USD": 0.0544046920098,
+      "name": "SALT"
+    },
+    "SAN": {
+      "USD": 0.258627349992,
+      "name": "Santiment Network Token"
+    },
+    "SANDG": {
+      "USD": 0.000329165507581,
+      "name": "Save and Gain"
+    },
+    "SAT": {
+      "USD": 0.000465088678403,
+      "name": "Social Activity Token"
+    },
+    "SBD": {
+      "USD": 0.776334869366,
+      "name": "Steem Dollars"
+    },
+    "SBTC": {
+      "USD": 1.81004131515,
+      "name": "Super Bitcoin"
+    },
+    "SC": {
+      "USD": 0.00178804903524,
+      "name": "Siacoin"
+    },
+    "SCC": {
+      "USD": 4.8911826012e-05,
+      "name": "StockChain"
+    },
+    "SCL": {
+      "USD": 0.00525085117917,
+      "name": "Sociall"
+    },
+    "SCR": {
+      "USD": 0.00343829008309,
+      "name": "Scorum Coins"
+    },
+    "SCRIV": {
+      "USD": 0.000286670473794,
+      "name": "SCRIV NETWORK"
+    },
+    "SCRT": {
+      "USD": 0.00344106031841,
+      "name": "SecretCoin"
+    },
+    "SCS": {
+      "USD": 0.0133114390975,
+      "name": "SpeedCash"
+    },
+    "SCT": {
+      "USD": 0.010355655056,
+      "name": "Soma"
+    },
+    "SDA": {
+      "USD": 0.000900118461039,
+      "name": "eSDChain"
+    },
+    "SDS": {
+      "USD": 0.000779874685566,
+      "name": "Alchemint Standards"
+    },
+    "SDUSD": {
+      "USD": 0.805053607049,
+      "name": "SDUSD"
+    },
+    "SEAL": {
+      "USD": 0.00045451087536,
+      "name": "Seal Network"
+    },
+    "SEELE": {
+      "USD": 0.147497091054,
+      "name": "Seele"
+    },
+    "SEER": {
+      "USD": 0.000602333177132,
+      "name": "SEER"
+    },
+    "SEM": {
+      "USD": 0.0613827652612,
+      "name": "Semux"
+    },
+    "SEN": {
+      "USD": 0.000937928834779,
+      "name": "Sentient Coin"
+    },
+    "SENC": {
+      "USD": 0.00148404773212,
+      "name": "Sentinel Chain"
+    },
+    "SEND": {
+      "USD": 0.0032323663149,
+      "name": "Social Send"
+    },
+    "SENSE": {
+      "USD": 0.00634874765801,
+      "name": "Sense"
+    },
+    "SENT": {
+      "USD": 0.000900898664744,
+      "name": "Sentinel"
+    },
+    "SERO": {
+      "USD": 0.0555138613688,
+      "name": "Super Zero"
+    },
+    "SET": {
+      "USD": 0.0360265364079,
+      "name": "Save Environment Token"
+    },
+    "SEXC": {
+      "USD": 0.000152947134634,
+      "name": "ShareX"
+    },
+    "SFCP": {
+      "USD": 0.000382773596037,
+      "name": "SF Capital"
+    },
+    "SFT": {
+      "USD": 0.0060546445116,
+      "name": "Safex Token"
+    },
+    "SFX": {
+      "USD": 0.0180321117653,
+      "name": "Safex Cash"
+    },
+    "SGN": {
+      "USD": 0.000859325704516,
+      "name": "Signals Network"
+    },
+    "SHA": {
+      "USD": 0.000400325901815,
+      "name": "Safe Haven"
+    },
+    "SHARD": {
+      "USD": 0.0119693265852,
+      "name": "Shard"
+    },
+    "SHB": {
+      "USD": 0.0325562074882,
+      "name": "SkyHub Coin"
+    },
+    "SHDW": {
+      "USD": 0.0187394390388,
+      "name": "Shadow Token"
+    },
+    "SHE": {
+      "USD": 0.000619921846542,
+      "name": "ShineChain"
+    },
+    "SHIFT": {
+      "USD": 0.0655775036548,
+      "name": "Shift"
+    },
+    "SHIP": {
+      "USD": 0.00758003239884,
+      "name": "ShipChain"
+    },
+    "SHMN": {
+      "USD": 0.0283639068942,
+      "name": "StrongHands Masternode"
+    },
+    "SHND": {
+      "USD": 3.65085384209e-05,
+      "name": "StrongHands"
+    },
+    "SHOW": {
+      "USD": 0.000570685777382,
+      "name": "Show"
+    },
+    "SHP": {
+      "USD": 0.000459919581091,
+      "name": "Sharpe Platform Token"
+    },
+    "SHPING": {
+      "USD": 1.72196575155e-05,
+      "name": "SHPING"
+    },
+    "SHR": {
+      "USD": 0.00387567878235,
+      "name": "ShareToken"
+    },
+    "SHVR": {
+      "USD": 0.000175271957913,
+      "name": "Shivers"
+    },
+    "SHX": {
+      "USD": 0.000445741173551,
+      "name": "Stronghold Token"
+    },
+    "SIB": {
+      "USD": 0.0461323528489,
+      "name": "SIBCoin"
+    },
+    "SIG": {
+      "USD": 0.000211537833894,
+      "name": "Spectiv"
+    },
+    "SIGMA": {
+      "USD": 0.000626469217812,
+      "name": "SIGMAcoin"
+    },
+    "SIGT": {
+      "USD": 0.000285761521747,
+      "name": "Signatum"
+    },
+    "SIM": {
+      "USD": 0.000124023647574,
+      "name": "Simmitri"
+    },
+    "SIN": {
+      "USD": 0.00140357919505,
+      "name": "SINOVATE"
+    },
+    "SINS": {
+      "USD": 0.0913721949574,
+      "name": "SafeInsure"
+    },
+    "SIX": {
+      "USD": 0.0155218818771,
+      "name": "SIX"
+    },
+    "SKB": {
+      "USD": 0.000144952638102,
+      "name": "Sakura Bloom"
+    },
+    "SKCH": {
+      "USD": 0.156502340283,
+      "name": "Skychain"
+    },
+    "SKIN": {
+      "USD": 0.000430697587245,
+      "name": "SkinCoin"
+    },
+    "SKM": {
+      "USD": 0.0024364535348,
+      "name": "Skrumble Network"
+    },
+    "SKT": {
+      "USD": 8.41020253038e-06,
+      "name": "SealBlock Token"
+    },
+    "SKY": {
+      "USD": 1.06513964813e-05,
+      "name": "Scopuly"
+    },
+    "SLR": {
+      "USD": 0.0153769888207,
+      "name": "SolarCoin"
+    },
+    "SLS": {
+      "USD": 6.27877467322,
+      "name": "SaluS"
+    },
+    "SLT": {
+      "USD": 0.00208373516693,
+      "name": "Social Lending Token"
+    },
+    "SLV": {
+      "USD": 0.444954207812,
+      "name": "Silverway"
+    },
+    "SMART": {
+      "USD": 0.00240648600173,
+      "name": "SmartCash"
+    },
+    "SMARTUP": {
+      "USD": 3.90802721868e-05,
+      "name": "Smartup"
+    },
+    "SMC": {
+      "USD": 0.0010577143934,
+      "name": "SmartCoin"
+    },
+    "SMLY": {
+      "USD": 8.27959342366e-06,
+      "name": "SmileyCoin"
+    },
+    "SMQ": {
+      "USD": 0.00477558298834,
+      "name": "SIMDAQ"
+    },
+    "SMT": {
+      "USD": 0.00382204561098,
+      "name": "SmartMesh"
+    },
+    "SNC": {
+      "USD": 0.0164274261302,
+      "name": "SunContract"
+    },
+    "SND": {
+      "USD": 0.000173997848855,
+      "name": "SnodeCoin"
+    },
+    "SNET": {
+      "USD": 0.0284300567448,
+      "name": "Snetwork"
+    },
+    "SNGLS": {
+      "USD": 0.00922451558919,
+      "name": "SingularDTV"
+    },
+    "SNIP": {
+      "USD": 1.7636589175e-05,
+      "name": "SnipCoin"
+    },
+    "SNL": {
+      "USD": 0.00851307822946,
+      "name": "Sport and Leisure"
+    },
+    "SNM": {
+      "USD": 0.0171541998936,
+      "name": "SONM"
+    },
+    "SNO": {
+      "USD": 0.000232544339201,
+      "name": "SaveNode"
+    },
+    "SNOV": {
+      "USD": 0.00332999495309,
+      "name": "Snovian.Space"
+    },
+    "SNPC": {
+      "USD": 0.00031151925869,
+      "name": "SnapCoin"
+    },
+    "SNR": {
+      "USD": 0.000204161721763,
+      "name": "SONDER"
+    },
+    "SNRG": {
+      "USD": 0.0237560984537,
+      "name": "Synergy"
+    },
+    "SNT": {
+      "USD": 0.011623870315,
+      "name": "Status"
+    },
+    "SNTR": {
+      "USD": 4.37929745663e-06,
+      "name": "Silent Notary"
+    },
+    "SNTVT": {
+      "USD": 0.00102980546072,
+      "name": "Sentivate"
+    },
+    "SNX": {
+      "USD": 1.43469106658,
+      "name": "Synthetix Network Token"
+    },
+    "SOC": {
+      "USD": 0.00408908480098,
+      "name": "All Sports"
+    },
+    "SOCC": {
+      "USD": 0.000284653639194,
+      "name": "SocialCoin"
+    },
+    "SOL": {
+      "USD": 0.000570609502795,
+      "name": "Sola Token"
+    },
+    "SOLVE": {
+      "USD": 0.129930058449,
+      "name": "SOLVE"
+    },
+    "SON": {
+      "USD": 682.485078005,
+      "name": "Simone"
+    },
+    "SONG": {
+      "USD": 1.89351932065e-06,
+      "name": "SongCoin"
+    },
+    "SONO": {
+      "USD": 0.000852662577072,
+      "name": "SONO"
+    },
+    "SOP": {
+      "USD": 0.000271548618537,
+      "name": "SoPay"
+    },
+    "SOUL": {
+      "USD": 0.000199343675998,
+      "name": "CryptoSoul"
+    },
+    "SOVE": {
+      "USD": 0.302817756528,
+      "name": "Soverain"
+    },
+    "SOZ": {
+      "USD": 0.00179506477952,
+      "name": "Secrets of Zurich"
+    },
+    "SPANK": {
+      "USD": 0.00433141761531,
+      "name": "SpankChain"
+    },
+    "SPAZ": {
+      "USD": 0.00381058759318,
+      "name": "Swapcoinz"
+    },
+    "SPC": {
+      "USD": 0.00240821885428,
+      "name": "SpaceChain"
+    },
+    "SPD": {
+      "USD": 0.0245566822197,
+      "name": "Stipend"
+    },
+    "SPDR": {
+      "USD": 0.000852662577072,
+      "name": "SPIDER VPS"
+    },
+    "SPEC": {
+      "USD": 6.77258431492e-07,
+      "name": "SpectrumNetwork"
+    },
+    "SPF": {
+      "USD": 0.000991335120952,
+      "name": "SportyCo"
+    },
+    "SPHR": {
+      "USD": 0.0579035404612,
+      "name": "Sphere"
+    },
+    "SPHTX": {
+      "USD": 0.00131897278551,
+      "name": "SophiaTX"
+    },
+    "SPIKE": {
+      "USD": 0.00209289905281,
+      "name": "Spiking"
+    },
+    "SPIN": {
+      "USD": 0.00174450607613,
+      "name": "SPIN Protocol"
+    },
+    "SPK": {
+      "USD": 0.000973063986287,
+      "name": "SparksPay"
+    },
+    "SPN": {
+      "USD": 0.00150634040408,
+      "name": "Sapien"
+    },
+    "SPND": {
+      "USD": 0.0021985550647,
+      "name": "Spendcoin"
+    },
+    "SPR": {
+      "USD": 0.00207348959789,
+      "name": "SpreadCoin"
+    },
+    "SPRK": {
+      "USD": 0.000930412341454,
+      "name": "Sparkster"
+    },
+    "SPRKL": {
+      "USD": 0.0222527629855,
+      "name": "Sparkle"
+    },
+    "SPT": {
+      "USD": 2.68939741924e-05,
+      "name": "Spectrum"
+    },
+    "SPX": {
+      "USD": 1.40888106945e-05,
+      "name": "Sp8de"
+    },
+    "SRCOIN": {
+      "USD": 2.17041383255e-05,
+      "name": "SRCOIN"
+    },
+    "SRK": {
+      "USD": 3.78474702119e-05,
+      "name": "Sparkpoint"
+    },
+    "SRN": {
+      "USD": 0.008251097345,
+      "name": "SIRIN LABS Token"
+    },
+    "SS": {
+      "USD": 0.00180959502475,
+      "name": "Sharder"
+    },
+    "SSC": {
+      "USD": 0.00175859081336,
+      "name": "SelfSell"
+    },
+    "SSP": {
+      "USD": 0.000251678444049,
+      "name": "Smartshare"
+    },
+    "STA": {
+      "USD": 0.423612538718,
+      "name": "Starta"
+    },
+    "STAC": {
+      "USD": 6.10515130096e-05,
+      "name": "StarterCoin"
+    },
+    "STACS": {
+      "USD": 0.008261339219,
+      "name": "STACS"
+    },
+    "STAK": {
+      "USD": 0.00131775125548,
+      "name": "STRAKS"
+    },
+    "STAR": {
+      "USD": 0.000673132066516,
+      "name": "Starbase"
+    },
+    "START": {
+      "USD": 0.00378084153468,
+      "name": "Startcoin"
+    },
+    "STASH": {
+      "USD": 2.29205943233e-05,
+      "name": "BitStash"
+    },
+    "STC": {
+      "USD": 0.00297186258319,
+      "name": "StarChain"
+    },
+    "STEEM": {
+      "USD": 0.134434644174,
+      "name": "Steem"
+    },
+    "STEEP": {
+      "USD": 0.000232544339201,
+      "name": "SteepCoin"
+    },
+    "STK": {
+      "USD": 0.00181388755496,
+      "name": "STK"
+    },
+    "STO": {
+      "USD": 0.0939967893087,
+      "name": "Storeum"
+    },
+    "STORJ": {
+      "USD": 0.128580275508,
+      "name": "Storj"
+    },
+    "STORM": {
+      "USD": 0.00146612919497,
+      "name": "Storm"
+    },
+    "STPT": {
+      "USD": 0.00974143337515,
+      "name": "STPT"
+    },
+    "STQ": {
+      "USD": 2.00770992897e-05,
+      "name": "Storiqa"
+    },
+    "STR": {
+      "USD": 0.00147278081494,
+      "name": "Staker"
+    },
+    "STRAT": {
+      "USD": 0.309794715167,
+      "name": "Stratis"
+    },
+    "STREAM": {
+      "USD": 2.18944797782,
+      "name": "Streamit Coin"
+    },
+    "STU": {
+      "USD": 0.000265017347881,
+      "name": "bitJob"
+    },
+    "STX": {
+      "USD": 0.11565177334,
+      "name": "Blockstack"
+    },
+    "SUB": {
+      "USD": 0.00437614164367,
+      "name": "Substratum"
+    },
+    "SUMO": {
+      "USD": 0.110626251802,
+      "name": "Sumokoin"
+    },
+    "SUP": {
+      "USD": 7.64617080458e-05,
+      "name": "Superior Coin"
+    },
+    "SUPER": {
+      "USD": 0.000454395532751,
+      "name": "SuperCoin"
+    },
+    "SUR": {
+      "USD": 0.799823748449,
+      "name": "Suretly"
+    },
+    "SUSD": {
+      "USD": 0.987633038426,
+      "name": "sUSD"
+    },
+    "SUTER": {
+      "USD": 0.0322170715251,
+      "name": "suterusu"
+    },
+    "SVD": {
+      "USD": 0.000133055991969,
+      "name": "savedroid"
+    },
+    "SWACE": {
+      "USD": 0.00146580857415,
+      "name": "Swace"
+    },
+    "SWC": {
+      "USD": 3.66807781591e-05,
+      "name": "Scanetchain"
+    },
+    "SWFTC": {
+      "USD": 0.000928411631988,
+      "name": "SwftCoin"
+    },
+    "SWIFT": {
+      "USD": 0.000775147797338,
+      "name": "SwiftCash"
+    },
+    "SWING": {
+      "USD": 0.0149603524886,
+      "name": "Swing"
+    },
+    "SWM": {
+      "USD": 0.0261358046036,
+      "name": "Swarm"
+    },
+    "SWT": {
+      "USD": 0.0688536658484,
+      "name": "Swarm City"
+    },
+    "SWTC": {
+      "USD": 0.000719293350518,
+      "name": "Jingtum Tech"
+    },
+    "SWTH": {
+      "USD": 0.0019974209864,
+      "name": "Switcheo"
+    },
+    "SXC": {
+      "USD": 0.00155029559468,
+      "name": "Sexcoin"
+    },
+    "SXDT": {
+      "USD": 0.184587368391,
+      "name": "Spectre.ai Dividend Token"
+    },
+    "SXP": {
+      "USD": 1.19162992812,
+      "name": "Swipe"
+    },
+    "SXUT": {
+      "USD": 0.0937370625973,
+      "name": "Spectre.ai Utility Token"
+    },
+    "SYS": {
+      "USD": 0.0225495411384,
+      "name": "Syscoin"
+    },
+    "TAAS": {
+      "USD": 0.739103424762,
+      "name": "TaaS"
+    },
+    "TAC": {
+      "USD": 0.00269008426634,
+      "name": "Traceability Chain"
+    },
+    "TAG": {
+      "USD": 0.00922425878833,
+      "name": "TagCoin"
+    },
+    "TAGZ5": {
+      "USD": 0.262255932869,
+      "name": "TAGZ5"
+    },
+    "TAJ": {
+      "USD": 0.000901745189662,
+      "name": "TajCoin"
+    },
+    "TALK": {
+      "USD": 0.000683471009998,
+      "name": "BTCtalkcoin"
+    },
+    "TAN": {
+      "USD": 0.00147103230262,
+      "name": "Taklimakan Network"
+    },
+    "TAS": {
+      "USD": 7.75147797338e-05,
+      "name": "Tarush"
+    },
+    "TAU": {
+      "USD": 0.0106850550595,
+      "name": "Lamden"
+    },
+    "TBX": {
+      "USD": 0.00972597564945,
+      "name": "Tokenbox"
+    },
+    "TCASH": {
+      "USD": 0.0119793365927,
+      "name": "TCASH"
+    },
+    "TCAT": {
+      "USD": 0.000463537709923,
+      "name": "The Currency Analytics"
+    },
+    "TCC": {
+      "USD": 0.00146281989438,
+      "name": "The ChampCoin"
+    },
+    "TCH": {
+      "USD": 0.00396314042305,
+      "name": "Tchain"
+    },
+    "TCN": {
+      "USD": 0.0137976307926,
+      "name": "TCOIN"
+    },
+    "TCT": {
+      "USD": 0.00860437960836,
+      "name": "TokenClub"
+    },
+    "TDP": {
+      "USD": 0.00464293772029,
+      "name": "TrueDeck"
+    },
+    "TDS": {
+      "USD": 0.00364374362845,
+      "name": "TokenDesk"
+    },
+    "TDX": {
+      "USD": 0.21393375478,
+      "name": "Tidex Token"
+    },
+    "TEAM": {
+      "USD": 0.00898526837117,
+      "name": "TEAM (TokenStars)"
+    },
+    "TEL": {
+      "USD": 0.00032542939768,
+      "name": "Telcoin"
+    },
+    "TELL": {
+      "USD": 6.23760746834e-07,
+      "name": "Tellurion"
+    },
+    "TELOS": {
+      "USD": 0.00638773916229,
+      "name": "Teloscoin"
+    },
+    "TEMCO": {
+      "USD": 0.000572056786625,
+      "name": "TEMCO"
+    },
+    "TEN": {
+      "USD": 0.0279582834814,
+      "name": "Tokenomy"
+    },
+    "TENA": {
+      "USD": 0.120923056385,
+      "name": "TENA"
+    },
+    "TEP": {
+      "USD": 0.768505453525,
+      "name": "Tepleton"
+    },
+    "TER": {
+      "USD": 0.0213940792065,
+      "name": "TerraNova"
+    },
+    "TERA": {
+      "USD": 0.00417689082413,
+      "name": "TERA"
+    },
+    "TERN": {
+      "USD": 0.0107875708489,
+      "name": "Ternio"
+    },
+    "TFB": {
+      "USD": 0.000392741332372,
+      "name": "TrueFeedBack"
+    },
+    "TFD": {
+      "USD": 0.00449951870475,
+      "name": "TE-FOOD"
+    },
+    "TFL": {
+      "USD": 0.227660908078,
+      "name": "TrueFlip"
+    },
+    "TFUEL": {
+      "USD": 0.00312536753913,
+      "name": "Theta Fuel"
+    },
+    "TGAME": {
+      "USD": 0.00260381890579,
+      "name": "Truegame"
+    },
+    "THAR": {
+      "USD": 0.0462701214815,
+      "name": "Thar Token"
+    },
+    "THC": {
+      "USD": 0.00152024076951,
+      "name": "HempCoin"
+    },
+    "THETA": {
+      "USD": 0.0795565742785,
+      "name": "THETA"
+    },
+    "THR": {
+      "USD": 1470.45537155,
+      "name": "ThoreCoin"
+    },
+    "THRT": {
+      "USD": 0.00526975684881,
+      "name": "Thrive Token"
+    },
+    "THX": {
+      "USD": 5.706638084,
+      "name": "ThoreNext"
+    },
+    "TIC": {
+      "USD": 3.66309078057e-06,
+      "name": "Thingschain"
+    },
+    "TIE": {
+      "USD": 0.00559032701129,
+      "name": "Ties.DB"
+    },
+    "TIME": {
+      "USD": 1.4327159537,
+      "name": "Chronobank"
+    },
+    "TIOX": {
+      "USD": 0.0248907935468,
+      "name": "Trade Token X"
+    },
+    "TIPS": {
+      "USD": 1.25293843562e-06,
+      "name": "FedoraCoin"
+    },
+    "TIT": {
+      "USD": 0.000299924905103,
+      "name": "Titcoin"
+    },
+    "TIX": {
+      "USD": 0.00414252770278,
+      "name": "Blocktix"
+    },
+    "TKN": {
+      "USD": 0.269302337775,
+      "name": "Monolith"
+    },
+    "TKP": {
+      "USD": 0.00445613475224,
+      "name": "TOKPIE"
+    },
+    "TKS": {
+      "USD": 0.146566098336,
+      "name": "Tokes"
+    },
+    "TKT": {
+      "USD": 0.00186036166322,
+      "name": "Twinkle"
+    },
+    "TKY": {
+      "USD": 0.000958421359184,
+      "name": "THEKEY"
+    },
+    "TLOS": {
+      "USD": 0.0665016961961,
+      "name": "Telos"
+    },
+    "TM2": {
+      "USD": 0.00132370369824,
+      "name": "TRAXIA"
+    },
+    "TMN": {
+      "USD": 0.00115630776626,
+      "name": "TranslateMe Network Token"
+    },
+    "TMTG": {
+      "USD": 0.000628233110397,
+      "name": "The Midas Touch Gold"
+    },
+    "TN": {
+      "USD": 0.00394949947266,
+      "name": "TurtleNetwork"
+    },
+    "TNB": {
+      "USD": 0.00225869564901,
+      "name": "Time New Bank"
+    },
+    "TNC": {
+      "USD": 0.00138290008838,
+      "name": "Trinity Network Credit"
+    },
+    "TNS": {
+      "USD": 0.00154996436332,
+      "name": "Transcodium"
+    },
+    "TNT": {
+      "USD": 0.0723717573513,
+      "name": "Tierion"
+    },
+    "TOA": {
+      "USD": 7.75147797338e-05,
+      "name": "ToaCoin"
+    },
+    "TOC": {
+      "USD": 0.0120926037128,
+      "name": "TouchCon"
+    },
+    "TOK": {
+      "USD": 0.00253598592501,
+      "name": "TOKOK"
+    },
+    "TOKC": {
+      "USD": 0.0001891,
+      "name": "TOKYO"
+    },
+    "TOKO": {
+      "USD": 0.0838021323843,
+      "name": "Tokoin"
+    },
+    "TOL": {
+      "USD": 0.00334286845814,
+      "name": "Tolar"
+    },
+    "TOMO": {
+      "USD": 0.290467084387,
+      "name": "TomoChain"
+    },
+    "TOP": {
+      "USD": 0.00193014091273,
+      "name": "TOP"
+    },
+    "TOPC": {
+      "USD": 0.00612832233762,
+      "name": "TopChain"
+    },
+    "TOS": {
+      "USD": 0.00122424096817,
+      "name": "ThingsOperatingSystem"
+    },
+    "TOSC": {
+      "USD": 0.0084344793329,
+      "name": "T.OS"
+    },
+    "TOTO": {
+      "USD": 2.00374196544e-06,
+      "name": "Tourist Token"
+    },
+    "TPAY": {
+      "USD": 0.104958330738,
+      "name": "TokenPay"
+    },
+    "TRAC": {
+      "USD": 0.0082924984589,
+      "name": "OriginTrail"
+    },
+    "TRAID": {
+      "USD": 0.000155029559468,
+      "name": "Traid"
+    },
+    "TRAK": {
+      "USD": 0.0017615407679,
+      "name": "TrakInvest"
+    },
+    "TRAT": {
+      "USD": 0.00172538183702,
+      "name": "Tratok"
+    },
+    "TRB": {
+      "USD": 2.09689069133,
+      "name": "Tellor"
+    },
+    "TRC": {
+      "USD": 0.0446650020513,
+      "name": "Terracoin"
+    },
+    "TRCT": {
+      "USD": 0.00037776325572,
+      "name": "Tracto"
+    },
+    "TRIO": {
+      "USD": 0.00142234436517,
+      "name": "Tripio"
+    },
+    "TRN": {
+      "USD": 0.345707114814,
+      "name": "Treelion"
+    },
+    "TRO": {
+      "USD": 0.000143256006532,
+      "name": "TRUNK COIN"
+    },
+    "TROLL": {
+      "USD": 0.000291078748164,
+      "name": "Trollcoin"
+    },
+    "TRP": {
+      "USD": 0.00264683646756,
+      "name": "Tronipay"
+    },
+    "TRST": {
+      "USD": 0.015443714515,
+      "name": "WeTrust"
+    },
+    "TRTL": {
+      "USD": 2.40196876811e-05,
+      "name": "TurtleCoin"
+    },
+    "TRTT": {
+      "USD": 0.00368167186242,
+      "name": "Trittium"
+    },
+    "TRUE": {
+      "USD": 0.236170842723,
+      "name": "TrueChain"
+    },
+    "TRUMP": {
+      "USD": 0.0178523297142,
+      "name": "TrumpCoin"
+    },
+    "TRV": {
+      "USD": 0.0144024271889,
+      "name": "TrustVerse"
+    },
+    "TRX": {
+      "USD": 0.0162986447059,
+      "name": "TRON"
+    },
+    "TRXC": {
+      "USD": 2.08990474801e-07,
+      "name": "TRONCLASSIC"
+    },
+    "TRY": {
+      "USD": 0.0009323553824,
+      "name": "Trias"
+    },
+    "TSHP": {
+      "USD": 0.0162567281372,
+      "name": "12Ships"
+    },
+    "TSL": {
+      "USD": 0.000489004431466,
+      "name": "Energo"
+    },
+    "TSR": {
+      "USD": 0.0530882373834,
+      "name": "Tesra"
+    },
+    "TT": {
+      "USD": 0.00973482613896,
+      "name": "Thunder Token"
+    },
+    "TTC": {
+      "USD": 0.0345266873798,
+      "name": "TTC"
+    },
+    "TTN": {
+      "USD": 0.000440329608551,
+      "name": "Titan Coin"
+    },
+    "TTT": {
+      "USD": 5.63552427781e-05,
+      "name": "TrustNote"
+    },
+    "TTV": {
+      "USD": 0.000546640108623,
+      "name": "TV-TWO"
+    },
+    "TUBE": {
+      "USD": 0.00902329942419,
+      "name": "BitTube"
+    },
+    "TUDA": {
+      "USD": 0.00107220568208,
+      "name": "Tutor's Diary"
+    },
+    "TUSD": {
+      "USD": 0.999440152077,
+      "name": "TrueUSD"
+    },
+    "TV": {
+      "USD": 0.00603216983627,
+      "name": "Ti-Value"
+    },
+    "TVNT": {
+      "USD": 0.00278008568571,
+      "name": "TravelNote"
+    },
+    "TWINS": {
+      "USD": 7.75147797338e-05,
+      "name": "win.win"
+    },
+    "TX": {
+      "USD": 0.00720887451525,
+      "name": "TransferCoin"
+    },
+    "TYPE": {
+      "USD": 0.000275927992893,
+      "name": "Typerium"
+    },
+    "TZC": {
+      "USD": 0.00107673488401,
+      "name": "TrezarCoin"
+    },
+    "UBC": {
+      "USD": 0.00108014215325,
+      "name": "Ubcoin Market"
+    },
+    "UBEX": {
+      "USD": 0.000339042643542,
+      "name": "Ubex"
+    },
+    "UBQ": {
+      "USD": 0.076894661496,
+      "name": "Ubiq"
+    },
+    "UBT": {
+      "USD": 0.0100227173985,
+      "name": "Unibright"
+    },
+    "UBTC": {
+      "USD": 1.04797354481,
+      "name": "United Bitcoin"
+    },
+    "UC": {
+      "USD": 0.000174752357972,
+      "name": "YouLive Coin"
+    },
+    "UCASH": {
+      "USD": 9.97220383753e-05,
+      "name": "UNIVERSAL CASH"
+    },
+    "UCN": {
+      "USD": 0.000297375195709,
+      "name": "UChain"
+    },
+    "UCT": {
+      "USD": 0.00564793439313,
+      "name": "Ubique Chain Of Things"
+    },
+    "UDOO": {
+      "USD": 0.00957804811433,
+      "name": "Howdoo"
+    },
+    "UFO": {
+      "USD": 0.000143419850097,
+      "name": "Uniform Fiscal Object"
+    },
+    "UFR": {
+      "USD": 0.022512598556,
+      "name": "Upfiring"
+    },
+    "UGAS": {
+      "USD": 0.0247230892618,
+      "name": "UGAS"
+    },
+    "UGC": {
+      "USD": 0.00167905096222,
+      "name": "ugChain"
+    },
+    "UIP": {
+      "USD": 0.00912412920263,
+      "name": "UnlimitedIP"
+    },
+    "UKG": {
+      "USD": 0.012814481179,
+      "name": "Unikoin Gold"
+    },
+    "ULT": {
+      "USD": 0.0262268977243,
+      "name": "Ultiledger"
+    },
+    "UND": {
+      "USD": 0.0113910740627,
+      "name": "Unification"
+    },
+    "UNI": {
+      "USD": 0.00116272169601,
+      "name": "Universe"
+    },
+    "UNIFY": {
+      "USD": 0.0052710050219,
+      "name": "Unify"
+    },
+    "UNIT": {
+      "USD": 0.00429000622608,
+      "name": "Universal Currency"
+    },
+    "UNO": {
+      "USD": 45.9653172392,
+      "name": "Unobtanium"
+    },
+    "UOS": {
+      "USD": 0.00204426376214,
+      "name": "UOS Network"
+    },
+    "UP": {
+      "USD": 0.00355427193895,
+      "name": "UpToken"
+    },
+    "UPP": {
+      "USD": 0.013827523605,
+      "name": "Sentinel Protocol"
+    },
+    "UPX": {
+      "USD": 0.000109133935219,
+      "name": "uPlexa"
+    },
+    "UQC": {
+      "USD": 0.0637069407415,
+      "name": "Uquid Coin"
+    },
+    "URAC": {
+      "USD": 0.000772783513043,
+      "name": "Uranus"
+    },
+    "URALS": {
+      "USD": 0.000205959777504,
+      "name": "UralsCoin"
+    },
+    "USC": {
+      "USD": 0.397931840118,
+      "name": "USDCoin"
+    },
+    "USDC": {
+      "USD": 1.01433465459,
+      "name": "USD Coin"
+    },
+    "USDK": {
+      "USD": 0.990453689633,
+      "name": "USDK"
+    },
+    "USDQ": {
+      "USD": 1.00054472155,
+      "name": "USDQ"
+    },
+    "USDS": {
+      "USD": 0.992390272206,
+      "name": "StableUSD"
+    },
+    "USDT": {
+      "USD": 1.00244729311,
+      "name": "Tether"
+    },
+    "USDX": {
+      "USD": 0.700918622817,
+      "name": "USDX"
+    },
+    "USE": {
+      "USD": 0.000659171943438,
+      "name": "Usechain Token"
+    },
+    "USNBT": {
+      "USD": 0.0667747989364,
+      "name": "NuBits"
+    },
+    "UT": {
+      "USD": 0.0116012496927,
+      "name": "Ulord"
+    },
+    "UTK": {
+      "USD": 0.0154701204622,
+      "name": "Utrust"
+    },
+    "UTNP": {
+      "USD": 0.00272728846972,
+      "name": "Universa"
+    },
+    "UTS": {
+      "USD": 0.000225295530676,
+      "name": "UTEMIS"
+    },
+    "UTT": {
+      "USD": 0.255478761926,
+      "name": "United Traders Token"
+    },
+    "UUU": {
+      "USD": 0.000548694614938,
+      "name": "U Network"
+    },
+    "V": {
+      "USD": 0.00017630277563,
+      "name": "Version"
+    },
+    "VALOR": {
+      "USD": 0.386805207748,
+      "name": "Valor Token"
+    },
+    "VBK": {
+      "USD": 0.00760923745943,
+      "name": "VeriBlock"
+    },
+    "VD": {
+      "USD": 0.0431338436264,
+      "name": "VinDax Coin"
+    },
+    "VDG": {
+      "USD": 0.000396052122857,
+      "name": "VeriDocGlobal"
+    },
+    "VDX": {
+      "USD": 0.00122582320294,
+      "name": "Vodi X"
+    },
+    "VEC2": {
+      "USD": 0.000260488784678,
+      "name": "VectorAI"
+    },
+    "VEE": {
+      "USD": 0.00157831452278,
+      "name": "BLOCKv"
+    },
+    "VEIL": {
+      "USD": 0.0628946561755,
+      "name": "Veil"
+    },
+    "VENA": {
+      "USD": 0.00143595550287,
+      "name": "VENA"
+    },
+    "VEO": {
+      "USD": 54.2525943357,
+      "name": "Amoveo"
+    },
+    "VERA": {
+      "USD": 0.00460353319109,
+      "name": "VERA"
+    },
+    "VERI": {
+      "USD": 15.2456254672,
+      "name": "Veritaseum"
+    },
+    "VERS": {
+      "USD": 33.3770643353,
+      "name": "Versess Coin"
+    },
+    "VEST": {
+      "USD": 0.00671217910563,
+      "name": "VestChain"
+    },
+    "VET": {
+      "USD": 0.00646768339488,
+      "name": "VeChain"
+    },
+    "VEX": {
+      "USD": 0.00309365045994,
+      "name": "Vexanium"
+    },
+    "VGW": {
+      "USD": 0.0983175263706,
+      "name": "VegaWallet Token"
+    },
+    "VIA": {
+      "USD": 0.204065839015,
+      "name": "Viacoin"
+    },
+    "VIB": {
+      "USD": 0.0276084331339,
+      "name": "Viberate"
+    },
+    "VIBE": {
+      "USD": 0.0164346448266,
+      "name": "VIBE"
+    },
+    "VID": {
+      "USD": 0.102282485448,
+      "name": "VideoCoin"
+    },
+    "VIDT": {
+      "USD": 0.0840700031859,
+      "name": "V-ID"
+    },
+    "VIDY": {
+      "USD": 0.00124332416435,
+      "name": "VIDY"
+    },
+    "VIDZ": {
+      "USD": 0.000302759380847,
+      "name": "PureVidz"
+    },
+    "VIEW": {
+      "USD": 0.00542603458137,
+      "name": "View"
+    },
+    "VIKKY": {
+      "USD": 1.65934881513e-06,
+      "name": "VikkyToken"
+    },
+    "VIN": {
+      "USD": 0.00381798795198,
+      "name": "VINchain"
+    },
+    "VINCI": {
+      "USD": 1.03141682878,
+      "name": "Vinci"
+    },
+    "VIPS": {
+      "USD": 1.08522909688e-05,
+      "name": "Vipstar Coin"
+    },
+    "VIT": {
+      "USD": 0.000133060989893,
+      "name": "Vision Industry Token"
+    },
+    "VITAE": {
+      "USD": 0.704931822774,
+      "name": "Vitae"
+    },
+    "VITE": {
+      "USD": 0.00837533820173,
+      "name": "VITE"
+    },
+    "VITES": {
+      "USD": 7.75147797338e-05,
+      "name": "Vites"
+    },
+    "VIU": {
+      "USD": 7.15954660581e-05,
+      "name": "Viuly"
+    },
+    "VIVID": {
+      "USD": 0.0126428325038,
+      "name": "Vivid Coin"
+    },
+    "VIVO": {
+      "USD": 0.000465088678403,
+      "name": "VIVO"
+    },
+    "VJC": {
+      "USD": 8.92272629516,
+      "name": "VENJOCOIN"
+    },
+    "VLC": {
+      "USD": 0.0018785080926,
+      "name": "ValueChain"
+    },
+    "VLD": {
+      "USD": 0.00225719213777,
+      "name": "Vetri"
+    },
+    "VLT": {
+      "USD": 0.0076059018899,
+      "name": "Veltor"
+    },
+    "VLU": {
+      "USD": 0.000310059118935,
+      "name": "Valuto"
+    },
+    "VLX": {
+      "USD": 0.0241529820721,
+      "name": "Velas"
+    },
+    "VME": {
+      "USD": 0.000589648036034,
+      "name": "VeriME"
+    },
+    "VNDC": {
+      "USD": 3.78420440347e-05,
+      "name": "VNDC"
+    },
+    "VNT": {
+      "USD": 0.000747444715522,
+      "name": "Vanta Network"
+    },
+    "VNX": {
+      "USD": 7.43612492233e-05,
+      "name": "VisionX"
+    },
+    "VOCO": {
+      "USD": 3.49903288554e-07,
+      "name": "Provoco Token"
+    },
+    "VOISE": {
+      "USD": 8.55417191406e-05,
+      "name": "Voise"
+    },
+    "VOL": {
+      "USD": 0.0168396676904,
+      "name": "Volume Network"
+    },
+    "VOLLAR": {
+      "USD": 0.620380683937,
+      "name": "V-Dimension"
+    },
+    "VOLT": {
+      "USD": 0.000171220712101,
+      "name": "Bitvolt"
+    },
+    "VOLTZ": {
+      "USD": 0.0627288371306,
+      "name": "Voltz"
+    },
+    "VOT": {
+      "USD": 0.00197666640637,
+      "name": "VoteCoin"
+    },
+    "VOTE": {
+      "USD": 0.0024206020677,
+      "name": "Agora"
+    },
+    "VRA": {
+      "USD": 0.00092018221466,
+      "name": "Verasity"
+    },
+    "VRC": {
+      "USD": 0.0263665437399,
+      "name": "VeriCoin"
+    },
+    "VRM": {
+      "USD": 0.121775718962,
+      "name": "VeriumReserve"
+    },
+    "VRS": {
+      "USD": 0.00134686767488,
+      "name": "Veros"
+    },
+    "VSC": {
+      "USD": 0.00125443064788,
+      "name": "vSportCoin"
+    },
+    "VSF": {
+      "USD": 1.24023647574e-05,
+      "name": "VeriSafe"
+    },
+    "VSL": {
+      "USD": 0.000969121841587,
+      "name": "vSlice"
+    },
+    "VSX": {
+      "USD": 0.000300269207685,
+      "name": "Vsync"
+    },
+    "VSYS": {
+      "USD": 0.055959449809,
+      "name": "V Systems"
+    },
+    "VTA": {
+      "USD": 1.54946676928e-06,
+      "name": "Virtacoin"
+    },
+    "VTC": {
+      "USD": 0.276612086084,
+      "name": "Vertcoin"
+    },
+    "VTHO": {
+      "USD": 0.000668094062691,
+      "name": "VeThor Token"
+    },
+    "VULC": {
+      "USD": 0.000852662577072,
+      "name": "VULCANO"
+    },
+    "VZT": {
+      "USD": 0.0123134047713,
+      "name": "Vezt"
+    },
+    "WAB": {
+      "USD": 8.46847609773e-06,
+      "name": "WABnetwork"
+    },
+    "WABI": {
+      "USD": 0.186618362023,
+      "name": "Tael"
+    },
+    "WAGE": {
+      "USD": 0.000387573898669,
+      "name": "Digiwage"
+    },
+    "WAN": {
+      "USD": 0.221971278345,
+      "name": "Wanchain"
+    },
+    "WAND": {
+      "USD": 0.00924847942818,
+      "name": "WandX"
+    },
+    "WAVES": {
+      "USD": 0.637207330478,
+      "name": "Waves"
+    },
+    "WAXP": {
+      "USD": 0.0253327936622,
+      "name": "WAX"
+    },
+    "WBB": {
+      "USD": 0.0191994464532,
+      "name": "Wild Beast Block"
+    },
+    "WBET": {
+      "USD": 5.07897341734e-06,
+      "name": "Wavesbet"
+    },
+    "WBL": {
+      "USD": 0.00147278081494,
+      "name": "WIZBL"
+    },
+    "WBTC": {
+      "USD": 7756.80700309,
+      "name": "Wrapped Bitcoin"
+    },
+    "WC": {
+      "USD": 0.0113208740175,
+      "name": "WINCOIN"
+    },
+    "WCO": {
+      "USD": 0.00271301729068,
+      "name": "Winco"
+    },
+    "WCT": {
+      "USD": 0.0838855864879,
+      "name": "Waves Community Token"
+    },
+    "WEB": {
+      "USD": 0.000232544339201,
+      "name": "Webchain"
+    },
+    "WEBD": {
+      "USD": 0.00015127770014,
+      "name": "WebDollar"
+    },
+    "WEBN": {
+      "USD": 5.31232191321e-06,
+      "name": "WEBN token"
+    },
+    "WEC": {
+      "USD": 0.00425027881634,
+      "name": "wave edu coin"
+    },
+    "WET": {
+      "USD": 0.00487705315078,
+      "name": "WeShow Token"
+    },
+    "WETH": {
+      "USD": 156.541887599,
+      "name": "WETH"
+    },
+    "WFX": {
+      "USD": 0.00119244933083,
+      "name": "Webflix Token"
+    },
+    "WGO": {
+      "USD": 0.0116541977648,
+      "name": "WavesGo"
+    },
+    "WGP": {
+      "USD": 0.0762166572528,
+      "name": "W Green Pay"
+    },
+    "WGR": {
+      "USD": 0.0439067885142,
+      "name": "Wagerr"
+    },
+    "WHEN": {
+      "USD": 0.00376179226048,
+      "name": "WHEN Token"
+    },
+    "WIB": {
+      "USD": 0.000154450441301,
+      "name": "Wibson"
+    },
+    "WICC": {
+      "USD": 0.126146918504,
+      "name": "WaykiChain"
+    },
+    "WIKEN": {
+      "USD": 0.00111383767745,
+      "name": "Project WITH"
+    },
+    "WIKI": {
+      "USD": 0.493285489268,
+      "name": "Wiki Token"
+    },
+    "WIN": {
+      "USD": 0.000586933518196,
+      "name": "WinToken"
+    },
+    "WINGS": {
+      "USD": 0.0187635983852,
+      "name": "Wings"
+    },
+    "WINK": {
+      "USD": 0.00015296039083,
+      "name": "Wink"
+    },
+    "WIRE": {
+      "USD": 0.000609315930476,
+      "name": "AirWire"
+    },
+    "WISH": {
+      "USD": 0.0126338341787,
+      "name": "MyWish"
+    },
+    "WIT": {
+      "USD": 1.29773843063e-05,
+      "name": "WITChain"
+    },
+    "WIX": {
+      "USD": 0.00413622304909,
+      "name": "Wixlar"
+    },
+    "WIZ": {
+      "USD": 0.00772892640091,
+      "name": "CrowdWiz"
+    },
+    "WLO": {
+      "USD": 0.0101667714995,
+      "name": "WOLLO"
+    },
+    "WNL": {
+      "USD": 0.0397712682454,
+      "name": "WinStars.live"
+    },
+    "WPP": {
+      "USD": 0.000496018839295,
+      "name": "WPP TOKEN"
+    },
+    "WPR": {
+      "USD": 0.00914310218595,
+      "name": "WePower"
+    },
+    "WRC": {
+      "USD": 0.000240078990739,
+      "name": "Worldcore"
+    },
+    "WSP": {
+      "USD": 8.80921882708e-05,
+      "name": "Wispr"
+    },
+    "WT": {
+      "USD": 0.000100783366771,
+      "name": "WeToken"
+    },
+    "WTC": {
+      "USD": 0.570407310686,
+      "name": "Waltonchain"
+    },
+    "WTN": {
+      "USD": 2.8177621389e-06,
+      "name": "Waletoken"
+    },
+    "WWB": {
+      "USD": 0.0054937324736,
+      "name": "Wowbit"
+    },
+    "WXC": {
+      "USD": 0.00790000158521,
+      "name": "WXCOINS"
+    },
+    "WXT": {
+      "USD": 0.00989886290517,
+      "name": "Wirex Token"
+    },
+    "WYS": {
+      "USD": 0.000412255025499,
+      "name": "wys Token"
+    },
+    "X12": {
+      "USD": 8.32673566205e-05,
+      "name": "X12 Coin"
+    },
+    "X42": {
+      "USD": 0.00587370363187,
+      "name": "x42 Protocol"
+    },
+    "X8X": {
+      "USD": 0.00727887124925,
+      "name": "X8X Token"
+    },
+    "XAC": {
+      "USD": 1.89845190406,
+      "name": "General Attention Currency"
+    },
+    "XAP": {
+      "USD": 0.000279053207042,
+      "name": "Apollon"
+    },
+    "XAS": {
+      "USD": 0.0480327284768,
+      "name": "Asch"
+    },
+    "XAUR": {
+      "USD": 0.039578143119,
+      "name": "Xaurum"
+    },
+    "XBASE": {
+      "USD": 0.00285900686784,
+      "name": "Eterbase Coin"
+    },
+    "XBC": {
+      "USD": 4.83411916082,
+      "name": "Bitcoin Plus"
+    },
+    "XBI": {
+      "USD": 0.0223292948057,
+      "name": "Bitcoin Incognito"
+    },
+    "XBP": {
+      "USD": 0.000488727765862,
+      "name": "BlitzPredict"
+    },
+    "XBTC21": {
+      "USD": 0.0198204911297,
+      "name": "Bitcoin 21"
+    },
+    "XBX": {
+      "USD": 0.00108520691627,
+      "name": "Bitex Global XBX Coin"
+    },
+    "XCASH": {
+      "USD": 2.94886644906e-05,
+      "name": "X-CASH"
+    },
+    "XCD": {
+      "USD": 0.00251733837011,
+      "name": "CapdaxToken"
+    },
+    "XCG": {
+      "USD": 0.000152848545204,
+      "name": "Xchange"
+    },
+    "XCHF": {
+      "USD": 1.02549634729,
+      "name": "CryptoFranc"
+    },
+    "XCLR": {
+      "USD": 0.000170610030194,
+      "name": "ClearCoin"
+    },
+    "XCM": {
+      "USD": 0.025298907406,
+      "name": "CoinMetro Token"
+    },
+    "XCN": {
+      "USD": 7.53951338087e-05,
+      "name": "Cryptonite"
+    },
+    "XCO": {
+      "USD": 0.00235540637408,
+      "name": "X-Coin"
+    },
+    "XCON": {
+      "USD": 0.00687446802552,
+      "name": "Connect Coin"
+    },
+    "XCP": {
+      "USD": 1.55176788999,
+      "name": "Counterparty"
+    },
+    "XCT": {
+      "USD": 0.000910209410611,
+      "name": "xCrypt Token"
+    },
+    "XD": {
+      "USD": 0.000540407523958,
+      "name": "Data Transaction Token"
+    },
+    "XDB": {
+      "USD": 0.0129772353991,
+      "name": "DigitalBits"
+    },
+    "XDCE": {
+      "USD": 0.000807784806829,
+      "name": "XinFin Network"
+    },
+    "XDN": {
+      "USD": 0.000542603458137,
+      "name": "DigitalNote"
+    },
+    "XDNA": {
+      "USD": 0.0131775125548,
+      "name": "XDNA"
+    },
+    "XEL": {
+      "USD": 0.00689881539631,
+      "name": "XEL"
+    },
+    "XEM": {
+      "USD": 0.0369919223143,
+      "name": "NEM"
+    },
+    "XENO": {
+      "USD": 0.000965226309301,
+      "name": "Xenoverse"
+    },
+    "XES": {
+      "USD": 0.00682065666767,
+      "name": "Proxeus"
+    },
+    "XET": {
+      "USD": 0.0971260190065,
+      "name": "ETERNAL TOKEN"
+    },
+    "XFC": {
+      "USD": 0.00294727724194,
+      "name": "Footballcoin"
+    },
+    "XG": {
+      "USD": 7.75147797338e-05,
+      "name": "GIGA"
+    },
+    "XGOX": {
+      "USD": 8.53060502533e-06,
+      "name": "XGOX"
+    },
+    "XGS": {
+      "USD": 0.00519349024217,
+      "name": "GenesisX"
+    },
+    "XHI": {
+      "USD": 0.000155029559468,
+      "name": "HiCoin"
+    },
+    "XHV": {
+      "USD": 0.253179851018,
+      "name": "Haven Protocol"
+    },
+    "XIN": {
+      "USD": 0.00240798326243,
+      "name": "Infinity Economics"
+    },
+    "XIND": {
+      "USD": 7.75147797338e-06,
+      "name": "INDINODE"
+    },
+    "XLA": {
+      "USD": 2.37894711599e-05,
+      "name": "Scala"
+    },
+    "XLAB": {
+      "USD": 0.00035983583416,
+      "name": "XcelToken Plus"
+    },
+    "XLB": {
+      "USD": 3.73098409923e-05,
+      "name": "StellarPay"
+    },
+    "XLM": {
+      "USD": 0.0599296420576,
+      "name": "Stellar"
+    },
+    "XLMG": {
+      "USD": 0.00115364975323,
+      "name": "Stellar Gold"
+    },
+    "XLMX": {
+      "USD": 2.8177621389e-05,
+      "name": "Stellar Classic"
+    },
+    "XLQ": {
+      "USD": 0.0251923034135,
+      "name": "ALQO"
+    },
+    "XLR": {
+      "USD": 0.233707060897,
+      "name": "Solaris"
+    },
+    "XMC": {
+      "USD": 0.273161082003,
+      "name": "Monero Classic"
+    },
+    "XMCC": {
+      "USD": 0.00271301729068,
+      "name": "Monoeci"
+    },
+    "XMCT": {
+      "USD": 0.000241606539037,
+      "name": "XMCT"
+    },
+    "XMG": {
+      "USD": 0.025347332973,
+      "name": "Magi"
+    },
+    "XMR": {
+      "USD": 55.8702786743,
+      "name": "Monero"
+    },
+    "XMV": {
+      "USD": 0.00457177038219,
+      "name": "MoneroV "
+    },
+    "XMX": {
+      "USD": 0.00130740388544,
+      "name": "XMax"
+    },
+    "XMY": {
+      "USD": 0.000853138570637,
+      "name": "Myriad"
+    },
+    "XNK": {
+      "USD": 0.000685672825234,
+      "name": "Ink Protocol"
+    },
+    "XNV": {
+      "USD": 0.0209289905281,
+      "name": "Nerva"
+    },
+    "XOV": {
+      "USD": 1.3791073408e-05,
+      "name": "XOVBank"
+    },
+    "XP": {
+      "USD": 1.7328650072e-06,
+      "name": "Experience Points"
+    },
+    "XPA": {
+      "USD": 0.00534964193834,
+      "name": "XPA"
+    },
+    "XPAT": {
+      "USD": 1.59621245338e-06,
+      "name": "Bitnation"
+    },
+    "XPC": {
+      "USD": 3.59227556413e-06,
+      "name": "eXPerience Chain"
+    },
+    "XPD": {
+      "USD": 0.0142424723296,
+      "name": "PetroDollar"
+    },
+    "XPM": {
+      "USD": 0.0705893589206,
+      "name": "Primecoin"
+    },
+    "XPTX": {
+      "USD": 0.00519349024217,
+      "name": "PlatinumBAR"
+    },
+    "XPX": {
+      "USD": 0.00077000545596,
+      "name": "ProximaX"
+    },
+    "XPY": {
+      "USD": 0.00424270981862,
+      "name": "PayCoin"
+    },
+    "XQN": {
+      "USD": 8.28592193238e-05,
+      "name": "Quotient"
+    },
+    "XQR": {
+      "USD": 0.000416118663085,
+      "name": "Qredit"
+    },
+    "XRA": {
+      "USD": 0.000351301053199,
+      "name": "Ratecoin"
+    },
+    "XRC": {
+      "USD": 4.13330776004,
+      "name": "Bitcoin Rhodium"
+    },
+    "XRM": {
+      "USD": 0.00144816396199,
+      "name": "AERUM"
+    },
+    "XRP": {
+      "USD": 0.231271619268,
+      "name": "XRP"
+    },
+    "XSD": {
+      "USD": 0.00725001086033,
+      "name": "SounDAC"
+    },
+    "XSG": {
+      "USD": 0.0141189147741,
+      "name": "SnowGem"
+    },
+    "XSH": {
+      "USD": 0.000542603458137,
+      "name": "SHIELD"
+    },
+    "XSM": {
+      "USD": 7.75147797338e-05,
+      "name": "SpectrumCash"
+    },
+    "XSN": {
+      "USD": 0.057790521427,
+      "name": "Stakenet"
+    },
+    "XSPEC": {
+      "USD": 0.0834051296417,
+      "name": "Spectrecoin"
+    },
+    "XSR": {
+      "USD": 0.0837918123502,
+      "name": "Xensor"
+    },
+    "XST": {
+      "USD": 0.0631135929781,
+      "name": "Stealth"
+    },
+    "XTA": {
+      "USD": 0.0104644876978,
+      "name": "Italo"
+    },
+    "XTRD": {
+      "USD": 0.000588248790009,
+      "name": "XTRD"
+    },
+    "XTX": {
+      "USD": 0.000245572318024,
+      "name": "Xtock"
+    },
+    "XTZ": {
+      "USD": 1.32051400754,
+      "name": "Tezos"
+    },
+    "XUC": {
+      "USD": 1.34889102647,
+      "name": "Exchange Union"
+    },
+    "XUEZ": {
+      "USD": 0.00682130061658,
+      "name": "Xuez"
+    },
+    "XUN": {
+      "USD": 6.90914103011e-05,
+      "name": "UltraNote Coin"
+    },
+    "XVG": {
+      "USD": 0.0041617666714,
+      "name": "Verge"
+    },
+    "XWC": {
+      "USD": 0.0036025986342,
+      "name": "WhiteCoin"
+    },
+    "XWP": {
+      "USD": 0.0606974455966,
+      "name": "Swap"
+    },
+    "XXX": {
+      "USD": 0.000150834378974,
+      "name": "AdultChain"
+    },
+    "XYO": {
+      "USD": 0.000342962566573,
+      "name": "XYO"
+    },
+    "XZC": {
+      "USD": 3.78707878979,
+      "name": "Zcoin"
+    },
+    "YAP": {
+      "USD": 0.424971575699,
+      "name": "Yap Stone"
+    },
+    "YCC": {
+      "USD": 0.0111408936973,
+      "name": "Yuan Chain Coin"
+    },
+    "YEE": {
+      "USD": 0.000956877691283,
+      "name": "YEE"
+    },
+    "YEED": {
+      "USD": 0.000321514332583,
+      "name": "YGGDRASH"
+    },
+    "YLC": {
+      "USD": 0.000222290124291,
+      "name": "YoloCash"
+    },
+    "YO": {
+      "USD": 977.053300476,
+      "name": "Yobit Token"
+    },
+    "YOC": {
+      "USD": 0.000223484731091,
+      "name": "Yocoin"
+    },
+    "YOU": {
+      "USD": 0.0525466389347,
+      "name": "YOU COIN"
+    },
+    "YOYOW": {
+      "USD": 0.012863383663,
+      "name": "YOYOW"
+    },
+    "YTA": {
+      "USD": 0.0861338407623,
+      "name": "YottaChain"
+    },
+    "YTN": {
+      "USD": 0.00116272169601,
+      "name": "YENTEN"
+    },
+    "YUKI": {
+      "USD": 1.53440855619e-06,
+      "name": "YUKI"
+    },
+    "YUP": {
+      "USD": 3.59422282256e-05,
+      "name": "Crowdholding"
+    },
+    "ZAP": {
+      "USD": 0.00392469225292,
+      "name": "Zap"
+    },
+    "ZB": {
+      "USD": 0.00883448384269,
+      "name": "Zerobank"
+    },
+    "ZBA": {
+      "USD": 0.000232420074933,
+      "name": "Zoomba"
+    },
+    "ZCL": {
+      "USD": 0.280366392219,
+      "name": "ZClassic"
+    },
+    "ZCN": {
+      "USD": 0.0424572527849,
+      "name": "0Chain"
+    },
+    "ZCO": {
+      "USD": 0.00222869674432,
+      "name": "Zebi"
+    },
+    "ZCR": {
+      "USD": 0.0376106051178,
+      "name": "ZCore"
+    },
+    "ZEC": {
+      "USD": 29.5259322797,
+      "name": "Zcash"
+    },
+    "ZEIT": {
+      "USD": 1.94797902281e-06,
+      "name": "Zeitcoin"
+    },
+    "ZEL": {
+      "USD": 0.0370111573017,
+      "name": "ZelCash"
+    },
+    "ZEN": {
+      "USD": 5.8519724655,
+      "name": "Horizen"
+    },
+    "ZENI": {
+      "USD": 7.19188390797e-05,
+      "name": "Zennies"
+    },
+    "ZEON": {
+      "USD": 1.22899649628e-05,
+      "name": "ZEON"
+    },
+    "ZER": {
+      "USD": 0.101079799966,
+      "name": "Zero"
+    },
+    "ZET": {
+      "USD": 0.000767396319365,
+      "name": "Zetacoin"
+    },
+    "ZEUS": {
+      "USD": 1.55029559468e-07,
+      "name": "ZeusNetwork"
+    },
+    "ZIL": {
+      "USD": 0.00541111701126,
+      "name": "Zilliqa"
+    },
+    "ZINC": {
+      "USD": 0.00595873633795,
+      "name": "ZINC"
+    },
+    "ZIP": {
+      "USD": 0.000140572337864,
+      "name": "Zipper"
+    },
+    "ZIPT": {
+      "USD": 0.00100817353393,
+      "name": "Zippie"
+    },
+    "ZLA": {
+      "USD": 0.00885869685641,
+      "name": "Zilla"
+    },
+    "ZMN": {
+      "USD": 0.00147278081494,
+      "name": "ZMINE"
+    },
+    "ZNN": {
+      "USD": 0.628102260183,
+      "name": "Zenon"
+    },
+    "ZNT": {
+      "USD": 1.08434199635e-06,
+      "name": "Zenswap Network Token"
+    },
+    "ZNY": {
+      "USD": 0.00155029559468,
+      "name": "Bitzeny"
+    },
+    "ZNZ": {
+      "USD": 0.0274402320258,
+      "name": "ZENZO"
+    },
+    "ZP": {
+      "USD": 0.04564305038,
+      "name": "Zen Protocol"
+    },
+    "ZPR": {
+      "USD": 0.000589371783035,
+      "name": "ZPER"
+    },
+    "ZPT": {
+      "USD": 0.00170349904404,
+      "name": "Zeepin"
+    },
+    "ZRC": {
+      "USD": 1.68250546848,
+      "name": "ZrCoin"
+    },
+    "ZRX": {
+      "USD": 0.278635330594,
+      "name": "0x"
+    },
+    "ZSC": {
+      "USD": 0.000319104495327,
+      "name": "Zeusshield"
+    },
+    "ZT": {
+      "USD": 0.0364749207077,
+      "name": "ZTCoin"
+    },
+    "ZUC": {
+      "USD": 0.00241667610375,
+      "name": "ZeuxCoin"
+    },
+    "ZUM": {
+      "USD": 6.9904031989e-06,
+      "name": "ZUM TOKEN"
+    },
+    "ZUR": {
+      "USD": 0.000323734324575,
+      "name": "Zurcoin"
+    },
+    "ZVC": {
+      "USD": 0.135982085532,
+      "name": "ZVCHAIN"
+    },
+    "ZXC": {
+      "USD": 0.000985911837547,
+      "name": "0xcert"
+    },
+    "ZYD": {
+      "USD": 0.00143100369544,
+      "name": "Zayedcoin"
+    },
+    "xEUR": {
+      "USD": 1.09877551108,
+      "name": "xEURO"
+    }
+  },
+  "updated": "2019-11-29T15:00:05.029723"
+}

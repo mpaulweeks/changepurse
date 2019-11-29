@@ -1,31 +1,57 @@
 import datetime
 import json
+import os
 
-import requests
+from dotenv import load_dotenv
+from requests import Session
 
 """
 source venv/bin/activate
 python -m py.fetch_coinmarketcap
 """
 
+load_dotenv()
+apiKey = os.getenv('COINMARKETCAP_API_KEY')
+print(apiKey)
 
-URL = 'https://api.coinmarketcap.com/v1/ticker/?limit=0'
+url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
+parameters = {
+    'start': 1,
+    'limit': 5000,
+    'convert': 'USD'
+}
+headers = {
+    'Accepts': 'application/json',
+    'X-CMC_PRO_API_KEY': apiKey,
+}
 
-resp = requests.get(URL)
+session = Session()
+session.headers.update(headers)
+
+resp = session.get(url, params=parameters)
+if resp.status_code != 200:
+    print(resp)
+    print(resp.text)
+    print('exiting...')
+    exit(1)
+
 market = resp.json()
-ticker_names = {
-    t['symbol']: t['name']
-    for t in market
+coins = {
+    t['symbol']: {
+        'name': t['name'],
+        'USD': t['quote']['USD']['price'],
+    }
+    for t in market['data']
 }
 data = {
-    'coins': ticker_names,
+    'coins': coins,
     'updated': datetime.datetime.utcnow().isoformat(),
 }
-with open('docs/coinmarketcap.json', 'wb') as f:
+with open('docs/price.json', 'w') as f:
     json.dump(
         data,
         f,
-        indent=0,
+        indent=2,
         sort_keys=True,
-        separators=(',', ':')
+        separators=(',', ': ')
     )
