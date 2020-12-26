@@ -43,6 +43,11 @@ coins = {
     }
     for t in market['data']
 }
+
+if len(coins) == 0:
+    print('coins is empty, exiting...')
+    exit(1)
+
 data = {
     'coins': coins,
     'updated': datetime.datetime.utcnow().isoformat(),
