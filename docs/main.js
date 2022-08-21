@@ -196,7 +196,7 @@ angular.module('changePurseApp', ['ngSanitize', 'ui.select', 'chart.js'])
       setQueryParams();
     };
 
-    const PRICES_URL = 'price.json';
+    const PRICES_URL = 'https://mpaulweeks-changepurse.s3.amazonaws.com/price.min.json';
     fetch(PRICES_URL).then(r => r.json()).then(data => {
       marketplace = data.coins;
       self.currencies = [];
