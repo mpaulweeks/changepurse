@@ -2,10 +2,13 @@ import { fetchData, reduceCoins } from "./src/api.js";
 import { fileToString, writeToFile } from "./src/file.js";
 import { uploadToS3 } from "./src/s3.js";
 
+console.log('loaded index');
+
 // expose for lambda
-export function lambda() {
+export async function lambda() {
+  console.log('lambda started');
   const resp = await fetchData();
-  // console.log(resp);
+  console.log('fetched data');
   const coins = reduceCoins(resp.data);
   console.log('coins founds:', Object.keys(coins).length);
 
