@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "scrape": "node index.js",
+    "scrape": "node scrape.js",
     "deploy": "node deploy.js"
   },
   "dependencies": {
