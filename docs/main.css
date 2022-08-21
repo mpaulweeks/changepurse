@@ -1,0 +1,201 @@
+body, div {
+  margin: 0px auto;
+  text-align: center;
+}
+html {
+  height: 100%;
+}
+body {
+  position: relative;
+  min-height: 100%;
+}
+#controller {
+  overflow-x: hidden;
+  padding-bottom: 60px;
+}
+#footer {
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  border-top: 1px solid #b0b0b0;
+  width: 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#filler {
+  height: 300px;
+}
+hr {
+  width: 800px;
+}
+
+.chart {
+  width: 400px;
+  height: auto;
+}
+
+.tablerow {
+  width: 864px;
+}
+.add {
+  border-top: 1px solid #b0b0b0;
+  width: 550px;
+  padding: 10px;
+}
+.col-add {
+  padding-bottom: 15px;
+}
+.input-label {
+  padding-bottom: 5px;
+}
+.col-new-name {
+  width: 200px;
+}
+.col-new-quantity,
+.col-new-price {
+  width: 90px;
+}
+.col-new-add {
+  width: 60px;
+}
+.col-new-quantity input,
+.col-new-price input {
+  text-align: right;
+  width: 90%;
+}
+.col.usd:before {
+  content: "$";
+}
+.col.percent:after {
+  content: "%";
+}
+
+.tablerow,
+.currency {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.currency {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}
+.header .currency {
+  border: none;
+}
+.footer {
+  margin-top: 5px;
+  justify-content: flex-end;
+}
+.footer .currency {
+  margin: 0px 0px;
+  margin-right: 260px;
+}
+
+.small-col,
+.col {
+  display: inline;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.col {
+  width: 100px;
+}
+.col:empty {
+  background-image: url(img/loading.gif);
+  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.small-col {
+  width: 60px;
+}
+.remove {
+  color: red;
+  cursor: pointer;
+}
+
+/* fixing row widths */
+@media (max-width: 864px){
+  .tablerow {
+    width: auto;
+  }
+  .tablerow.add {
+    /* maintain it being different */
+    width: 550px;
+  }
+}
+
+/* fixing input row */
+@media (max-width: 550px){
+  #filler {
+    /* not necessary when snapped to column */
+    display: none;
+  }
+  .tablerow.add {
+    width: auto;
+    flex-wrap: wrap;
+  }
+  .tablerow.add div {
+    flex: 1;
+    flex-basis: 100%;
+  }
+}
+
+/* fixing chart size/layout */
+@media (max-width: 800px){
+  .chart {
+    width: 50%;
+  }
+}
+@media (max-width: 600px){
+  .chart {
+    width: 100%;
+  }
+  .tablerow.charts {
+    flex-wrap: wrap;
+  }
+  .tablerow.charts div {
+    flex: 1;
+    flex-basis: 100%;
+  }
+}
+
+/* fixing grid */
+@media (max-width: 864px){
+  .col.priceSum {
+    display: none;
+  }
+  .footer .currency {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width: 764px){
+  .col.marketSum {
+    display: none;
+  }
+}
+@media (max-width: 664px){
+  .col.name {
+    display: none;
+  }
+}
+@media (max-width: 564px){
+  .col.pricePer {
+    display: none;
+  }
+}
+@media (max-width: 464px){
+  .col.quantity {
+    display: none;
+  }
+}
+@media (max-width: 404px){
+  .small-col {
+    display: none;
+  }
+}
