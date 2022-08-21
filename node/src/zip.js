@@ -13,8 +13,10 @@ export async function zipLambda() {
   await fs.promises.mkdir('./tmp');
   await fs.promises.rename('../lambda.zip', './tmp/lambda.zip');
 
-  return [{
+  const file = {
     key: 'lambda.zip',
     value: fs.createReadStream('./tmp/lambda.zip'),
-  }];
+  };
+  console.log('created:', file.key);
+  return file;
 }

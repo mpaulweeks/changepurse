@@ -1,8 +1,8 @@
-import { uploadToS3 } from './src/s3.js';
+import { updateLambda } from './src/s3.js';
 import { zipLambda } from "./src/zip.js";
 
 (async () => {
-  const files = await zipLambda();
-  await uploadToS3(files);
+  const file = await zipLambda();
+  await updateLambda(file);
   console.log('deploy done');
 })();
