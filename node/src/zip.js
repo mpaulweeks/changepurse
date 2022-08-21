@@ -1,6 +1,7 @@
 import fs from 'fs';
 import rimraf from 'rmrf';
 import { zip } from 'zip-a-folder';
+import { uploadToS3 } from './s3';
 
 export async function zipLambda() {
   // remove tmp
@@ -14,4 +15,10 @@ export async function zipLambda() {
   await fs.promises.rename('../lambda.zip', './tmp/lambda.zip');
 }
 
-zipLambda();
+export async function streamToS3() {
+  const files = [{
+    key: 'lambda.zip',
+    value: createReadStream('./tmp/lambda.zip'),
+  }];
+  await uploadToS3(files);
+}
