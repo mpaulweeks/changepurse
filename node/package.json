@@ -5,7 +5,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "scrape": "node src/scrape.js"
+    "scrape": "node index.js"
   },
   "dependencies": {
     "aws-sdk": "^2.1199.0",
