@@ -1,0 +1,15 @@
+{
+  "name": "changepurse",
+  "version": "1.0.0",
+  "author": "mpaulweeks",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scrape.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "json-stable-stringify": "^1.0.1",
+    "node-fetch": "^3.2.10"
+  }
+}
