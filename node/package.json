@@ -5,8 +5,8 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "scrape": "node scrape.js",
-    "deploy": "node deploy.js"
+    "scrape": "node bin/scrape.js",
+    "deploy": "node bin/deploy.js"
   },
   "dependencies": {
     "aws-sdk": "^2.1199.0",

@@ -1,5 +1,6 @@
 import 'dotenv/config'
 import fetch from 'node-fetch';
+import { fileToString } from './file.js';
 
 const RequestInfo = {
   Url: 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest',
@@ -31,4 +32,18 @@ export function reduceCoins(coins) {
     };
     return obj;
   }, {});
+}
+
+export async function apiToFiles() {
+  console.log('lambda started');
+  const resp = await fetchData();
+  console.log('fetched data');
+  const coins = reduceCoins(resp.data);
+  console.log('coins founds:', Object.keys(coins).length);
+
+  const files = fileToString('price', {
+    updated: new Date().toISOString(),
+    coins,
+  });
+  return files;
 }
