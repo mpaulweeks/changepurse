@@ -1,11 +1,8 @@
 import { fetchData, reduceCoins } from "./src/api.js";
-import { fileToString, writeToFile } from "./src/file.js";
+import { fileToString } from "./src/file.js";
 import { uploadToS3 } from "./src/s3.js";
 
-console.log('loaded index');
-
-// expose for lambda
-export async function lambda() {
+export async function genFiles() {
   console.log('lambda started');
   const resp = await fetchData();
   console.log('fetched data');
@@ -16,7 +13,12 @@ export async function lambda() {
     updated: new Date().toISOString(),
     coins,
   });
-  await writeToFile(files);
+  return files;
+}
+
+// expose for lambda
+export async function lambda() {
+  const files = await genFiles();
   await uploadToS3(files);
   console.log('lambda done');
 };

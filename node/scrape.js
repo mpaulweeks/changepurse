@@ -1,6 +1,8 @@
-import { lambda } from "./index.js";
+import { genFiles } from "./index.js";
+import { writeToFile } from "./src/file.js";
 
 (async () => {
-  await lambda();
+  const files = await genFiles();
+  await writeToFile(files);
   console.log('index done');
 })();
