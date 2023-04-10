@@ -9,7 +9,7 @@
     "deploy": "node bin/deploy.js"
   },
   "dependencies": {
-    "aws-sdk": "^2.1199.0",
+    "aws-sdk": "^2.1354.0",
     "dotenv": "^16.0.1",
     "json-stable-stringify": "^1.0.1",
     "node-fetch": "^3.2.10",
